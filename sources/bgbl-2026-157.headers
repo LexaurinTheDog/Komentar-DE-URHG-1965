@@ -1,0 +1,20 @@
+HTTP/2 200 
+set-cookie: JSESSIONID=47B919ED5AB946E889D24E0866941DC6.live292; Path=/; Secure; HttpOnly; SameSite=Lax
+set-cookie: AL_LB-S=$xc/zM9kdDV1mrhc1!4!Mz9EcMSwfPcBkvdWIbqFGVqhSDOkxA_d; Path=/; Secure; HttpOnly; SameSite=None
+date: Mon, 19 Oct 2026 16:07:17 GMT
+vary: Accept-Encoding
+cache-control: max-age=60
+x-server-generated: Mon, 19 Oct 2026 16:07:17 GMT
+referrer-policy: same-origin
+x-frame-options: sameorigin
+x-ua-compatible: IE=edge
+x-content-type-options: nosniff
+content-security-policy: default-src 'self'; connect-src 'self'; font-src 'self' data:; worker-src blob: 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' *.itzbund.de; object-src 'self' multimedia.gsb.bund.de; media-src blob: 'self' multimedia.gsb.bund.de; frame-src 'self' blob:; img-src 'self' blob: data:; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests;
+x-permitted-cross-domain-policies: none
+x-xss-protection: 1;mode=block
+last-modified: Mon, 19 Oct 2026 16:07:17 GMT
+content-language: de-DE
+strict-transport-security: max-age=31536000
+content-type: text/html;charset=utf-8
+server: Apache
+

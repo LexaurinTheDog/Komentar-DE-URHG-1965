@@ -1,0 +1,11 @@
+# EuGH – UsedSoft
+
+Gericht: Gerichtshof der Europäischen Union, Große Kammer. Urteil vom 3. Juli 2012, C-128/11, UsedSoft GmbH gegen Oracle International Corp., ECLI:EU:C:2012:407. Geprüft am 19. Oktober 2026.
+
+Amtlicher vollständiger Text: [EUR-Lex, CELEX 62011CJ0128](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62011CJ0128). Lokale Belege: [gesamte Extraktion](../sources/usedsoft-firecrawl.md), [Antwort mit Roh-HTML](../sources/usedsoft-response.json), [nummerierte Absätze als Lesehilfe](../sources/usedsoft-paragraphs.txt), [Abrufprotokoll](../sources/authority-fetch.json).
+
+Der Streit betraf den Weiterhandel mit Oracle-Datenbanksoftware, die überwiegend heruntergeladen und gegen Entgelt unbefristet lizenziert wurde. Die Vertragsargumentation von Oracle in Rn. 43 ist Parteivorbringen. Die eigene Beurteilung folgt insbesondere ab Rn. 44.
+
+Tragende Punkte: Rn. 44–49 beurteilen Download und entgeltliche unbefristete Nutzungsgewährung zusammen. Rn. 51 und 55–61 behandeln das Software-Sonderrecht und die Erschöpfung auch bei unkörperlichen Programmkopien. Rn. 66–68 unterscheiden abtrennbare Wartungsverträge von der aktualisierten Kopie. Rn. 69–71 und 86 schließen die dortige Aufspaltung überschüssiger Nutzerrechte aus. Rn. 70, 78 und 87 verlangen die Unbrauchbarmachung der beim Verkäufer verbleibenden Kopie. Rn. 80–85 und 88 erläutern den rechtmäßigen Zweiterwerb und notwendige Benutzungskopien. Der Tenor fasst die Bedingungen zusammen.
+
+Grenzen: Kein allgemeines Recht auf Weitergabe sämtlicher digitaler Inhalte, keine pauschale Gleichsetzung zeitlich begrenzter Abonnements mit unbefristetem Erwerb und keine Freigabe beliebiger Lizenzteilung. Vertragsmodell, Erstverkauf, konkrete Kopie und fortgesetzte Nutzung müssen nachgewiesen werden. Die spätere Rechtsentwicklung zur Abgrenzung anderer digitaler Werkarten ist hier nicht vollständig erhoben. Die aktuellen §§ 69c und 69d wurden separat im amtlichen UrhG-XML geprüft; spätere Sonderregeln werden nicht aus dem Urteil von 2012 abgeleitet. Verwendet für §§ 17, 69c und 69d.

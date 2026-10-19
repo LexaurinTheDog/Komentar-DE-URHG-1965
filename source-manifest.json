@@ -1,0 +1,215 @@
+{
+  "algorithm": "SHA-256",
+  "sources": [
+    {
+      "path": "sources/aktualitaet.headers",
+      "sha256": "3c4affbde123b8c3c0c21e17360025a47b25a5114335a105862a041d2159f6f7",
+      "bytes": 331
+    },
+    {
+      "path": "sources/aktualitaet.html",
+      "sha256": "f2c92645e935e53c51e5f69a06756484133dff26f032251a8b6db1d778bb045c",
+      "bytes": 74406
+    },
+    {
+      "path": "sources/aktuell.headers",
+      "sha256": "ac07b1b68cced28881d631f156bd591f294eb67aa75545ea1b6ad608ad0ebdb8",
+      "bytes": 329
+    },
+    {
+      "path": "sources/aktuell.html",
+      "sha256": "b28409365645f205cfe999e0dd44ccc5e708c744365dc15f4f4c14b5886d6673",
+      "bytes": 6140
+    },
+    {
+      "path": "sources/authority-fetch.json",
+      "sha256": "9fb4b3088ef3e58927bbce4c1693d8770fd4d245e1afc14354e0490693d910aa",
+      "bytes": 3539
+    },
+    {
+      "path": "sources/bgbl-2026-157-pdf.headers",
+      "sha256": "0a95243fe66548dfe8592c661d3190edc1dd9f1b53907aec98c49739a9ce02a4",
+      "bytes": 1099
+    },
+    {
+      "path": "sources/bgbl-2026-157.headers",
+      "sha256": "2571fb81f4a61610b50cdaacfc81de52961ac1f05c8d6db6fc3cbc15ee2e0e08",
+      "bytes": 1144
+    },
+    {
+      "path": "sources/bgbl-2026-157.html",
+      "sha256": "0c7416c58b69a0a6c7cc2ec800ddb5183b7b81ba62c7d1d51a8d0c87d09aa776",
+      "bytes": 41458
+    },
+    {
+      "path": "sources/bgbl-2026-157.pdf",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883
+    },
+    {
+      "path": "sources/bgbl-2026-157.txt",
+      "sha256": "330ec58cb454a226cdb04ba26c8da212f4d84f34af5c7c9b5adcb87dcd7dcef7",
+      "bytes": 31271
+    },
+    {
+      "path": "sources/bgh-geburtstagszug-intake.md",
+      "sha256": "7fb6fd068565dcfaadc06f092bd7563c38c1712c14c142b8e61bc9a716d24492",
+      "bytes": 42237
+    },
+    {
+      "path": "sources/bgh-goto-intake.md",
+      "sha256": "a8421b5938a2dd08b9b195f04580d7c6ba4470307a609e499b36dc396c6a40c0",
+      "bytes": 27424
+    },
+    {
+      "path": "sources/change-map.json",
+      "sha256": "b69e6edf645c70093edacfc500c8b10b831644225ff2860607fc5712d4ef2b91",
+      "bytes": 920
+    },
+    {
+      "path": "sources/cofemel-firecrawl.md",
+      "sha256": "9d841f3ccde800330ac87f68120081c873d9a918c17f608d9448662e8008497a",
+      "bytes": 68826
+    },
+    {
+      "path": "sources/cofemel-paragraphs.txt",
+      "sha256": "d2f85e3a38b55331d5eebaec3c4a0bc6e89be6d7a69535cccd2f765fca7f1c78",
+      "bytes": 25996
+    },
+    {
+      "path": "sources/cofemel-raw.html",
+      "sha256": "71234cba1ac8ebc6087bd595b5b3bc776e371acd76dfb34ad3a6cef2b8c2a4fc",
+      "bytes": 212618
+    },
+    {
+      "path": "sources/cofemel-response.json",
+      "sha256": "9302ade4faf22cc4a410a08b2e459559504f0b86d5a17e2555b90dab37150d10",
+      "bytes": 298970
+    },
+    {
+      "path": "sources/fetch-authorities.py",
+      "sha256": "01393542c9652fc24fc304d24bc6ca1a8b06597e7b219f4f879ba65b1a311022",
+      "bytes": 1373
+    },
+    {
+      "path": "sources/geburtstagszug.headers",
+      "sha256": "70d6eee7a748a0ae98fa55cf4a773ff2ed0df5ad83e37074a8da38f5ad8774ac",
+      "bytes": 3041
+    },
+    {
+      "path": "sources/geburtstagszug.xml",
+      "sha256": "52a5282fad26a708f6a03c4ce1cfb7765db80adfbd4f23439e03ae8cd7ac5a16",
+      "bytes": 57635
+    },
+    {
+      "path": "sources/geburtstagszug.zip",
+      "sha256": "db7ed0d6265ea85c045f7382c20af1619adba6b3e4227c59796b7440aa608890",
+      "bytes": 105656
+    },
+    {
+      "path": "sources/index.headers",
+      "sha256": "f128a40e6a7f74cbf35716c68c904ed59d77ceaaf46d86ad83b725c5ce78e401",
+      "bytes": 330
+    },
+    {
+      "path": "sources/index.html",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665
+    },
+    {
+      "path": "sources/intake-2026-10-02.md",
+      "sha256": "56ee76d990545dcd43664fde645208592e71003c18acff0db4eb60cabe111dcf",
+      "bytes": 250519
+    },
+    {
+      "path": "sources/search-log.json",
+      "sha256": "fe8df4a7eb9233ec5a0761855a4bef8d47c40efff93b3ef17ecb0b014e04e921",
+      "bytes": 1635
+    },
+    {
+      "path": "sources/searches/amendment-search.json",
+      "sha256": "a98c8055dcb45a2be7c596004794a79d06e85eea69e1546be7badca7c220bbd2",
+      "bytes": 1717
+    },
+    {
+      "path": "sources/searches/bgbl-search.json",
+      "sha256": "757620b9cc6d8678ffab389674b9f07fac8aef3465c234eb1e8e1460d4dd4657",
+      "bytes": 2037
+    },
+    {
+      "path": "sources/searches/bgh-search.json",
+      "sha256": "013ba979915c836a89378fa83d7503aaec226345f8047217a98537528f866824",
+      "bytes": 1535
+    },
+    {
+      "path": "sources/searches/case-search.json",
+      "sha256": "9e995c14a29dc543aaf0f980bfdc3a178a740e8a4fe5925c530aca621d6b735e",
+      "bytes": 1188
+    },
+    {
+      "path": "sources/searches/curia-search.json",
+      "sha256": "7fc3d76dbd513f6e699dcd596003757b202c4b0488809f98a093a9e711489c8a",
+      "bytes": 1029
+    },
+    {
+      "path": "sources/searches/current-search.json",
+      "sha256": "1ec773f80f4af094b3f4159e1bd9381f030809b6310016514c6664c3d0ea43e2",
+      "bytes": 1281
+    },
+    {
+      "path": "sources/urhg-canonical.md",
+      "sha256": "d097dac4bbe074cef759c8439fc30ed23a51765973af214a1fa9398fa746455e",
+      "bytes": 233442
+    },
+    {
+      "path": "sources/urhg-xml.headers",
+      "sha256": "024e9f2b22797488e3ab53c76e4d5f1bc8734343c8a1ed85a36df045f64db2a0",
+      "bytes": 314
+    },
+    {
+      "path": "sources/urhg.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "bytes": 401221
+    },
+    {
+      "path": "sources/urhg.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672
+    },
+    {
+      "path": "sources/usedsoft-firecrawl.md",
+      "sha256": "191e23bc2fea46f488000c3beeddc08b15d24300cf6cff9a9fdbf1c7e102af5d",
+      "bytes": 86780
+    },
+    {
+      "path": "sources/usedsoft-paragraphs.txt",
+      "sha256": "d2f5c4596f557f744e7585da0a3ed0330c8f7e435c13ae29e008b7239226428b",
+      "bytes": 44778
+    },
+    {
+      "path": "sources/usedsoft-raw.html",
+      "sha256": "467e38a9912e6a6717d4abfd94d4c22e5916a0b830b0a58e19e4ad90319149c4",
+      "bytes": 240048
+    },
+    {
+      "path": "sources/usedsoft-response.json",
+      "sha256": "d81703686faf9fc93fd581d4d8109237c3ce041b27c347d894a898650c9f34eb",
+      "bytes": 345280
+    },
+    {
+      "path": "sources/verification.json",
+      "sha256": "5fbe834cd341cd62eb1e28c25f55270bb2d6fdc63e901f1dcff0360d980bb149",
+      "bytes": 4572
+    },
+    {
+      "path": "sources/verify-sources.py",
+      "sha256": "6d49d78b3bc5ec6fecf90b6f7e3255137d4239d0e6334dad3b34c8ef6908f2c3",
+      "bytes": 4237
+    },
+    {
+      "path": "sources/xml-disposition.json",
+      "sha256": "72b2ee15fc913c52b037cd5c4df8ef17b28950eb03583c999af7f752db1e5018",
+      "bytes": 52956
+    }
+  ]
+}

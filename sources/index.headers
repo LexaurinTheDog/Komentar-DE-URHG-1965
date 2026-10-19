@@ -1,0 +1,13 @@
+HTTP/2 200 
+date: Mon, 19 Oct 2026 16:06:39 GMT
+server: Apache
+last-modified: Mon, 19 Oct 2026 00:26:04 GMT
+etag: "e529-65e268f346fd8"
+accept-ranges: bytes
+content-length: 58665
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: sameorigin
+x-xss-protection: 1; mode=block
+content-type: text/html
+

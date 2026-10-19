@@ -1,0 +1,305 @@
+# Kommentarkapitel 02 — Verwertungsrechte und weitere Befugnisse
+
+#### Teil 1 — Urheberrecht
+
+#### Abschnitt 4 — Inhalt des Urheberrechts
+
+#### Unterabschnitt 3 — Verwertungsrechte
+
+### § 15 — Allgemeines
+
+**Wortlaut der Vorschrift:**
+
+> (1) Der Urheber hat das ausschließliche Recht, sein Werk in körperlicher Form zu verwerten; das Recht umfaßt insbesondere
+>
+> 1. das Vervielfältigungsrecht (§ 16),
+>
+> 2. das Verbreitungsrecht (§ 17),
+>
+> 3. das Ausstellungsrecht (§ 18).
+>
+> (2) Der Urheber hat ferner das ausschließliche Recht, sein Werk in unkörperlicher Form öffentlich wiederzugeben (Recht der öffentlichen Wiedergabe). Das Recht der öffentlichen Wiedergabe umfasst insbesondere
+>
+> 1. das Vortrags-, Aufführungs- und Vorführungsrecht (§ 19),
+>
+> 2. das Recht der öffentlichen Zugänglichmachung (§ 19a),
+>
+> 3. das Senderecht (§ 20),
+>
+> 4. das Recht der Wiedergabe durch Bild- oder Tonträger (§ 21),
+>
+> 5. das Recht der Wiedergabe von Funksendungen und von öffentlicher Zugänglichmachung (§ 22).
+>
+> (3) Die Wiedergabe ist öffentlich, wenn sie für eine Mehrzahl von Mitgliedern der Öffentlichkeit bestimmt ist. Zur Öffentlichkeit gehört jeder, der nicht mit demjenigen, der das Werk verwertet, oder mit den anderen Personen, denen das Werk in unkörperlicher Form wahrnehmbar oder zugänglich gemacht wird, durch persönliche Beziehungen verbunden ist.
+
+Absätze 1 und 2 unterscheiden körperliche Verwertung von unkörperlicher öffentlicher Wiedergabe. Die Aufzählungen sind nicht abschließend; die genaue Zuordnung bleibt für Lizenzumfang und Schranken entscheidend. Absatz 3 definiert Öffentlichkeit über die fehlende persönliche Verbundenheit. Ein bloß geschlossener Nutzerkreis ist deshalb nicht automatisch privat. Eine Handlung kann mehrere Rechte berühren, etwa wenn eine Datei zunächst vervielfältigt und anschließend online angeboten wird. Jede betroffene Befugnis benötigt eine passende Erlaubnis oder gesetzliche Grundlage.
+
+Beispiel: Ein Verein scannt Noten und stellt sie allen registrierten Mitgliedern bereit. Das Scannen betrifft § 16, das individuelle Abrufen § 19a. Die Vereinsmitgliedschaft allein belegt keine persönliche Beziehung sämtlicher Nutzer und damit auch keinen Ausschluss der Öffentlichkeit.
+
+### § 16 — Vervielfältigungsrecht
+
+**Wortlaut der Vorschrift:**
+
+> (1) Das Vervielfältigungsrecht ist das Recht, Vervielfältigungsstücke des Werkes herzustellen, gleichviel ob vorübergehend oder dauerhaft, in welchem Verfahren und in welcher Zahl.
+>
+> (2) Eine Vervielfältigung ist auch die Übertragung des Werkes auf Vorrichtungen zur wiederholbaren Wiedergabe von Bild- oder Tonfolgen (Bild- oder Tonträger), gleichviel, ob es sich um die Aufnahme einer Wiedergabe des Werkes auf einen Bild- oder Tonträger oder um die Übertragung des Werkes von einem Bild- oder Tonträger auf einen anderen handelt.
+
+Das Vervielfältigungsrecht erfasst jede Herstellung von Werkexemplaren, auch digitale, vorübergehende und einzelne Kopien. Absatz 2 stellt klar, dass Aufnahmen und Überspielungen auf Bild- oder Tonträger ebenfalls dazugehören. Die technische Form entscheidet nicht über die Schutzfreiheit. Von der Tatbestandsfrage ist zu trennen, ob eine gesetzliche Erlaubnis eingreift, etwa § 44a für eng begrenzte technische Zwischenkopien oder § 53 für bestimmte private Kopien. Der Besitz einer Vorlage begründet keine allgemeine Kopiererlaubnis.
+
+Beispiel: Eine Mitarbeiterin speichert ein fremdes Foto von einer Website auf dem Firmenserver. Bereits das Speichern kann eine Vervielfältigung sein. Ob das Foto später veröffentlicht wird, ist für diesen ersten Eingriff nicht entscheidend; die anschließende Websiteverwendung betrifft zusätzlich § 19a.
+
+### § 17 — Verbreitungsrecht
+
+**Wortlaut der Vorschrift:**
+
+> (1) Das Verbreitungsrecht ist das Recht, das Original oder Vervielfältigungsstücke des Werkes der Öffentlichkeit anzubieten oder in Verkehr zu bringen.
+>
+> (2) Sind das Original oder Vervielfältigungsstücke des Werkes mit Zustimmung des zur Verbreitung Berechtigten im Gebiet der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum im Wege der Veräußerung in Verkehr gebracht worden, so ist ihre Weiterverbreitung mit Ausnahme der Vermietung zulässig.
+>
+> (3) Vermietung im Sinne der Vorschriften dieses Gesetzes ist die zeitlich begrenzte, unmittelbar oder mittelbar Erwerbszwecken dienende Gebrauchsüberlassung. Als Vermietung gilt jedoch nicht die Überlassung von Originalen oder Vervielfältigungsstücken
+>
+> 1. von Bauwerken und Werken der angewandten Kunst oder
+>
+> 2. im Rahmen eines Arbeits- oder Dienstverhältnisses zu dem ausschließlichen Zweck, bei der Erfüllung von Verpflichtungen aus dem Arbeits- oder Dienstverhältnis benutzt zu werden.
+
+Absatz 1 erfasst das öffentliche Anbieten und Inverkehrbringen körperlicher Werkstücke. Absatz 2 erschöpft das Verbreitungsrecht an Exemplaren, die mit Zustimmung im EU-/EWR-Raum veräußert wurden; das Vermietrecht bleibt ausgenommen. Erschöpfung erlaubt den Weiterverkauf dieses Exemplars, nicht die Herstellung weiterer Kopien. Absatz 3 grenzt die erwerbsbezogene zeitweise Überlassung ab und nimmt insbesondere Bauwerke, angewandte Kunst sowie den bezeichneten innerbetrieblichen Gebrauch aus. Digitale Abrufangebote dürfen nicht ohne Prüfung der Sonderregeln für Software mit dem Verkauf körperlicher Bücher gleichgesetzt werden.
+
+Beispiel: Ein rechtmäßig in Deutschland gekauftes Buch darf gebraucht weiterverkauft werden. Das Einscannen und der Verkauf beliebig vieler PDF-Dateien werden von der Erschöpfung am Buch nicht gedeckt.
+
+### § 18 — Ausstellungsrecht
+
+**Wortlaut der Vorschrift:**
+
+> Das Ausstellungsrecht ist das Recht, das Original oder Vervielfältigungsstücke eines unveröffentlichten Werkes der bildenden Künste oder eines unveröffentlichten Lichtbildwerkes öffentlich zur Schau zu stellen.
+
+Das Ausstellungsrecht betrifft ausschließlich unveröffentlichte Werke der bildenden Kunst und unveröffentlichte Lichtbildwerke. Es schützt die öffentliche körperliche Präsentation von Originalen oder Exemplaren. Die technische Projektion und die Bereitstellung einer Bilddatei sind nach anderen Rechten zu prüfen. Entscheidend ist der Veröffentlichungsstatus nach § 6, nicht allein, ob gerade dieses Exemplar schon ausgestellt wurde. Beim Erwerb des Originals ist zusätzlich die besondere Befugnis des Eigentümers nach § 44 Abs. 2 zu berücksichtigen.
+
+Beispiel: Eine Sammlerin leiht einem Museum ein bislang verborgenes Gemälde. Vor der öffentlichen Präsentation muss geklärt werden, ob die Urheberin eine Veröffentlichung gestattet hat und welche Befugnisse mit dem Eigentumserwerb verbunden waren. Der Leihvertrag ersetzt diese Prüfung nicht.
+
+### § 19 — Vortrags-, Aufführungs- und Vorführungsrecht
+
+**Wortlaut der Vorschrift:**
+
+> (1) Das Vortragsrecht ist das Recht, ein Sprachwerk durch persönliche Darbietung öffentlich zu Gehör zu bringen.
+>
+> (2) Das Aufführungsrecht ist das Recht, ein Werk der Musik durch persönliche Darbietung öffentlich zu Gehör zu bringen oder ein Werk öffentlich bühnenmäßig darzustellen.
+>
+> (3) Das Vortrags- und das Aufführungsrecht umfassen das Recht, Vorträge und Aufführungen außerhalb des Raumes, in dem die persönliche Darbietung stattfindet, durch Bildschirm, Lautsprecher oder ähnliche technische Einrichtungen öffentlich wahrnehmbar zu machen.
+>
+> (4) Das Vorführungsrecht ist das Recht, ein Werk der bildenden Künste, ein Lichtbildwerk, ein Filmwerk oder Darstellungen wissenschaftlicher oder technischer Art durch technische Einrichtungen öffentlich wahrnehmbar zu machen. Das Vorführungsrecht umfaßt nicht das Recht, die Funksendung oder öffentliche Zugänglichmachung solcher Werke öffentlich wahrnehmbar zu machen (§ 22).
+
+Die Vorschrift differenziert nach Sprachvortrag, Musik- oder Bühnenaufführung und technischer Vorführung. Absätze 1 und 2 setzen persönliche Darbietungen voraus. Absatz 3 erstreckt die Rechte auf die öffentliche Übertragung außerhalb des Darbietungsraums. Absatz 4 erfasst technische Präsentationen der genannten Werkarten, grenzt aber die Wiedergabe von Sendungen und Abrufangeboten zugunsten des § 22 aus. Neben den Werkrechten können Rechte der auftretenden Künstler nach §§ 73 ff. bestehen.
+
+Beispiel: Ein Theater führt ein geschütztes Drama live auf und überträgt es per Bildschirm ins Foyer. Die Übertragung ist nach Absatz 3 mitzuprüfen. Wird später eine aufgezeichnete Aufführung gezeigt, sind die Aufzeichnungs- und Wiedergaberechte sowie die Rechte der Darsteller gesondert zu klären.
+
+### § 19a — Recht der öffentlichen Zugänglichmachung
+
+**Wortlaut der Vorschrift:**
+
+> Das Recht der öffentlichen Zugänglichmachung ist das Recht, das Werk drahtgebunden oder drahtlos der Öffentlichkeit in einer Weise zugänglich zu machen, dass es Mitgliedern der Öffentlichkeit von Orten und zu Zeiten ihrer Wahl zugänglich ist.
+
+Die individuelle Wahl von Ort und Zeit kennzeichnet die öffentliche Zugänglichmachung. Der Tatbestand richtet sich auf die eröffnete Zugriffsmöglichkeit; es muss nicht erst ein bestimmter Abruf nachgewiesen werden. Ein kostenpflichtiger Zugang oder ein Passwort schließt Öffentlichkeit nicht notwendig aus. Die Reichweite einer Lizenz muss diese Abrufnutzung umfassen; eine bloße Druck- oder Aufführungserlaubnis genügt nicht. Bei Plattformen sind zusätzlich die konkret übernommenen Handlungen und gegebenenfalls besondere gesetzliche Regelungen zu untersuchen.
+
+Beispiel: Ein Bildungsträger lädt ein Lehrvideo in ein Portal, das wechselnde Kursteilnehmer zu beliebiger Zeit nutzen können. Auch bei einem begrenzten Teilnehmerkreis ist zu prüfen, ob Öffentlichkeit vorliegt. Eine vorhandene Lizenz für eine einmalige Präsenzvorführung beantwortet die Onlinefrage nicht.
+
+### § 20 — Senderecht
+
+**Wortlaut der Vorschrift:**
+
+> Das Senderecht ist das Recht, das Werk durch Funk, wie Ton- und Fernsehrundfunk, Satellitenrundfunk, Kabelfunk oder ähnliche technische Mittel, der Öffentlichkeit zugänglich zu machen.
+
+Das Senderecht schützt die technische Übermittlung eines Werkes an die Öffentlichkeit. Die Beispiele zeigen, dass es nicht auf klassischen terrestrischen Rundfunk beschränkt ist. Maßgeblich ist die konkrete Übertragungsform; der individuelle Abruf fällt regelmäßig in den Prüfungsbereich des § 19a. Bei grenzüberschreitenden oder weitergeleiteten Signalen sind §§ 20a bis 20d hinzuzunehmen. Eine Sendelizenz erlaubt weder automatisch die Herstellung sämtlicher benötigter Kopien noch jede spätere öffentliche Wiedergabe der Sendung durch Dritte.
+
+Beispiel: Ein lokaler Fernsehsender verwendet eine Musikkomposition in seinem linearen Programm. Dafür ist das Senderecht zu klären. Stellt er die Sendung anschließend in eine Mediathek, kommt eine zusätzliche oder durch die besonderen Regeln erfasste Abrufnutzung hinzu.
+
+### § 20a — Europäische Satellitensendung
+
+**Wortlaut der Vorschrift:**
+
+> (1) Wird eine Satellitensendung innerhalb des Gebietes eines Mitgliedstaates der Europäischen Union oder Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum ausgeführt, so gilt sie ausschließlich als in diesem Mitgliedstaat oder Vertragsstaat erfolgt.
+>
+> (2) Wird eine Satellitensendung im Gebiet eines Staates ausgeführt, der weder Mitgliedstaat der Europäischen Union noch Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist und in dem für das Recht der Satellitensendung das in Kapitel II der Richtlinie 93/83/EWG des Rates vom 27. September 1993 zur Koordinierung bestimmter urheber- und leistungsschutzrechtlicher Vorschriften betreffend Satellitenrundfunk und Kabelweiterverbreitung (ABl. EG Nr. L 248 S. 15) vorgesehene Schutzniveau nicht gewährleistet ist, so gilt sie als in dem Mitgliedstaat oder Vertragsstaat erfolgt,
+>
+> 1. in dem die Erdfunkstation liegt, von der aus die programmtragenden Signale zum Satelliten geleitet werden, oder
+>
+> 2. in dem das Sendeunternehmen seine Niederlassung hat, wenn die Voraussetzung nach Nummer 1 nicht gegeben ist.
+>
+> Das Senderecht ist im Fall der Nummer 1 gegenüber dem Betreiber der Erdfunkstation, im Fall der Nummer 2 gegenüber dem Sendeunternehmen geltend zu machen.
+>
+> (3) Satellitensendung im Sinne von Absatz 1 und 2 ist die unter der Kontrolle und Verantwortung des Sendeunternehmens stattfindende Eingabe der für den öffentlichen Empfang bestimmten programmtragenden Signale in eine ununterbrochene Übertragungskette, die zum Satelliten und zurück zur Erde führt.
+
+Absatz 1 konzentriert die urheberrechtliche Zuordnung einer europäischen Satellitensendung auf den Staat ihrer Ausführung. Absatz 3 definiert diese anhand der kontrollierten Eingabe der Signale in die ununterbrochene Satellitenübertragungskette. Der Empfang in mehreren Ländern führt daher nicht ohne Weiteres zu ebenso vielen lokalisierten Sendungen. Absatz 2 schließt Schutzlücken bei Sendungen aus bestimmten Drittstaaten durch Anknüpfung zunächst an die Erdfunkstation, ersatzweise an die Niederlassung des Senders; entsprechend wechselt der Anspruchsgegner.
+
+Beispiel: Ein Sender speist unter seiner Verantwortung ein Programm über eine deutsche Station in die Satellitenkette ein. Für die territoriale Rechteklärung ist der gesetzliche Sendestandort zu bestimmen. Der bloße Standort eines Zuschauers liefert dafür keine ausreichende Antwort.
+
+### § 20b — Weitersendung
+
+**Wortlaut der Vorschrift:**
+
+> (1) Das Recht, ein gesendetes Werk im Rahmen eines zeitgleich, unverändert und vollständig weiterübertragenen Programms weiterzusenden (Weitersendung), kann nur durch eine Verwertungsgesellschaft geltend gemacht werden. Dies gilt nicht für
+>
+> 1. Rechte an einem Werk, das ausschließlich im Internet gesendet wird,
+>
+> 2. Rechte, die ein Sendeunternehmen in Bezug auf seine Sendungen geltend macht.
+>
+> (1a) Bei der Weitersendung über einen Internetzugangsdienst ist Absatz 1 nur anzuwenden, wenn der Betreiber des Weitersendedienstes ausschließlich berechtigten Nutzern in einer gesicherten Umgebung Zugang zum Programm bietet.
+>
+> (1b) Internetzugangsdienst im Sinne von Absatz 1a ist ein Dienst gemäß Artikel 2 Absatz 2 Nummer 2 der Verordnung (EU) 2015/2120 des Europäischen Parlaments und des Rates vom 25. November 2015 über Maßnahmen zum Zugang zum offenen Internet und zur Änderung der Richtlinie 2002/22/EG über den Universaldienst und Nutzerrechte bei elektronischen Kommunikationsnetzen und -diensten sowie der Verordnung (EU) Nr. 531/2012 über das Roaming in öffentlichen Mobilfunknetzen in der Union (ABl. L 310 vom 26.11.2015, S. 1), die zuletzt durch die Richtlinie (EU) 2018/1972 (ABl. L 321 vom 17.12.2018, S. 36; L 334 vom 27.12.2019, S. 164) geändert worden ist.
+>
+> (2) Hat der Urheber das Recht der Weitersendung einem Sendeunternehmen oder einem Tonträger- oder Filmhersteller eingeräumt, so hat der Weitersendedienst gleichwohl dem Urheber eine angemessene Vergütung für die Weitersendung zu zahlen. Auf den Vergütungsanspruch kann nicht verzichtet werden. Er kann im Voraus nur an eine Verwertungsgesellschaft abgetreten und nur durch eine solche geltend gemacht werden. Diese Regelung steht Tarifverträgen, Betriebsvereinbarungen und gemeinsamen Vergütungsregeln von Sendeunternehmen nicht entgegen, soweit dadurch dem Urheber eine angemessene Vergütung für jede Weitersendung eingeräumt wird.
+
+Der gebündelte Rechteerwerb setzt eine zeitgleiche, unveränderte und vollständige Weiterübertragung des Programms voraus. Absatz 1 unterstellt das betreffende Recht grundsätzlich kollektiver Wahrnehmung, nimmt jedoch reine Internetsendungen und die vom Sender selbst geltend gemachten Rechte aus. Bei Internetzugangsdiensten verlangt Absatz 1a eine gesicherte Umgebung für berechtigte Nutzer. Absatz 1b bestimmt den verwendeten Dienstbegriff. Absatz 2 erhält dem Urheber trotz bestimmter Rechteübertragungen eine unverzichtbare, kollektiv geltend zu machende angemessene Vergütung; qualifizierte Vergütungsvereinbarungen bleiben möglich.
+
+Beispiel: Ein Betreiber übernimmt ein lineares Fernsehprogramm vollständig in ein geschütztes Abonnentennetz. Eine eigenständig gekürzte Abruffassung erfüllt den Weitersendungstatbestand dagegen nicht allein wegen derselben Programmmarke.
+
+### § 20c — Europäischer ergänzender Online-Dienst
+
+**Wortlaut der Vorschrift:**
+
+> (1) Ein ergänzender Online-Dienst eines Sendeunternehmens ist
+>
+> 1. die Sendung von Programmen im Internet zeitgleich mit ihrer Sendung in anderer Weise,
+>
+> 2. die öffentliche Zugänglichmachung bereits gesendeter Programme im Internet, die für einen begrenzten Zeitraum nach der Sendung abgerufen werden können, auch mit ergänzenden Materialien zum Programm.
+>
+> (2) Die Vervielfältigung und die öffentliche Wiedergabe von Werken zur Ausführung eines ergänzenden Online-Dienstes eines Sendeunternehmens in einem Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum gelten ausschließlich als in dem Mitgliedstaat oder Vertragsstaat erfolgt, in dem das Sendeunternehmen seine Hauptniederlassung hat. Der Rechtsinhaber und das Sendeunternehmen können den Umfang von Nutzungsrechten für ergänzende Online-Dienste des Sendeunternehmens beschränken.
+>
+> (3) Absatz 2 gilt bei Fernsehprogrammen nur für Eigenproduktionen des Sendeunternehmens, die vollständig von ihm finanziert wurden, sowie für Nachrichtensendungen und die Berichterstattung über Tagesereignisse, nicht aber für die Übertragung von Sportveranstaltungen.
+
+Absatz 1 umfasst den Simulcast und zeitlich begrenzte nachträgliche Abrufangebote des Senders einschließlich ergänzender Materialien. Absatz 2 lokalisiert die dafür nötigen Vervielfältigungen und öffentlichen Wiedergaben grundsätzlich am Hauptniederlassungsstaat; vertragliche territoriale Beschränkungen bleiben zulässig. Für Fernsehen begrenzt Absatz 3 die Regel auf vollständig selbst finanzierte Eigenproduktionen, Nachrichten und Tagesereignisse und nimmt Sportübertragungen aus. Das Herkunftslandprinzip ist deshalb keine pauschale europaweite Freigabe jeder Mediathek.
+
+Beispiel: Ein Sender bietet seine selbst finanzierte Nachrichtensendung für sieben Tage online an. Dafür ist die territoriale Zuordnung nach Absatz 2 zu prüfen. Ein zugekaufter Spielfilm oder ein Fußballspiel fällt nicht allein wegen desselben Abrufportals unter dieselbe Erleichterung.
+
+### § 20d — Direkteinspeisung
+
+**Wortlaut der Vorschrift:**
+
+> (1) Überträgt ein Sendeunternehmen die programmtragenden Signale an einen Signalverteiler, ohne sie gleichzeitig selbst öffentlich wiederzugeben (Direkteinspeisung), und gibt der Signalverteiler diese programmtragenden Signale öffentlich wieder, so gelten das Sendeunternehmen und der Signalverteiler als Beteiligte einer einzigen öffentlichen Wiedergabe.
+>
+> (2) § 20b gilt entsprechend.
+
+Die Direkteinspeisung setzt voraus, dass der Sender seine programmtragenden Signale an einen Verteiler übermittelt, ohne sie gleichzeitig selbst öffentlich wiederzugeben. Erst der Verteiler eröffnet den öffentlichen Empfang. Absatz 1 behandelt beide als Beteiligte einer einzigen öffentlichen Wiedergabe und verhindert eine Rechteklärung, die jeweils nur auf den technischen Teilakt blickt. Absatz 2 überträgt die Regeln der Weitersendung einschließlich ihrer Voraussetzungen und Ausnahmen entsprechend. Ob eine Direkteinspeisung vorliegt, muss daher anhand des tatsächlichen Signalwegs geklärt werden.
+
+Beispiel: Ein Produzent von Fernsehprogrammen liefert verschlüsselte Signale ausschließlich an einen Netzbetreiber, der sie seinen Kunden zeigt. Die interne Übertragung darf nicht isoliert als rechtlich bedeutungslos abgetan werden; beide Beteiligten müssen die gemeinsame Wiedergabe berücksichtigen.
+
+### § 21 — Recht der Wiedergabe durch Bild- oder Tonträger
+
+**Wortlaut der Vorschrift:**
+
+> Das Recht der Wiedergabe durch Bild- oder Tonträger ist das Recht, Vorträge oder Aufführungen des Werkes mittels Bild- oder Tonträger öffentlich wahrnehmbar zu machen. § 19 Abs. 3 gilt entsprechend.
+
+§ 21 betrifft die öffentliche Wiedergabe einer aufgezeichneten Darbietung mittels Bild- oder Tonträger. Das Abspielen ist eine eigene Nutzung neben Herstellung und Verkauf der Aufnahme. Der Verweis auf § 19 Abs. 3 erfasst auch die technische Weiterleitung außerhalb des Wiedergaberaums. Werkrechte und die verwandten Rechte an Aufnahme und Darbietung bestehen nebeneinander. Der Erwerb eines Tonträgers erlaubt deshalb nicht schon jede geschäftliche öffentliche Beschallung.
+
+Beispiel: Ein Restaurant spielt gekaufte Musikaufnahmen über Lautsprecher für seine Gäste ab. Der Kauf erschöpft gegebenenfalls das Verbreitungsrecht am Exemplar, klärt aber die öffentliche Wiedergabe nicht. Ob und durch wen die erforderlichen Rechte kollektiv wahrgenommen werden, ist für die betroffene Nutzung zu ermitteln.
+
+### § 22 — Recht der Wiedergabe von Funksendungen und von öffentlicher Zugänglichmachung
+
+**Wortlaut der Vorschrift:**
+
+> Das Recht der Wiedergabe von Funksendungen und der Wiedergabe von öffentlicher Zugänglichmachung ist das Recht, Funksendungen und auf öffentlicher Zugänglichmachung beruhende Wiedergaben des Werkes durch Bildschirm, Lautsprecher oder ähnliche technische Einrichtungen öffentlich wahrnehmbar zu machen. § 19 Abs. 3 gilt entsprechend.
+
+Die Vorschrift erfasst die öffentliche Wahrnehmbarmachung bereits gesendeter oder auf Abruf wiedergegebener Werke durch Bildschirm, Lautsprecher oder vergleichbare Einrichtungen. Sie betrifft damit eine weitere Nutzung beim Empfangenden. Die Verweisung auf § 19 Abs. 3 bezieht auch eine Weiterleitung in andere Räume ein. Zunächst ist jedoch Öffentlichkeit nach § 15 Abs. 3 festzustellen; das technische Vorhandensein eines Fernsehgeräts allein beantwortet diese Frage nicht. Für die neue Nutzung reicht die Lizenz des ursprünglichen Senders nicht automatisch aus.
+
+Beispiel: Ein Veranstalter zeigt einen rechtmäßig empfangenen Livestream auf einer Großbildwand für zahlende Besucher. Der rechtmäßige Zugang zum Stream und das öffentliche Vorführen sind getrennt zu prüfen. Ein privates Abonnement kann die erforderliche Berechtigung zur Veranstaltung offenlassen.
+
+### § 23 — Bearbeitungen und Umgestaltungen
+
+**Wortlaut der Vorschrift:**
+
+> (1) Bearbeitungen oder andere Umgestaltungen eines Werkes, insbesondere auch einer Melodie, dürfen nur mit Zustimmung des Urhebers veröffentlicht oder verwertet werden. Wahrt das neu geschaffene Werk einen hinreichenden Abstand zum benutzten Werk, so liegt keine Bearbeitung oder Umgestaltung im Sinne des Satzes 1 vor.
+>
+> (2) Handelt es sich um
+>
+> 1. die Verfilmung eines Werkes,
+>
+> 2. die Ausführung von Plänen und Entwürfen eines Werkes der bildenden Künste,
+>
+> 3. den Nachbau eines Werkes der Baukunst oder
+>
+> 4. die Bearbeitung oder Umgestaltung eines Datenbankwerkes,
+>
+> so bedarf bereits das Herstellen der Bearbeitung oder Umgestaltung der Zustimmung des Urhebers.
+>
+> (3) Auf ausschließlich technisch bedingte Änderungen eines Werkes bei Nutzungen nach § 44b Absatz 2, § 60d Absatz 1, § 60e Absatz 1 sowie § 60f Absatz 2 sind die Absätze 1 und 2 nicht anzuwenden.
+
+Absatz 1 trennt die grundsätzlich zustimmungsbedürftige Veröffentlichung oder Verwertung einer Umgestaltung vom neuen Werk, das hinreichenden Abstand wahrt. Ein bloß eigener Zusatz beseitigt eine erkennbare Übernahme geschützter Gestaltung nicht. Absatz 2 zieht die Zustimmung bei Verfilmung, Ausführung künstlerischer Pläne, architektonischem Nachbau und Datenbankbearbeitung bereits auf die Herstellung vor. Absatz 3 privilegiert ausschließlich technisch bedingte Änderungen bei den genau bezeichneten gesetzlichen Nutzungen. Daneben können insbesondere § 51a oder andere Schranken einschlägig sein; der weggefallene § 24 ist keine aktuelle Erlaubnisnorm.
+
+Beispiel: Eine Filmemacherin übernimmt die individuelle Handlung eines geschützten Romans. Bereits die Verfilmung kann zustimmungsbedürftig sein. Eine technische Formatumwandlung für eine erlaubte Archivierung verlangt dagegen die gesonderte Prüfung des Absatzes 3.
+
+### § 24 — (weggefallen)
+
+**Wortlaut der Vorschrift:**
+
+> (weggefallen)
+
+*Amtlicher bzw. dokumentierter Quellenhinweis:* Das amtliche XML enthält hier keinen Vorschriftentext; der Wegfallvermerk stammt aus dem amtlichen Titel.
+
+Die amtliche Fassung weist § 24 als weggefallen aus. Aus diesem Platzhalter folgt keine gegenwärtige Befugnis zur „freien Benutzung“. Für aktuelle Gestaltungen sind insbesondere der hinreichende Abstand nach § 23 Abs. 1 und die gesetzlichen Erlaubnisse, etwa § 51a, zu prüfen. Bei älteren Handlungen kann die damals geltende Rechtslage relevant bleiben; deren Voraussetzungen dürfen nicht aus dem heutigen Wegfallvermerk rekonstruiert werden.
+
+Beispiel: Ein Musikproduzent beruft sich für eine neue Veröffentlichung allein auf § 24. Damit ist keine aktuelle Erlaubnis dargetan. Der konkrete Nutzungsvorgang muss anhand der geltenden Normen beurteilt werden.
+
+#### Unterabschnitt 4 — Sonstige Rechte des Urhebers
+
+### § 25 — Zugang zu Werkstücken
+
+**Wortlaut der Vorschrift:**
+
+> (1) Der Urheber kann vom Besitzer des Originals oder eines Vervielfältigungsstückes seines Werkes verlangen, daß er ihm das Original oder das Vervielfältigungsstück zugänglich macht, soweit dies zur Herstellung von Vervielfältigungsstücken oder Bearbeitungen des Werkes erforderlich ist und nicht berechtigte Interessen des Besitzers entgegenstehen.
+>
+> (2) Der Besitzer ist nicht verpflichtet, das Original oder das Vervielfältigungsstück dem Urheber herauszugeben.
+
+Absatz 1 gewährt dem Urheber Zugang zu einem fremdbesessenen Werkstück, wenn dies für die Herstellung von Kopien oder Bearbeitungen erforderlich ist. Der Anspruch ist durch berechtigte Besitzerinteressen begrenzt; Ort, Dauer und Schutzvorkehrungen können deshalb entscheidend sein. Absatz 2 schließt einen Anspruch auf Herausgabe allein aus dieser Vorschrift ausdrücklich aus. Eigentum und Urheberrecht bleiben getrennt. Der Zugang schafft auch keine zusätzliche Befugnis zur Verwertung fremder mitbetroffener Rechte.
+
+Beispiel: Eine Bildhauerin benötigt Fotografien ihres verkauften Originals für ein Werkverzeichnis. Sie kann angemessenen Zugang verlangen, muss aber die Sicherheitsinteressen der Sammlung berücksichtigen. Einen mehrwöchigen Transport in ihr eigenes Atelier kann sie nicht allein auf § 25 stützen.
+
+### § 26 — Folgerecht
+
+**Wortlaut der Vorschrift:**
+
+> (1) Wird das Original eines Werkes der bildenden Künste oder eines Lichtbildwerkes weiterveräußert und ist hieran ein Kunsthändler oder Versteigerer als Erwerber, Veräußerer oder Vermittler beteiligt, so hat der Veräußerer dem Urheber einen Anteil des Veräußerungserlöses zu entrichten. Als Veräußerungserlös im Sinne des Satzes 1 gilt der Verkaufspreis ohne Steuern. Ist der Veräußerer eine Privatperson, so haftet der als Erwerber oder Vermittler beteiligte Kunsthändler oder Versteigerer neben ihm als Gesamtschuldner; im Verhältnis zueinander ist der Veräußerer allein verpflichtet. Die Verpflichtung nach Satz 1 entfällt, wenn der Veräußerungserlös weniger als 400 Euro beträgt.
+>
+> (2) Die Höhe des Anteils des Veräußerungserlöses beträgt:
+>
+> 1. 4 Prozent für den Teil des Veräußerungserlöses bis zu 50.000 Euro,
+>
+> 2. 3 Prozent für den Teil des Veräußerungserlöses von 50.000,01 bis 200.000 Euro,
+>
+> 3. 1 Prozent für den Teil des Veräußerungserlöses von 200.000,01 bis 350.000 Euro,
+>
+> 4. 0,5 Prozent für den Teil des Veräußerungserlöses von 350.000,01 bis 500.000 Euro,
+>
+> 5. 0,25 Prozent für den Teil des Veräußerungserlöses über 500.000 Euro.
+>
+> Der Gesamtbetrag der Folgerechtsvergütung aus einer Weiterveräußerung beträgt höchstens 12.500 Euro.
+>
+> (3) Das Folgerecht ist unveräußerlich. Der Urheber kann auf seinen Anteil im Voraus nicht verzichten.
+>
+> (4) Der Urheber kann von einem Kunsthändler oder Versteigerer Auskunft darüber verlangen, welche Originale von Werken des Urhebers innerhalb der letzten drei Jahre vor dem Auskunftsersuchen unter Beteiligung des Kunsthändlers oder Versteigerers weiterveräußert wurden.
+>
+> (5) Der Urheber kann, soweit dies zur Durchsetzung seines Anspruchs gegen den Veräußerer erforderlich ist, von dem Kunsthändler oder Versteigerer Auskunft über den Namen und die Anschrift des Veräußerers sowie über die Höhe des Veräußerungserlöses verlangen. Der Kunsthändler oder Versteigerer darf die Auskunft über Namen und Anschrift des Veräußerers verweigern, wenn er dem Urheber den Anteil entrichtet.
+>
+> (6) Die Ansprüche nach den Absätzen 4 und 5 können nur durch eine Verwertungsgesellschaft geltend gemacht werden.
+>
+> (7) Bestehen begründete Zweifel an der Richtigkeit oder Vollständigkeit einer Auskunft nach Absatz 4 oder 5, so kann die Verwertungsgesellschaft verlangen, dass nach Wahl des Auskunftspflichtigen ihr oder einem von ihm zu bestimmenden Wirtschaftsprüfer oder vereidigten Buchprüfer Einsicht in die Geschäftsbücher oder sonstige Urkunden so weit gewährt wird, wie dies zur Feststellung der Richtigkeit oder Vollständigkeit der Auskunft erforderlich ist. Erweist sich die Auskunft als unrichtig oder unvollständig, so hat der Auskunftspflichtige die Kosten der Prüfung zu erstatten.
+>
+> (8) Die vorstehenden Bestimmungen sind auf Werke der Baukunst und der angewandten Kunst nicht anzuwenden.
+
+Das Folgerecht beteiligt den Urheber an bestimmten Weiterverkäufen von Kunstoriginalen und Lichtbildwerken unter Beteiligung des professionellen Kunstmarkts. Absatz 1 bestimmt Schuldner, mögliche Gesamtschuld und die Schwelle von 400 Euro. Absatz 2 berechnet den Anteil stufenweise und begrenzt ihn auf 12.500 Euro; der höchste einschlägige Satz gilt also nicht für den gesamten Erlös. Absatz 3 schützt vor Veräußerung und Vorausverzicht. Absätze 4 bis 7 sichern die kollektiv geltend zu machenden Auskünfte und eine bei begründeten Zweifeln begrenzte Buchprüfung. Absatz 8 nimmt Baukunst und angewandte Kunst aus.
+
+Beispiel: Ein Gemälde wird über eine Galerie für steuerbereinigt 60.000 Euro weiterverkauft. Der Anteil beträgt 2.000 Euro auf die ersten 50.000 Euro und 300 Euro auf die weiteren 10.000 Euro. Ein rein privater Verkauf ohne professionelle Beteiligung wäre gesondert abzugrenzen.
+
+### § 27 — Vergütung für Vermietung und Verleihen
+
+**Wortlaut der Vorschrift:**
+
+> (1) Hat der Urheber das Vermietrecht (§ 17) an einem Bild- oder Tonträger dem Tonträger- oder Filmhersteller eingeräumt, so hat der Vermieter gleichwohl dem Urheber eine angemessene Vergütung für die Vermietung zu zahlen. Auf den Vergütungsanspruch kann nicht verzichtet werden. Er kann im voraus nur an eine Verwertungsgesellschaft abgetreten werden.
+>
+> (2) Für das Verleihen von Originalen oder Vervielfältigungsstücken eines Werkes, deren Weiterverbreitung nach § 17 Abs. 2 zulässig ist, ist dem Urheber eine angemessene Vergütung zu zahlen, wenn die Originale oder Vervielfältigungsstücke durch eine der Öffentlichkeit zugängliche Einrichtung (Bücherei, Sammlung von Bild- oder Tonträgern oder anderer Originale oder Vervielfältigungsstücke) verliehen werden. Verleihen im Sinne von Satz 1 ist die zeitlich begrenzte, weder unmittelbar noch mittelbar Erwerbszwecken dienende Gebrauchsüberlassung; § 17 Abs. 3 Satz 2 findet entsprechende Anwendung.
+>
+> (3) Die Vergütungsansprüche nach den Absätzen 1 und 2 können nur durch eine Verwertungsgesellschaft geltend gemacht werden.
+
+Absatz 1 erhält dem Urheber nach Einräumung des Vermietrechts an den Tonträger- oder Filmhersteller einen unverzichtbaren Vergütungsanspruch gegen den Vermieter. Die Vorausabtretung ist begrenzt. Absatz 2 ordnet für den nicht erwerbsbezogenen öffentlichen Verleih rechtmäßig weiterverbreitbarer Exemplare eine angemessene Vergütung an und grenzt diesen von der Vermietung ab. Beide Ansprüche können nach Absatz 3 nur durch eine Verwertungsgesellschaft geltend gemacht werden. Die Vorschrift ersetzt nicht die Prüfung, ob die konkrete digitale oder körperliche Überlassung überhaupt dem jeweiligen Tatbestand entspricht.
+
+Beispiel: Eine öffentliche Bibliothek leiht gekaufte Romane aus. Trotz Erschöpfung des Verbreitungsrechts am Buch kann die gesetzliche Bibliotheksvergütung anfallen. Die Autorin macht sie im vorgesehenen kollektiven Verfahren geltend.
+
+**Praxisprüfung Verwertung:** Handlung und technische Übertragungskette beschreiben; jedes betroffene Einzelrecht zuordnen; Öffentlichkeit bestimmen; territoriale Sonderregeln prüfen; Erschöpfung auf das konkrete Exemplar begrenzen; zusätzliche gesetzliche Vergütungen erfassen.

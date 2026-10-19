@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-19",
+  "searches": [
+    {
+      "query": "GII UrhG jüngster Änderungsstand 2026 / BGBl. 2026 I Nr. 157",
+      "evidence": "sources/searches/current-search.json; sources/searches/amendment-search.json; sources/searches/bgbl-search.json"
+    },
+    {
+      "query": "Metall auf Metall / BGH UrhG im amtlichen Webangebot",
+      "evidence": "sources/searches/case-search.json; sources/searches/bgh-search.json",
+      "disposition": "Suchtreffer und Pressemitteilungen nicht als Beleg für einen nicht gelesenen neuen Entscheidungsinhalt verwendet."
+    },
+    {
+      "query": "Lokales RII-Manifest: I ZR 143/12, I ZR 115/16, I ZR 228/15, I ZR 69/19 und weitere gezielte Aktenzeichen",
+      "evidence": "Lokaler Manifestabgleich; Geburtstagszug ausgewählt und amtlich erneut abgerufen.",
+      "disposition": "I ZR 69/19 vom 5.3.2020 betrifft Maklerrecht; trotz passendem Aktenzeichen als sachfremd ausgeschlossen. Snapshot als Recherchebeleg erhalten."
+    },
+    {
+      "query": "Gezielter amtlicher Volltextabruf: UsedSoft C-128/11 und Cofemel C-683/17",
+      "evidence": "sources/authority-fetch.json",
+      "disposition": "Direktabruf ohne verwertbaren Text verworfen; vollständige amtliche Seiten über Firecrawl einschließlich Roh-HTML erhalten und gelesen."
+    }
+  ],
+  "coverage": "Selektive Recherche; keine Vollständigkeit der Rechtsprechung beansprucht.",
+  "technical_units": "Für technische, leere und reine Übergangseinheiten wurde keine hinreichend spezifische zusätzliche verifizierte Entscheidung aufgenommen. Die drei Karten werden nicht künstlich auf alle Einheiten verteilt."
+}

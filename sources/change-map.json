@@ -1,0 +1,20 @@
+{
+  "original_path": "/Volumes/LaCie/law-intake/eu/de/gesetze/gii-urhg.md",
+  "preserved_copy": "sources/intake-2026-10-02.md",
+  "original_sha256": "56ee76d990545dcd43664fde645208592e71003c18acff0db4eb60cabe111dcf",
+  "original_retrieved_at": "2026-10-02T00:40:25Z",
+  "official_builddate": "20260529215505",
+  "official_latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
+  "paragraphs_not_found_in_intake": [],
+  "result": "Keine Wortlautabweichung der extrahierten Vorschriften gegenüber der Aufnahme festgestellt.",
+  "latest_amendment": {
+    "citation": "Art. 2 G v. 26.5.2026, BGBl. 2026 I Nr. 157",
+    "promulgated": "2026-05-29",
+    "effective": "2026-05-30",
+    "evidence": "sources/bgbl-2026-157.txt",
+    "changes": [
+      "§ 54d: Aktualisierung des Verweises auf das Umsatzsteuergesetz.",
+      "§ 87b Abs. 3: Ausnahme nach Art. 43 der Verordnung (EU) 2023/2854."
+    ]
+  }
+}
