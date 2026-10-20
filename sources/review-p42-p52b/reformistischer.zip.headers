@@ -1,0 +1,19 @@
+Date: Tue, 20 Oct 2026 12:31:53 GMT
+Server: Apache
+Cache-Control: no-store, no-cache, must-revalidate
+Last-Modified: Tue, 20 Oct 2026 12:31:53 GMT
+Content-Type: application/zip
+tdm-reservation: 1
+Set-Cookie: JSESSIONID=C1C2C43583FF3B42E49E18E3CB074709.jp15; Path=/; Secure
+Accept-Ranges: bytes
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=604800; includeSubDomains
+Content-Security-Policy: default-src 'self' juris.de *.juris.de; frame-ancestors 'self' https://anwaltsblatt.anwaltverein.de https://www.stollfuss.de https://*.officeapps.live.com https://*.office.com https://*.microsoft365.com https://*.cloud.microsoft https://*.sharepoint.com; form-action 'self' juris.de *.juris.de; frame-src 'self' juris.de *.juris.de *.otto-schmidt.de consent.cookiebot.com consentcdn.cookiebot.com juris.softgarden.io outlook.office.com bookings.cloud.microsoft doo.net facebook.com; img-src 'self' blob: data: juris.de *.juris.de *.beesender.com www.googletagmanager.com bookings.cloud.microsoft www.google.com www.google.de pagead2.googlesyndication.com googleads.g.doubleclick.net bat.bing.net bat.bing.com *.mouseflow.com www.facebook.com connect.facebook.net *.linkedin.com *.lincdn.com; font-src 'self' data: fonts.googleapis.com fonts.gstatic.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval' www.etracker.de www.etracker.com code.etracker.de code.etracker.com *.beesender.com www.googletagmanager.com consent.cookiebot.com consentcdn.cookiebot.com doo.net unpkg.com googleads.g.doubleclick.net cdn.mouseflow.com appsforoffice.microsoft.com bat.bing.net bat.bing.com connect.facebook.net snap.licdn.com; connect-src 'self' juris.de *.juris.de wss://*.beesender.com https://*.beesender.com https://consent.cookiebot.com https://consentcdn.cookiebot.com https://eu-api.friendlycaptcha.eu https://www.etracker.de https://www.etracker.com https://www.google.com https://www.google.de https://pagead2.googlesyndication.com https://ad.doubleclick.net https://bat.bing.net https://bat.bing.com https://*.mouseflow.com https://graph.facebook.com https://www.facebook.com https://*.linkedin.com https://*.licdn.com https://*.creatio.com; worker-src 'self' blob: juris.de *.juris.de; upgrade-insecure-requests;
+Cross-Origin-Embedder-Policy: unsafe-none
+Cross-Origin-Resource-Policy: cross-origin
+Cross-Origin-Opener-Policy: none
+Referrer-Policy: no-referrer-when-downgrade
+Permissions-Policy: geolocation=(), microphone=(self "https://juris.de" "https://*.juris.de"), camera=(), payment=(self "https://juris.de" "https://*.juris.de"), usb=(), accelerometer=(), gyroscope=(), magnetometer=(), fullscreen=(self "https://juris.de" "https://*.juris.de"), sync-xhr=(self "https://juris.de" "https://*.juris.de"), autoplay=(self "https://juris.de" "https://*.juris.de"), encrypted-media=(self "https://juris.de" "https://*.juris.de"), picture-in-picture=(self "https://juris.de" "https://*.juris.de")
+Transfer-Encoding: chunked
+Connection: close
+

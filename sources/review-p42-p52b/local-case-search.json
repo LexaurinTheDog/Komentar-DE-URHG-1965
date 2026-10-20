@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "rii-kore301042020",
+    "source": "rii",
+    "doknr": "KORE301042020",
+    "ecli": "ECLI:DE:BGH:2020:300420UIZR115.16.0",
+    "court": "BGH",
+    "date": "2020-04-30",
+    "case_number": "I ZR 115/16",
+    "chars": 65165,
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore301042020.md"
+  },
+  {
+    "slug": "rii-kore301742017",
+    "source": "rii",
+    "doknr": "KORE301742017",
+    "ecli": "ECLI:DE:BGH:2017:010617BIZR115.16.0",
+    "court": "BGH",
+    "date": "2017-06-01",
+    "case_number": "I ZR 115/16",
+    "chars": 43031,
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore301742017.md"
+  },
+  {
+    "slug": "rii-kore302102017",
+    "source": "rii",
+    "doknr": "KORE302102017",
+    "ecli": "ECLI:DE:BGH:2017:270717BIZR228.15.0",
+    "court": "BGH",
+    "date": "2017-07-27",
+    "case_number": "I ZR 228/15",
+    "chars": 54558,
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore302102017.md"
+  },
+  {
+    "slug": "rii-kore306052020",
+    "source": "rii",
+    "doknr": "KORE306052020",
+    "ecli": "ECLI:DE:BGH:2020:300420UIZR228.15.0",
+    "court": "BGH",
+    "date": "2020-04-30",
+    "case_number": "I ZR 228/15",
+    "chars": 70508,
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore306052020.md"
+  },
+  {
+    "slug": "rii-kore314472016",
+    "source": "rii",
+    "doknr": "KORE314472016",
+    "ecli": "ECLI:DE:BGH:2016:051016UVIIIZR228.15.0",
+    "court": "BGH",
+    "date": "2016-10-05",
+    "case_number": "VIII ZR 228/15",
+    "chars": 21186,
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore314472016.md"
+  },
+  {
+    "slug": "rii-kore305002023",
+    "source": "rii",
+    "doknr": "KORE305002023",
+    "ecli": "ECLI:DE:BGH:2023:140923BIZR74.22.0",
+    "court": "BGH",
+    "date": "2023-09-14",
+    "case_number": "I ZR 74/22",
+    "chars": 33461,
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore305002023.md"
+  },
+  {
+    "slug": "rii-kore307292026",
+    "source": "rii",
+    "doknr": "KORE307292026",
+    "ecli": "ECLI:DE:BGH:2026:030926UIZR74.22.0",
+    "court": "BGH",
+    "date": "2026-09-03",
+    "case_number": "I ZR 74/22",
+    "chars": 40587,
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore307292026.md"
+  },
+  {
+    "slug": "rii-kore706282026",
+    "source": "rii",
+    "doknr": "KORE706282026",
+    "ecli": "ECLI:DE:BGH:2026:170326BIIZR74.22.0",
+    "court": "BGH",
+    "date": "2026-03-17",
+    "case_number": "II ZR 74/22",
+    "chars": 7551,
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore706282026.md"
+  }
+]

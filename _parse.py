@@ -31,12 +31,13 @@ for n in root:
     for x in node.findall('.//noindex'):x.getparent().remove(x)
     content=txt(node);notes=[txt(x) for x in n.findall('textdaten/fussnoten/Content') if txt(x)]
     notes+=editorial
-    labels=['§ 52a','§ 52b'] if '52a und 52b' in label else [label]
+    labels=[label]  # Preserve the official jointly repealed slot as one norm.
     for lab in labels:
         annex=lab.startswith('Anlage'); match=re.fullmatch(r'§ (\d+)([a-z]?)',lab)
-        if not (annex or match):raise ValueError(lab)
-        ident='anlage' if annex else 'p'+match.group(1)+match.group(2)
-        num=999 if annex else int(match.group(1))+(0.1 if match.group(2) else 0)
+        joint=lab=='(XXXX) §§ 52a und 52b'
+        if not (annex or match or joint):raise ValueError(lab)
+        ident='anlage' if annex else 'p52a-52b' if joint else 'p'+match.group(1)+match.group(2)
+        num=999 if annex else 52.1 if joint else int(match.group(1))+(0.1 if match.group(2) else 0)
         chapter=max(c[0] for c in chapters if num>=c[3])
         body=content
         if not body:
@@ -45,7 +46,9 @@ for n in root:
             notes=notes+['Das amtliche XML enthält hier keinen Vorschriftentext; der Wegfallvermerk stammt aus dem amtlichen Titel.']
         units.append(dict(id=ident,label=lab,title=title,chapter=chapter,structure=[v for k,v in structures],text=body,notes=notes,official_doknr=n.get('doknr')))
         dispositions.append(dict(id=ident,doknr=n.get('doknr'),empty_body=not bool(content),repealed=title=='(weggefallen)',xml_text_sha256=hashlib.sha256(content.encode()).hexdigest()))
-assert len(units)==255
+expected_norms=[n for n in root if n.find('metadaten/enbez') is not None and n.findtext('metadaten/enbez')!='Inhaltsübersicht']
+assert len(units)==len(expected_norms)
+assert len({u['official_doknr'] for u in units})==len(units)
 (W/'units.jsonl').write_text(''.join(json.dumps(u,ensure_ascii=False)+'\n' for u in units))
 canonical=['# Amtlich extrahierter konsolidierter Text des UrhG','Quelle: https://www.gesetze-im-internet.de/urhg/xml.zip',txt(root[0].find('textdaten/fussnoten'))]
 for u in units:canonical += ['## '+u['label']+' '+u['title'],u['text'],*u['notes']]

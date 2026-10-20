@@ -460,6 +460,164 @@
       "expected_format_validated": true,
       "derived_from": "sources/review-p32c-p41/werknutzer.zip",
       "format": "Parsed expected official XML; law abbreviation / case docket verified"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T12:29:54.014854+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/current.zip",
+      "headers_path": "sources/review-p42-p52b/current.zip.headers",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "accessed_at": "2026-10-20T12:29:54.015210+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/index.html",
+      "headers_path": "sources/review-p42-p52b/index.html.headers",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "accessed_at": "2026-10-20T12:29:54.015296+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/full.html",
+      "headers_path": "sources/review-p42-p52b/full.html.headers",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T12:29:54.015355+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/aktuell.html",
+      "headers_path": "sources/review-p42-p52b/aktuell.html.headers",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T12:29:54.515551+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/amendment.pdf",
+      "headers_path": "sources/review-p42-p52b/amendment.pdf.headers",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "accessed_at": "2026-10-20T12:29:54.630426+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/current.pdf",
+      "headers_path": "sources/review-p42-p52b/current.pdf.headers",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://infocuria.curia.europa.eu/tabs/affair?lang=de&publishedId=C-590%2F23&searchTerm=C-590%2F23",
+      "final_url": "https://infocuria.curia.europa.eu/tabs/affair?lang=de&publishedId=C-590%2F23&searchTerm=C-590%2F23",
+      "accessed_at": "2026-10-20T12:31:53.140402+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/pelham-info.html",
+      "headers_path": "sources/review-p42-p52b/pelham-info.html.headers",
+      "sha256": "413824fbbaa5c6d60c5e8a24f6bd3861e173e4a45ae5e1490e78df16ce269fb6",
+      "bytes": 130226,
+      "expected_format_validated": true,
+      "purpose": "discovery_only_not_judgment_authority"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE306052020.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE306052020.zip",
+      "accessed_at": "2026-10-20T12:31:53.141692+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/reformistischer.zip",
+      "headers_path": "sources/review-p42-p52b/reformistischer.zip.headers",
+      "sha256": "bc60a833224e4a38417db38b2591e3b0c31e53154e23757f5780698e22c872a9",
+      "bytes": 223967,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026162.html",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026162.html",
+      "accessed_at": "2026-10-20T12:32:17.229924+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/bgh-followup.html",
+      "sha256": "274cdf1e809a483df48d25455bb8a45b612e0e1e8c0b35898ab39f99dc8c8a82",
+      "bytes": 39896,
+      "expected_format_validated": true,
+      "purpose": "discovery_only_not_judgment_authority"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__74-22.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T12:32:50.608220+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/metall-0.pdf",
+      "sha256": "5ad566e56dd8ed8c80425c411c775bce596fce063be8f281c6a478f337bf23d3",
+      "bytes": 105432,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__74-22A.pdf?__blob=publicationFile&v=4",
+      "accessed_at": "2026-10-20T12:32:50.814868+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/metall-1.pdf",
+      "sha256": "58594ca07f2ef84b7e27ca1f0b78bf420bedd7352dbfcb4107e9c8ab2ae61b73",
+      "bytes": 121890,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307292026.zip",
+      "accessed_at": "2026-10-20T12:34:05.169718+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/metall-vi.zip",
+      "sha256": "1a191074288affdeaceba9e18adb7cf71df32b0e949f1159ab02e7aeb0ac9be5",
+      "bytes": 13583,
+      "expected_format_validated": true,
+      "headers_path": "sources/review-p42-p52b/metall-vi.headers"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T12:29:54.014854+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "expected_format_validated": true,
+      "derived_from": "sources/review-p42-p52b/current.zip",
+      "format": "Official XML; expected law abbreviation or case docket/date checked"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE306052020.zip",
+      "accessed_at": "2026-10-20T12:31:53.141692+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/reformistischer.xml",
+      "sha256": "cca6d69a3b88460ef903f478b1b9ec381551ca09e34cbce8749a4d6e926ff1ea",
+      "expected_format_validated": true,
+      "derived_from": "sources/review-p42-p52b/reformistischer.zip",
+      "format": "Official XML; expected law abbreviation or case docket/date checked"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307292026.zip",
+      "accessed_at": "2026-10-20T12:34:05.169718+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p42-p52b/metall-vi.xml",
+      "sha256": "b2f50023da10b78f3d6bf399ba35ce23f63693139316692c74d9cfb86cc50f2e",
+      "expected_format_validated": true,
+      "derived_from": "sources/review-p42-p52b/metall-vi.zip",
+      "format": "Official XML; expected law abbreviation or case docket/date checked"
     }
   ],
   "version": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
@@ -700,5 +858,150 @@
     "effective_from": "2026-05-30",
     "verification_of_effective_date": "Art. 2 und 3 des erneut identisch erhaltenen Änderungsgesetzes gelesen: ändert §§ 54d/87b, Verkündung 29.05.2026, Inkrafttreten am Folgetag. Keine zusätzliche Änderung seit Aufnahme im amtlichen konsolidierten Text nachgewiesen.",
     "fetch_log": "sources/review-p32c-p41/fetch-results.json"
-  }
+  },
+  "bounded_review_p42_p52b": {
+    "verified_at": "2026-10-20T12:40:48.774901+00:00",
+    "reviewed_ids": [
+      "p42",
+      "p42a",
+      "p43",
+      "p44",
+      "p44a",
+      "p44b",
+      "p45",
+      "p45a",
+      "p45b",
+      "p45c",
+      "p45d",
+      "p46",
+      "p47",
+      "p48",
+      "p49",
+      "p50",
+      "p51",
+      "p51a",
+      "p52",
+      "p52a-52b"
+    ],
+    "current_xml_unchanged": true,
+    "effective_from": "2026-05-30",
+    "verification_of_effective_date": "Ein amtlicher Konsolidierungsstand, kein historisches Vollarchiv. Inkrafttreten der letzten Änderung aus Art. 3 BGBl. 2026 I Nr. 157 mit Verkündung 29.5.2026 als 30.5.2026 belegt; Art. 2 betrifft §§ 54d/87b, nicht diese 20 Einheiten.",
+    "fetch_log": "sources/review-p42-p52b/fetch-results.json",
+    "case_fetch_log": "sources/review-p42-p52b/case-fetch-results.json"
+  },
+  "rejected_attempts": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62017CJ0516",
+      "accessed_at": "2026-10-20T12:30:41.277200+00:00",
+      "error": "Document is empty",
+      "expected_format_validated": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0590",
+      "accessed_at": "2026-10-20T12:30:41.277677+00:00",
+      "error": "Document is empty",
+      "expected_format_validated": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62013CJ0360",
+      "accessed_at": "2026-10-20T12:30:41.277796+00:00",
+      "error": "Document is empty",
+      "expected_format_validated": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62017CJ0516",
+      "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62017CJ0516",
+      "accessed_at": "2026-10-20T12:31:21.644310+00:00",
+      "http_status": 202,
+      "response_path": "sources/review-p42-p52b/rejected-spiegel-online.pdf.body",
+      "headers_path": "sources/review-p42-p52b/spiegel-online.pdf.headers",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "expected_format_validated": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62023CJ0590",
+      "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62023CJ0590",
+      "accessed_at": "2026-10-20T12:31:21.644781+00:00",
+      "http_status": 202,
+      "response_path": "sources/review-p42-p52b/rejected-pelham-2026.pdf.body",
+      "headers_path": "sources/review-p42-p52b/pelham-2026.pdf.headers",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "expected_format_validated": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62013CJ0360",
+      "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62013CJ0360",
+      "accessed_at": "2026-10-20T12:31:21.644874+00:00",
+      "http_status": 202,
+      "response_path": "sources/review-p42-p52b/rejected-prca.pdf.body",
+      "headers_path": "sources/review-p42-p52b/prca.pdf.headers",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "expected_format_validated": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:62023CJ0590:DE:HTML",
+      "final_url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:62023CJ0590:DE:HTML",
+      "accessed_at": "2026-10-20T12:31:53.047198+00:00",
+      "http_status": 202,
+      "response_path": "sources/review-p42-p52b/rejected-pelham-2026-lexuri.html.body",
+      "headers_path": "sources/review-p42-p52b/pelham-2026-lexuri.html.headers",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "expected_format_validated": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023CJ0590",
+      "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023CJ0590",
+      "accessed_at": "2026-10-20T12:31:53.047735+00:00",
+      "http_status": 202,
+      "response_path": "sources/review-p42-p52b/rejected-pelham-2026-plain.pdf.body",
+      "headers_path": "sources/review-p42-p52b/pelham-2026-plain.pdf.headers",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "expected_format_validated": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62017CJ0516",
+      "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62017CJ0516",
+      "accessed_at": "2026-10-20T12:31:53.047830+00:00",
+      "http_status": 202,
+      "response_path": "sources/review-p42-p52b/rejected-spiegel-online-plain.pdf.body",
+      "headers_path": "sources/review-p42-p52b/spiegel-online-plain.pdf.headers",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "expected_format_validated": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62013CJ0360",
+      "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62013CJ0360",
+      "accessed_at": "2026-10-20T12:31:53.047888+00:00",
+      "http_status": 202,
+      "response_path": "sources/review-p42-p52b/rejected-prca-plain.pdf.body",
+      "headers_path": "sources/review-p42-p52b/prca-plain.pdf.headers",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "expected_format_validated": false
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/62023CJ0590.DEU.html",
+      "accessed_at": "2026-10-20T12:32:17.229412+00:00",
+      "error": "HTTP Error 404: ",
+      "expected_format_validated": false
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/62017CJ0516.DEU.html",
+      "accessed_at": "2026-10-20T12:32:17.229779+00:00",
+      "error": "HTTP Error 404: ",
+      "expected_format_validated": false
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/62013CJ0360.DEU.html",
+      "accessed_at": "2026-10-20T12:32:17.229867+00:00",
+      "error": "HTTP Error 404: ",
+      "expected_format_validated": false
+    }
+  ]
 }

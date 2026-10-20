@@ -1,0 +1,595 @@
+                BUNDESGERICHTSHOF
+                                   BESCHLUSS
+I ZR 74/22
+                                                                           Verkündet am:
+                                                                           14. September 2023
+                                                                           Hemminger
+                                                                           Justizangestellte
+                                                                           als Urkundsbeamtin
+                                                                           der Geschäftsstelle
+
+                                    in dem Rechtsstreit
+
+Nachschlagewerk:            ja
+BGHZ:                     nein
+BGHR:                       ja
+
+                                                                                  Metall auf Metall V
+
+Richtlinie 2001/29/EG Art. 5 Abs. 3 Buchst. k
+
+Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 5 Abs. 3 Buchst. k der Richt-
+linie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. Mai 2001 zur Harmonisierung
+bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in der Informationsgesell-
+schaft (ABl. L 167 vom 22. Juni 2001, S. 10) folgende Fragen zur Vorabentscheidung vorgelegt:
+      1. Ist die Schrankenregelung der Nutzung zum Zwecke von Pastiches im Sinne des Art. 5
+         Abs. 3 Buchst. k der Richtlinie 2001/29/EG ein Auffangtatbestand jedenfalls für eine
+         künstlerische Auseinandersetzung mit einem vorbestehenden Werk oder sonstigen Be-
+         zugsgegenstand einschließlich des Sampling? Gelten für den Begriff des Pastiche ein-
+         schränkende Kriterien wie das Erfordernis von Humor, Stilnachahmung oder Hom-
+         mage?
+      2. Erfordert die Nutzung "zum Zwecke" eines Pastiche im Sinne des Art. 5 Abs. 3
+         Buchst. k der Richtlinie 2001/29/EG die Feststellung einer Absicht des Nutzers, einen
+         urheberrechtlichen Schutzgegenstand zum Zwecke eines Pastiche zu nutzen oder ge-
+         nügt die Erkennbarkeit des Charakters als Pastiche für denjenigen, dem der in Bezug
+         genommene urheberrechtliche Schutzgegenstand bekannt ist und der das für die Wahr-
+         nehmung des Pastiche erforderliche intellektuelle Verständnis besitzt?
+
+BGH, Beschluss vom 14. September 2023 - I ZR 74/22 - OLG Hamburg
+                                                      LG Hamburg
+
+
+
+
+ECLI:DE:BGH:2023:140923BIZR74.22.0
+                                          -2-
+
+
+      Der I. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+vom 1. Juni 2023 durch den Vorsitzenden Richter Prof. Dr. Koch, den Richter
+Dr. Löffler, die Richterin Dr. Schwonke, den Richter Feddersen und die Richterin
+Dr. Schmaltz
+
+beschlossen:
+
+
+      I.   Das Verfahren wird ausgesetzt.
+
+      II. Dem Gerichtshof der Europäischen Union werden zur Auslegung von
+           Art. 5 Abs. 3 Buchst. k der Richtlinie 2001/29/EG des Europäischen
+           Parlaments und des Rates vom 22. Mai 2001 zur Harmonisierung
+           bestimmter Aspekte des Urheberrechts und der verwandten Schutz-
+           rechte in der Informationsgesellschaft (ABl. L 167 vom 22. Juni 2001,
+           S. 10) folgende Fragen zur Vorabentscheidung vorgelegt:
+
+               1. Ist die Schrankenregelung der Nutzung zum Zwecke von
+                  Pastiches im Sinne des Art. 5 Abs. 3 Buchst. k der Richt-
+                  linie 2001/29/EG ein Auffangtatbestand jedenfalls für eine
+                  künstlerische Auseinandersetzung mit einem vorbeste-
+                  henden Werk oder sonstigen Bezugsgegenstand ein-
+                  schließlich des Sampling? Gelten für den Begriff des
+                  Pastiche einschränkende Kriterien wie das Erfordernis
+                  von Humor, Stilnachahmung oder Hommage?
+
+               2. Erfordert die Nutzung "zum Zwecke" eines Pastiche im
+                  Sinne   des   Art. 5   Abs. 3   Buchst. k   der   Richtlinie
+                  2001/29/EG die Feststellung einer Absicht des Nutzers,
+                  einen urheberrechtlichen Schutzgegenstand zum Zwecke
+                  eines Pastiche zu nutzen oder genügt die Erkennbarkeit
+                  des Charakters als Pastiche für denjenigen, dem der in
+                  Bezug genommene urheberrechtliche Schutzgegenstand
+                  bekannt ist und der das für die Wahrnehmung des Pasti-
+                  che erforderliche intellektuelle Verständnis besitzt?
+                                             -3-
+
+
+                                           Gründe:
+
+
+1         A. Der Kläger zu 1 und der am 21. April 2020 verstorbene frühere Kläger zu 2,
+    dessen Rechtsnachfolgerin die jetzige Klägerin zu 2 ist, waren Mitglieder der Musik-
+    gruppe "Kraftwerk". Diese veröffentlichte im Jahr 1977 einen Tonträger, auf dem sich
+    das Musikstück "Metall auf Metall" befindet. Die Beklagten zu 2 und 3 sind die Kom-
+    ponisten des Titels "Nur mir", den die Beklagte zu 1 mit der Sängerin Sabrina Setlur
+    auf im Jahr 1997 erschienenen Tonträgern eingespielt hat.
+
+2         Die Kläger behaupten, die Beklagten hätten etwa zwei Sekunden einer Rhyth-
+    mussequenz aus dem Titel "Metall auf Metall" elektronisch kopiert ("gesampelt") und
+    dem Titel "Nur mir" in fortlaufender Wiederholung unterlegt, obwohl es ihnen möglich
+    gewesen wäre, die übernommene Rhythmussequenz selbst einzuspielen. Sie meinen,
+    die Beklagten hätten damit ihr Leistungsschutzrecht als Tonträgerhersteller verletzt.
+    Hilfsweise stützen sie sich auf ihr Leistungsschutzrecht als ausübende Künstler, weiter
+    hilfsweise auf die Verletzung des Urheberrechts des Klägers zu 1 am Musikwerk und
+    äußerst hilfsweise auf wettbewerbsrechtlichen Leistungsschutz.
+
+3         Die Kläger haben die Beklagten auf Unterlassung in Anspruch genommen, Ton-
+    träger mit der Aufnahme "Nur mir" herzustellen und/oder herstellen zu lassen, anzu-
+    bieten und/oder anbieten zu lassen und/oder sonst in den Verkehr zu bringen und/oder
+    in den Verkehr bringen zu lassen. Außerdem haben sie die Feststellung der Scha-
+    densersatzpflicht der Beklagten, Auskunftserteilung und Herausgabe der Tonträger
+    zum Zweck der Vernichtung verlangt.
+
+4         Das Landgericht hat der Klage stattgegeben (LG Hamburg, Urteil vom 8. Okto-
+    ber 2004 - 308 O 90/99, juris). Die Berufung der Beklagten ist ohne Erfolg geblieben
+    (OLG Hamburg, GRUR-RR 2007, 3). Auf die Revision der Beklagten hat der Senat
+    das Berufungsurteil aufgehoben und die Sache zur neuen Verhandlung und Entschei-
+    dung an das Berufungsgericht zurückverwiesen (Urteil vom 20. November 2008
+    - I ZR 112/06, GRUR 2009, 403 = WRP 2009, 308 - Metall auf Metall I).
+                                             -4-
+
+
+5         Im wiedereröffneten Berufungsverfahren hat das Berufungsgericht die Berufung
+    der Beklagten erneut zurückgewiesen (OLG Hamburg, GRUR-RR 2011, 396). Die Re-
+    vision der Beklagten hat der Senat zurückgewiesen (Urteil vom 13. Dezember 2012
+    - I ZR 182/11, GRUR 2013, 614 = WRP 2013, 804 - Metall auf Metall II).
+
+6         Das Bundesverfassungsgericht hat beide vorangegangenen Revisionsurteile
+    des Senats und das zweite Berufungsurteil aufgehoben und die Sache an den Bun-
+    desgerichtshof zurückverwiesen (BVerfGE 142, 74).
+
+7         Im erneuten Revisionsverfahren hat der Senat dem Gerichtshof der Euro-
+    päischen Union Fragen zur Auslegung von Art. 2 Buchst. c und Art. 5 Abs. 3 Buchst. d
+    der Richtlinie 2001/29/EG sowie von Art. 9 Abs. 1 Buchst. b der Richtlinie
+    2006/115/EG zur Vorabentscheidung vorgelegt (BGH, Beschluss vom 1. Juni 2017
+    - I ZR 115/16, GRUR 2017, 895 = WRP 2017, 1114 - Metall auf Metall III), die dieser
+    sodann beantwortet hat (EuGH, Urteil vom 29. Juli 2019 - C-476/17, GRUR 2019, 929
+    = WRP 2019, 1156 - Pelham u.a.).
+
+8         Mit dem dritten Revisionsurteil hat der Senat auf die Revision der Beklagten die
+    Entscheidung des Berufungsgerichts aufgehoben und die Sache zur neuen Verhand-
+    lung und Entscheidung an das Berufungsgericht zurückverwiesen (BGH, Urteil vom
+    30. April 2020 - I ZR 115/16, BGHZ 225, 222 - Metall auf Metall IV).
+
+9         Das Berufungsgericht hat das Urteil des Landgerichts nunmehr dahingehend
+    abgeändert, dass die Beklagten unter Abweisung der weitergehenden Klage zur Aus-
+    kunft über die Anzahl der zwischen dem 22. Dezember 2002 und dem 7. Juni 2021
+    hergestellten und/oder ausgelieferten Tonträger mit Schallaufnahmen des Titels "Nur
+    mir", wie sie sich auf zwei näher bezeichneten Tonträgern befinden, sowie zur Heraus-
+    gabe von Vervielfältigungsstücken dieser Tonträger zum Zwecke der Vernichtung ver-
+    urteilt werden und insoweit ihre Verpflichtung zum Schadensersatz festgestellt wird
+    (OLG Hamburg, GRUR 2022, 1217). Das Berufungsgericht hat die Revision zugelas-
+    sen, soweit es hinsichtlich der geltend gemachten Ansprüche ab dem 7. Juni 2021
+    zum Nachteil der Kläger erkannt hat. Die Kläger verfolgen mit ihrer Revision, deren
+    Zurückweisung die Beklagten beantragen, ihre mit der Klage ab dem 7. Juni 2021 gel-
+    tend gemachten Ansprüche weiter.
+                                              -5-
+
+
+10         B. Der Erfolg der Revision hängt von der Auslegung von Art. 5 Abs. 3 Buchst. k
+     der Richtlinie 2001/29/EG zur Harmonisierung bestimmter Aspekte des Urheberrechts
+     und der verwandten Schutzrechte in der Informationsgesellschaft ab. Vor einer Ent-
+     scheidung über die Revision der Kläger ist deshalb das Verfahren auszusetzen und
+     gemäß Art. 267 Abs. 1 Buchst. b und Abs. 3 AEUV eine Vorabentscheidung des Ge-
+     richtshofs der Europäischen Union einzuholen.
+
+11         I. Das Berufungsgericht hat bei seiner rechtlichen Beurteilung zwischen drei
+     zeitlichen Phasen unterschieden und die Rechtslage vor Ablauf der Umsetzungsfrist
+     der Richtlinie 2001/29/EG am 22. Dezember 2002, die Rechtslage nach Ablauf der
+     Umsetzungsfrist der Richtlinie 2001/29/EG ab dem 22. Dezember 2002 bis zum In-
+     krafttreten der Schrankenregelung des § 51a UrhG nF am 7. Juni 2021 und die
+     Rechtslage seit Inkrafttreten des § 51a UrhG nF am 7. Juni 2021 gesondert betrachtet.
+
+12         Für den Zeitraum vor Ablauf der Umsetzungsfrist der Richtlinie 2001/29/EG am
+     22. Dezember 2002, also den Zeitraum, in den die Veröffentlichung der beiden Ton-
+     träger mit dem Titel "Nur mir" im Jahr 1997 fällt, hat das Berufungsgericht eine Rechts-
+     verletzung verneint. Es hat angenommen, eine Verletzung der Rechte der Kläger als
+     Tonträgerhersteller oder als ausübende Künstler oder der Rechte des Klägers zu 1 als
+     Urheber scheide nach § 24 UrhG aF aus, weil die Beklagten in freier Benutzung des
+     Musikstücks "Metall auf Metall" mit dem Musikstück "Nur mir" ein selbständiges Werk
+     geschaffen hätten.
+
+13         Für den Zeitraum nach Ablauf der Umsetzungsfrist der Richtlinie 2001/29/EG
+     ab dem 22. Dezember 2002 bis zum Inkrafttreten der Schrankenregelung des § 51a
+     UrhG nF am 7. Juni 2021 hat das Berufungsgericht die Beklagten zur Auskunftsertei-
+     lung und Rechnungslegung sowie Herausgabe zum Zwecke der Vernichtung verurteilt
+     und ihre Schadensersatzpflicht festgestellt. Es hat angenommen, die Beklagten hätten
+     im Jahr 2004 erneut zwei Tonträger mit den Aufnahmen des Titels "Nur mir" veröffent-
+     licht. Damit hätten die Beklagten das Recht der Kläger als Tonträgerhersteller zur Ver-
+     vielfältigung ihres Tonträgers verletzt, weil die übernommene Sequenz aus "Metall auf
+     Metall" in dem Titel "Nur mir" deutlich wahrnehmbar und für den mit dem Werk der
+     Kläger vertrauten Hörer erkennbar sei. Das Recht der Kläger als Tonträgerhersteller
+                                              -6-
+
+
+     zur Verbreitung ihres Tonträgers sei dagegen nicht verletzt, weil ein Tonträger, der von
+     einem anderen Tonträger übertragene Musikfragmente enthalte, keine Kopie dieses
+     Tonträgers darstelle. Entsprechendes gelte für die Verletzung der Rechte der Kläger
+     als ausübende Künstler. Die geltend gemachten Ansprüche seien dagegen ohne Ein-
+     schränkungen wegen einer Verletzung des Urheberrechts des Klägers zu 1 an der
+     übernommenen Rhythmussequenz begründet. Die übernommene Rhythmussequenz
+     erfülle die Anforderungen an ein urheberrechtlich geschütztes Werk. Die Beklagten
+     hätten dieses Urheberrecht mit der Herstellung und Auslieferung der beiden Tonträger
+     im Jahr 2004 verletzt. Da insoweit eine 1:1-Kopie vorliege, beziehe sich der Anspruch
+     des Klägers zu 1 nicht nur auf die hergestellten, sondern auch auf die verbreiteten
+     Tonträger.
+
+14         Für den Zeitraum seit Inkrafttreten des § 51a UrhG nF am 7. Juni 2021 hat das
+     Berufungsgericht eine Rechtsverletzung verneint. Es hat angenommen, der Unterlas-
+     sungsanspruch sei nicht begründet und die Annexansprüche auf Auskunft, Heraus-
+     gabe zum Zwecke der Vernichtung und Schadensersatzfeststellung seien ab dem
+     7. Juni 2021 nicht (mehr) gegeben, weil die Übernahme der Rhythmussequenz aus
+     dem Titel "Metall auf Metall" im Wege des Sampling ein Pastiche im Sinne des § 51a
+     Satz 1 UrhG in der ab diesem Tag geltenden Fassung sei, so dass es an einer Verlet-
+     zung der Vervielfältigungsrechte der Kläger als Tonträgerhersteller und als ausübende
+     Künstler sowie der Rechte (Vervielfältigungsrecht und Verbreitungsrecht) des Klägers
+     zu 1 als Urheber fehle.
+
+15         II. Die Revision hat Erfolg, wenn das Berufungsgericht zu Unrecht angenommen
+     hat, dass die von den Klägern geltend gemachten Ansprüche auf Unterlassung und
+     Feststellung der Schadensersatzpflicht (§ 97 UrhG), Auskunftserteilung (§ 242 BGB)
+     und Herausgabe der Tonträger zum Zwecke der Vernichtung (§ 98 UrhG) ab dem
+     7. Juni 2021 ausgeschlossen sind, weil die Übernahme der Rhythmussequenz aus
+     dem Titel "Metall auf Metall" im Wege des Sampling eine nach § 51a Satz 1 UrhG in
+     der ab dem 7. Juni 2021 geltenden Fassung zulässige Nutzung zum Zwecke des
+     Pastiches ist, so dass keine Verletzung der von den Klägern geltend gemachten Leis-
+     tungsschutzrechte als Tonträgerhersteller oder ausübende Künstler sowie des Urhe-
+     berrechts des Klägers zu 1 vorliegt.
+                                             -7-
+
+
+16         1. Das Berufungsgericht hat zu Recht einen Eingriff in die Vervielfältigungs-
+     rechte der Kläger als Tonträgerhersteller gemäß § 85 Abs. 1 Satz 1 Fall 1 UrhG und
+     als ausübende Künstler gemäß § 77 Abs. 2 Satz 1 UrhG sowie in die Vervielfältigungs-
+     und Verbreitungsrechte des Klägers zu 1 als Urheber gemäß § 15 Abs. 1 Nr. 1 und 2,
+     § 16 Abs. 1, § 17 Abs. 1 UrhG bejaht.
+
+17         a) Einen Eingriff in die Rechte der Kläger als Tonträgerhersteller und ausübende
+     Künstler gemäß § 85 Abs. 1 Satz 1 Fall 1, § 77 Abs. 2 Satz 1 UrhG hat das Berufungs-
+     gericht rechtsfehlerfrei im Hinblick darauf angenommen, dass die Beklagten die Rhyth-
+     mussequenz zwar in leicht geänderter, aber beim Hören wiedererkennbarer Form
+     übernommen haben (vgl. BGHZ 225, 222 [juris Rn. 28 bis 31] - Metall auf Metall IV).
+
+18         b) Ohne Rechtsfehler ist weiter die Annahme des Berufungsgerichts, die über-
+     nommene Rhythmussequenz stelle ein urheberrechtlich schutzfähiges Werk der Musik
+     im Sinne des § 2 Abs. 1 Nr. 2 und Abs. 2 UrhG dar. Die vom Berufungsgericht vorge-
+     nommene tatgerichtliche Würdigung genügt den für diese geltenden rechtlichen An-
+     forderungen (vgl. BGH, Urteil vom 16. April 2015 - I ZR 225/12, GRUR 2015, 1189
+     [juris Rn. 47] = WRP 2015, 1507 - Goldrapper; Urteil vom 15. Dezember 2022
+     - I ZR 173/21, GRUR 2023, 571 [juris Rn. 19] = WRP 2023, 591 - Vitrinenleuchte, je-
+     weils mwN).
+
+19         2. Auf die Schrankenbestimmung des § 51a Satz 1 UrhG kommt es im Streitfall
+     an, weil die beanstandete Übernahme der Rhythmussequenz nicht die Voraussetzun-
+     gen der Schranke des Zitatrechts (§ 51 Satz 1 und 2 Nr. 3 UrhG; Art. 5 Abs. 3
+     Buchst. d der Richtlinie 2001/29/EG) oder der Schranke für die Nutzung von unwe-
+     sentlichem Beiwerk (§ 57 UrhG; Art. 5 Abs. 3 Buchst. i der Richtlinie 2001/29/EG) er-
+     füllt. Die Voraussetzungen eines Zitats liegen nicht vor, da es an einer Nutzung der
+     Rhythmussequenz zum Zwecke des Zitats fehlt. Für einen durchschnittlichen Hörer ist
+     zwar das übernommene Audiofragment im Tonträger der Beklagten wiedererkennbar;
+     er hat aber keinen Grund für die Annahme, dieses Audiofragment sei einem fremden
+     Werk oder Tonträger entnommen worden (vgl. BGHZ 225, 222 [juris Rn. 50 bis 55]
+     - Metall auf Metall IV). Die Voraussetzungen eines unwesentlichen Beiwerks liegen
+     nicht vor, weil es sich bei der Rhythmussequenz um den prägenden Teil des Titels
+                                               -8-
+
+
+     "Metall auf Metall" handelt, der in dem Titel "Nur mir" noch deutlich in seiner charakte-
+     ristischen Ausprägung wahrnehmbar ist (vgl. BGHZ 225, 222 [juris Rn. 56 bis 59]
+     - Metall auf Metall IV).
+
+20          3. Nach § 51a Satz 1 UrhG ist die Vervielfältigung, die Verbreitung und die öf-
+     fentliche Wiedergabe eines veröffentlichten Werks zum Zweck der Karikatur, der
+     Parodie und des Pastiches zulässig. Die Vorschriften des § 83 und § 85 Abs. 4 UrhG
+     ordnen die entsprechende Anwendung von Teil 1 Abschnitt 6 des Urheberrechtsge-
+     setzes, in dem sich § 51a UrhG befindet, auf die Leistungsschutzrechte des ausüben-
+     den Künstlers sowie des Tonträgerherstellers an.
+
+21          § 51a UrhG dient der Umsetzung von Art. 5 Abs. 3 Buchst. k und Abs. 4 der
+     Richtlinie 2001/29/EG und ist deshalb richtlinienkonform auszulegen. Nach Art. 5
+     Abs. 3 Buchst. k der Richtlinie 2001/29/EG können die Mitgliedstaaten Ausnahmen
+     oder Beschränkungen in Bezug auf die in den Artikeln 2 und 3 der Richtlinie vorgese-
+     henen Rechte - darunter das Vervielfältigungsrecht der Urheber in Bezug auf ihre
+     Werke (Art. 2 Buchst. a), der ausübenden Künstler in Bezug auf die Aufzeichnungen
+     ihrer Darbietungen (Art. 2 Buchst. b) und der Tonträgerhersteller in Bezug auf ihre
+     Tonträger (Art. 2 Buchst. c) - für die Nutzung zum Zwecke von Karikaturen, Parodien
+     oder Pastiches vorsehen. Nach Art. 5 Abs. 4 der Richtlinie 2001/29/EG können die
+     Mitgliedstaaten im Falle der Einführung einer Ausnahme oder Beschränkung in Bezug
+     auf das Vervielfältigungsrecht gemäß Absatz 2 oder 3 dieser Vorschrift entsprechend
+     auch eine Ausnahme oder Beschränkung in Bezug auf das Verbreitungsrecht im Sinne
+     von Artikel 4 der Richtlinie - also das Verbreitungsrecht der Urheber in Bezug auf ihre
+     Werke - zulassen, soweit diese Ausnahme durch den Zweck der erlaubten Vervielfäl-
+     tigung gerechtfertigt ist.
+
+22          Da die beanstandete Übernahme der Rhythmussequenz nicht die Vorausset-
+     zungen einer Karikatur oder Parodie des Musikstücks "Metall auf Metall" erfüllt, weil
+     es keinen Anhaltspunkt dafür gibt, dass das Musikstück "Nur mir" einen Ausdruck von
+     Humor oder eine Verspottung darstellt (vgl. BGHZ 225, 222 [juris Rn. 63] - Metall auf
+     Metall IV), ist im Streitfall entscheidend, ob die beanstandete Übernahme zum Zwecke
+                                              -9-
+
+
+     eines Pastiche im Sinne von § 51a UrhG in Verbindung mit Art. 5 Abs. 3 Buchst. k der
+     Richtlinie 2001/29/EG erfolgte.
+
+23          4. Es bedarf der Klärung, ob die Schrankenregelung der Nutzung zum Zwecke
+     von Pastiches im Sinne des Art. 5 Abs. 3 Buchst. k der Richtlinie 2001/29/EG ein Auf-
+     fangtatbestand jedenfalls für eine künstlerische Auseinandersetzung mit einem vorbe-
+     stehenden Werk oder sonstigen Bezugsgegenstand einschließlich des Sampling ist
+     und ob für den Begriff des Pastiche einschränkende Kriterien wie das Erfordernis von
+     Humor, Stilnachahmung oder Hommage gelten. Dazu ergeht Vorlagefrage 1.
+
+24          a) Nach der Rechtsprechung des Gerichtshofs der Europäischen Union müssen
+     Begriffe einer Vorschrift des Unionsrechts, die für die Ermittlung ihres Sinns und ihrer
+     Bedeutung nicht ausdrücklich auf das Recht der Mitgliedstaaten verweist, in der Regel
+     in der gesamten Europäischen Union eine autonome und einheitliche Auslegung er-
+     halten (vgl. EuGH, Urteil vom 3. September 2014 - C-201/13, GRUR 2014, 972 [juris
+     Rn. 14] = WRP 2014, 1181 - Deckmyn und Vrijheidsfonds; Urteil vom 13. Oktober
+     2022 - C-256/21, GRUR 2022, 1669 [juris Rn. 33] = WRP 2023, 40 - Gemeinde Bod-
+     man-Ludwigshafen).
+
+25          Für den in Art. 5 Abs. 3 Buchst. k der Richtlinie 2001/29/EG enthaltenen Begriff
+     der Parodie hat der Gerichtshof der Europäischen Union entschieden, dass es sich
+     hierbei um einen autonomen Begriff des Unionsrechts handelt, der im gesamten
+     Gebiet der Union einheitlich auszulegen ist (EuGH, GRUR 2014, 972 [juris Rn. 15]
+     - Deckmyn und Vrijheidsfonds). Der fakultative Charakter der in Art. 5 Abs. 3 Buchst. k
+     der Richtlinie 2001/29/EG geregelten Ausnahme bedeutet nicht, dass es den Mitglied-
+     staaten freistünde, deren Parameter inkohärent, nicht harmonisiert und möglicher-
+     weise von Mitgliedstaat zu Mitgliedstaat variierend auszugestalten, weil dies dem Ziel
+     dieser Richtlinie zuwiderliefe (EuGH, GRUR 2014, 972 [juris Rn. 16] - Deckmyn und
+     Vrijheidsfonds). Dies dürfte in gleicher Weise für den in der Vorschrift enthaltenen Be-
+     griff des Pastiche gelten.
+                                             - 10 -
+
+
+26         b) Die Bedeutung und Tragweite eines unionsrechtlichen Rechtsbegriffs, der im
+     einschlägigen Unionsrecht nicht definiert ist, ist entsprechend seinem Sinn nach dem
+     gewöhnlichen Sprachgebrauch zu bestimmen, wobei zu berücksichtigen ist, in wel-
+     chem Zusammenhang er verwendet wird und welche Ziele mit der Regelung verfolgt
+     werden, zu der er gehört (vgl. EuGH, GRUR 2014, 972 [juris Rn. 19] - Deckmyn und
+     Vrijheidsfonds; EuGH, Urteil vom 7. April 2022 - C-668/20, ZfZ 2022, 184 [juris
+     Rn. 67]).
+
+27         aa) Zum Sinn des Begriffs "Pastiche" nach dem gewöhnlichen Sprachgebrauch
+     in den Mitgliedstaaten der Europäischen Union hat das Berufungsgericht keine Fest-
+     stellungen getroffen. Die Bandbreite der Bedeutung des Begriffs "Pastiche" im ge-
+     wöhnlichen Sprachgebrauch vieler Mitgliedstaaten dürfte von der Stilimitation bis zu
+     rekombinierenden Arrangements oder Neukompositionen aus bereits vorhandenem
+     Material fremder Herkunft reichen. Dabei ist allen Bedeutungen, so verschieden sie im
+     Detail auch sind, wohl der referenzielle Charakter in Bezug auf etwas bereits Beste-
+     hendes gemeinsam (vgl. Ortland, ZGE 2022, 3, 31; Pötzlberger, GRUR 2018, 675,
+     676 ff.; Stieper, AfP 2015, 301, 304 ff.; ders., GRUR 2020, 699, 702).
+
+28         Im französischen Recht besteht seit 1957 die urheberrechtliche Schranke für
+     Parodie, Pastiche und Karikatur gemäß Art. L 122-5 No. 4 Code de la Propriété
+     Intellectuelle, die eine humoristische Absicht des Künstlers sowie die Entlehnung cha-
+     rakteristischer Merkmale des Ausgangswerks voraussetzt (Döhl, UFITA 83 [2019],
+     S. 19, 30; Lucas-Schloetter, UFITA 83 [2019], S. 99, 101).
+
+29         bb) Der Umstand, dass der Pastiche zusammen mit der Parodie und der Kari-
+     katur in einer Schrankenbestimmung geregelt worden ist, könnte dafür sprechen, dass
+     Pastiche, Parodie und Karikatur in wesentlichen Merkmalen übereinstimmen.
+
+30         (1) Nach der Rechtsprechung des Gerichtshofs der Europäischen Union beste-
+     hen die wesentlichen Merkmale der Parodie darin, zum einen an ein bestehendes
+     Werk zu erinnern, gleichzeitig aber ihm gegenüber wahrnehmbare Unterschiede auf-
+     zuweisen, und zum anderen einen Ausdruck von Humor oder eine Verspottung darzu-
+     stellen (EuGH, GRUR 2014, 972 [juris Rn. 20] - Deckmyn und Vrijheidsfonds). Dage-
+     gen setzt eine Parodie nicht voraus, dass die Parodie einen eigenen ursprünglichen
+                                             - 11 -
+
+
+     Charakter hat, der nicht nur darin besteht, gegenüber dem parodierten ursprünglichen
+     Werk wahrnehmbare Unterschiede aufzuweisen, dass sie vernünftigerweise einer an-
+     deren Person als dem Urheber des ursprünglichen Werks zugeschrieben werden
+     kann, dass sie das ursprüngliche Werk selbst betrifft oder dass sie das parodierte Werk
+     angibt (EuGH, GRUR 2014, 972 [juris Rn. 21] - Deckmyn und Vrijheidsfonds).
+
+31         (2) Danach dürfte ein wesentliches Merkmal auch des Pastiche wohl jedenfalls
+     darin zu sehen sein, dass er - ebenso wie Parodie und Karikatur - an ein bestehendes
+     Werk erinnert, gleichzeitig aber ihm gegenüber wahrnehmbare Unterschiede aufweist.
+     Ob es darüber hinaus - wie die Revision meint - ein wesentliches Merkmal des
+     Pastiche ist, ebenso wie die Parodie und die Karikatur einen Ausdruck von Humor oder
+     eine Verspottung darzustellen, erscheint dagegen fraglich. Desgleichen ist zweifelhaft,
+     ob die Nachahmung eines Stils eines urheberrechtlichen Schutzgegenstands oder die
+     Bezugnahme in Form einer Hommage ein wesentliches Merkmal eines Pastiche ist.
+
+32         Art. 5 Abs. 3 Buchst. k der Richtlinie 2001/29/EG ist zwar, da er eine Ausnahme
+     zu den in den Art. 2 und 3 der Richtlinie vorgesehenen Rechten enthält, eng auszule-
+     gen (EuGH, GRUR 2014, 972 [juris Rn. 22] - Deckmyn und Vrijheidsfonds). Die Aus-
+     legung des Begriffs des Pastiche muss es aber erlauben, die praktische Wirksamkeit
+     der so umrissenen Ausnahme zu wahren und ihre Zielsetzung zu beachten (zur Paro-
+     die EuGH, GRUR 2014, 972 [juris Rn. 23] - Deckmyn und Vrijheidsfonds). Deshalb
+     führt der Umstand, dass Art. 5 Abs. 3 Buchst. k der Richtlinie 2001/29/EG eine Aus-
+     nahme darstellt, nicht zu einer Einschränkung des Anwendungsbereichs dieser Be-
+     stimmung, die - wie möglicherweise die Einschränkung auf einen Ausdruck von Humor
+     oder Verspottung, Nachahmung des Stils oder Hommage - weder aus dem Sinn des
+     Begriffs "Pastiche" nach dem gewöhnlichen Sprachgebrauch noch aus dem Wortlaut
+     dieser Bestimmung hervorgeht (zur Parodie vgl. EuGH, GRUR 2014, 972 [juris Rn. 24]
+     - Deckmyn und Vrijheidsfonds).
+
+33         (3) Aus dem Umstand, dass nun auch Art. 17 Abs. 7 Unterabs. 2 Buchst. b der
+     Richtlinie (EU) 2019/790 eine Schranke für die Nutzung zum Zwecke von Karikaturen,
+     Parodien oder Pastiches vorsieht, ergibt sich kein Anhaltspunkt für die Auslegung des
+     Begriffs des Pastiche. Der Unionsgesetzgeber wollte bei Einführung der Richtlinie
+                                             - 12 -
+
+
+     (EU) 2019/790 ausweislich des Erwägungsgrunds 70 nutzergenerierte Inhalte im
+     Grundsatz von der in Art. 17 Abs. 7 Unterabs. 2 Buchst. b dieser Richtlinie vorgesehe-
+     nen Schranke für die Nutzung zum Zwecke von Karikaturen, Parodien oder Pastiches
+     erfasst sehen. Damit ist aber nicht gesagt, welche Anforderungen nutzergenerierte In-
+     halte erfüllen müssen, um als Pastiches zu gelten.
+
+34         cc) Das Ziel der Ausnahme für "Pastiches" könnte es nahelegen, in dieser
+     Schrankenregelung einen Auffangtatbestand jedenfalls für eine künstlerische Aus-
+     einandersetzung mit einem vorbestehenden Werk oder sonstigen Bezugsgegenstand
+     einschließlich des Sampling zu sehen, der keine weiteren einschränkenden Tatbe-
+     standsmerkmale erfordert.
+
+35         (1) Hinsichtlich des Ziels von Art. 5 Abs. 3 Buchst. k der Richtlinie 2001/29/EG
+     verweist der Gerichtshof der Europäischen Union auf die mit dieser Richtlinie allge-
+     mein verfolgten Ziele, zu denen - wie aus ihrem dritten Erwägungsgrund hervorgeht -
+     die Harmonisierung gehört, die zur Verwirklichung der vier Freiheiten des Binnen-
+     markts beiträgt und im Zusammenhang mit der Beachtung der tragenden Grundsätze
+     des Rechts steht, insbesondere des Eigentums einschließlich des geistigen Eigen-
+     tums, der freien Meinungsäußerung und des Gemeinwohls (EuGH, GRUR 2014, 972
+     [juris Rn. 25] - Deckmyn und Vrijheidsfonds). Auch die in Art. 13 der EU-Grundrechte-
+     charta gewährleistete Freiheit der Kunst ist in diesem Zusammenhang zu berücksich-
+     tigen (vgl. Erwägungsgrund 70 der Richtlinie [EU] 2019/790 sowie dazu EuGH, Urteil
+     vom 26. April 2022 - C-401/19, GRUR 2022, 820 [juris Rn. 87] = WRP 2022, 700
+     - Polen/Parlament und Rat).
+
+36         Der Gerichtshof der Europäischen Union weist weiter darauf hin, dass - wie sich
+     aus dem 31. Erwägungsgrund der Richtlinie 2001/29/EG ergibt - mit den in Art. 5 der
+     Richtlinie enthaltenen Ausnahmen von den in Art. 2 und 3 der Richtlinie vorgesehenen
+     Rechten ein "angemessener Ausgleich" von Rechten und Interessen insbesondere
+     zwischen den Urhebern und den Nutzern von Schutzgegenständen gesichert werden
+     soll. Folglich muss bei der Anwendung der Ausnahmen gemäß Art. 5 Abs. 3 Buchst. k
+     der Richtlinie 2001/29/EG in einem konkreten Fall ein angemessener Ausgleich zwi-
+     schen den Grundrechten der in den Art. 2 und 3 der Richtlinie genannten Personen
+                                             - 13 -
+
+
+     auf der einen und den Grundrechten des Nutzers eines geschützten Werks, der sich
+     auf die Ausnahme im Sinne des Art. 5 Abs. 3 Buchst. k der Richtlinie beruft, auf der
+     anderen Seite gewahrt werden (vgl. EuGH, GRUR 2014, 972 [juris Rn. 26 f.]
+     - Deckmyn und Vrijheidsfonds; EuGH, Urteil vom 29. Juli 2019 - C-469/17, GRUR
+     2019, 934 [juris Rn. 70] = WRP 2019, 1170 - Funke Medien NRW; EuGH, GRUR 2022,
+     820 [juris Rn. 87] - Polen/Parlament und Rat).
+
+37         (2) Danach könnte die Ausnahme des "Pastiche" möglicherweise eingreifen,
+     wenn eine künstlerische Auseinandersetzung mit dem benutzten Werk oder einem
+     sonstigen Bezugsgegenstand erfolgt. Die Pastiche-Schranke könnte als allgemeine
+     Schranke für die Kunstfreiheit zu verstehen sein, die deshalb notwendig ist, weil der
+     Kunstfreiheit allein durch die immanente Begrenzung des Schutzbereichs der Verwer-
+     tungsrechte auf eine Nutzung der Werke und Leistungen in wiedererkennbarer Form
+     (vgl. EuGH, GRUR 2019, 929 [juris Rn. 31] - Pelham u.a.) und die übrigen Schranken-
+     regelungen wie insbesondere Parodie, Karikatur und Zitat nicht in allen Fällen der ge-
+     botene Raum gegeben werden kann.
+
+38         Die Rechte der Urheber, Tonträgerhersteller und ausübenden Künstler gemäß
+     Art. 2 und 3 der Richtlinie 2001/29/EG genießen den Schutz des geistigen Eigentums
+     gemäß Art. 17 Abs. 2 EU-Grundrechtecharta. Andererseits kann eine Nutzung von
+     Werken oder anderen Schutzgegenständen zum Zwecke von Karikaturen, Parodien
+     oder Pastiches in den Schutzbereich der Meinungsäußerungsfreiheit (Art. 11 EU-
+     Grundrechtecharta) oder der Kunstfreiheit (Art. 13 EU-Grundrechtecharta) fallen.
+
+39         So ist die hier in Rede stehende Technik des "Elektronischen Kopierens von
+     Audiofragmenten" (Sampling), bei der ein Nutzer einem Tonträger ein Audiofragment
+     entnimmt und dieses zur Schaffung eines neuen Werks nutzt, eine künstlerische Aus-
+     drucksform, die unter die durch Art. 13 EU-Grundrechtecharta geschützte Freiheit der
+     Kunst fällt (EuGH, GRUR 2019, 929 [juris Rn. 35] - Pelham u.a.; zu Art. 5 Abs. 3 Satz 1
+     GG vgl. BVerfGE 142, 74 [juris Rn. 89]).
+
+40         Dem deutschen Gesetzgeber schwebte bei der Einführung der neuen Schranke
+     des § 51a UrhG ein weiter Begriff des Pastiche vor, der vorbehaltlich des angemesse-
+     nen Ausgleichs von Rechten und Interessen der Urheber und der Nutzer insbesondere
+                                              - 14 -
+
+
+     Praktiken wie Remix, Meme, GIF, Mashup, Fan Art, Fan Fiction oder Sampling umfas-
+     sen soll, weil zitierende, imitierende und anlehnende Kulturtechniken ein prägendes
+     Element der Intertextualität und des zeitgemäßen kulturellen Schaffens und der Kom-
+     munikation im "Social Web" seien (vgl. Begründung des Regierungsentwurfs eines
+     Gesetzes zur Anpassung des Urheberrechts an die Erfordernisse des digitalen Bin-
+     nenmarktes, BT-Drucks. 19/27426, S. 91 f.).
+
+41         5. Klärungsbedürftig ist weiter, wann eine Nutzung im Sinne des Art. 5 Abs. 3
+     Buchst. k der Richtlinie 2001/29/EG "zum Zwecke" eines Pastiche erfolgt. Dazu ergeht
+     Vorlagefrage 2.
+
+42         Mit Blick auf den Wortlaut des Art. 5 Abs. 3 Buchst. k der Richtlinie 2001/29/EG,
+     der eine Nutzung "zum Zwecke" von Karikaturen, Parodien oder Pastiches vorsieht,
+     ist fraglich, ob es der Feststellung einer Absicht des Nutzers bedarf, einen urheber-
+     rechtlichen Schutzgegenstand (das Werk des Urhebers, die Aufzeichnung der Darbie-
+     tung eines ausübenden Künstlers, den Tonträger eines Tonträgerherstellers) zum
+     Zwecke eines Pastiche zu nutzen. Nach Auffassung des Senats sollte insoweit die
+     Feststellung ausreichen, dass der Charakter als Pastiche (die Nutzung als Pastiche)
+     für denjenigen erkennbar ist, dem der in Bezug genommene urheberrechtliche Schutz-
+     gegenstand bekannt ist und der das für die Wahrnehmung des Pastiche erforderliche
+     intellektuelle Verständnis besitzt (letzteres für die Parodie annehmend BGH, Urteil vom
+     28. Juli 2016 - I ZR 9/15, BGHZ 211, 309 [juris Rn. 33] - auf fett getrimmt).
+
+43         6. Die Vorlagefragen sind entscheidungserheblich.
+
+44         a) Die Vorlagefrage 1 ist mit Blick auf die Feststellungen des Berufungsgerichts
+     entscheidungserheblich, dass das Musikstück "Nur mir" zwar an die übernommene
+     Rhythmussequenz aus "Metall auf Metall" erinnere, gleichzeitig aber ihr gegenüber
+     wahrnehmbare Unterschiede aufweise, und dabei weder den Stil der übernommenen
+     Rhythmussequenz aus "Metall auf Metall" nachahme noch einen Ausdruck von Humor
+     oder eine Verspottung darstelle. Das Berufungsgericht hat weiter festgestellt, dass in
+     dem Musikstück "Nur mir" eine künstlerische Auseinandersetzung mit der Rhythmus-
+     sequenz aus "Metall auf Metall" erfolgt sei. Es sei Ausdruck künstlerischer Auseinan-
+                                               - 15 -
+
+
+     dersetzung, dass die übernommene kurze Rhythmussequenz zur stilistischen Über-
+     führung in ein anderes musikalisches Genre genutzt werde und in dem einen eigenen
+     Charakter aufweisenden Musikstück "Nur mir" trotz Temporeduktion und metrischer
+     Verschiebung als Anspielung auf das Original erkennbar bleibe.
+
+45          b) Die Vorlagefrage 2 ist mit Blick darauf entscheidungserheblich, dass das Be-
+     rufungsgericht keine Feststellungen zur Absicht der Beklagten getroffen hat, weil es
+     der Auffassung war, es bedürfe nicht der Feststellung einer auf die Nachahmung oder
+     Hommage gerichteten Intention des Bearbeiters.
+
+46          c) Die für beide Vorlagefragen entscheidungserheblichen Anforderungen des
+     "Drei-Stufen-Tests" gemäß Art. 5 Abs. 5 der Richtlinie 2001/29/EG sind nach den Fest-
+     stellungen des Berufungsgerichts im Streitfall erfüllt.
+
+47          aa) Dem Ziel des angemessenen Ausgleichs von Rechten und Interessen trägt
+     Art. 5 Abs. 5 der Richtlinie 2001/29/EG Rechnung (vgl. EuGH, GRUR 2019, 929 [juris
+     Rn. 62] - Pelham u.a.; GRUR 2019, 934 [juris Rn. 61] - Funke Medien NRW). Danach
+     dürfen die in Art. 5 der Richtlinie 2001/29/EG vorgesehenen Ausnahmen und Be-
+     schränkungen nur in bestimmten Sonderfällen angewandt werden, in denen die nor-
+     male Verwertung des Werks oder des sonstigen Schutzgegenstands nicht beeinträch-
+     tigt wird und die berechtigten Interessen des Rechtsinhabers nicht ungebührlich ver-
+     letzt werden ("Drei-Stufen-Test"). Hierin liegt zum einen eine Gestaltungsanordnung
+     gegenüber dem nationalen Gesetzgeber in Bezug auf die Konkretisierung der Schran-
+     ken des Urheberrechts, zum anderen ist Art. 5 Abs. 5 der Richtlinie 2001/29/EG aber
+     auch Maßstab für die Rechtsanwendung im Einzelfall (vgl. BGH, Urteil vom 30. April
+     2020 - I ZR 139/15, GRUR 2020, 853 [juris Rn. 57] = WRP 2020, 1043 - Afghanistan-
+     Papiere II, mwN).
+
+48          bb) Der ersten Voraussetzung des im vorliegenden Einzelfall durchzuführenden
+     Drei-Stufen-Tests gemäß Art. 5 Abs. 5 der Richtlinie 2001/29/EG ist durch die Einfüh-
+     rung der Pastiche-Schranke in § 51a UrhG genügt, weil es sich um einen gesetzlich
+     geregelten Sonderfall handelt.
+                                                - 16 -
+
+
+49             cc) Bei der auf zweiter Stufe vorzunehmenden Prüfung, ob die normale Verwer-
+     tung des Werks oder des sonstigen Schutzgegenstands nicht beeinträchtigt wird, ist in
+     den Blick zu nehmen, ob durch die beanstandete Verwendung die Möglichkeiten des
+     Rechtsinhabers zum rechtmäßigen Absatz verringert werden (vgl. EuGH, Urteil vom
+     26. April 2017 - C-527/15, GRUR 2017, 610 [juris Rn. 70] = WRP 2017, 677 - Stichting
+     Brein).
+
+50             Im Streitfall ist nach den von der Revision nicht angegriffenen Feststellungen
+     des Berufungsgerichts davon auszugehen, dass den Klägern durch die Übernahme
+     der Rhythmussequenz durch die Beklagten nicht die Möglichkeit genommen wird, ei-
+     nen zufriedenstellenden Ertrag zu erzielen, weil ein großer Abstand zwischen den
+     Werken besteht, keine Konkurrenzsituation mit dem ursprünglichen Tonträger vorliegt
+     und Einbußen an Vermarktungschancen für Samplinglizenzen mit Blick darauf nicht
+     substantiiert dargetan wurden, dass die Entnahme durch die Beklagten zwanzig Jahre
+     nach Erscheinen des Werks der Kläger erfolgte, also zu einem Zeitpunkt, als die zent-
+     ralen Verwertungshandlungen der Kläger ungeachtet ihrer fortdauernden Popularität
+     im Wesentlichen in der Vergangenheit lagen.
+
+51             dd) Auf dritter Stufe ist eine ungebührliche Verletzung der Interessen des
+     Rechtsinhabers zu prüfen. In diesem Zusammenhang ist beispielsweise der kommer-
+     zielle oder nicht-kommerzielle Charakter der Nutzung, der Umfang der Entlehnung, der
+     Grad der Umgestaltung und eine etwaige Verwechslungsgefahr, die Frage, ob eine
+     Auseinandersetzung mit dem Werk oder mit anderen Themen vorliegt, und das Ge-
+     wicht der betroffenen Grundrechte zu berücksichtigen (vgl. Ohly, ZUM 2021, 745, 748;
+     Stieper, AfP 2015, 301, 305; ders., GRUR 2020, 699, 703).
+                                            - 17 -
+
+
+52          Das Berufungsgericht hat eine etwaige kommerzielle Nutzung des Stücks "Nur
+     mir" vor dem Hintergrund der künstlerischen Auseinandersetzung der Beklagten mit
+     dem Titel "Metall auf Metall" als nicht ausreichend angesehen, um eine ungebührliche
+     Beeinträchtigung der Interessen der Kläger anzunehmen.
+
+
+     Koch                                  Löffler                          Schwonke
+
+
+                     Feddersen                             Schmaltz
+
+
+
+     Vorinstanzen:
+     LG Hamburg, Entscheidung vom 08.10.2004 - 308 O 90/99 -
+     OLG Hamburg, Entscheidung vom 28.04.2022 - 5 U 48/05 -
+

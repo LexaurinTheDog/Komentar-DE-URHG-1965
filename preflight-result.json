@@ -3,7 +3,7 @@
   "complete": true,
   "decisive_date": "2026-10-19",
   "official_url": "https://www.gesetze-im-internet.de/urhg/",
-  "verified_at": "2026-10-20T12:27:27.313380+00:00",
+  "verified_at": "2026-10-20T12:40:48.774901+00:00",
   "version_evidence": {
     "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
     "amendment_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
@@ -176,7 +176,7 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 250633,
+    "commentary_chars": 266492,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -185,7 +185,7 @@
     "completeness_report": "completeness-report.json",
     "quality_report": "quality-report.json",
     "preservation_report": "commentary-preservation.json",
-    "local_links_checked": 159,
+    "local_links_checked": 189,
     "broken_local_links": 0
   },
   "bounded_review_confirmation": {
@@ -1399,6 +1399,1390 @@
       "units": 254,
       "verbatim_ratio": 1.0,
       "commentary_chars": 250633,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
+  },
+  "bounded_review_p42_p52b_confirmation": {
+    "verified_at": "2026-10-20T12:40:48.774901+00:00",
+    "official_url": "https://www.gesetze-im-internet.de/urhg/",
+    "fetch_log": "sources/review-p42-p52b/fetch-results.json",
+    "source_unchanged": true,
+    "xml_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+    "index_unchanged": true,
+    "full_html_unchanged": true,
+    "pdf_text_unchanged": true,
+    "amendment_unchanged": true,
+    "extracted_assigned_units_agree": true,
+    "reviewed_ids": [
+      "p42",
+      "p42a",
+      "p43",
+      "p44",
+      "p44a",
+      "p44b",
+      "p45",
+      "p45a",
+      "p45b",
+      "p45c",
+      "p45d",
+      "p46",
+      "p47",
+      "p48",
+      "p49",
+      "p50",
+      "p51",
+      "p51a",
+      "p52",
+      "p52a-52b"
+    ],
+    "coverage_recheck": "completeness-report.json",
+    "fresh_xml_classification": {
+      "metadata": 1,
+      "table_of_contents": 1,
+      "structure": 51,
+      "statutory_unit": 253,
+      "annex": 1
+    },
+    "fresh_official_records": [
+      {
+        "id": "p1",
+        "label": "§ 1",
+        "doknr": "BJNR012730965BJNE004101377"
+      },
+      {
+        "id": "p2",
+        "label": "§ 2",
+        "doknr": "BJNR012730965BJNE004202305"
+      },
+      {
+        "id": "p3",
+        "label": "§ 3",
+        "doknr": "BJNR012730965BJNE004301304"
+      },
+      {
+        "id": "p4",
+        "label": "§ 4",
+        "doknr": "BJNR012730965BJNE004401307"
+      },
+      {
+        "id": "p5",
+        "label": "§ 5",
+        "doknr": "BJNR012730965BJNE004501377"
+      },
+      {
+        "id": "p6",
+        "label": "§ 6",
+        "doknr": "BJNR012730965BJNE004600315"
+      },
+      {
+        "id": "p7",
+        "label": "§ 7",
+        "doknr": "BJNR012730965BJNE004700315"
+      },
+      {
+        "id": "p8",
+        "label": "§ 8",
+        "doknr": "BJNR012730965BJNE004800315"
+      },
+      {
+        "id": "p9",
+        "label": "§ 9",
+        "doknr": "BJNR012730965BJNE004900315"
+      },
+      {
+        "id": "p10",
+        "label": "§ 10",
+        "doknr": "BJNR012730965BJNE005001140"
+      },
+      {
+        "id": "p11",
+        "label": "§ 11",
+        "doknr": "BJNR012730965BJNE005102377"
+      },
+      {
+        "id": "p12",
+        "label": "§ 12",
+        "doknr": "BJNR012730965BJNE005200315"
+      },
+      {
+        "id": "p13",
+        "label": "§ 13",
+        "doknr": "BJNR012730965BJNE005300315"
+      },
+      {
+        "id": "p14",
+        "label": "§ 14",
+        "doknr": "BJNR012730965BJNE005400315"
+      },
+      {
+        "id": "p15",
+        "label": "§ 15",
+        "doknr": "BJNR012730965BJNE005501377"
+      },
+      {
+        "id": "p16",
+        "label": "§ 16",
+        "doknr": "BJNR012730965BJNE005601377"
+      },
+      {
+        "id": "p17",
+        "label": "§ 17",
+        "doknr": "BJNR012730965BJNE005701307"
+      },
+      {
+        "id": "p18",
+        "label": "§ 18",
+        "doknr": "BJNR012730965BJNE005800315"
+      },
+      {
+        "id": "p19",
+        "label": "§ 19",
+        "doknr": "BJNR012730965BJNE005901377"
+      },
+      {
+        "id": "p19a",
+        "label": "§ 19a",
+        "doknr": "BJNR012730965BJNE022700377"
+      },
+      {
+        "id": "p20",
+        "label": "§ 20",
+        "doknr": "BJNR012730965BJNE006001307"
+      },
+      {
+        "id": "p20a",
+        "label": "§ 20a",
+        "doknr": "BJNR012730965BJNE021800307"
+      },
+      {
+        "id": "p20b",
+        "label": "§ 20b",
+        "doknr": "BJNR012730965BJNE021902360"
+      },
+      {
+        "id": "p20c",
+        "label": "§ 20c",
+        "doknr": "BJNR012730965BJNE027800360"
+      },
+      {
+        "id": "p20d",
+        "label": "§ 20d",
+        "doknr": "BJNR012730965BJNE027900360"
+      },
+      {
+        "id": "p21",
+        "label": "§ 21",
+        "doknr": "BJNR012730965BJNE006100315"
+      },
+      {
+        "id": "p22",
+        "label": "§ 22",
+        "doknr": "BJNR012730965BJNE006201377"
+      },
+      {
+        "id": "p23",
+        "label": "§ 23",
+        "doknr": "BJNR012730965BJNE006303360"
+      },
+      {
+        "id": "p24",
+        "label": "§ 24",
+        "doknr": "BJNR012730965BJNE006401360"
+      },
+      {
+        "id": "p25",
+        "label": "§ 25",
+        "doknr": "BJNR012730965BJNE006500315"
+      },
+      {
+        "id": "p26",
+        "label": "§ 26",
+        "doknr": "BJNR012730965BJNE006603377"
+      },
+      {
+        "id": "p27",
+        "label": "§ 27",
+        "doknr": "BJNR012730965BJNE006701307"
+      },
+      {
+        "id": "p28",
+        "label": "§ 28",
+        "doknr": "BJNR012730965BJNE006800315"
+      },
+      {
+        "id": "p29",
+        "label": "§ 29",
+        "doknr": "BJNR012730965BJNE006901377"
+      },
+      {
+        "id": "p30",
+        "label": "§ 30",
+        "doknr": "BJNR012730965BJNE007000315"
+      },
+      {
+        "id": "p31",
+        "label": "§ 31",
+        "doknr": "BJNR012730965BJNE007102377"
+      },
+      {
+        "id": "p31a",
+        "label": "§ 31a",
+        "doknr": "BJNR012730965BJNE007104125"
+      },
+      {
+        "id": "p32",
+        "label": "§ 32",
+        "doknr": "BJNR012730965BJNE007203360"
+      },
+      {
+        "id": "p32a",
+        "label": "§ 32a",
+        "doknr": "BJNR012730965BJNE022203360"
+      },
+      {
+        "id": "p32b",
+        "label": "§ 32b",
+        "doknr": "BJNR012730965BJNE022301360"
+      },
+      {
+        "id": "p32c",
+        "label": "§ 32c",
+        "doknr": "BJNR012730965BJNE024000377"
+      },
+      {
+        "id": "p32d",
+        "label": "§ 32d",
+        "doknr": "BJNR012730965BJNE025801360"
+      },
+      {
+        "id": "p32e",
+        "label": "§ 32e",
+        "doknr": "BJNR012730965BJNE025901360"
+      },
+      {
+        "id": "p32f",
+        "label": "§ 32f",
+        "doknr": "BJNR012730965BJNE028000360"
+      },
+      {
+        "id": "p32g",
+        "label": "§ 32g",
+        "doknr": "BJNR012730965BJNE028100360"
+      },
+      {
+        "id": "p33",
+        "label": "§ 33",
+        "doknr": "BJNR012730965BJNE007301377"
+      },
+      {
+        "id": "p34",
+        "label": "§ 34",
+        "doknr": "BJNR012730965BJNE007401377"
+      },
+      {
+        "id": "p35",
+        "label": "§ 35",
+        "doknr": "BJNR012730965BJNE007501377"
+      },
+      {
+        "id": "p35a",
+        "label": "§ 35a",
+        "doknr": "BJNR012730965BJNE028200360"
+      },
+      {
+        "id": "p36",
+        "label": "§ 36",
+        "doknr": "BJNR012730965BJNE007604360"
+      },
+      {
+        "id": "p36a",
+        "label": "§ 36a",
+        "doknr": "BJNR012730965BJNE022403123"
+      },
+      {
+        "id": "p36b",
+        "label": "§ 36b",
+        "doknr": "BJNR012730965BJNE026001360"
+      },
+      {
+        "id": "p36c",
+        "label": "§ 36c",
+        "doknr": "BJNR012730965BJNE026100123"
+      },
+      {
+        "id": "p36d",
+        "label": "§ 36d",
+        "doknr": "BJNR012730965BJNE028300360"
+      },
+      {
+        "id": "p37",
+        "label": "§ 37",
+        "doknr": "BJNR012730965BJNE007700315"
+      },
+      {
+        "id": "p38",
+        "label": "§ 38",
+        "doknr": "BJNR012730965BJNE007801360"
+      },
+      {
+        "id": "p39",
+        "label": "§ 39",
+        "doknr": "BJNR012730965BJNE007900315"
+      },
+      {
+        "id": "p40",
+        "label": "§ 40",
+        "doknr": "BJNR012730965BJNE008001125"
+      },
+      {
+        "id": "p40a",
+        "label": "§ 40a",
+        "doknr": "BJNR012730965BJNE026200123"
+      },
+      {
+        "id": "p41",
+        "label": "§ 41",
+        "doknr": "BJNR012730965BJNE008102360"
+      },
+      {
+        "id": "p42",
+        "label": "§ 42",
+        "doknr": "BJNR012730965BJNE008200315"
+      },
+      {
+        "id": "p42a",
+        "label": "§ 42a",
+        "doknr": "BJNR012730965BJNE022802301"
+      },
+      {
+        "id": "p43",
+        "label": "§ 43",
+        "doknr": "BJNR012730965BJNE008300315"
+      },
+      {
+        "id": "p44",
+        "label": "§ 44",
+        "doknr": "BJNR012730965BJNE008400315"
+      },
+      {
+        "id": "p44a",
+        "label": "§ 44a",
+        "doknr": "BJNR012730965BJNE022900377"
+      },
+      {
+        "id": "p44b",
+        "label": "§ 44b",
+        "doknr": "BJNR012730965BJNE028400360"
+      },
+      {
+        "id": "p45",
+        "label": "§ 45",
+        "doknr": "BJNR012730965BJNE008500315"
+      },
+      {
+        "id": "p45a",
+        "label": "§ 45a",
+        "doknr": "BJNR012730965BJNE023001360"
+      },
+      {
+        "id": "p45b",
+        "label": "§ 45b",
+        "doknr": "BJNR012730965BJNE027500360"
+      },
+      {
+        "id": "p45c",
+        "label": "§ 45c",
+        "doknr": "BJNR012730965BJNE027601360"
+      },
+      {
+        "id": "p45d",
+        "label": "§ 45d",
+        "doknr": "BJNR012730965BJNE027700360"
+      },
+      {
+        "id": "p46",
+        "label": "§ 46",
+        "doknr": "BJNR012730965BJNE008603123"
+      },
+      {
+        "id": "p47",
+        "label": "§ 47",
+        "doknr": "BJNR012730965BJNE008701304"
+      },
+      {
+        "id": "p48",
+        "label": "§ 48",
+        "doknr": "BJNR012730965BJNE008801377"
+      },
+      {
+        "id": "p49",
+        "label": "§ 49",
+        "doknr": "BJNR012730965BJNE008902377"
+      },
+      {
+        "id": "p50",
+        "label": "§ 50",
+        "doknr": "BJNR012730965BJNE009001377"
+      },
+      {
+        "id": "p51",
+        "label": "§ 51",
+        "doknr": "BJNR012730965BJNE009102123"
+      },
+      {
+        "id": "p51a",
+        "label": "§ 51a",
+        "doknr": "BJNR012730965BJNE028500360"
+      },
+      {
+        "id": "p52",
+        "label": "§ 52",
+        "doknr": "BJNR012730965BJNE009203123"
+      },
+      {
+        "id": "p52a-52b",
+        "label": "(XXXX) §§ 52a und 52b",
+        "doknr": "BJNR012730965BJNE023101123"
+      },
+      {
+        "id": "p53",
+        "label": "§ 53",
+        "doknr": "BJNR012730965BJNE009306123"
+      },
+      {
+        "id": "p53a",
+        "label": "§ 53a",
+        "doknr": "BJNR012730965BJNE024201123"
+      },
+      {
+        "id": "p54",
+        "label": "§ 54",
+        "doknr": "BJNR012730965BJNE009405123"
+      },
+      {
+        "id": "p54a",
+        "label": "§ 54a",
+        "doknr": "BJNR012730965BJNE020002123"
+      },
+      {
+        "id": "p54b",
+        "label": "§ 54b",
+        "doknr": "BJNR012730965BJNE020102140"
+      },
+      {
+        "id": "p54c",
+        "label": "§ 54c",
+        "doknr": "BJNR012730965BJNE020202123"
+      },
+      {
+        "id": "p54d",
+        "label": "§ 54d",
+        "doknr": "BJNR012730965BJNE020302129"
+      },
+      {
+        "id": "p54e",
+        "label": "§ 54e",
+        "doknr": "BJNR012730965BJNE020401377"
+      },
+      {
+        "id": "p54f",
+        "label": "§ 54f",
+        "doknr": "BJNR012730965BJNE020502140"
+      },
+      {
+        "id": "p54g",
+        "label": "§ 54g",
+        "doknr": "BJNR012730965BJNE020601377"
+      },
+      {
+        "id": "p54h",
+        "label": "§ 54h",
+        "doknr": "BJNR012730965BJNE020702360"
+      },
+      {
+        "id": "p55",
+        "label": "§ 55",
+        "doknr": "BJNR012730965BJNE009500315"
+      },
+      {
+        "id": "p55a",
+        "label": "§ 55a",
+        "doknr": "BJNR012730965BJNE021000307"
+      },
+      {
+        "id": "p56",
+        "label": "§ 56",
+        "doknr": "BJNR012730965BJNE009601377"
+      },
+      {
+        "id": "p57",
+        "label": "§ 57",
+        "doknr": "BJNR012730965BJNE009700315"
+      },
+      {
+        "id": "p58",
+        "label": "§ 58",
+        "doknr": "BJNR012730965BJNE009802123"
+      },
+      {
+        "id": "p59",
+        "label": "§ 59",
+        "doknr": "BJNR012730965BJNE009900315"
+      },
+      {
+        "id": "p60",
+        "label": "§ 60",
+        "doknr": "BJNR012730965BJNE010001377"
+      },
+      {
+        "id": "p60a",
+        "label": "§ 60a",
+        "doknr": "BJNR012730965BJNE026501360"
+      },
+      {
+        "id": "p60b",
+        "label": "§ 60b",
+        "doknr": "BJNR012730965BJNE026601360"
+      },
+      {
+        "id": "p60c",
+        "label": "§ 60c",
+        "doknr": "BJNR012730965BJNE026700123"
+      },
+      {
+        "id": "p60d",
+        "label": "§ 60d",
+        "doknr": "BJNR012730965BJNE026801360"
+      },
+      {
+        "id": "p60e",
+        "label": "§ 60e",
+        "doknr": "BJNR012730965BJNE026901360"
+      },
+      {
+        "id": "p60f",
+        "label": "§ 60f",
+        "doknr": "BJNR012730965BJNE027001360"
+      },
+      {
+        "id": "p60g",
+        "label": "§ 60g",
+        "doknr": "BJNR012730965BJNE027100123"
+      },
+      {
+        "id": "p60h",
+        "label": "§ 60h",
+        "doknr": "BJNR012730965BJNE027201360"
+      },
+      {
+        "id": "p61",
+        "label": "§ 61",
+        "doknr": "BJNR012730965BJNE010102360"
+      },
+      {
+        "id": "p61a",
+        "label": "§ 61a",
+        "doknr": "BJNR012730965BJNE025401123"
+      },
+      {
+        "id": "p61b",
+        "label": "§ 61b",
+        "doknr": "BJNR012730965BJNE025500360"
+      },
+      {
+        "id": "p61c",
+        "label": "§ 61c",
+        "doknr": "BJNR012730965BJNE025600360"
+      },
+      {
+        "id": "p61d",
+        "label": "§ 61d",
+        "doknr": "BJNR012730965BJNE028600360"
+      },
+      {
+        "id": "p61e",
+        "label": "§ 61e",
+        "doknr": "BJNR012730965BJNE028700360"
+      },
+      {
+        "id": "p61f",
+        "label": "§ 61f",
+        "doknr": "BJNR012730965BJNE028800360"
+      },
+      {
+        "id": "p61g",
+        "label": "§ 61g",
+        "doknr": "BJNR012730965BJNE028900360"
+      },
+      {
+        "id": "p62",
+        "label": "§ 62",
+        "doknr": "BJNR012730965BJNE010204360"
+      },
+      {
+        "id": "p63",
+        "label": "§ 63",
+        "doknr": "BJNR012730965BJNE010306360"
+      },
+      {
+        "id": "p63a",
+        "label": "§ 63a",
+        "doknr": "BJNR012730965BJNE022502360"
+      },
+      {
+        "id": "p64",
+        "label": "§ 64",
+        "doknr": "BJNR012730965BJNE010401307"
+      },
+      {
+        "id": "p65",
+        "label": "§ 65",
+        "doknr": "BJNR012730965BJNE010502360"
+      },
+      {
+        "id": "p66",
+        "label": "§ 66",
+        "doknr": "BJNR012730965BJNE010602377"
+      },
+      {
+        "id": "p67",
+        "label": "§ 67",
+        "doknr": "BJNR012730965BJNE010701307"
+      },
+      {
+        "id": "p68",
+        "label": "§ 68",
+        "doknr": "BJNR012730965BJNE010802360"
+      },
+      {
+        "id": "p69",
+        "label": "§ 69",
+        "doknr": "BJNR012730965BJNE010900315"
+      },
+      {
+        "id": "p69a",
+        "label": "§ 69a",
+        "doknr": "BJNR012730965BJNE019203360"
+      },
+      {
+        "id": "p69b",
+        "label": "§ 69b",
+        "doknr": "BJNR012730965BJNE019300305"
+      },
+      {
+        "id": "p69c",
+        "label": "§ 69c",
+        "doknr": "BJNR012730965BJNE019403377"
+      },
+      {
+        "id": "p69d",
+        "label": "§ 69d",
+        "doknr": "BJNR012730965BJNE019501360"
+      },
+      {
+        "id": "p69e",
+        "label": "§ 69e",
+        "doknr": "BJNR012730965BJNE019600305"
+      },
+      {
+        "id": "p69f",
+        "label": "§ 69f",
+        "doknr": "BJNR012730965BJNE019702360"
+      },
+      {
+        "id": "p69g",
+        "label": "§ 69g",
+        "doknr": "BJNR012730965BJNE019802360"
+      },
+      {
+        "id": "p70",
+        "label": "§ 70",
+        "doknr": "BJNR012730965BJNE011002377"
+      },
+      {
+        "id": "p71",
+        "label": "§ 71",
+        "doknr": "BJNR012730965BJNE011106360"
+      },
+      {
+        "id": "p72",
+        "label": "§ 72",
+        "doknr": "BJNR012730965BJNE011203377"
+      },
+      {
+        "id": "p73",
+        "label": "§ 73",
+        "doknr": "BJNR012730965BJNE011301377"
+      },
+      {
+        "id": "p74",
+        "label": "§ 74",
+        "doknr": "BJNR012730965BJNE011402140"
+      },
+      {
+        "id": "p75",
+        "label": "§ 75",
+        "doknr": "BJNR012730965BJNE011503377"
+      },
+      {
+        "id": "p76",
+        "label": "§ 76",
+        "doknr": "BJNR012730965BJNE011602377"
+      },
+      {
+        "id": "p77",
+        "label": "§ 77",
+        "doknr": "BJNR012730965BJNE011701377"
+      },
+      {
+        "id": "p78",
+        "label": "§ 78",
+        "doknr": "BJNR012730965BJNE011802377"
+      },
+      {
+        "id": "p79",
+        "label": "§ 79",
+        "doknr": "BJNR012730965BJNE011904123"
+      },
+      {
+        "id": "p79a",
+        "label": "§ 79a",
+        "doknr": "BJNR012730965BJNE025100360"
+      },
+      {
+        "id": "p79b",
+        "label": "§ 79b",
+        "doknr": "BJNR012730965BJNE026300123"
+      },
+      {
+        "id": "p80",
+        "label": "§ 80",
+        "doknr": "BJNR012730965BJNE012003360"
+      },
+      {
+        "id": "p81",
+        "label": "§ 81",
+        "doknr": "BJNR012730965BJNE012104140"
+      },
+      {
+        "id": "p82",
+        "label": "§ 82",
+        "doknr": "BJNR012730965BJNE012204360"
+      },
+      {
+        "id": "p83",
+        "label": "§ 83",
+        "doknr": "BJNR012730965BJNE012302377"
+      },
+      {
+        "id": "p84",
+        "label": "§ 84",
+        "doknr": "BJNR012730965BJNE012401377"
+      },
+      {
+        "id": "p85",
+        "label": "§ 85",
+        "doknr": "BJNR012730965BJNE012507360"
+      },
+      {
+        "id": "p86",
+        "label": "§ 86",
+        "doknr": "BJNR012730965BJNE012601377"
+      },
+      {
+        "id": "p87",
+        "label": "§ 87",
+        "doknr": "BJNR012730965BJNE012708360"
+      },
+      {
+        "id": "p87a",
+        "label": "§ 87a",
+        "doknr": "BJNR012730965BJNE021100307"
+      },
+      {
+        "id": "p87b",
+        "label": "§ 87b",
+        "doknr": "BJNR012730965BJNE021202129"
+      },
+      {
+        "id": "p87c",
+        "label": "§ 87c",
+        "doknr": "BJNR012730965BJNE021304360"
+      },
+      {
+        "id": "p87d",
+        "label": "§ 87d",
+        "doknr": "BJNR012730965BJNE021400307"
+      },
+      {
+        "id": "p87e",
+        "label": "§ 87e",
+        "doknr": "BJNR012730965BJNE021500307"
+      },
+      {
+        "id": "p87f",
+        "label": "§ 87f",
+        "doknr": "BJNR012730965BJNE024801360"
+      },
+      {
+        "id": "p87g",
+        "label": "§ 87g",
+        "doknr": "BJNR012730965BJNE024901360"
+      },
+      {
+        "id": "p87h",
+        "label": "§ 87h",
+        "doknr": "BJNR012730965BJNE025001360"
+      },
+      {
+        "id": "p87i",
+        "label": "§ 87i",
+        "doknr": "BJNR012730965BJNE029000360"
+      },
+      {
+        "id": "p87j",
+        "label": "§ 87j",
+        "doknr": "BJNR012730965BJNE029100360"
+      },
+      {
+        "id": "p87k",
+        "label": "§ 87k",
+        "doknr": "BJNR012730965BJNE029200360"
+      },
+      {
+        "id": "p88",
+        "label": "§ 88",
+        "doknr": "BJNR012730965BJNE012804125"
+      },
+      {
+        "id": "p89",
+        "label": "§ 89",
+        "doknr": "BJNR012730965BJNE012903125"
+      },
+      {
+        "id": "p90",
+        "label": "§ 90",
+        "doknr": "BJNR012730965BJNE013002123"
+      },
+      {
+        "id": "p91",
+        "label": "§ 91",
+        "doknr": "BJNR012730965BJNE013101377"
+      },
+      {
+        "id": "p92",
+        "label": "§ 92",
+        "doknr": "BJNR012730965BJNE013202377"
+      },
+      {
+        "id": "p93",
+        "label": "§ 93",
+        "doknr": "BJNR012730965BJNE013301377"
+      },
+      {
+        "id": "p94",
+        "label": "§ 94",
+        "doknr": "BJNR012730965BJNE013406140"
+      },
+      {
+        "id": "p95",
+        "label": "§ 95",
+        "doknr": "BJNR012730965BJNE013502377"
+      },
+      {
+        "id": "p95a",
+        "label": "§ 95a",
+        "doknr": "BJNR012730965BJNE023201360"
+      },
+      {
+        "id": "p95b",
+        "label": "§ 95b",
+        "doknr": "BJNR012730965BJNE023304360"
+      },
+      {
+        "id": "p95c",
+        "label": "§ 95c",
+        "doknr": "BJNR012730965BJNE023400377"
+      },
+      {
+        "id": "p95d",
+        "label": "§ 95d",
+        "doknr": "BJNR012730965BJNE023502360"
+      },
+      {
+        "id": "p96",
+        "label": "§ 96",
+        "doknr": "BJNR012730965BJNE013601377"
+      },
+      {
+        "id": "p97",
+        "label": "§ 97",
+        "doknr": "BJNR012730965BJNE013702140"
+      },
+      {
+        "id": "p97a",
+        "label": "§ 97a",
+        "doknr": "BJNR012730965BJNE024402360"
+      },
+      {
+        "id": "p98",
+        "label": "§ 98",
+        "doknr": "BJNR012730965BJNE013802140"
+      },
+      {
+        "id": "p99",
+        "label": "§ 99",
+        "doknr": "BJNR012730965BJNE013902140"
+      },
+      {
+        "id": "p100",
+        "label": "§ 100",
+        "doknr": "BJNR012730965BJNE014001140"
+      },
+      {
+        "id": "p101",
+        "label": "§ 101",
+        "doknr": "BJNR012730965BJNE014104360"
+      },
+      {
+        "id": "p101a",
+        "label": "§ 101a",
+        "doknr": "BJNR012730965BJNE018801140"
+      },
+      {
+        "id": "p101b",
+        "label": "§ 101b",
+        "doknr": "BJNR012730965BJNE024500140"
+      },
+      {
+        "id": "p102",
+        "label": "§ 102",
+        "doknr": "BJNR012730965BJNE014202377"
+      },
+      {
+        "id": "p102a",
+        "label": "§ 102a",
+        "doknr": "BJNR012730965BJNE024600140"
+      },
+      {
+        "id": "p103",
+        "label": "§ 103",
+        "doknr": "BJNR012730965BJNE014301140"
+      },
+      {
+        "id": "p104",
+        "label": "§ 104",
+        "doknr": "BJNR012730965BJNE014400315"
+      },
+      {
+        "id": "p104a",
+        "label": "§ 104a",
+        "doknr": "BJNR012730965BJNE025300360"
+      },
+      {
+        "id": "p105",
+        "label": "§ 105",
+        "doknr": "BJNR012730965BJNE014503377"
+      },
+      {
+        "id": "p106",
+        "label": "§ 106",
+        "doknr": "BJNR012730965BJNE014601309"
+      },
+      {
+        "id": "p107",
+        "label": "§ 107",
+        "doknr": "BJNR012730965BJNE014701309"
+      },
+      {
+        "id": "p108",
+        "label": "§ 108",
+        "doknr": "BJNR012730965BJNE014804377"
+      },
+      {
+        "id": "p108a",
+        "label": "§ 108a",
+        "doknr": "BJNR012730965BJNE018501309"
+      },
+      {
+        "id": "p108b",
+        "label": "§ 108b",
+        "doknr": "BJNR012730965BJNE023600377"
+      },
+      {
+        "id": "p109",
+        "label": "§ 109",
+        "doknr": "BJNR012730965BJNE014902377"
+      },
+      {
+        "id": "p110",
+        "label": "§ 110",
+        "doknr": "BJNR012730965BJNE015005140"
+      },
+      {
+        "id": "p111",
+        "label": "§ 111",
+        "doknr": "BJNR012730965BJNE015102377"
+      },
+      {
+        "id": "p111a",
+        "label": "§ 111a",
+        "doknr": "BJNR012730965BJNE023702360"
+      },
+      {
+        "id": "p111b",
+        "label": "§ 111b",
+        "doknr": "BJNR012730965BJNE018908123"
+      },
+      {
+        "id": "p111c",
+        "label": "§ 111c",
+        "doknr": "BJNR012730965BJNE024701123"
+      },
+      {
+        "id": "p112",
+        "label": "§ 112",
+        "doknr": "BJNR012730965BJNE015201377"
+      },
+      {
+        "id": "p113",
+        "label": "§ 113",
+        "doknr": "BJNR012730965BJNE015300315"
+      },
+      {
+        "id": "p114",
+        "label": "§ 114",
+        "doknr": "BJNR012730965BJNE015400315"
+      },
+      {
+        "id": "p115",
+        "label": "§ 115",
+        "doknr": "BJNR012730965BJNE015500315"
+      },
+      {
+        "id": "p116",
+        "label": "§ 116",
+        "doknr": "BJNR012730965BJNE015600315"
+      },
+      {
+        "id": "p117",
+        "label": "§ 117",
+        "doknr": "BJNR012730965BJNE015700315"
+      },
+      {
+        "id": "p118",
+        "label": "§ 118",
+        "doknr": "BJNR012730965BJNE015801377"
+      },
+      {
+        "id": "p119",
+        "label": "§ 119",
+        "doknr": "BJNR012730965BJNE015903377"
+      },
+      {
+        "id": "p120",
+        "label": "§ 120",
+        "doknr": "BJNR012730965BJNE016001307"
+      },
+      {
+        "id": "p121",
+        "label": "§ 121",
+        "doknr": "BJNR012730965BJNE016101301"
+      },
+      {
+        "id": "p122",
+        "label": "§ 122",
+        "doknr": "BJNR012730965BJNE016200315"
+      },
+      {
+        "id": "p123",
+        "label": "§ 123",
+        "doknr": "BJNR012730965BJNE016300315"
+      },
+      {
+        "id": "p124",
+        "label": "§ 124",
+        "doknr": "BJNR012730965BJNE016400315"
+      },
+      {
+        "id": "p125",
+        "label": "§ 125",
+        "doknr": "BJNR012730965BJNE016503377"
+      },
+      {
+        "id": "p126",
+        "label": "§ 126",
+        "doknr": "BJNR012730965BJNE016603377"
+      },
+      {
+        "id": "p127",
+        "label": "§ 127",
+        "doknr": "BJNR012730965BJNE016703377"
+      },
+      {
+        "id": "p127a",
+        "label": "§ 127a",
+        "doknr": "BJNR012730965BJNE021601301"
+      },
+      {
+        "id": "p127b",
+        "label": "§ 127b",
+        "doknr": "BJNR012730965BJNE029300360"
+      },
+      {
+        "id": "p128",
+        "label": "§ 128",
+        "doknr": "BJNR012730965BJNE016801307"
+      },
+      {
+        "id": "p129",
+        "label": "§ 129",
+        "doknr": "BJNR012730965BJNE016900315"
+      },
+      {
+        "id": "p130",
+        "label": "§ 130",
+        "doknr": "BJNR012730965BJNE017000315"
+      },
+      {
+        "id": "p131",
+        "label": "§ 131",
+        "doknr": "BJNR012730965BJNE017100315"
+      },
+      {
+        "id": "p132",
+        "label": "§ 132",
+        "doknr": "BJNR012730965BJNE017205125"
+      },
+      {
+        "id": "p133",
+        "label": "§ 133",
+        "doknr": "BJNR012730965BJNE017301360"
+      },
+      {
+        "id": "p134",
+        "label": "§ 134",
+        "doknr": "BJNR012730965BJNE017400315"
+      },
+      {
+        "id": "p135",
+        "label": "§ 135",
+        "doknr": "BJNR012730965BJNE017500315"
+      },
+      {
+        "id": "p135a",
+        "label": "§ 135a",
+        "doknr": "BJNR012730965BJNE017600315"
+      },
+      {
+        "id": "p136",
+        "label": "§ 136",
+        "doknr": "BJNR012730965BJNE017700315"
+      },
+      {
+        "id": "p137",
+        "label": "§ 137",
+        "doknr": "BJNR012730965BJNE017800315"
+      },
+      {
+        "id": "p137a",
+        "label": "§ 137a",
+        "doknr": "BJNR012730965BJNE018600304"
+      },
+      {
+        "id": "p137b",
+        "label": "§ 137b",
+        "doknr": "BJNR012730965BJNE019000309"
+      },
+      {
+        "id": "p137c",
+        "label": "§ 137c",
+        "doknr": "BJNR012730965BJNE019100309"
+      },
+      {
+        "id": "p137d",
+        "label": "§ 137d",
+        "doknr": "BJNR012730965BJNE019902360"
+      },
+      {
+        "id": "p137e",
+        "label": "§ 137e",
+        "doknr": "BJNR012730965BJNE020801377"
+      },
+      {
+        "id": "p137f",
+        "label": "§ 137f",
+        "doknr": "BJNR012730965BJNE020900307"
+      },
+      {
+        "id": "p137g",
+        "label": "§ 137g",
+        "doknr": "BJNR012730965BJNE021703360"
+      },
+      {
+        "id": "p137h",
+        "label": "§ 137h",
+        "doknr": "BJNR012730965BJNE022000307"
+      },
+      {
+        "id": "p137i",
+        "label": "§ 137i",
+        "doknr": "BJNR012730965BJNE022100377"
+      },
+      {
+        "id": "p137j",
+        "label": "§ 137j",
+        "doknr": "BJNR012730965BJNE023800377"
+      },
+      {
+        "id": "p137k",
+        "label": "§ 137k",
+        "doknr": "BJNR012730965BJNE023904360"
+      },
+      {
+        "id": "p137l",
+        "label": "§ 137l",
+        "doknr": "BJNR012730965BJNE024300377"
+      },
+      {
+        "id": "p137m",
+        "label": "§ 137m",
+        "doknr": "BJNR012730965BJNE025200360"
+      },
+      {
+        "id": "p137n",
+        "label": "§ 137n",
+        "doknr": "BJNR012730965BJNE025700360"
+      },
+      {
+        "id": "p137o",
+        "label": "§ 137o",
+        "doknr": "BJNR012730965BJNE027300123"
+      },
+      {
+        "id": "p137p",
+        "label": "§ 137p",
+        "doknr": "BJNR012730965BJNE029400360"
+      },
+      {
+        "id": "p137q",
+        "label": "§ 137q",
+        "doknr": "BJNR012730965BJNE029500360"
+      },
+      {
+        "id": "p137r",
+        "label": "§ 137r",
+        "doknr": "BJNR012730965BJNE029600360"
+      },
+      {
+        "id": "p138",
+        "label": "§ 138",
+        "doknr": "BJNR012730965BJNE017905301"
+      },
+      {
+        "id": "p138a",
+        "label": "§ 138a",
+        "doknr": "BJNR012730965BJNE026400123"
+      },
+      {
+        "id": "p139",
+        "label": "§ 139",
+        "doknr": "BJNR012730965BJNE018001377"
+      },
+      {
+        "id": "p140",
+        "label": "§ 140",
+        "doknr": "BJNR012730965BJNE018101377"
+      },
+      {
+        "id": "p141",
+        "label": "§ 141",
+        "doknr": "BJNR012730965BJNE018201377"
+      },
+      {
+        "id": "p142",
+        "label": "§ 142",
+        "doknr": "BJNR012730965BJNE027401360"
+      },
+      {
+        "id": "p143",
+        "label": "§ 143",
+        "doknr": "BJNR012730965BJNE018400315"
+      },
+      {
+        "id": "anlage",
+        "label": "Anlage (zu § 61a)",
+        "doknr": "BJNR012730965BJNE018706123"
+      }
+    ],
+    "all_builddates": [
+      "20260529215505"
+    ],
+    "duplicate_versions_found": false,
+    "annex_groups": [
+      {
+        "number": "1.",
+        "letters": [
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)"
+        ]
+      },
+      {
+        "number": "2.",
+        "letters": [
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)"
+        ]
+      },
+      {
+        "number": "3.",
+        "letters": [
+          "a)",
+          "b)",
+          "c)"
+        ]
+      },
+      {
+        "number": "4.",
+        "letters": [
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)"
+        ]
+      },
+      {
+        "number": "5.",
+        "letters": [
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)"
+        ]
+      }
+    ],
+    "annex_letter_count": 26,
+    "eingangsformel_present": false,
+    "unclassified_operative_records": [],
+    "version_limit": "Ein amtlicher Konsolidierungsstand, kein historisches Vollarchiv. Inkrafttreten der letzten Änderung aus Art. 3 BGBl. 2026 I Nr. 157 mit Verkündung 29.5.2026 als 30.5.2026 belegt; Art. 2 betrifft §§ 54d/87b, nicht diese 20 Einheiten.",
+    "technical_validation": {
+      "repo": "Komentar-DE-URHG-1965",
+      "units": 254,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 266492,
       "errors": [],
       "warnings": [],
       "ok": true

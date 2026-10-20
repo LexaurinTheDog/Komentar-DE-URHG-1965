@@ -1,6 +1,6 @@
 {
   "algorithm": "SHA-256",
-  "generated_at": "2026-10-20T12:27:58.897693+00:00",
+  "generated_at": "2026-10-20T12:41:55.754967+00:00",
   "sources": [
     {
       "path": "sources/aktualitaet.headers",
@@ -713,9 +713,334 @@
       "bytes": 17237
     },
     {
+      "path": "sources/review-p42-p52b/aktuell.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/review-p42-p52b/aktuell.html.headers",
+      "sha256": "aba3fb4734114c9cd0f7e43cea9a483bf96427af8b79a3a2c06cbd1446a24273",
+      "bytes": 324
+    },
+    {
+      "path": "sources/review-p42-p52b/amendment.pdf",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883
+    },
+    {
+      "path": "sources/review-p42-p52b/amendment.pdf.headers",
+      "sha256": "b1541273f6d750690828bd523ef28c6da416e117cdbc6b49a51ae1be4e66a1b8",
+      "bytes": 1018
+    },
+    {
+      "path": "sources/review-p42-p52b/bgh-followup.headers",
+      "sha256": "ba492abd72d4a8a54e8b5d049dd1288dcd493ec702ec1b09bacb16727f565023",
+      "bytes": 2983
+    },
+    {
+      "path": "sources/review-p42-p52b/bgh-followup.html",
+      "sha256": "274cdf1e809a483df48d25455bb8a45b612e0e1e8c0b35898ab39f99dc8c8a82",
+      "bytes": 39896
+    },
+    {
+      "path": "sources/review-p42-p52b/case-fetch-results.json",
+      "sha256": "c3c7167a5aa00a4dc20569db9aa9e147e27ef6de99c36900932f8bffd28e2ba2",
+      "bytes": 8264
+    },
+    {
+      "path": "sources/review-p42-p52b/case-local-agreement.json",
+      "sha256": "3af586bd3d5b649f367ad15c2ac8c6bd2f572d4c450a79a5d751d96686c126a8",
+      "bytes": 2798
+    },
+    {
+      "path": "sources/review-p42-p52b/commentary-preservation.json",
+      "sha256": "2a8a837231babb5b0411a526bfd1ba4f3b60a5dcc5f66e67e5c21e04049d75d3",
+      "bytes": 56005
+    },
+    {
+      "path": "sources/review-p42-p52b/current-pdf.txt",
+      "sha256": "540571a1ae026695c3f587befbe120940e9c7dc0f3b95a807f7c8ad6fdbb51d6",
+      "bytes": 280366
+    },
+    {
+      "path": "sources/review-p42-p52b/current.pdf",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416
+    },
+    {
+      "path": "sources/review-p42-p52b/current.pdf.headers",
+      "sha256": "b69bbbb590a3fd1c4e27f1279395efd7f55ce1567e691c94522c6fe8eaaf3a6a",
+      "bytes": 309
+    },
+    {
+      "path": "sources/review-p42-p52b/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "bytes": 401221
+    },
+    {
+      "path": "sources/review-p42-p52b/current.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672
+    },
+    {
+      "path": "sources/review-p42-p52b/current.zip.headers",
+      "sha256": "d6e4ed74f72c02eda4df087d76367b537f11b8aeea358fd1ab277ec46d874500",
+      "bytes": 308
+    },
+    {
+      "path": "sources/review-p42-p52b/fetch-cases.py",
+      "sha256": "bfa05f9ae2575f0e2a3d4db1f3dea5081ca0a408d28ced35ca49d7774b7ec05c",
+      "bytes": 2346
+    },
+    {
+      "path": "sources/review-p42-p52b/fetch-results.json",
+      "sha256": "d27bb93623fd2b93be081b52b2df438e0d84b29d85f75d20a1a6b4085d0a601b",
+      "bytes": 3030
+    },
+    {
+      "path": "sources/review-p42-p52b/fetch.py",
+      "sha256": "b695a7ef5355b4b0dcb390e30e4cba7b3cc89950d00be39b874e24b5e08132bd",
+      "bytes": 2127
+    },
+    {
+      "path": "sources/review-p42-p52b/full.html",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217
+    },
+    {
+      "path": "sources/review-p42-p52b/full.html.headers",
+      "sha256": "cd981864381fe9c2424b6736a42799eb382d7edb732a69e86ff463fb7552922e",
+      "bytes": 325
+    },
+    {
+      "path": "sources/review-p42-p52b/index.html",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665
+    },
+    {
+      "path": "sources/review-p42-p52b/index.html.headers",
+      "sha256": "9b32fbd63bc4ec3945d730bb129d5c16caf8df42a6bd2081ae03b9eb9cef4f6a",
+      "bytes": 323
+    },
+    {
+      "path": "sources/review-p42-p52b/local-case-search.json",
+      "sha256": "6a24014afcf80ab2483c3c865dfc5599178de3e8d9be0648cd13bc3bf17fad88",
+      "bytes": 2524
+    },
+    {
+      "path": "sources/review-p42-p52b/metall-0.headers",
+      "sha256": "09f7db7e3680cfac669b9419a76515309569e50c5ed9587bb17d12ba13a18a8a",
+      "bytes": 2937
+    },
+    {
+      "path": "sources/review-p42-p52b/metall-0.pdf",
+      "sha256": "5ad566e56dd8ed8c80425c411c775bce596fce063be8f281c6a478f337bf23d3",
+      "bytes": 105432
+    },
+    {
+      "path": "sources/review-p42-p52b/metall-0.txt",
+      "sha256": "ff4e904cd016abb0aeba7d307bd734919440e3ab351cb6bd2cedadd1e6a981d3",
+      "bytes": 39686
+    },
+    {
+      "path": "sources/review-p42-p52b/metall-1.headers",
+      "sha256": "f8296ff1009bf151dfbbfd56e9c58273ebdda6f6937217d1ac24ccc12a56c1dd",
+      "bytes": 2937
+    },
+    {
+      "path": "sources/review-p42-p52b/metall-1.pdf",
+      "sha256": "58594ca07f2ef84b7e27ca1f0b78bf420bedd7352dbfcb4107e9c8ab2ae61b73",
+      "bytes": 121890
+    },
+    {
+      "path": "sources/review-p42-p52b/metall-1.txt",
+      "sha256": "b183b02afa4ca7e9b1aac1edf66f6c8f429a63b9771465fdd28cdbfe547739e8",
+      "bytes": 47431
+    },
+    {
+      "path": "sources/review-p42-p52b/metall-vi-intake.md",
+      "sha256": "934b4aad71f83975b9e71e12311a97f085267120c514294b9400807ca9d75a65",
+      "bytes": 43547
+    },
+    {
+      "path": "sources/review-p42-p52b/metall-vi-official.txt",
+      "sha256": "a290e3e3870c5eab45402782d753735cb992440eea75e3257b7e4e4706829c1e",
+      "bytes": 51907
+    },
+    {
+      "path": "sources/review-p42-p52b/metall-vi.headers",
+      "sha256": "b537c8ca2b8d24e8542dd926b3d596da8fa923c5e61283194f50c7998121b6d5",
+      "bytes": 3026
+    },
+    {
+      "path": "sources/review-p42-p52b/metall-vi.xml",
+      "sha256": "b2f50023da10b78f3d6bf399ba35ce23f63693139316692c74d9cfb86cc50f2e",
+      "bytes": 62519
+    },
+    {
+      "path": "sources/review-p42-p52b/metall-vi.zip",
+      "sha256": "1a191074288affdeaceba9e18adb7cf71df32b0e949f1159ab02e7aeb0ac9be5",
+      "bytes": 13583
+    },
+    {
+      "path": "sources/review-p42-p52b/pelham-2026-lexuri.html.headers",
+      "sha256": "9d15ed5a8e3a64075738b19e989c782c20ace94a5aae1b0cf989cffd15911172",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p42-p52b/pelham-2026-plain.pdf.headers",
+      "sha256": "de72e48fcfe9af26bcaba340c142c427fa5fde20af4e9473e0940fd4178dc2c9",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p42-p52b/pelham-2026.html.headers",
+      "sha256": "44cea3908f0134630f0e6d68a521cc0593adcd1d4dc714109020325537537578",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p42-p52b/pelham-2026.pdf.headers",
+      "sha256": "14e513da2ae0a83b9d7c5a913c61bd3236e2da6c4f9c626e0a3d190b63558108",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p42-p52b/pelham-info-official.txt",
+      "sha256": "482830ba889c6da1340b588cdbbd199d523d2e1146242aa931a3a800ebbb082f",
+      "bytes": 129022
+    },
+    {
+      "path": "sources/review-p42-p52b/pelham-info.html",
+      "sha256": "413824fbbaa5c6d60c5e8a24f6bd3861e173e4a45ae5e1490e78df16ce269fb6",
+      "bytes": 130226
+    },
+    {
+      "path": "sources/review-p42-p52b/pelham-info.html.headers",
+      "sha256": "c704b4db680cc59060a683beaf8b8b755abe3b0323dda934f416d7ac3d8a3eec",
+      "bytes": 804
+    },
+    {
+      "path": "sources/review-p42-p52b/prca-plain.pdf.headers",
+      "sha256": "8038fa8fe6f3701044b4239452d8aaa364227c93e8e1aa6a76b587d62939347a",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p42-p52b/prca.html.headers",
+      "sha256": "dbebd896a4d032c0293ecb00ac0e5cd1711a7553ec4e75cb2aa67c3beefebb14",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p42-p52b/prca.pdf.headers",
+      "sha256": "6103b2dc1623b18a460bd9e1fdf5c357ebecbbcfe17d13687b63d9f64b7b1ab0",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p42-p52b/preflight-evidence.json",
+      "sha256": "171ab20e3e6c479cfdd248f81a02875f0a7ea2a5a9b763b46fbd898ffb4a6f0b",
+      "bytes": 27870
+    },
+    {
+      "path": "sources/review-p42-p52b/previous-review-p32c-p41.json",
+      "sha256": "3021367d799c909fa94de686f229c24d386352c238987fd8d92bb0d3eb199f70",
+      "bytes": 25824
+    },
+    {
+      "path": "sources/review-p42-p52b/reformistischer-intake.md",
+      "sha256": "35440a12e6f9e23191d667c7078d378c434f48ddbf2128bfe9bb0eb7011166f1",
+      "bytes": 73120
+    },
+    {
+      "path": "sources/review-p42-p52b/reformistischer-official.txt",
+      "sha256": "943d097578f9a958a25ac35207dd51ac735cada1263ad8249ba6bfc25d60852e",
+      "bytes": 96183
+    },
+    {
+      "path": "sources/review-p42-p52b/reformistischer.xml",
+      "sha256": "cca6d69a3b88460ef903f478b1b9ec381551ca09e34cbce8749a4d6e926ff1ea",
+      "bytes": 115558
+    },
+    {
+      "path": "sources/review-p42-p52b/reformistischer.zip",
+      "sha256": "bc60a833224e4a38417db38b2591e3b0c31e53154e23757f5780698e22c872a9",
+      "bytes": 223967
+    },
+    {
+      "path": "sources/review-p42-p52b/reformistischer.zip.headers",
+      "sha256": "da76e4945de014b3c9dd983de9edbf3007c87af94d9f0500ccef3d715d3ff54f",
+      "bytes": 3026
+    },
+    {
+      "path": "sources/review-p42-p52b/rejected-pelham-2026-lexuri.html.body",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p42-p52b/rejected-pelham-2026-plain.pdf.body",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p42-p52b/rejected-pelham-2026.html.body",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p42-p52b/rejected-pelham-2026.pdf.body",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p42-p52b/rejected-prca-plain.pdf.body",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p42-p52b/rejected-prca.html.body",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p42-p52b/rejected-prca.pdf.body",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p42-p52b/rejected-spiegel-online-plain.pdf.body",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p42-p52b/rejected-spiegel-online.html.body",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p42-p52b/rejected-spiegel-online.pdf.body",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p42-p52b/spiegel-online-plain.pdf.headers",
+      "sha256": "fe0e551e9e9dd5b21427b9ec3d7a0c5cc440629e551317a8d9c0bfe3bcaecf69",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p42-p52b/spiegel-online.html.headers",
+      "sha256": "6209d6ae0e2c1ffbf59262af6594c94952692a9abe4bc10a12555de251d7fd72",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p42-p52b/spiegel-online.pdf.headers",
+      "sha256": "3e40a3c26eb99cc200b7f4e935545ff2b130cc27ed994607e9aa0a9eaf4dc645",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p42-p52b/web-discovery.json",
+      "sha256": "86a1d8716bf259a53f7142c3876eba9a86295808590e46892db7a3117028944f",
+      "bytes": 13956
+    },
+    {
       "path": "sources/search-log.json",
-      "sha256": "93a8966ce640a71acc964f14abc9cabddd797b57293313ada350496d94fa75b5",
-      "bytes": 6312
+      "sha256": "0f4a7c40de9a7d4f148e978cf688a1ad3f7593b9ad935cc14afc5ccfaa99281f",
+      "bytes": 8385
     },
     {
       "path": "sources/searches/amendment-search.json",
@@ -789,8 +1114,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "e12c6abc6687e7d84e1689c708045b4b590af1813c24aaa8f96c2b5c0a82ab46",
-      "bytes": 30687
+      "sha256": "dfc5106a88ef18970bae54f21f98eb73ea3bab9ac4fe25a41c6a538f89aa8b79",
+      "bytes": 45045
     },
     {
       "path": "sources/verify-sources.py",

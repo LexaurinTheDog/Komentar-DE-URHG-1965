@@ -114,5 +114,43 @@
       }
     ],
     "coverage": "Selektiv: § 33 und §§ 36/36a. Keine erschöpfende Folgeentscheidungsrecherche und kein künstlicher Beleg für technische Einheiten."
+  },
+  "bounded_review_p42_p52b": {
+    "verified_at": "2026-10-20T12:40:48.774901+00:00",
+    "searches": [
+      {
+        "tool": "web search",
+        "query": "Official Curia C-590/23, Spiegel Online C-516/17; BGH I ZR 74/22 3.9.2026; Reformistischer Aufbruch II",
+        "evidence": "sources/review-p42-p52b/web-discovery.json",
+        "disposition": "Suchtreffer und Pressemitteilung nur zur Entdeckung; zwei amtliche BGH-Volltexte gelesen."
+      },
+      {
+        "tool": "local national RII manifest and full texts",
+        "query": "Reformistischer Aufbruch, I ZR 228/15, Metall auf Metall, I ZR 115/16, I ZR 74/22",
+        "evidence": "sources/review-p42-p52b/local-case-search.json",
+        "selected": [
+          "KORE306052020",
+          "KORE307292026"
+        ],
+        "rejected": [
+          "VIII ZR 228/15 and II ZR 74/22: other senate/matter",
+          "Earlier preliminary references: not mistaken for final 2020/2026 judgments"
+        ],
+        "disposition": "Amtliche aktuelle XML-ZIP-Abrufe und lokale vollständige Texte abgeglichen; beide ausgewählten Entscheidungen mit sämtlichen nummerierten Absätzen gelesen."
+      },
+      {
+        "tool": "Firecrawl CLI",
+        "query": "scrape EUR-Lex C-590/23",
+        "logged_at": "2026-10-20T12:40:48.774901+00:00",
+        "disposition": "Nicht verfügbar: Insufficient credits. Keine Installation, Änderung der Einstellungen oder Umgehung; amtliche BGH-Volltexte alternativ beschafft."
+      },
+      {
+        "tool": "direct official retrieval",
+        "query": "EUR-Lex HTML/PDF C-590/23, C-516/17 and C-360/13 plus Publications Office aliases",
+        "evidence": "sources/review-p42-p52b/case-fetch-results.json",
+        "disposition": "Leere/fehlerhafte Direktantworten verworfen; keine zusätzlichen EuGH-Urteile daraus zitiert."
+      }
+    ],
+    "coverage": "Selektive Ergänzung für §§ 50/51 und § 51a. Für andere Einheiten keine zusätzliche hinreichend spezifische volltextgeprüfte Entscheidung ausgewählt; keine erschöpfende Rechtsprechungsabdeckung."
   }
 }
