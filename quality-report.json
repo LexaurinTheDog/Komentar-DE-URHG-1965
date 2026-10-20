@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T14:51:53.031176+00:00",
+  "checked_at": "2026-10-20T15:00:27.849730+00:00",
   "units": 254,
   "commented_units": 254,
   "commentary_chars": 443871,
@@ -9,7 +9,7 @@
   "independent_xml_stream_mismatches": [],
   "identical_paragraphs_over_100_chars": [],
   "similar_unit_pairs_shingle_jaccard_over_012": [],
-  "local_links_checked": 502,
+  "local_links_checked": 364,
   "broken_local_links": [],
   "unresolved_internal_references": [],
   "short_commentaries": [],

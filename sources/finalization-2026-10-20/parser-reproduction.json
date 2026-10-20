@@ -1,0 +1,18 @@
+{
+  "parser": "_parse.py",
+  "before_sha256": {
+    "units.jsonl": "a60861ec571db3f082b529b914b598b484f4f8fdb67a02fcc421ffa52c8cada2",
+    "meta.json": "88537bfe378769ae2d8a9bd48b4d513cd83ec4aa09f67d61406b1e8be0cfa7c7",
+    "sources/urhg-canonical.md": "bcbe16642d40e803ad11f046cf4cf91aa1e6c0297b4430c640074db8aac74ccc",
+    "sources/xml-disposition.json": "0da0da8a360b91343a5af3a60c7510c0742342326a1c266ffe25631d14105bb2"
+  },
+  "after_sha256": {
+    "units.jsonl": "a60861ec571db3f082b529b914b598b484f4f8fdb67a02fcc421ffa52c8cada2",
+    "meta.json": "88537bfe378769ae2d8a9bd48b4d513cd83ec4aa09f67d61406b1e8be0cfa7c7",
+    "sources/urhg-canonical.md": "bcbe16642d40e803ad11f046cf4cf91aa1e6c0297b4430c640074db8aac74ccc",
+    "sources/xml-disposition.json": "0da0da8a360b91343a5af3a60c7510c0742342326a1c266ffe25631d14105bb2"
+  },
+  "changed_files": [],
+  "stdout": "Extracted 254 units; chapters 12\n",
+  "ok": true
+}

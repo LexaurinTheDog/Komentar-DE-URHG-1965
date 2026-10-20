@@ -2302,6 +2302,78 @@
       "expected_format_validated": true,
       "format": "XML dokumente; jurabk UrhG; original doknr",
       "derived_from": "sources/review-p137m-anlage/current.zip"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T14:56:22.483642+00:00",
+      "expected_format": "zip",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "response_path": "sources/finalization-2026-10-20/current.zip",
+      "headers_path": "sources/finalization-2026-10-20/current.zip.headers",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "accessed_at": "2026-10-20T14:56:22.483982+00:00",
+      "expected_format": "html",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "response_path": "sources/finalization-2026-10-20/index.html",
+      "headers_path": "sources/finalization-2026-10-20/index.html.headers",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "accessed_at": "2026-10-20T14:56:22.484080+00:00",
+      "expected_format": "html",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "response_path": "sources/finalization-2026-10-20/full.html",
+      "headers_path": "sources/finalization-2026-10-20/full.html.headers",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "accessed_at": "2026-10-20T14:56:22.484153+00:00",
+      "expected_format": "pdf",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "response_path": "sources/finalization-2026-10-20/current.pdf",
+      "headers_path": "sources/finalization-2026-10-20/current.pdf.headers",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T14:56:22.484236+00:00",
+      "expected_format": "pdf",
+      "http_status": 200,
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "response_path": "sources/finalization-2026-10-20/amendment.pdf",
+      "headers_path": "sources/finalization-2026-10-20/amendment.pdf.headers",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T14:56:22.484295+00:00",
+      "expected_format": "html",
+      "http_status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "response_path": "sources/finalization-2026-10-20/aktuell.html",
+      "headers_path": "sources/finalization-2026-10-20/aktuell.html.headers",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210,
+      "expected_format_validated": true
     }
   ],
   "version": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
@@ -4167,5 +4239,17 @@
     },
     "fetch_log": "sources/review-p137m-anlage/fetch-results.json",
     "external_version": "sources/review-p137m-anlage/external-version-evidence.json"
+  },
+  "finalization": {
+    "verified_at": "2026-10-20T14:56:25.640122+00:00",
+    "fetch_log": "sources/finalization-2026-10-20/fetch-results.json",
+    "current_xml_unchanged": true,
+    "index_unchanged": true,
+    "amendment_unchanged": true,
+    "decisive_date": "2026-10-19",
+    "version_evidence": "Art. 2/3 BGBl. 2026 I Nr. 157; promulgated 29 May, effective 30 May 2026.",
+    "scope": "Live official sources and recorded commencement rechecked; no new substantive unit review.",
+    "aktualitaetendienst_urhg_references": [],
+    "initial_format_check_note": "Initial index validation incorrectly required a commencement date on the table-of-contents page. Corrected to require the full law title and statutory/annex links; all six final responses valid. Initial response bodies are byte-identical to the final preserved bodies, and initial hashes remain verifiable."
   }
 }

@@ -1,6 +1,6 @@
 {
   "algorithm": "SHA-256",
-  "generated_at": "2026-10-20T14:53:17.794558+00:00",
+  "generated_at": "2026-10-20T15:00:47.943980+00:00",
   "sources": [
     {
       "path": "sources/aktualitaet.headers",
@@ -91,6 +91,131 @@
       "path": "sources/fetch-authorities.py",
       "sha256": "01393542c9652fc24fc304d24bc6ca1a8b06597e7b219f4f879ba65b1a311022",
       "bytes": 1373
+    },
+    {
+      "path": "sources/finalization-2026-10-20/aktuell.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/finalization-2026-10-20/aktuell.html.headers",
+      "sha256": "c8bb097fad018a47cfa839e3866811b45a1f2ed5a3fae0734650b35c95a42a6b",
+      "bytes": 324
+    },
+    {
+      "path": "sources/finalization-2026-10-20/amendment.pdf",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883
+    },
+    {
+      "path": "sources/finalization-2026-10-20/amendment.pdf.headers",
+      "sha256": "15f2ac3bd83b44ff5e58680575f8d9161072952986a484ffabc86d119a5a198f",
+      "bytes": 1111
+    },
+    {
+      "path": "sources/finalization-2026-10-20/amendment.txt",
+      "sha256": "330ec58cb454a226cdb04ba26c8da212f4d84f34af5c7c9b5adcb87dcd7dcef7",
+      "bytes": 31271
+    },
+    {
+      "path": "sources/finalization-2026-10-20/before-00-einleitung.md",
+      "sha256": "959ad6a660376360dc93a4b668d233a8284333fe684cca4f15a86ee44e7aff30",
+      "bytes": 9145
+    },
+    {
+      "path": "sources/finalization-2026-10-20/before-README.md",
+      "sha256": "820b71357585b4aa7b0194af47d7e8401a664db9f62402081039908185e3fe78",
+      "bytes": 8106
+    },
+    {
+      "path": "sources/finalization-2026-10-20/before-REVIEW.md",
+      "sha256": "bad4b57805e15e6dc2dfe0045a883a7aaddb2612c8f42b262a0513202b20c891",
+      "bytes": 120737
+    },
+    {
+      "path": "sources/finalization-2026-10-20/before-batch-review-ledger.json",
+      "sha256": "3afea47452a62a634a2950c08a8538cc1a558bcedfe1a2396b529cbfc6162f8e",
+      "bytes": 371620
+    },
+    {
+      "path": "sources/finalization-2026-10-20/before-preflight-result.json",
+      "sha256": "e7c91f2cf997c196dd75bbf10efb1607ca3ebdd457ed4fbed461039dfaaa017e",
+      "bytes": 281410
+    },
+    {
+      "path": "sources/finalization-2026-10-20/before-review-result.json",
+      "sha256": "e69b13909377b98970d77b1e532f5925bb81b2f7742b204a7f86517aa9af77ca",
+      "bytes": 18954
+    },
+    {
+      "path": "sources/finalization-2026-10-20/before-status.json",
+      "sha256": "57b54f9be8f49993f5523c575ae60a0d8f3ece3564b66f2462a15bbca959cace",
+      "bytes": 29505
+    },
+    {
+      "path": "sources/finalization-2026-10-20/current.pdf",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416
+    },
+    {
+      "path": "sources/finalization-2026-10-20/current.pdf.headers",
+      "sha256": "ae2f455428529a75662b43bfb8e75de2cb729d5fe76ec559c486c7dd2c276cc8",
+      "bytes": 309
+    },
+    {
+      "path": "sources/finalization-2026-10-20/current.txt",
+      "sha256": "540571a1ae026695c3f587befbe120940e9c7dc0f3b95a807f7c8ad6fdbb51d6",
+      "bytes": 280366
+    },
+    {
+      "path": "sources/finalization-2026-10-20/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "bytes": 401221
+    },
+    {
+      "path": "sources/finalization-2026-10-20/current.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672
+    },
+    {
+      "path": "sources/finalization-2026-10-20/current.zip.headers",
+      "sha256": "bd4cb6379b08b87cd5a4df663897e89cdb493233827cbe86e9cd99477c8b0e7f",
+      "bytes": 308
+    },
+    {
+      "path": "sources/finalization-2026-10-20/fetch-results.json",
+      "sha256": "d0e31c5d734354f58a98dee6717a0062c9340de3846502e854f8f328d7308933",
+      "bytes": 3309
+    },
+    {
+      "path": "sources/finalization-2026-10-20/full.html",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217
+    },
+    {
+      "path": "sources/finalization-2026-10-20/full.html.headers",
+      "sha256": "5cec9996d6ed3dfa7204688225b25b1e0e6f41a0d54a22eb3d1bce70c4a8bf1f",
+      "bytes": 325
+    },
+    {
+      "path": "sources/finalization-2026-10-20/index.html",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665
+    },
+    {
+      "path": "sources/finalization-2026-10-20/index.html.headers",
+      "sha256": "79ff63307803dda2c2b92833cacd7e3f32803c504574e56d12f92a93dbc9a8ec",
+      "bytes": 323
+    },
+    {
+      "path": "sources/finalization-2026-10-20/initial-format-check.json",
+      "sha256": "3de3c4979adbc85a7fe7705c4f148a3f5448ccbd1959222e5ecc2eecc719a866",
+      "bytes": 3327
+    },
+    {
+      "path": "sources/finalization-2026-10-20/parser-reproduction.json",
+      "sha256": "b71b87105885a1cd52e2960d28699fcd8326aa951445b72956d76a39d7874763",
+      "bytes": 918
     },
     {
       "path": "sources/geburtstagszug.headers",
@@ -3989,8 +4114,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "3462844bd2c0c52e744cabcc28afb9f525e7660ebe7cabd3e7933e1682e7dd3c",
-      "bytes": 195231
+      "sha256": "bff0ec679ff22b7f848ebf869d9fe1ed435ebedecf91477bce201de32e52b6cd",
+      "bytes": 199561
     },
     {
       "path": "sources/verify-sources.py",

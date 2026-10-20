@@ -3,7 +3,7 @@
   "complete": true,
   "decisive_date": "2026-10-19",
   "official_url": "https://www.gesetze-im-internet.de/urhg/",
-  "verified_at": "2026-10-20T14:51:48.783528+00:00",
+  "verified_at": "2026-10-20T14:56:25.640122+00:00",
   "version_evidence": {
     "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
     "promulgated": "2026-05-29",
@@ -168,7 +168,7 @@
   "limitations": [
     "Datierter Nachweis des amtlich veröffentlichten Konsolidierungsstandes; keine Garantie gegen eine noch nicht eingearbeitete oder noch nicht indizierte Änderung.",
     "Kein Vollarchiv sämtlicher seit 1965 geltenden Fassungen; historische Stichtagsprüfung konkreter Altfälle bleibt gesondert erforderlich.",
-    "Nur Quellen- und Parser-Preflight; vorhandene Kommentare erhalten, keine vollständige zweite inhaltliche Manuskriptprüfung und keine Gesamtfreigabe."
+    "Technische Schlusszusammenführung aus früheren Prüflosen; keine neue inhaltliche Gesamtbegutachtung."
   ],
   "technical_validation": {
     "repo": "Komentar-DE-URHG-1965",
@@ -11571,5 +11571,15 @@
       "warnings": [],
       "ok": true
     }
+  },
+  "finalization_confirmation": {
+    "verified_at": "2026-10-20T14:56:25.640122+00:00",
+    "fetch_log": "sources/finalization-2026-10-20/fetch-results.json",
+    "current_xml_unchanged": true,
+    "index_unchanged": true,
+    "amendment_unchanged": true,
+    "decisive_date": "2026-10-19",
+    "version_evidence": "Art. 2/3 BGBl. 2026 I Nr. 157; promulgated 29 May, effective 30 May 2026.",
+    "scope": "Live official sources and recorded commencement rechecked; no new substantive unit review."
   }
 }
