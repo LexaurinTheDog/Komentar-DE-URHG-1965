@@ -380,5 +380,28 @@
     ],
     "previous_review": "sources/review-p53-p60b/previous-review-p42-p52b.json"
   },
-  "technical_validation": "validation-result.json"
+  "technical_validation": "validation-result.json",
+  "technical_checks": {
+    "build_ok": true,
+    "strict_validation": {
+      "repo": "Komentar-DE-URHG-1965",
+      "units": 254,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 277358,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "completeness_ok": true,
+    "official_expected_units": 254,
+    "parsed_units": 254,
+    "all_commentaries": 254,
+    "xml_text_mismatches": [],
+    "broken_local_links": [],
+    "local_links_checked": 219,
+    "identical_long_paragraphs": [],
+    "similarity_flags": [],
+    "validated_content_commit": "d8f9bb67d5fb76380cc8e03ebaa913e80e5c7e4b",
+    "recorded_at": "2026-10-20T12:52:43.542350+00:00"
+  }
 }

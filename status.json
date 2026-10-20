@@ -1,6 +1,6 @@
 {
   "stage": "bounded_review_complete",
-  "updated_at": "2026-10-20T12:42:22.585387+00:00",
+  "updated_at": "2026-10-20T12:50:59.051532+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -17,15 +17,16 @@
     "statutory_changes_since_intake_detected": false,
     "preflight_verified_at": "2026-10-20T11:54:07.436691+00:00",
     "coverage_report": "completeness-report.json",
-    "source_integrity_checked_responses": 55,
-    "bounded_review_verified_at": "2026-10-20T12:40:48.774901+00:00"
+    "source_integrity_checked_responses": 66,
+    "bounded_review_verified_at": "2026-10-20T12:50:59.051532+00:00",
+    "source_integrity_mismatches": []
   },
   "total_units": 254,
   "completed_units": 254,
   "paragraph_units": 253,
   "annex_units": 1,
   "chapters": 12,
-  "commentary_chars": 266492,
+  "commentary_chars": 277358,
   "case_law_sources": [
     {
       "court": "EuGH",
@@ -212,6 +213,32 @@
       "expected_format_validated": true,
       "headers_path": "sources/review-p42-p52b/metall-vi.headers",
       "read_scope": "Full official decision and local corpus text; all numbered paragraphs read."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303392015.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303392015.zip",
+      "accessed_at": "2026-10-20T12:44:03.600163+00:00",
+      "response_received_at": "2026-10-20T12:44:03.803500+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/moebelkatalog.zip",
+      "headers_path": "sources/review-p53-p60b/moebelkatalog.zip.headers.json",
+      "sha256": "fcb44a0a8c37e83d8471c39bea976a1024113d2dbea47fa220c04672126890f7",
+      "bytes": 149090,
+      "expected_format_validated": true,
+      "read_scope": "Full official judgment and full local corpus text, including correction for I ZR 67/23."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310902024.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310902024.zip",
+      "accessed_at": "2026-10-20T12:44:03.610671+00:00",
+      "response_received_at": "2026-10-20T12:44:03.744163+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/drohnen.zip",
+      "headers_path": "sources/review-p53-p60b/drohnen.zip.headers.json",
+      "sha256": "cbc92befa31c3a6b1acb707477525bb1584fca9e3ed639a78988608f4bd4cca4",
+      "bytes": 49591,
+      "expected_format_validated": true,
+      "read_scope": "Full official judgment and full local corpus text, including correction for I ZR 67/23."
     }
   ],
   "case_cards": [
@@ -225,27 +252,42 @@
     "cases/take-five.md",
     "cases/werknutzer.md",
     "cases/metall-auf-metall-vi.md",
-    "cases/reformistischer-aufbruch-ii.md"
+    "cases/reformistischer-aufbruch-ii.md",
+    "cases/moebelkatalog.md",
+    "cases/ueber-alle-berge.md"
   ],
   "validation_result": {
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 250633,
+    "commentary_chars": 277358,
     "errors": [],
     "warnings": [],
     "ok": true
   },
-  "completeness_result": true,
-  "quality_result": true,
+  "completeness_result": {
+    "ok": true,
+    "expected_count": 254,
+    "parsed_count": 254,
+    "missing": [],
+    "unexpected": [],
+    "duplicates": []
+  },
+  "quality_result": {
+    "ok": true,
+    "local_links_checked": 219,
+    "broken_local_links": [],
+    "xml_mismatches": [],
+    "repeated_long_paragraphs": []
+  },
   "independent_second_pass_completed": false,
   "unresolved_blockers": [],
   "remaining_limitations": [
-    "Genau 20 zugewiesene Einheiten in diesem Prüflos. Die übrigen 234 Kommentare sind gegenüber dem Ausgangscommit unverändert; ihre inhaltliche Prüfung wurde hier nicht wiederholt. Keine zweite Gesamtprüfung des Buches.",
-    "Selektive Rechtsprechungsrecherche. Zwei BGH-Entscheidungen vollständig gelesen und mit lokalem nationalem Korpus abgeglichen, keine erschöpfende Folgeentscheidungsrecherche.",
-    "EUR-Lex-Direktabrufe lieferten leere HTTP-202-Antworten; Firecrawl meldete fehlendes Guthaben. Die unionsrechtlichen Fälle wurden daher nicht als selbständig volltextgeprüfte Autoritäten ergänzt. Aktuelle Pastiche-Auslegung ist durch das vollständige BGH-Urteil vom 3.9.2026 belegt.",
-    "Amtlicher Konsolidierungsstand mit tatsächlichem Verkündungs-/Inkrafttretensbeleg geprüft; kein vollständiges Archiv aller historischen Fassungen und keine Garantie gegen noch nicht eingearbeitete Änderungen.",
-    "Verweisungen auf Verordnungen oder andere Regelwerke werden nicht als deren vollständige Kommentierung oder abschließende betriebliche Handlungsanleitung ausgegeben. Keine externe anwaltliche Freigabe; technische Prüfungen allein beweisen keine juristische Qualität."
+    "Genau 20 zugewiesene Einheiten geprüft; 234 andere Kommentare vollständig gegenüber dem Ausgangscommit erhalten und nicht erneut inhaltlich geprüft. Keine zweite Gesamtprüfung des Buches.",
+    "Selektive Rechtsprechungsrecherche: zwei amtliche BGH-Volltexte und lokale nationale Korpusfassungen vollständig gelesen. Keine erschöpfende Folgeentscheidungsrecherche; ältere im Urteil zitierte Entscheidungen nicht als eigenständig geprüft ausgegeben.",
+    "Firecrawl mangels Guthaben nicht verwendbar; direkte amtliche ZIP-/HTML-/PDF-Abrufe erfolgreich. Keine Drittanbieter-Suchauszüge als Autoritäten eingesetzt.",
+    "Aktueller amtlicher Konsolidierungsstand, Verkündung und Inkrafttreten geprüft. Historische Doppelkennungen im aktuellen XML ausgeschlossen; kein Vollarchiv aller früheren Fassungen.",
+    "Externe Regelwerke einschließlich der im amtlichen § 54b weiterhin genannten Zollverordnung und des Umsatzsteuergesetzes werden nicht vollständig parallel kommentiert. Keine externe anwaltliche Freigabe. Technische Text-/Längenprüfungen beweisen keine juristische Qualität."
   ],
   "publication": false,
   "push": false,
@@ -259,58 +301,57 @@
     "official_identifiers": 254,
     "parsed_units": 254,
     "xml_text_agreement": 1.0,
-    "local_links_checked": 159,
+    "local_links_checked": 219,
     "broken_local_links": [],
     "repeated_long_paragraphs": [],
     "commentary_preservation": "review-result.json: per-unit hashes and baseline commit",
     "bounded_reviewed_units": 20,
-    "bounded_corrected_units": 13,
+    "bounded_corrected_units": 11,
     "unassigned_commentary_units_preserved": 234,
     "all_commented_units": 254
   },
   "review_result": "review-result.json",
   "reviewed_ids": [
-    "p42",
-    "p42a",
-    "p43",
-    "p44",
-    "p44a",
-    "p44b",
-    "p45",
-    "p45a",
-    "p45b",
-    "p45c",
-    "p45d",
-    "p46",
-    "p47",
-    "p48",
-    "p49",
-    "p50",
-    "p51",
-    "p51a",
-    "p52",
-    "p52a-52b"
+    "p53",
+    "p53a",
+    "p54",
+    "p54a",
+    "p54b",
+    "p54c",
+    "p54d",
+    "p54e",
+    "p54f",
+    "p54g",
+    "p54h",
+    "p55",
+    "p55a",
+    "p56",
+    "p57",
+    "p58",
+    "p59",
+    "p60",
+    "p60a",
+    "p60b"
   ],
   "corrected_ids": [
-    "p42",
-    "p42a",
-    "p44a",
-    "p44b",
-    "p45c",
-    "p46",
-    "p48",
-    "p49",
-    "p50",
-    "p51",
-    "p51a",
-    "p52"
+    "p53",
+    "p54",
+    "p54d",
+    "p55",
+    "p55a",
+    "p56",
+    "p57",
+    "p59",
+    "p60",
+    "p60a",
+    "p60b"
   ],
   "whole_book_review_complete": false,
   "case_law_sources_reviewed_in_this_task": [
-    "cases/metall-auf-metall-vi.md",
-    "cases/reformistischer-aufbruch-ii.md"
+    "cases/moebelkatalog.md",
+    "cases/ueber-alle-berge.md"
   ],
-  "bounded_review_preservation": "review-result.json",
+  "bounded_review_preservation": "sources/review-p53-p60b/preservation.json",
   "prior_validation": {
     "result": {
       "repo": "Komentar-DE-URHG-1965",
@@ -324,9 +365,9 @@
     "recorded_at": "2026-10-20T12:07:18.581826+00:00",
     "output_commit": "cb3b959"
   },
-  "validation_recorded_at": "2026-10-20T12:28:54.692453+00:00",
-  "validation_output_content_commit": "b3edcdb",
-  "technical_validation_scope": "Gesamter vorhandener technischer Bestand; inhaltliche Einzelprüfung dieses Arbeitsgangs ausschließlich der 20 reviewed_ids.",
+  "validation_recorded_at": "2026-10-20T12:52:43.542350+00:00",
+  "validation_output_content_commit": "d8f9bb67d5fb76380cc8e03ebaa913e80e5c7e4b",
+  "technical_validation_scope": "Gesamtbestand technisch geprüft; inhaltliche zweite Prüfung dieses Arbeitsgangs ausschließlich exakt 20 zugewiesene Einheiten.",
   "previous_bounded_validation": {
     "result": {
       "repo": "Komentar-DE-URHG-1965",
@@ -344,11 +385,11 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 266492,
+    "commentary_chars": 277358,
     "errors": [],
     "warnings": [],
     "ok": true
   },
-  "local_links_checked": 189,
-  "broken_local_links": 0
+  "local_links_checked": 219,
+  "broken_local_links": []
 }
