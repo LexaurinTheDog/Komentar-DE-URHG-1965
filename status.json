@@ -17,7 +17,7 @@
     "statutory_changes_since_intake_detected": false,
     "preflight_verified_at": "2026-10-20T11:54:07.436691+00:00",
     "coverage_report": "completeness-report.json",
-    "source_integrity_checked_responses": 15,
+    "source_integrity_checked_responses": 20,
     "bounded_review_verified_at": "2026-10-20T12:05:20.824985+00:00"
   },
   "total_units": 254,
@@ -118,7 +118,7 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 213321,
+    "commentary_chars": 220253,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -145,10 +145,13 @@
     "official_identifiers": 254,
     "parsed_units": 254,
     "xml_text_agreement": 1.0,
-    "local_links_checked": 72,
+    "local_links_checked": 103,
     "broken_local_links": [],
     "repeated_long_paragraphs": [],
-    "commentary_preservation": "commentary-preservation.json"
+    "commentary_preservation": "commentary-preservation.json",
+    "bounded_reviewed_units": 20,
+    "bounded_corrected_units": 12,
+    "unassigned_commentary_units_preserved": 234
   },
   "review_result": "review-result.json",
   "reviewed_ids": [
@@ -193,5 +196,7 @@
     "cases/cofemel.md",
     "cases/mio-usm.md",
     "cases/renckhoff.md"
-  ]
+  ],
+  "validation_recorded_at": "2026-10-20T12:07:18.581826+00:00",
+  "validation_output_commit": "cb3b959"
 }

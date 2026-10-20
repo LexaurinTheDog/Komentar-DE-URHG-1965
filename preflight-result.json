@@ -219,6 +219,15 @@
       "p19a"
     ],
     "coverage_recheck": "completeness-report.json",
-    "eingangsformel_and_annex_evidence": "Erneut identische amtliche XML-Fassung; gesamter Datensatz erneut unabhängig enumeriert. Voll-HTML/PDF-Belege des heutigen Preflights bleiben erhalten."
+    "eingangsformel_and_annex_evidence": "Erneut identische amtliche XML-Fassung; gesamter Datensatz erneut unabhängig enumeriert. Voll-HTML/PDF-Belege des heutigen Preflights bleiben erhalten.",
+    "technical_validation": {
+      "repo": "Komentar-DE-URHG-1965",
+      "units": 254,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 220253,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   }
 }

@@ -397,5 +397,16 @@
     "repeated_long_paragraphs": 0,
     "near_duplicate_pairs": 0,
     "limitation": "Mechanische Gesamtbestandskontrolle; inhaltliche Zweitprüfung nur für die 20 reviewed_ids."
-  }
+  },
+  "validation_result": {
+    "repo": "Komentar-DE-URHG-1965",
+    "units": 254,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 220253,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "validation_recorded_at": "2026-10-20T12:07:18.581826+00:00",
+  "validation_output_commit": "cb3b959"
 }
