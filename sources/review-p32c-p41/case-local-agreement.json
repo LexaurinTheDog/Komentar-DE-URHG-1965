@@ -1,0 +1,12 @@
+[
+  {
+    "case": "take-five",
+    "official_blocks": 31,
+    "all_official_blocks_in_local": true
+  },
+  {
+    "case": "werknutzer",
+    "official_blocks": 99,
+    "all_official_blocks_in_local": true
+  }
+]

@@ -80,5 +80,39 @@
       }
     ],
     "coverage": "Selektive Recherche, keine Vollständigkeit beansprucht. Zusätzliche Fälle nur §§ 22 und 32 zugeordnet."
+  },
+  "bounded_review_p32c_p41": {
+    "verified_at": "2026-10-20T12:27:27.313380+00:00",
+    "searches": [
+      {
+        "query": "site.rechtsprechung-im-internet.de M2Trade; BGH M2Trade I ZR 70/10 19. Juli 2012 bundesgerichtshof",
+        "tool": "Firecrawl CLI search",
+        "evidence": [
+          "sources/review-p32c-p41/review-m2trade.json",
+          "sources/review-p32c-p41/review-m2trade-bgh.json"
+        ],
+        "disposition": "Nur Entdeckung, kein Volltext und kein eigenständiger Entscheidungsbeleg daraus."
+      },
+      {
+        "query": "Lokaler nationaler RII-Korpus: M2Trade, Take Five, I ZR 24/11 sowie Schlichtungsstelle/Vergütungsregeln",
+        "tool": "rg plus metadata examination",
+        "selected": [
+          "KORE304122012",
+          "KORE304962021"
+        ],
+        "rejected": [
+          "JURE129011898: Markenverfahren Take 5",
+          "JURE130009882: I ZR 88/11, nur Fundstellenverweis",
+          "KORE305782012: VII ZR 24/11 statt I ZR, Prozessrecht",
+          "KORE301392020, KORE303862013, KORE304932016, KARE600055113: sachfremde Treffer"
+        ],
+        "disposition": "Zwei amtliche Volltexte frisch aus RII-ZIP geladen; sämtliche inhaltlichen XML-Blöcke gegen lokale Lesefassung abgeglichen; vollständige Entscheidungen einschließlich Tenor/Kontext gelesen.",
+        "evidence": [
+          "sources/review-p32c-p41/case-fetch-results.json",
+          "sources/review-p32c-p41/case-local-agreement.json"
+        ]
+      }
+    ],
+    "coverage": "Selektiv: § 33 und §§ 36/36a. Keine erschöpfende Folgeentscheidungsrecherche und kein künstlicher Beleg für technische Einheiten."
   }
 }

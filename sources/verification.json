@@ -336,6 +336,130 @@
       "expected_format_validated": true,
       "derived_from": "sources/review-p20-p32b/current.zip",
       "format": "XML: dokumente, jurabk UrhG, doknr BJNR012730965"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T12:19:30.957726+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p32c-p41/current.zip",
+      "headers_path": "sources/review-p32c-p41/current.zip.headers",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "accessed_at": "2026-10-20T12:19:30.958175+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p32c-p41/index.html",
+      "headers_path": "sources/review-p32c-p41/index.html.headers",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "accessed_at": "2026-10-20T12:19:30.958265+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p32c-p41/full.html",
+      "headers_path": "sources/review-p32c-p41/full.html.headers",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T12:19:30.958325+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p32c-p41/aktuell.html",
+      "headers_path": "sources/review-p32c-p41/aktuell.html.headers",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T12:19:31.169029+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p32c-p41/amendment.pdf",
+      "headers_path": "sources/review-p32c-p41/amendment.pdf.headers",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "accessed_at": "2026-10-20T12:19:31.227783+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p32c-p41/current.pdf",
+      "headers_path": "sources/review-p32c-p41/current.pdf.headers",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304122012.zip",
+      "accessed_at": "2026-10-20T12:20:12.565933+00:00",
+      "http_status": 200,
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304122012.zip",
+      "response_path": "sources/review-p32c-p41/take-five.zip",
+      "sha256": "43e01ea26ea6d62fa449cdffa64946010741bb48ba4a7357a4d6eee1ea889214",
+      "bytes": 7131,
+      "expected_format_validated": true,
+      "derived_xml_path": "sources/review-p32c-p41/take-five.xml",
+      "xml_sha256": "d33b1ffe97d8d083fe8a2729e5d130683e328daf26a2e1cbe474871183c19a53",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore304122012.md",
+      "local_intake_sha256": "23bc093a8991f64ffa0e91c54ecf4b6897168df2b308a13d48ecacbd7d558f8d"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304962021.zip",
+      "accessed_at": "2026-10-20T12:20:12.886253+00:00",
+      "http_status": 200,
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304962021.zip",
+      "response_path": "sources/review-p32c-p41/werknutzer.zip",
+      "sha256": "ac426257e1c28ec8e6ac940e9b210f1ada5c8f9723c06d5ab4f4c901511b10f2",
+      "bytes": 17237,
+      "expected_format_validated": true,
+      "derived_xml_path": "sources/review-p32c-p41/werknutzer.xml",
+      "xml_sha256": "3bf59bde7f42274b198e101b6312ddcf3f04d18e99e42f3d73eaf88b679e12d3",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore304962021.md",
+      "local_intake_sha256": "41633530fab69bb456336a12766c073380390dbc9e16421b036c19cf2cb836ba"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T12:19:30.957726+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p32c-p41/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "expected_format_validated": true,
+      "derived_from": "sources/review-p32c-p41/current.zip",
+      "format": "Parsed expected official XML; law abbreviation / case docket verified"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304122012.zip",
+      "accessed_at": "2026-10-20T12:20:12.565933+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p32c-p41/take-five.xml",
+      "sha256": "d33b1ffe97d8d083fe8a2729e5d130683e328daf26a2e1cbe474871183c19a53",
+      "expected_format_validated": true,
+      "derived_from": "sources/review-p32c-p41/take-five.zip",
+      "format": "Parsed expected official XML; law abbreviation / case docket verified"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304962021.zip",
+      "accessed_at": "2026-10-20T12:20:12.886253+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p32c-p41/werknutzer.xml",
+      "sha256": "3bf59bde7f42274b198e101b6312ddcf3f04d18e99e42f3d73eaf88b679e12d3",
+      "expected_format_validated": true,
+      "derived_from": "sources/review-p32c-p41/werknutzer.zip",
+      "format": "Parsed expected official XML; law abbreviation / case docket verified"
     }
   ],
   "version": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
@@ -546,5 +670,35 @@
     "effective_from": "2026-05-30",
     "verification_of_effective_date": "Amtliche Verkündung 29.05.2026; Art. 3: Tag nach Verkündung; Art. 2 ändert nur §§ 54d und 87b. Gespeicherter PDF-Text erneut gelesen.",
     "fetch_log": "sources/review-p20-p32b/fetch-results.json"
+  },
+  "bounded_review_p32c_p41": {
+    "verified_at": "2026-10-20T12:27:27.313380+00:00",
+    "reviewed_ids": [
+      "p32c",
+      "p32d",
+      "p32e",
+      "p32f",
+      "p32g",
+      "p33",
+      "p34",
+      "p35",
+      "p35a",
+      "p36",
+      "p36a",
+      "p36b",
+      "p36c",
+      "p36d",
+      "p37",
+      "p38",
+      "p39",
+      "p40",
+      "p40a",
+      "p41"
+    ],
+    "xml_unchanged": true,
+    "amendment_pdf_unchanged": true,
+    "effective_from": "2026-05-30",
+    "verification_of_effective_date": "Art. 2 und 3 des erneut identisch erhaltenen Änderungsgesetzes gelesen: ändert §§ 54d/87b, Verkündung 29.05.2026, Inkrafttreten am Folgetag. Keine zusätzliche Änderung seit Aufnahme im amtlichen konsolidierten Text nachgewiesen.",
+    "fetch_log": "sources/review-p32c-p41/fetch-results.json"
   }
 }

@@ -1,6 +1,6 @@
 {
   "algorithm": "SHA-256",
-  "generated_at": "2026-10-20T12:17:13.479045+00:00",
+  "generated_at": "2026-10-20T12:27:58.897693+00:00",
   "sources": [
     {
       "path": "sources/aktualitaet.headers",
@@ -548,9 +548,174 @@
       "bytes": 1095
     },
     {
+      "path": "sources/review-p32c-p41/aktuell.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/review-p32c-p41/aktuell.html.headers",
+      "sha256": "87a99ac3f2bf3cce69c4590928790dd6c1a0c9b8f903ab8d5d7fc215c75ac3f0",
+      "bytes": 324
+    },
+    {
+      "path": "sources/review-p32c-p41/amendment.pdf",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883
+    },
+    {
+      "path": "sources/review-p32c-p41/amendment.pdf.headers",
+      "sha256": "236674f8a1b82526c8baf08106adfda95a30fad8d7094bba17dd5b7f90b39b01",
+      "bytes": 1111
+    },
+    {
+      "path": "sources/review-p32c-p41/amendment.txt",
+      "sha256": "330ec58cb454a226cdb04ba26c8da212f4d84f34af5c7c9b5adcb87dcd7dcef7",
+      "bytes": 31271
+    },
+    {
+      "path": "sources/review-p32c-p41/case-fetch-results.json",
+      "sha256": "956f50fa813ef79129fd6bb2ae5b41ec7bc92e3a274fb92e4d198fb281f07acf",
+      "bytes": 1642
+    },
+    {
+      "path": "sources/review-p32c-p41/case-local-agreement.json",
+      "sha256": "8ba2af04bcdd61e812814def80f81aa931b8c24e6dd3e504d0c1a9516c225275",
+      "bytes": 207
+    },
+    {
+      "path": "sources/review-p32c-p41/current-pdf.txt",
+      "sha256": "540571a1ae026695c3f587befbe120940e9c7dc0f3b95a807f7c8ad6fdbb51d6",
+      "bytes": 280366
+    },
+    {
+      "path": "sources/review-p32c-p41/current.pdf",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416
+    },
+    {
+      "path": "sources/review-p32c-p41/current.pdf.headers",
+      "sha256": "b7e21e62fe1ab4bacd67b7ef6d82a891abf47724c15e31d68cd487213031f9a4",
+      "bytes": 309
+    },
+    {
+      "path": "sources/review-p32c-p41/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "bytes": 401221
+    },
+    {
+      "path": "sources/review-p32c-p41/current.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672
+    },
+    {
+      "path": "sources/review-p32c-p41/current.zip.headers",
+      "sha256": "a93e5bb6012bcad6e71f68371d8c36d123d7c1132a4d504a11f5569d88ec9001",
+      "bytes": 308
+    },
+    {
+      "path": "sources/review-p32c-p41/fetch-results.json",
+      "sha256": "9304129aa1ac4cb65e67f9b358a14160ac0e06639ed5ad59cd0ca596192ade21",
+      "bytes": 3030
+    },
+    {
+      "path": "sources/review-p32c-p41/fetch.py",
+      "sha256": "b695a7ef5355b4b0dcb390e30e4cba7b3cc89950d00be39b874e24b5e08132bd",
+      "bytes": 2127
+    },
+    {
+      "path": "sources/review-p32c-p41/full.html",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217
+    },
+    {
+      "path": "sources/review-p32c-p41/full.html.headers",
+      "sha256": "e366ed71c223c1369c458fd4ea7af05f7d5e7102aaa8a8eeeb635a633327d28c",
+      "bytes": 325
+    },
+    {
+      "path": "sources/review-p32c-p41/index.html",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665
+    },
+    {
+      "path": "sources/review-p32c-p41/index.html.headers",
+      "sha256": "cfe2f6957fa9a6d516b25dbc23b43b15a369fa86a6ad6379fc75eaa0db612f8c",
+      "bytes": 323
+    },
+    {
+      "path": "sources/review-p32c-p41/preflight-evidence.json",
+      "sha256": "1a8daf4f79baed5c7394811f0a397e9e85dead3e400a1ef8b92d00009a6f4273",
+      "bytes": 22730
+    },
+    {
+      "path": "sources/review-p32c-p41/previous-review-p20-p32b.json",
+      "sha256": "a1b9cc704754cb29265d9eebf2245e1a393c46d6a6a3fbcedc3789101cf558cd",
+      "bytes": 26300
+    },
+    {
+      "path": "sources/review-p32c-p41/review-m2trade-bgh.json",
+      "sha256": "69292dabd3ff62e0e39c1921b254d9fa2f9e7899f4329e27d3f52940555010f3",
+      "bytes": 1166
+    },
+    {
+      "path": "sources/review-p32c-p41/review-m2trade.json",
+      "sha256": "3e3bf6bf52f348775cdf9ada5b77bfbd8cfdd4721c109357611f7a6223c41b15",
+      "bytes": 1056
+    },
+    {
+      "path": "sources/review-p32c-p41/take-five-intake.md",
+      "sha256": "23bc093a8991f64ffa0e91c54ecf4b6897168df2b308a13d48ecacbd7d558f8d",
+      "bytes": 19688
+    },
+    {
+      "path": "sources/review-p32c-p41/take-five-official.txt",
+      "sha256": "5b03f2592df482ffcb4089c9b438ecf1a99d353b7a700c129ca74b0177f25bbc",
+      "bytes": 18858
+    },
+    {
+      "path": "sources/review-p32c-p41/take-five.headers.json",
+      "sha256": "99bdc83bdc2e17194b9ce76e85ada75b44f668d0f0fb242e479792ee67bc2528",
+      "bytes": 3218
+    },
+    {
+      "path": "sources/review-p32c-p41/take-five.xml",
+      "sha256": "d33b1ffe97d8d083fe8a2729e5d130683e328daf26a2e1cbe474871183c19a53",
+      "bytes": 29128
+    },
+    {
+      "path": "sources/review-p32c-p41/take-five.zip",
+      "sha256": "43e01ea26ea6d62fa449cdffa64946010741bb48ba4a7357a4d6eee1ea889214",
+      "bytes": 7131
+    },
+    {
+      "path": "sources/review-p32c-p41/werknutzer-intake.md",
+      "sha256": "41633530fab69bb456336a12766c073380390dbc9e16421b036c19cf2cb836ba",
+      "bytes": 54937
+    },
+    {
+      "path": "sources/review-p32c-p41/werknutzer-official.txt",
+      "sha256": "b1475cb94ba6527a0d28f01035a6296d67fb5a61fefab232be26a52b8aec1d68",
+      "bytes": 54008
+    },
+    {
+      "path": "sources/review-p32c-p41/werknutzer.headers.json",
+      "sha256": "0101ca8a6d355a8b4824c81561ff30ae157925eaf3050e75a1cb389135382bc2",
+      "bytes": 3223
+    },
+    {
+      "path": "sources/review-p32c-p41/werknutzer.xml",
+      "sha256": "3bf59bde7f42274b198e101b6312ddcf3f04d18e99e42f3d73eaf88b679e12d3",
+      "bytes": 84234
+    },
+    {
+      "path": "sources/review-p32c-p41/werknutzer.zip",
+      "sha256": "ac426257e1c28ec8e6ac940e9b210f1ada5c8f9723c06d5ab4f4c901511b10f2",
+      "bytes": 17237
+    },
+    {
       "path": "sources/search-log.json",
-      "sha256": "d10aa66a7d915d39ce9e9e66e1e490edd7f99f5be4104dbb583fa355703ae801",
-      "bytes": 4655
+      "sha256": "93a8966ce640a71acc964f14abc9cabddd797b57293313ada350496d94fa75b5",
+      "bytes": 6312
     },
     {
       "path": "sources/searches/amendment-search.json",
@@ -624,8 +789,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "3059da11a9920956b8cee2d99bfe028328200cf7e8c6d0aff2914afca554f653",
-      "bytes": 23438
+      "sha256": "e12c6abc6687e7d84e1689c708045b4b590af1813c24aaa8f96c2b5c0a82ab46",
+      "bytes": 30687
     },
     {
       "path": "sources/verify-sources.py",

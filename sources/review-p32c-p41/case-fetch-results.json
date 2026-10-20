@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304122012.zip",
+    "accessed_at": "2026-10-20T12:20:12.565933+00:00",
+    "http_status": 200,
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304122012.zip",
+    "response_path": "sources/review-p32c-p41/take-five.zip",
+    "sha256": "43e01ea26ea6d62fa449cdffa64946010741bb48ba4a7357a4d6eee1ea889214",
+    "bytes": 7131,
+    "expected_format_validated": true,
+    "derived_xml_path": "sources/review-p32c-p41/take-five.xml",
+    "xml_sha256": "d33b1ffe97d8d083fe8a2729e5d130683e328daf26a2e1cbe474871183c19a53",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore304122012.md",
+    "local_intake_sha256": "23bc093a8991f64ffa0e91c54ecf4b6897168df2b308a13d48ecacbd7d558f8d"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304962021.zip",
+    "accessed_at": "2026-10-20T12:20:12.886253+00:00",
+    "http_status": 200,
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304962021.zip",
+    "response_path": "sources/review-p32c-p41/werknutzer.zip",
+    "sha256": "ac426257e1c28ec8e6ac940e9b210f1ada5c8f9723c06d5ab4f4c901511b10f2",
+    "bytes": 17237,
+    "expected_format_validated": true,
+    "derived_xml_path": "sources/review-p32c-p41/werknutzer.xml",
+    "xml_sha256": "3bf59bde7f42274b198e101b6312ddcf3f04d18e99e42f3d73eaf88b679e12d3",
+    "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore304962021.md",
+    "local_intake_sha256": "41633530fab69bb456336a12766c073380390dbc9e16421b036c19cf2cb836ba"
+  }
+]
