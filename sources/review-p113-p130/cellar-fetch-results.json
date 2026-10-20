@@ -1,0 +1,8 @@
+[
+  {
+    "url": "https://publications.europa.eu/webapi/rdf/sparql?query=SELECT+%3Fs+WHERE+%7B+%3Fs+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%23resource_legal_id_celex%3E+%3Fid+.+FILTER%28str%28%3Fid%29+%3D+%2262023CJ0227%22%29+%7D&format=application%2Fsparql-results%2Bjson",
+    "accessed_at": "2026-10-20T14:13:34.051105+00:00",
+    "error": "The read operation timed out",
+    "expected_format_validated": false
+  }
+]

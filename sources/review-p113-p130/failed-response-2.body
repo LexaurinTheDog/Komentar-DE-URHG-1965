@@ -1,0 +1,34 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://publications.europa.eu/ontology/cdm#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.1="http://publications.europa.eu/ontology/annotation#"
+    xmlns:j.2="http://publications.europa.eu/ontology/cdm/cmr#" > 
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/celex/62023CJ0227.DEU.xhtml">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#manifestation"/>
+    <j.0:manifestation_manifests_expression rdf:resource="http://publications.europa.eu/resource/celex/62023CJ0227.DEU"/>
+    <j.0:manifestation_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xhtml</j.0:manifestation_type>
+    <j.1:build_info rdf:datatype="http://www.w3.org/2001/XMLSchema#string">reception-ID: PO-20241108-2461; environment: PROD; CERES: 4.24.0; IMMC2CDM: 3.2.3; rules: ; builddate: 2024-11-08T09:05:03.211;</j.1:build_info>
+    <j.0:manifests rdf:resource="http://publications.europa.eu/resource/celex/62023CJ0227.DEU"/>
+    <j.0:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xhtml</j.0:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.05/DOC_1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/ecli/ECLI%3AEU%3AC%3A2024%3A914.DEU.xhtml.ECR_62023CJ0227_DE_01.html"/>
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/celex/62023CJ0227.DEU.xhtml.ECR_62023CJ0227_DE_01.html"/>
+    <j.0:item_belongs_to_manifestation rdf:resource="http://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.05"/>
+    <j.0:item_identifier>DOC_1</j.0:item_identifier>
+    <j.2:manifestationMimeType>application/xhtml+xml</j.2:manifestationMimeType>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#item"/>
+    <j.0:belongs_to rdf:resource="http://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.05"/>
+    <j.0:identifier>DOC_1</j.0:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.05">
+    <j.0:manifestation_has_item rdf:resource="http://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.05/DOC_1"/>
+    <j.2:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-11-08T09:12:44.521+01:00</j.2:creationDate>
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/celex/62023CJ0227.DEU.xhtml"/>
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/ecli/ECLI%3AEU%3AC%3A2024%3A914.DEU.xhtml"/>
+    <j.2:lastModificationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-11-08T09:12:44.521+01:00</j.2:lastModificationDate>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#manifestation"/>
+    <j.0:has rdf:resource="http://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.05/DOC_1"/>
+  </rdf:Description>
+</rdf:RDF>

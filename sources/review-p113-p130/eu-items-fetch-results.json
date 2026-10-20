@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/celex/62023CJ0227.DEU.xhtml?language=deu",
+    "accessed_at": "2026-10-20T14:17:24.744351+00:00",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.02/DOC_1",
+    "accessed_at": "2026-10-20T14:17:24.744728+00:00",
+    "error": "HTTP Error 406: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.03/DOC_1",
+    "accessed_at": "2026-10-20T14:17:24.744828+00:00",
+    "error": "HTTP Error 406: ",
+    "expected_format_validated": false
+  }
+]

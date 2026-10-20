@@ -1,0 +1,20 @@
+Date: Tue, 20 Oct 2026 14:12:07 GMT
+Server: Apache
+Set-Cookie: JSESSIONID=C8C82927607DD120E313F0BA709FCE76.liveb41; Path=/; Secure; HttpOnly; SameSite=Lax
+Set-Cookie: AL_SESS-S=AfHfJPC9spY0tVKNncGTapIfnVB!YOQZ9SebHDxyucyq3eJ_62H8ozk19!Kb9Rbnjw6Z; Path=/; Secure; HttpOnly; SameSite=Lax
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Referrer-Policy: same-origin
+X-Frame-Options: sameorigin
+X-UA-Compatible: IE=edge
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline' *.googleapis.com *.gstatic.com piwik.itzbund.de; script-src 'self' 'unsafe-eval' *.googleapis.com piwik.itzbund.de;object-src 'self' multimedia.gsb.bund.de piwik.itzbund.de; media-src 'self' multimedia.gsb.bund.de *.youtube.com www.quirksmode.org *.googleapis.com piwik.itzbund.de; child-src *.facebook.com *.twitter.com *.google.com *.gstatic.com *.youtube.com *.googleapis.com piwik.itzbund.de; img-src 'self' data: *.google.com *.gstatic.com *.youtube.com *.googleapis.com piwik.itzbund.de; font-src 'self' data: *.googleapis.com *.gstatic.com piwik.itzbund.de; connect-src 'self' *.itzbund.de; frame-ancestors bghweb-editor-kkn6.prod.gsb.bgh.in.bund.de piwik.itzbund.de
+X-Content-Security-Policy: default-src 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline' *.googleapis.com *.gstatic.com piwik.itzbund.de; script-src 'self' 'unsafe-eval' *.googleapis.com piwik.itzbund.de;object-src 'self' multimedia.gsb.bund.de piwik.itzbund.de; media-src 'self' multimedia.gsb.bund.de *.youtube.com www.quirksmode.org *.googleapis.com piwik.itzbund.de; child-src *.facebook.com *.twitter.com *.google.com *.gstatic.com *.youtube.com *.googleapis.com piwik.itzbund.de; img-src 'self' data: *.google.com *.gstatic.com *.youtube.com *.googleapis.com piwik.itzbund.de; font-src 'self' data: *.googleapis.com *.gstatic.com piwik.itzbund.de; connect-src 'self' *.itzbund.de; frame-ancestors bghweb-editor-kkn6.prod.gsb.bgh.in.bund.de piwik.itzbund.de
+X-Permitted-Cross-Domain-Policies: none
+X-WebKit-CSP: default-src 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline' *.googleapis.com *.gstatic.com piwik.itzbund.de; script-src 'self' 'unsafe-eval' *.googleapis.com piwik.itzbund.de;object-src 'self' multimedia.gsb.bund.de piwik.itzbund.de; media-src 'self' multimedia.gsb.bund.de *.youtube.com www.quirksmode.org *.googleapis.com piwik.itzbund.de; child-src *.facebook.com *.twitter.com *.google.com *.gstatic.com *.youtube.com *.googleapis.com piwik.itzbund.de; img-src 'self' data: *.google.com *.gstatic.com *.youtube.com *.googleapis.com piwik.itzbund.de; font-src 'self' data: *.googleapis.com *.gstatic.com piwik.itzbund.de; connect-src 'self' *.itzbund.de; frame-ancestors bghweb-editor-kkn6.prod.gsb.bgh.in.bund.de piwik.itzbund.de
+Content-Language: de-DE
+Strict-Transport-Security: max-age=31536000
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=utf-8
+

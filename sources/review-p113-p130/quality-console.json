@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-10-20T14:25:10.581285+00:00",
+  "units": 254,
+  "commented_units": 254,
+  "commentary_chars": 403385,
+  "duplicate_commentary_ids": [],
+  "missing_commentary_ids": [],
+  "extra_commentary_ids": [],
+  "independent_xml_stream_mismatches": [],
+  "identical_paragraphs_over_100_chars": [],
+  "similar_unit_pairs_shingle_jaccard_over_012": [],
+  "local_links_checked": 439,
+  "broken_local_links": [],
+  "unresolved_internal_references": [],
+  "short_commentaries": [],
+  "ordinary_length_distribution": {
+    "under_700": 26,
+    "at_least_700": 228
+  },
+  "limitations": [
+    "Ähnlichkeit ist nur ein maschineller Hinweis; keine Zertifizierung juristischer Originalität oder Richtigkeit.",
+    "Externe URLs werden anhand der dokumentierten Abrufe geprüft; keine Vollverlinkung amtlicher Roh-HTML-Navigation."
+  ],
+  "ok": true
+}

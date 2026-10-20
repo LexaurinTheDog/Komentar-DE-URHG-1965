@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/celex/62023CJ0227.DEU/rdf/object/full",
+    "accessed_at": "2026-10-20T14:16:49.684116+00:00",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/62023CJ0227.DEU",
+    "accessed_at": "2026-10-20T14:16:49.861409+00:00",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  }
+]

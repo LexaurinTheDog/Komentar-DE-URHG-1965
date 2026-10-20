@@ -12,9 +12,15 @@
 >
 > (2) Die Dauer des Urheberrechts an einem Werk, das nach Ablauf von fünfzig Jahren nach dem Tode des Urhebers, aber vor dem Inkrafttreten dieses Gesetzes veröffentlicht worden ist, richtet sich nach den bisherigen Vorschriften.
 
-Absatz 1 erstreckt das Gesetz grundsätzlich auf ältere Werke und Leistungen, nimmt aber bei Inkrafttreten bereits ungeschützte Gegenstände und besondere gesetzliche Ausnahmen aus. Ein altes Schöpfungsdatum allein verhindert also keine Anwendung. Absatz 2 reserviert eine besondere historische Veröffentlichungsgruppe für bisherige Schutzdauerregeln. Spätere Übergangsnormen, insbesondere § 137f, können weitere Schutzdauerfragen aufwerfen.
+Absatz 1 ordnet grundsätzlich die Anwendung des UrhG auf vor seinem Inkrafttreten geschaffene Werke an. Ausgenommen sind Gegenstände, die am maßgeblichen Zeitpunkt bereits nicht mehr geschützt waren, sowie Fälle besonderer gesetzlicher Regelung. Satz 2 überträgt diesen Ansatz auf verwandte Schutzrechte. Die Regel ist daher weder auf neue Werke beschränkt noch eine allgemeine Wiederbelebung jedes alten Schutzrechts. Schutzgrundlage, fortbestehender Schutz und die jeweils einschlägige Sonderregel müssen rekonstruiert werden.
 
-Beispiel: Ein Archiv verwertet ein vor 1966 geschaffenes Werk. Es muss dessen Schutzstatus am gesetzlichen Ausgangsstichtag und die späteren Sonderregeln prüfen. Die heutige allgemeine Siebzigjahresfrist darf nicht ohne diese zeitliche Einordnung rückprojiziert werden.
+Der zeitliche Bezug verlangt die Unterscheidung des § 143: Das Gesetz trat grundsätzlich am 1. Januar 1966 in Kraft; bestimmte Vorschriften, darunter die Schutzdauerbestimmungen, galten schon am Tag nach der Verkündung. Für die damalige Schutzfristverlängerung ist dies der 17. September 1965, wie der BGH in „Tarzan“ ausdrücklich behandelt. Eine pauschale Rückrechnung allein vom Januarstichtag kann deshalb zu falschen Ergebnissen führen.
+
+Absatz 2 reserviert eine eng bestimmte historische Gruppe für die bisherigen Schutzdauerregeln: Das Werk muss nach Ablauf von fünfzig Jahren nach dem Tod des Urhebers, aber noch vor Inkrafttreten des Gesetzes veröffentlicht worden sein. Veröffentlichung und maßgebliche Daten sind nachzuweisen; die Vorschrift erklärt solche Werke weder pauschal für gemeinfrei noch für unbegrenzt geschützt. Das konkret maßgebliche frühere Recht bedarf bei einem solchen Fall eigener Quellenprüfung.
+
+Das vollständig geprüfte Urteil [BGH, 26.2.2014 – I ZR 49/13, „Tarzan“](cases/tarzan.md), insbesondere Rn. 33–40 und 54–64, zeigt die Grenzen: Die frühere Schutzfristverlängerung verdrängte den im konkreten Altfall maßgeblichen staatsvertraglichen Schutzfristenvergleich nicht; ein längerer nationaler Bestandsschutz in einem anderen Mitgliedstaat wurde nicht allgemein nach Deutschland übertragen. Die Entscheidung betrifft einen besonderen historischen Roman- und Vertragsfall, keine universelle Regel für heutige Drittstaatswerke. Spätere Übergangsvorschriften, namentlich § 137f, und unionsrechtliche Vorgaben sind eigenständig einzubeziehen.
+
+Beispiel: Ein Archiv möchte einen lange vor 1966 geschaffenen Roman neu verlegen. Es ermittelt Todesdatum, damaligen Schutz, Veröffentlichungsdaten und gegebenenfalls Staatsverträge. Weder das hohe Alter noch die heutige Siebzigjahresregel allein trägt die Entscheidung; mögliche spätere Schutzbegründungen und Sonderregeln müssen hinzukommen.
 
 ### § 130 — Übersetzungen
 
@@ -22,9 +28,13 @@ Beispiel: Ein Archiv verwertet ein vor 1966 geschaffenes Werk. Es muss dessen Sc
 
 > Unberührt bleiben die Rechte des Urhebers einer Übersetzung, die vor dem 1. Januar 1902 erlaubterweise ohne Zustimmung des Urhebers des übersetzten Werkes erschienen ist.
 
-Die Vorschrift schützt die Rechte an einer vor dem 1. Januar 1902 rechtmäßig ohne Zustimmung des Ausgangsurhebers erschienenen Übersetzung. Sie bewahrt einen historischen Bestand, schafft aber keine heutige allgemeine Übersetzungsfreiheit. Rechtmäßiges Erscheinen, Zeitpunkt und Identität der Übersetzungsfassung sind nachzuweisen.
+§ 130 bewahrt die Rechte des Urhebers einer historisch rechtmäßig erschienenen Übersetzung. Kumulativ verlangt die Norm eine Übersetzung, ihr Erscheinen vor dem 1. Januar 1902 und die damalige Erlaubtheit dieses Erscheinens trotz fehlender Zustimmung des Urhebers des übersetzten Werks. Die Rechtmäßigkeit ist also nach der für den historischen Vorgang maßgeblichen Rechtslage festzustellen; das hohe Alter der Ausgabe oder eine fehlende Zustimmung allein genügt nicht.
 
-Beispiel: Ein Verlag besitzt eine Übersetzung aus dem Jahr 1901. Aus ihrem Alter allein folgt weder fortdauernder Schutz noch freie Neunutzung; § 130 bewahrt die damals entstandene Position, während die einschlägige Schutzdauer zusätzlich zu bestimmen ist.
+Geschützt wird die bestehende Position des Übersetzers. Die Vorschrift schafft weder eine neue allgemeine Übersetzungsfreiheit für heutige Bearbeiter noch eine zeitlich unbegrenzte Befugnis. Der Fortbestand der Rechte und ihre heutige Schutzdauer bleiben gesondert zu bestimmen. Ebenso wenig entscheidet die Bestandsschutzklausel für sich über jede gegenwärtige Nutzung des Ausgangswerks oder über eine neu geschaffene Übersetzungsfassung; Übersetzung und Ausgangswerk bleiben getrennte Schutzgegenstände.
+
+Praktisch müssen die betroffene Textfassung, ihr Erscheinensdatum und die historische Erlaubnislage anhand belastbarer Quellen identifiziert werden. Ein Verlagsvertrag oder eine moderne Neuauflage kann nicht allein belegen, dass die konkrete Übersetzung bereits vor dem Stichtag rechtmäßig erschienen war. Der Kommentar behauptet keine allgemein für alle Länder und Sprachfassungen geltende historische Zustimmungsausnahme.
+
+Beispiel: Ein Verlag findet eine gedruckte Übersetzung von 1901, die damals nach dem einschlägigen Recht erlaubterweise ohne Zustimmung des Ausgangsurhebers erschien. § 130 bewahrt die Rechte des Übersetzers; ob sie heute noch bestehen und der Verlag sie erworben hat, ist zusätzlich zu prüfen. Für eine heute neu angefertigte Übersetzung kann der Verlag aus dieser alten Ausgabe keine allgemeine Erlaubnis ableiten.
 
 ### § 131 — Vertonte Sprachwerke
 

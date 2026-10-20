@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/celex/62023CJ0227_SUM/rdf/object/full",
+    "accessed_at": "2026-10-20T14:16:24.111296+00:00",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/62023CJ0227?language=eng",
+    "accessed_at": "2026-10-20T14:16:24.302350+00:00",
+    "http_status": 200,
+    "final_url": "http://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1/rdf/object/full",
+    "response_path": "sources/review-p113-p130/kwantum-cellar-resolver",
+    "sha256": "ccef0a367f8905c287dd5fbe831ebdbb3b9fc9fba7f9f91a1bbd343c5dc86136",
+    "bytes": 475525,
+    "expected_format_validated": true,
+    "expected_format": "Official work/expression RDF metadata; not judgment body",
+    "substantive_judgment_body": false
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62023CJ0227&from=DE",
+    "accessed_at": "2026-10-20T14:16:24.648385+00:00",
+    "http_status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62023CJ0227&from=DE",
+    "response_path": "sources/review-p113-p130/kwantum-eurlex-direct.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "expected_format_validated": false
+  }
+]

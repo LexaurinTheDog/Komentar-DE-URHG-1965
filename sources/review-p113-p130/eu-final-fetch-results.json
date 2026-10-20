@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62023CJ0227&print=true",
+    "accessed_at": "2026-10-20T14:16:09.553739+00:00",
+    "http_status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62023CJ0227&print=true",
+    "response_path": "sources/review-p113-p130/kwantum-court.html",
+    "sha256": "8451568757e65bd588e1c4e29bc5b9d9d70f9c83c2c73a47df58913444306e6a",
+    "bytes": 2035,
+    "expected_format": "full German judgment HTML",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/62023CJ0227/rdf/object/full",
+    "accessed_at": "2026-10-20T14:16:09.554098+00:00",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/ecli/ECLI:EU:C:2024:914/rdf/object/full",
+    "accessed_at": "2026-10-20T14:16:09.554182+00:00",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/CASE/?uri=CELEX:62023CJ0227",
+    "accessed_at": "2026-10-20T14:16:09.713311+00:00",
+    "http_status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/CASE/?uri=CELEX:62023CJ0227",
+    "response_path": "sources/review-p113-p130/kwantum-oj.html",
+    "sha256": "211817ed26864d0658882247cd20d1165e664ef641bcfe241b8761e3366dd806",
+    "bytes": 2035,
+    "expected_format": "full German judgment HTML",
+    "expected_format_validated": false
+  }
+]

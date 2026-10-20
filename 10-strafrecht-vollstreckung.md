@@ -272,9 +272,13 @@ Beispiel: Ein Gläubiger besitzt einen Zahlungstitel gegen einen Autor und möch
 
 > Gegen den Urheber ist die Zwangsvollstreckung wegen Geldforderungen in das Urheberrecht nur mit seiner Einwilligung und nur insoweit zulässig, als er Nutzungsrechte einräumen kann (§ 31). Die Einwilligung kann nicht durch den gesetzlichen Vertreter erteilt werden.
 
-Die Geldvollstreckung gegen den Urheber in das Urheberrecht setzt seine eigene Einwilligung voraus und reicht nur so weit, wie Nutzungsrechte eingeräumt werden können. Sie ermöglicht keine Übertragung der Schöpferstellung entgegen § 29. Der gesetzliche Vertreter kann die Einwilligung nicht anstelle des Urhebers erteilen. Die Vorschrift schützt damit die persönliche Entscheidung über die wirtschaftliche Erschließung des Werks trotz Zahlungsverschuldung.
+Die Norm schützt die Entscheidung des Urhebers über die Verwertung seines Werks, auch wenn gegen ihn ein vollstreckbarer Zahlungstitel besteht. Der Zugriff wegen einer Geldforderung in das Urheberrecht setzt seine Einwilligung voraus. Anders als § 115 für den Rechtsnachfolger enthält § 113 keine Ausnahme für erschienene Werke. Die Veröffentlichung eines Romans oder seine bisherige kommerzielle Verwertung beseitigt dieses Erfordernis daher nicht.
 
-Beispiel: Ein Gläubiger will ein bislang nicht verwertetes Werk eines lebenden Autors zur Schuldentilgung vermarkten. Der Titel allein ersetzt dessen erforderliche Einwilligung nicht. Der Zugriff auf andere pfändbare Vermögensgegenstände ist davon getrennt zu prüfen.
+Die Einwilligung und der zulässige Umfang sind zwei selbständige Grenzen: Auch mit Zustimmung ist der Zugriff nur möglich, soweit der Urheber Nutzungsrechte nach § 31 einräumen kann. Seine Urheberstellung wird nicht verkauft; § 29 und die persönlichkeitsrechtlichen Befugnisse bleiben zu beachten. Nutzungsarten, räumliche und zeitliche Grenzen sowie bereits bestehende ausschließliche Rechte können für die verwertbare Position entscheidend sein. Ein Vollstreckungstitel verschafft dem Gläubiger kein umfassenderes Nutzungsrecht, als die Vorschrift zulässt.
+
+Satz 2 schließt die Erteilung durch den gesetzlichen Vertreter aus. Die eigene Willensentscheidung darf somit nicht allein durch eine Vertretungserklärung ersetzt werden. Nicht unmittelbar geregelt ist dagegen der Zugriff auf einzelne Zahlungsforderungen aus schon abgeschlossenen Nutzungsverträgen; deren Gegenstand ist von der Vollstreckung in das Urheberrecht selbst zu unterscheiden. Körperliche Werkoriginale unterliegen der besonderen Prüfung des § 114.
+
+Beispiel: Ein Gläubiger eines lebenden Schriftstellers möchte dessen bereits erschienenen Roman für eine neue Hörbuchproduktion verwerten. Die frühere Buchveröffentlichung ersetzt die Einwilligung nach § 113 nicht. Selbst bei Zustimmung müsste geklärt werden, ob die betroffene Hörbuchnutzung überhaupt noch eingeräumt werden kann oder bereits einem Dritten ausschließlich zusteht.
 
 ### § 114 — Originale von Werken
 
@@ -292,9 +296,13 @@ Beispiel: Ein Gläubiger will ein bislang nicht verwertetes Werk eines lebenden 
 >
 > In den Fällen der Nummern 2 und 3 darf das Original des Werkes ohne Zustimmung des Urhebers verbreitet werden.
 
-Absatz 1 schützt dem Urheber gehörende Originale grundsätzlich durch dessen persönliche Einwilligung. Absatz 2 nimmt den für eine Rechtevollstreckung notwendigen Zugriff, Baukunstoriginale und veröffentlichte sonstige Kunstoriginale aus. Für die letzten beiden Fälle ist auch die Verbreitung ohne Zustimmung erlaubt. Eigentum und Veröffentlichungsstatus sind daher entscheidend; aus dem Besitz eines Originals beim Urheber allein folgt noch keine einheitliche Vollstreckungsregel.
+Absatz 1 betrifft die körperlichen Originale eigener Werke, die dem als Schuldner betroffenen Urheber gehören. Eigentum und Urheberschaft müssen zusammenkommen; die bloße Verwahrung eines fremden Originals beim Künstler genügt nicht. Grundsätzlich ist seine Einwilligung erforderlich, die der gesetzliche Vertreter nicht für ihn erteilen kann. Gegenstand dieser Regel ist das Original, während § 113 den Zugriff in das Urheberrecht begrenzt.
 
-Beispiel: Eine Bildhauerin besitzt eine bereits veröffentlichte Skulptur. Der gesetzliche Ausnahmefall ist anders zu prüfen als ein noch unveröffentlichtes Romanmanuskript. Die Einwilligungsfreiheit darf nicht aus der einen Werkart auf jede andere Originalform übertragen werden.
+Absatz 2 Satz 1 unterscheidet drei Ausnahmen. Nummer 1 lässt den Zugriff nur zu, soweit er zur Durchführung einer Vollstreckung in ein Nutzungsrecht notwendig ist. Die zulässige Rechtevollstreckung muss also vorausgesetzt werden; die Nummer schafft nicht selbst ein Nutzungsrecht oder eine Umgehung des § 113. Bei Nummer 2 genügt die Eigenschaft als Original eines Baukunstwerks, ohne dass zusätzlich eine Veröffentlichung verlangt wird. Nummer 3 betrifft andere Werke der bildenden Künste und verlangt gerade deren Veröffentlichung. Ein unveröffentlichtes Gemälde wird deshalb anders behandelt als ein bereits mit Zustimmung des Berechtigten öffentlich zugänglich gemachtes Bild; maßgeblich ist § 6 Abs. 1.
+
+Satz 2 erlaubt in den Fällen der Nummern 2 und 3 die Verbreitung des Originals ohne Zustimmung. Diese gezielte Befugnis bedeutet weder die Übertragung des gesamten Urheberrechts noch die allgemeine Freigabe von Vervielfältigungen. Für Nummer 1 enthält Satz 2 keine gleichlautende zusätzliche Erlaubnis; dort richtet sich der Zusammenhang nach der zugrunde liegenden Rechtevollstreckung.
+
+Beispiel: Eine Bildhauerin besitzt die Originalskulptur, die sie bereits auf einer öffentlichen Ausstellung gezeigt hat. Nummer 3 kann den Zugriff und Satz 2 die Verbreitung dieses Originals ermöglichen. Der Erwerber erhält dadurch keine pauschale Befugnis, verkleinerte Serienkopien herzustellen. Bei einem noch unveröffentlichten Romanmanuskript greift diese Kunstausnahme nicht.
 
 #### Unterabschnitt 3 — Zwangsvollstreckung wegen Geldforderungen gegen den Rechtsnachfolger des Urhebers
 
@@ -304,9 +312,13 @@ Beispiel: Eine Bildhauerin besitzt eine bereits veröffentlichte Skulptur. Der g
 
 > Gegen den Rechtsnachfolger des Urhebers (§ 30) ist die Zwangsvollstreckung wegen Geldforderungen in das Urheberrecht nur mit seiner Einwilligung und nur insoweit zulässig, als er Nutzungsrechte einräumen kann (§ 31). Der Einwilligung bedarf es nicht, wenn das Werk erschienen ist.
 
-Gegen den Rechtsnachfolger gelten Einwilligung und Begrenzung auf mögliche Nutzungsrechte grundsätzlich fort. Anders als bei § 113 ist die Einwilligung jedoch entbehrlich, wenn das Werk erschienen ist. „Erschienen“ muss nach § 6 geprüft werden und ist nicht bloß durch irgendeine frühere öffentliche Inhaltsmitteilung belegt. Der Schutz der persönlichen Werkbindung ist nach dem Erbfall damit differenziert, nicht vollständig beseitigt.
+Der Schutz gegen die Geldvollstreckung in das Urheberrecht wird beim Rechtsnachfolger nach § 30 fortgeführt, aber gegenüber dem lebenden Urheber gelockert. Grundsätzlich sind seine Einwilligung und die Möglichkeit der Einräumung von Nutzungsrechten nach § 31 erforderlich. Die Norm betrifft die Rechtsnachfolge im Urheberrecht, insbesondere infolge Vererbung nach § 28; der Erwerb einer einzelnen Lizenz macht deren Inhaber nicht ohne Weiteres zum Rechtsnachfolger im Sinne dieser Regel.
 
-Beispiel: Ein Gläubiger eines Erben möchte auf die Werkrechte an einem erschienenen Buch zugreifen. Die Ausnahme kann einschlägig sein. Bei einem nur öffentlich vorgelesenen, nicht erschienenen Manuskript muss dagegen die Voraussetzung genauer untersucht werden.
+Satz 2 beseitigt das Einwilligungserfordernis, wenn das Werk erschienen ist. Die Beschränkung auf einräumbare Nutzungsrechte bleibt dabei erhalten. „Erschienen“ ist anhand des § 6 Abs. 2 zu bestimmen und nicht mit jeder Veröffentlichung gleichzusetzen. Bei einem Schriftwerk genügt eine öffentliche Lesung für sich nicht; maßgeblich sind die Voraussetzungen des Angebots oder Inverkehrbringens hinreichender Vervielfältigungsstücke mit Zustimmung. Für Werke der bildenden Künste enthält § 6 Abs. 2 eine zusätzliche Erscheinensregel.
+
+Die abweichende Behandlung erklärt sich aus der bereits erfolgten wirtschaftlichen Öffnung des Werks und der gegenüber § 113 abgeschwächten persönlichen Bindung des Rechtsnachfolgers. Für Originale ist daneben § 116, bei testamentarisch übertragener Rechtsausübung § 117 zu prüfen. Die dortige Zuständigkeit ändert nicht, ob nach Satz 2 überhaupt noch eine Einwilligung benötigt wird.
+
+Beispiel: Ein Gläubiger eines Erben greift auf verwertbare Nutzungsbefugnisse an einem erschienenen Roman zu. Die fehlende Einwilligung des Erben ist dann nicht das entscheidende Hindernis; bestehende Rechte Dritter und die Grenzen des § 31 bleiben zu klären. Bei einem ausschließlich öffentlich vorgelesenen, nicht erschienenen Nachlassmanuskript lässt sich die Ausnahme nicht allein aus der Lesung ableiten.
 
 ### § 116 — Originale von Werken
 
@@ -322,9 +334,13 @@ Beispiel: Ein Gläubiger eines Erben möchte auf die Werkrechte an einem erschie
 >
 > § 114 Abs. 2 Satz 2 gilt entsprechend.
 
-Absatz 1 betrifft Originale im Eigentum des Rechtsnachfolgers und verlangt grundsätzlich dessen Einwilligung. Absatz 2 übernimmt die Ausnahmen des § 114 Abs. 2 Satz 1 und ergänzt Originale erschienener Werke. Die entsprechende Verbreitungsbefugnis ist mitzulesen. Die Norm regelt den körperlichen Gegenstand; ob daneben Nutzungsrechte verwertet werden dürfen, ist nach § 115 zu prüfen.
+Absatz 1 schützt die dem Rechtsnachfolger gehörenden Originale der Werke des Urhebers grundsätzlich durch ein Einwilligungserfordernis. Die Zugehörigkeit des Originals zum Vermögen des Schuldners ist eigenständig festzustellen. Die Vererbung des Urheberrechts und das Eigentum am körperlichen Manuskript oder Bild müssen nicht bei derselben Person liegen. Die Verwertbarkeit des Urheberrechts richtet sich daneben nach § 115, nicht schon nach dem Eigentum am Original.
 
-Beispiel: Eine Erbin besitzt die Originalhandschrift eines bereits erschienenen Romans. Für die Vollstreckung ist der besondere Ausnahmefall zu prüfen. Aus einer zulässigen Verwertung der Handschrift folgt nicht automatisch ein Recht des Erwerbers, neue Buchauflagen zu drucken.
+Absatz 2 Nummer 1 übernimmt sämtliche Fälle des § 114 Abs. 2 Satz 1: den zur Durchführung einer Rechtevollstreckung notwendigen Zugriff, Baukunstoriginale und veröffentlichte Originale anderer bildender Kunst. Die jeweiligen Grenzen bleiben bei dieser Verweisung bestehen. Nummer 2 erweitert die Ausnahmen auf das Original eines erschienenen Werks, ohne diesen Tatbestand auf bildende Kunst zu beschränken. Ein Originalromanmanuskript kann deshalb beim Rechtsnachfolger anders zu behandeln sein als beim Urheber selbst.
+
+Für „erschienen“ gilt § 6 Abs. 2; bloße Veröffentlichung ist damit nicht generell austauschbar. Satz 2 erklärt die Verbreitungsregel des § 114 Abs. 2 Satz 2 für entsprechend anwendbar. Die damit ermöglichte Verwertung des Originals ist von einem Recht zur Herstellung neuer Werkexemplare zu trennen. Außerdem ist bei noch erforderlicher Einwilligung die besondere Zuständigkeit des Testamentsvollstreckers nach § 117 zu beachten.
+
+Beispiel: Eine Erbin besitzt die Originalhandschrift eines längst erschienenen Romans. Nummer 2 kann den Zugriff ohne ihre Einwilligung ermöglichen, obwohl ein unveröffentlichtes Schriftoriginal grundsätzlich geschützt wäre. Der Erwerber der Handschrift kann daraus nicht schon die Befugnis ableiten, eine neue Buchauflage oder Übersetzung zu veröffentlichen.
 
 ### § 117 — Testamentsvollstrecker
 
@@ -332,9 +348,13 @@ Beispiel: Eine Erbin besitzt die Originalhandschrift eines bereits erschienenen 
 
 > Ist nach § 28 Abs. 2 angeordnet, daß das Urheberrecht durch einen Testamentsvollstrecker ausgeübt wird, so ist die nach den §§ 115 und 116 erforderliche Einwilligung durch den Testamentsvollstrecker zu erteilen.
 
-Hat der Urheber die Rechtsausübung nach § 28 Abs. 2 einem Testamentsvollstrecker zugewiesen, erteilt dieser die nach §§ 115 und 116 erforderliche Einwilligung. Die Vorschrift bestimmt den zuständigen Entscheidungsträger, erweitert aber weder den Vollstreckungsgegenstand noch beseitigt sie andere Voraussetzungen. Wo nach den genannten Normen überhaupt keine Einwilligung nötig ist, schafft § 117 kein zusätzliches Zustimmungserfordernis.
+§ 117 beantwortet, wer eine nach §§ 115 und 116 noch erforderliche Einwilligung erteilt, wenn der Urheber die Ausübung des Urheberrechts durch letztwillige Verfügung einem Testamentsvollstrecker übertragen hat. Maßgeblich ist die besondere Anordnung nach § 28 Abs. 2. Das bloße Vorkommen irgendeiner Testamentsvollstreckung im Nachlass ersetzt die Prüfung dieser Rechtsausübungszuweisung und ihres Umfangs nicht.
 
-Beispiel: Über unveröffentlichte Werkrechte eines Nachlasses soll wegen Geldforderungen vollstreckt werden. Besteht eine entsprechende testamentarische Verwaltungsanordnung, genügt nicht ohne Weiteres die Zustimmung eines Erben. Inhalt und Reichweite der Testamentsvollstreckung sind zu belegen.
+Die Einwilligung ist dann Sache des Testamentsvollstreckers. Die Formulierung weist die Entscheidung diesem zu; sie verpflichtet ihn nicht schon auf Wunsch des Gläubigers zur Zustimmung. Aus dem Zahlungstitel ergibt sich weder eine unwiderlegliche Zustimmungspflicht noch eine Erweiterung des verwertbaren Nutzungsrechts. Die materiellen Grenzen der §§ 115 und 116 bleiben bestehen, einschließlich der Beschränkung auf einräumbare Nutzungsrechte.
+
+Umgekehrt schafft § 117 keine zusätzliche Zustimmungsschranke für Fälle, in denen die Einwilligung nach den verwiesenen Regeln entbehrlich ist, etwa wegen Erscheinens nach § 115 Satz 2. Die Prüfung verläuft deshalb in der Reihenfolge Vollstreckungsgegenstand, gesetzliches Einwilligungserfordernis und erst danach zuständiger Entscheidungsträger.
+
+Beispiel: Eine Erbin soll dem Zugriff auf ein noch nicht erschienenes Nachlasswerk zustimmen. Das Testament weist die urheberrechtliche Rechtsausübung einem Testamentsvollstrecker zu. Eine Erklärung allein der Erbin genügt dann für die erforderliche Einwilligung nicht. Daraus folgt aber ebenso wenig, dass der Testamentsvollstrecker die vom Gläubiger verlangte Verwertung zwingend billigen muss.
 
 #### Unterabschnitt 4 — Zwangsvollstreckung wegen Geldforderungen gegen den Verfasser wissenschaftlicher Ausgaben und gegen den Lichtbildner
 
@@ -348,9 +368,13 @@ Beispiel: Über unveröffentlichte Werkrechte eines Nachlasses soll wegen Geldfo
 >
 > 2. auf die Zwangsvollstreckung wegen Geldforderungen gegen den Lichtbildner (§ 72) und seinen Rechtsnachfolger.
 
-Die Schutzregeln der §§ 113 bis 117 werden sinngemäß auf Verfasser wissenschaftlicher Ausgaben und Lichtbildner sowie deren Rechtsnachfolger übertragen. Der Katalog nennt nicht sämtliche Leistungsschutzberechtigten. Eine Erweiterung auf beliebige Hersteller darf deshalb nicht allein aus wirtschaftlicher Ähnlichkeit abgeleitet werden. Bei der entsprechenden Anwendung sind der jeweilige Schutzgegenstand, die Person und die Unterscheidung zwischen Recht und Original zu bestimmen.
+Die beiden Nummern erstrecken die §§ 113 bis 117 auf persönlich geprägte verwandte Schutzrechte: auf den Verfasser einer wissenschaftlichen Ausgabe nach § 70 und auf den Lichtbildner nach § 72, jeweils einschließlich des Rechtsnachfolgers. Dass ein Foto nicht die Werkqualität nach § 2 erreicht, beseitigt den besonderen Vollstreckungsschutz daher nicht. Umgekehrt vermittelt eine bloße technische Mitarbeit an einer Ausgabe noch nicht die Stellung des nach § 70 Berechtigten.
 
-Beispiel: Ein Gläubiger möchte die Rechte eines Lichtbildners verwerten. Er muss die entsprechenden Zustimmungsvorgaben prüfen. Ein bloßer Hinweis, das Foto habe keine Werkqualität, beseitigt den besonderen Vollstreckungsschutz nicht, wenn § 72 einschlägig ist.
+„Sinngemäß“ verlangt eine an den jeweiligen Schutzgegenstand angepasste Anwendung. Zu unterscheiden sind insbesondere der Zugriff auf das Recht und auf ein dem Berechtigten gehörendes Original, die lebende Person und ihr Rechtsnachfolger sowie die Voraussetzungen von Veröffentlichung und Erscheinen. Die unterschiedlichen Ausnahmen der §§ 114 bis 116 dürfen nicht zu einem allgemeinen Einwilligungserfordernis oder einer allgemeinen Pfändungsfreiheit zusammengezogen werden. Auch die Zuständigkeitsregel des § 117 ist bei entsprechender testamentarischer Rechtsausübung mitzudenken.
+
+Der Katalog überträgt diese persönlichen Privilegien nicht auf sämtliche Leistungsschutzberechtigten. Tonträger-, Film- oder Datenbankhersteller sind hier nicht genannt. Für Vorrichtungen kann allerdings der anders gefasste Katalog des § 119 Abs. 3 einschlägig sein; beide Normen haben unterschiedliche Gegenstände und Reichweiten.
+
+Beispiel: Ein Gläubiger will die Lichtbildrechte an einfachen Produktaufnahmen eines lebenden Fotografen verwerten. Er muss die entsprechende Anwendung des § 113 prüfen. Dasselbe Ergebnis lässt sich nicht allein deshalb auf die Rechte einer Tonträgerfirma übertragen, weil deren Leistung ebenfalls durch das UrhG geschützt wird.
 
 #### Unterabschnitt 5 — Zwangsvollstreckung wegen Geldforderungen in bestimmte Vorrichtungen
 
@@ -364,8 +388,12 @@ Beispiel: Ein Gläubiger möchte die Rechte eines Lichtbildners verwerten. Er mu
 >
 > (3) Die Absätze 1 und 2 sind auf die nach den §§ 70 und 71 geschützten Ausgaben, die nach § 72 geschützten Lichtbilder, die nach § 77 Abs. 2 Satz 1, §§ 85, 87, 94 und 95 geschützten Bild- und Tonträger und die nach § 87b Abs. 1 geschützten Datenbanken entsprechend anzuwenden.
 
-Absätze 1 und 2 binden den Geldvollstreckungszugriff auf ausschließlich werkbezogene Vervielfältigungs-, Sende- oder Filmvorführvorrichtungen an die Nutzungsberechtigung des Gläubigers. Absatz 3 überträgt die Regel auf die konkret aufgezählten verwandten Schutzgegenstände. Die Ausschließlichkeit der Bestimmung ist wesentlich; ein allgemein verwendbarer Rechner ist nicht schon wegen gespeicherter Inhalte identisch mit einer spezifischen Druckmatrix. Technischer Sachwert und erlaubte Werkverwendung bleiben getrennt.
+Die Norm verhindert, dass ein Zugriff auf besonders werkgebundene technische Gegenstände eine Verwertung ohne die erforderliche urheberrechtliche Befugnis eröffnet. Absatz 1 betrifft Vorrichtungen, die ausschließlich zur Vervielfältigung oder Funksendung eines bestimmten Werks bestimmt sind. Die Beispiele reichen von Formen und Druckstöcken bis zu Matrizen und Negativen. Entscheidend ist die besondere Zweckbindung; eine allgemein nutzbare Maschine wird nicht allein deshalb zu einer solchen Vorrichtung, weil sie einmal für ein geschütztes Werk eingesetzt wurde.
 
-Beispiel: Ein Gläubiger will spezielle Druckplatten eines geschützten Bildwerks pfänden und zum Nachdruck einsetzen. Der Zugriff erfordert die im Gesetz bezeichnete Berechtigung zur Nutzung mittels dieser Platten. Ein Zahlungstitel schafft diese urheberrechtliche Berechtigung nicht selbst.
+Die Geldvollstreckung ist nur zulässig, soweit der Gläubiger zur Nutzung des Werks gerade mittels dieser Vorrichtungen berechtigt ist. Der bloße Zahlungstitel oder der Wunsch, den Materialwert zu verwerten, ersetzt diese Voraussetzung nicht. Besteht eine begrenzte Lizenz, sind deren Nutzungsart und Umfang mit dem beabsichtigten Zugriff abzugleichen. Die Vorschrift erteilt selbst keine neue urheberrechtliche Lizenz.
 
-**Praxisprüfung Sanktionen und Vollstreckung:** Straf- und Bußgeldtatbestände einzeln abgleichen; Verfolgungsvoraussetzungen prüfen; Zollfristen dokumentieren; vor Pfändung Schuldner, Schutzgegenstand, Eigentum, Erscheinensstatus und erforderliche persönliche Einwilligung bestimmen.
+Absatz 2 übernimmt denselben Gedanken für ausschließlich zur Vorführung eines Filmwerks bestimmte Vorrichtungen, beispielsweise Filmstreifen. Absatz 3 erweitert beide Absätze auf die bezeichneten wissenschaftlichen und nachgelassenen Ausgaben, Lichtbilder, Bild- und Tonträger sowie Datenbanken. Dabei sind die genauen Verweise, insbesondere § 77 Abs. 2 Satz 1 und § 87b Abs. 1, maßgeblich. Dieser breite Sachkatalog ist nicht mit der auf zwei Berechtigtengruppen begrenzten persönlichen Schutzregel des § 118 identisch.
+
+Beispiel: Ein Gläubiger möchte spezielle Druckplatten einer geschützten Grafik pfänden. Eine Lizenz allein zur Onlineabbildung der Grafik belegt noch keine Befugnis zur Nutzung mittels der Platten. Bei einem frei für viele Aufträge verwendbaren Drucker müsste dagegen zuerst geklärt werden, ob überhaupt die ausschließliche Werkbestimmung vorliegt.
+
+**Praxisprüfung Geldvollstreckung:** Schuldner und Rechtsnachfolge bestimmen; Recht, Zahlungsforderung, Original und Vorrichtung auseinanderhalten; Eigentum und konkrete Nutzungsbefugnis belegen; Veröffentlichung und Erscheinen gesondert feststellen; Ausnahmen und zuständigen Einwilligenden anhand §§ 113–119 prüfen.

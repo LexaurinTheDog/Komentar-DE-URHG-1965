@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.01/DOC_1",
+    "accessed_at": "2026-10-20T14:17:31.127544+00:00",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.02/DOC_1",
+    "accessed_at": "2026-10-20T14:17:31.127986+00:00",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.02/DOC_1",
+    "response_path": "sources/review-p113-p130/kwantum-item-2",
+    "sha256": "b0c017ded5380a9fe5278c53f34cb6251cd7a8cb3ea05b313dee413af22ab014",
+    "bytes": 90166,
+    "expected_format": "Full German XHTML judgment",
+    "expected_format_validated": true,
+    "full_judgment_paragraphs": 92
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.03/DOC_1",
+    "accessed_at": "2026-10-20T14:17:31.128084+00:00",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.03/DOC_1",
+    "response_path": "sources/review-p113-p130/kwantum-item-3",
+    "sha256": "41fbe0b2c5a1acf382195293c13bbc779a4bca28354c927cd7c251bd0d9a27e3",
+    "bytes": 18463,
+    "expected_format": "ZIP with official Formex XML",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.04/DOC_1",
+    "accessed_at": "2026-10-20T14:17:31.315733+00:00",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/4b83116e-91df-11ef-a130-01aa75ed71a1.0004.04/DOC_1",
+    "response_path": "sources/review-p113-p130/kwantum-item-4",
+    "sha256": "db5aa9b3d2a8f376290f1b34a3539213c9d10684d2f2c4826e33445cb153abbf",
+    "bytes": 615716,
+    "expected_format": "German judgment PDF",
+    "expected_format_validated": true
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300602014.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300602014.zip",
+    "accessed_at": "2026-10-20T14:12:06.754050+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p113-p130/tarzan.zip",
+    "headers_path": "sources/review-p113-p130/tarzan.zip.headers",
+    "sha256": "6a84c058ec90603d8233f08dcafc78a8f115881be2a35d9969376763228e3135",
+    "bytes": 15850,
+    "expected_format": "zip",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-6-18&Gericht=bgh&anz=17&nr=68508&pos=15",
+    "final_url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html",
+    "accessed_at": "2026-10-20T14:12:06.754428+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p113-p130/tarzan-corrected.pdf",
+    "headers_path": "sources/review-p113-p130/tarzan-corrected.pdf.headers",
+    "sha256": "3fe3b5d21233cfed7da484758d837db08607d8684f51f5b1a4518f3913221794",
+    "bytes": 51650,
+    "expected_format": "pdf",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0227",
+    "accessed_at": "2026-10-20T14:12:06.754523+00:00",
+    "error": "Document is empty",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023CJ0227",
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023CJ0227",
+    "accessed_at": "2026-10-20T14:12:06.754583+00:00",
+    "http_status": 202,
+    "response_path": "sources/review-p113-p130/kwantum.pdf",
+    "headers_path": "sources/review-p113-p130/kwantum.pdf.headers",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "expected_format": "pdf",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://curia.europa.eu/juris/document/document.jsf?docid=291246&doclang=DE",
+    "final_url": "https://infocuria.curia.europa.eu/tabs/redirect/juris/document/document.jsf?docid=291246&doclang=DE",
+    "accessed_at": "2026-10-20T14:12:06.754634+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p113-p130/kwantum-curia.html",
+    "headers_path": "sources/review-p113-p130/kwantum-curia.html.headers",
+    "sha256": "413824fbbaa5c6d60c5e8a24f6bd3861e173e4a45ae5e1490e78df16ce269fb6",
+    "bytes": 130226,
+    "expected_format": "html",
+    "expected_format_validated": false
+  }
+]

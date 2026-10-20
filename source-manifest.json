@@ -1,6 +1,6 @@
 {
   "algorithm": "SHA-256",
-  "generated_at": "2026-10-20T14:09:24.044101+00:00",
+  "generated_at": "2026-10-20T14:25:42.399876+00:00",
   "sources": [
     {
       "path": "sources/aktualitaet.headers",
@@ -766,6 +766,546 @@
       "path": "sources/review-p101a-p112/supplemental-fetch-results.json",
       "sha256": "89dc21c0f6c470f3c7e7ad6d3814d79a0211a995c85bebe6edb9df7609c5840b",
       "bytes": 1809
+    },
+    {
+      "path": "sources/review-p113-p130/aktuell.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/review-p113-p130/aktuell.html.headers",
+      "sha256": "8089c2870f6a300171a52455e16a48024ca65f8f2d31d0ac05aed2c6c16ff73e",
+      "bytes": 324
+    },
+    {
+      "path": "sources/review-p113-p130/amendment.pdf",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883
+    },
+    {
+      "path": "sources/review-p113-p130/amendment.pdf.headers",
+      "sha256": "a352ca51d298b84ea9f100a201db4e6da5141c51b94f2597fcae299e248e76e3",
+      "bytes": 1111
+    },
+    {
+      "path": "sources/review-p113-p130/amendment.txt",
+      "sha256": "330ec58cb454a226cdb04ba26c8da212f4d84f34af5c7c9b5adcb87dcd7dcef7",
+      "bytes": 31271
+    },
+    {
+      "path": "sources/review-p113-p130/baseline-commit.txt",
+      "sha256": "c1acf0483fdae0411f28065ea4f8ed972104b3b7d676f9ad42a8792afca751ec",
+      "bytes": 41
+    },
+    {
+      "path": "sources/review-p113-p130/case-fetch-results.json",
+      "sha256": "dcabdb1b5ebfa5cb9ff5476660a2b02855fc9ad325d5354218214f9f870db239",
+      "bytes": 2665
+    },
+    {
+      "path": "sources/review-p113-p130/case-local-agreement.json",
+      "sha256": "4205091528d969198a34c1a29b73f5b1cd48742284fe9b8907a4e2f6d04261a8",
+      "bytes": 5040
+    },
+    {
+      "path": "sources/review-p113-p130/cellar-fetch-results.json",
+      "sha256": "74fb5201f20970671dccba1ac9dd210bb8ed7ceef58ec29a582e04422cab9141",
+      "bytes": 436
+    },
+    {
+      "path": "sources/review-p113-p130/current.pdf",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416
+    },
+    {
+      "path": "sources/review-p113-p130/current.pdf.headers",
+      "sha256": "557c115092a90d192876bb6986f4275501d8bbf142a345fd24d61fd314bbc42f",
+      "bytes": 309
+    },
+    {
+      "path": "sources/review-p113-p130/current.txt",
+      "sha256": "540571a1ae026695c3f587befbe120940e9c7dc0f3b95a807f7c8ad6fdbb51d6",
+      "bytes": 280366
+    },
+    {
+      "path": "sources/review-p113-p130/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "bytes": 401221
+    },
+    {
+      "path": "sources/review-p113-p130/current.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672
+    },
+    {
+      "path": "sources/review-p113-p130/current.zip.headers",
+      "sha256": "ba95369acafcaeba7ba8950db5c53e4a0811e9d829cf8b38ec50d523e3dc7820",
+      "bytes": 308
+    },
+    {
+      "path": "sources/review-p113-p130/eu-content-fetch-results.json",
+      "sha256": "1d7c8bbe2aeed54e3fcf52baf2d86c74fa12dc016cffc311168c324b35fc321b",
+      "bytes": 2008
+    },
+    {
+      "path": "sources/review-p113-p130/eu-expression-fetch-results.json",
+      "sha256": "c3f35d68d2ab9cb0cf426da48c78d329f929ba72614c7bc7c9a217f61a43ac73",
+      "bytes": 443
+    },
+    {
+      "path": "sources/review-p113-p130/eu-extra-fetch-results.json",
+      "sha256": "fa9c6874d8dfb3693bca3d5737eb14484b2a6017896979072c239ac68c75c575",
+      "bytes": 1355
+    },
+    {
+      "path": "sources/review-p113-p130/eu-fetch-results.json",
+      "sha256": "615dd541aa8abd7eba3b19f26a1e605f4242515dae02656d13ecd5f81d7d739d",
+      "bytes": 1259
+    },
+    {
+      "path": "sources/review-p113-p130/eu-final-fetch-results.json",
+      "sha256": "423979ab0b5859b846dc723641914c07468460bf55bccd91f1d36f465961a25e",
+      "bytes": 1522
+    },
+    {
+      "path": "sources/review-p113-p130/eu-items-fetch-results.json",
+      "sha256": "3b0b0b33c36acfc7c28063f06e362a317637759a63c8ed6e02dee0d57a765c81",
+      "bytes": 730
+    },
+    {
+      "path": "sources/review-p113-p130/eu-negotiation-fetch-results.json",
+      "sha256": "0536772a0fd61cd055f3a1187bc1015a455d3a9cd2d641cf9110db1f6dacb8f6",
+      "bytes": 1216
+    },
+    {
+      "path": "sources/review-p113-p130/eu-retry-fetch-results.json",
+      "sha256": "d025ee90323421a809a296c3797aa02beebf541fec4b298b1895116649d31b95",
+      "bytes": 2282
+    },
+    {
+      "path": "sources/review-p113-p130/eu-third-fetch-results.json",
+      "sha256": "7114aaff04f92bca181a51532ce147cad7a154c4a5ed1240f9ef359dcdcb3640",
+      "bytes": 1798
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-0.body",
+      "sha256": "ccef0a367f8905c287dd5fbe831ebdbb3b9fc9fba7f9f91a1bbd343c5dc86136",
+      "bytes": 475525
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-0.headers",
+      "sha256": "2aab73407b0fdc7c205a854a7a208f4895a4fb95681b493c75481306b2021d6d",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-1.body",
+      "sha256": "53bdd46c0c4915d1a4ebb77e1b6f1f7edd551dd5e6a80140b8933e060c86e244",
+      "bytes": 7742
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-1.headers",
+      "sha256": "2aab73407b0fdc7c205a854a7a208f4895a4fb95681b493c75481306b2021d6d",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-10.body",
+      "sha256": "b0c017ded5380a9fe5278c53f34cb6251cd7a8cb3ea05b313dee413af22ab014",
+      "bytes": 90166
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-10.headers",
+      "sha256": "81394a7e41dba7f382be03bbd9c8b63a3e7910c87b2bc6acfb89b7257a545ea1",
+      "bytes": 310
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-11.body",
+      "sha256": "41fbe0b2c5a1acf382195293c13bbc779a4bca28354c927cd7c251bd0d9a27e3",
+      "bytes": 18463
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-11.headers",
+      "sha256": "19b35868f8ae0de82c51d0012060a631694bed42c82ab0a74366ae88e30e92ad",
+      "bytes": 288
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-12.body",
+      "sha256": "caf87622b607444612330ff509e096f7105b0e4417029275b2397aebc96426ba",
+      "bytes": 35
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-12.headers",
+      "sha256": "5ed700b818cde751c88308f78c6c47710188f68ecdbe53d4f7d39019558e86d3",
+      "bytes": 198
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-2.body",
+      "sha256": "ea057d2c37cc23e0e10540fd817afe637425aecf4ddb6c8aeadc7dd1c318bae2",
+      "bytes": 3108
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-2.headers",
+      "sha256": "56f6dc121a92e7adfca4a229f4adae99041dfdab05788a931d4fc2a5bac0dcaf",
+      "bytes": 294
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-3.body",
+      "sha256": "34a99bcee966ba9fc2fd25f9eb1e26c80d954cea9d1d63410091969863c36891",
+      "bytes": 36
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-3.headers",
+      "sha256": "eb63b0a93f787a2071ad0e61fe3a02868d7eada4a2361f49416b86f42313ed43",
+      "bytes": 198
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-4.body",
+      "sha256": "34a99bcee966ba9fc2fd25f9eb1e26c80d954cea9d1d63410091969863c36891",
+      "bytes": 36
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-4.headers",
+      "sha256": "eb63b0a93f787a2071ad0e61fe3a02868d7eada4a2361f49416b86f42313ed43",
+      "bytes": 198
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-5.body",
+      "sha256": "ccef0a367f8905c287dd5fbe831ebdbb3b9fc9fba7f9f91a1bbd343c5dc86136",
+      "bytes": 475525
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-5.headers",
+      "sha256": "2aab73407b0fdc7c205a854a7a208f4895a4fb95681b493c75481306b2021d6d",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-6.body",
+      "sha256": "ccef0a367f8905c287dd5fbe831ebdbb3b9fc9fba7f9f91a1bbd343c5dc86136",
+      "bytes": 475525
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-6.headers",
+      "sha256": "bd05b4963f4b28b605a600b31501930efeaf823062b6be2d14dfee81bc6d4a52",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-7.body",
+      "sha256": "ccef0a367f8905c287dd5fbe831ebdbb3b9fc9fba7f9f91a1bbd343c5dc86136",
+      "bytes": 475525
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-7.headers",
+      "sha256": "bd05b4963f4b28b605a600b31501930efeaf823062b6be2d14dfee81bc6d4a52",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-8.body",
+      "sha256": "34a99bcee966ba9fc2fd25f9eb1e26c80d954cea9d1d63410091969863c36891",
+      "bytes": 36
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-8.headers",
+      "sha256": "eb63b0a93f787a2071ad0e61fe3a02868d7eada4a2361f49416b86f42313ed43",
+      "bytes": 198
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-9.body",
+      "sha256": "5368b96dac0d70acf9be9b6a5160f9b70c2f4a1ed9a839190191e02fad812608",
+      "bytes": 95
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-9.headers",
+      "sha256": "7a0d3acb054b26d977f48bbd3f4b0c90dd1635405e0f32784f7daf2b06f5ebc0",
+      "bytes": 126
+    },
+    {
+      "path": "sources/review-p113-p130/failed-response-capture.json",
+      "sha256": "e50cf2199eb02e71d6f1667363e68030356534a9d7f758b20ccec2fcde8f3126",
+      "bytes": 8329
+    },
+    {
+      "path": "sources/review-p113-p130/fetch-results.json",
+      "sha256": "dbbd6a8765f28a5500b1ba2cfe442dada626344545edd478b5f7bc1c271d741d",
+      "bytes": 3225
+    },
+    {
+      "path": "sources/review-p113-p130/full.html",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217
+    },
+    {
+      "path": "sources/review-p113-p130/full.html.headers",
+      "sha256": "18cbdd5024c097f495c2c4f596b7654aa6e5f68888dce2c133b8cc912c34f8ae",
+      "bytes": 325
+    },
+    {
+      "path": "sources/review-p113-p130/index.html",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665
+    },
+    {
+      "path": "sources/review-p113-p130/index.html.headers",
+      "sha256": "085d696524f1312fd9cd886fe3120e5c395c6419aeb2befd9328cc3986f01889",
+      "bytes": 323
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-all.html",
+      "sha256": "7cd3aea698724d0b0dac36f749546bf8391f629e376015c218e5f2e956392739",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-all.html.headers",
+      "sha256": "8f05846836f17dfd889f1426450165b69b5e7ccd63a4160aa14707057ba2511e",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-cellar-resolver",
+      "sha256": "ccef0a367f8905c287dd5fbe831ebdbb3b9fc9fba7f9f91a1bbd343c5dc86136",
+      "bytes": 475525
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-court.html",
+      "sha256": "8451568757e65bd588e1c4e29bc5b9d9d70f9c83c2c73a47df58913444306e6a",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-court.html.headers",
+      "sha256": "efaf7029fe6293506879cf43cb522472021aaa420fe3ec3e208686288d6bd555",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-curia-full.html",
+      "sha256": "413824fbbaa5c6d60c5e8a24f6bd3861e173e4a45ae5e1490e78df16ce269fb6",
+      "bytes": 130226
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-curia-full.html.headers",
+      "sha256": "6474024a92c860fc856c716845e231a98bb577d6b42ab06a83405b4b234fa123",
+      "bytes": 804
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-curia.html",
+      "sha256": "413824fbbaa5c6d60c5e8a24f6bd3861e173e4a45ae5e1490e78df16ce269fb6",
+      "bytes": 130226
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-curia.html.headers",
+      "sha256": "93d564365af84a232164b8eaa5fd8707d4822815458449074a348a21c8cd5ef6",
+      "bytes": 804
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-de-all.html",
+      "sha256": "f360a71b21dea7250e37a010a49c048a36d63dd3f965fa96118febbeb42b4963",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-de-all.html.headers",
+      "sha256": "4eec9fd4c98cb4fdd8dd47628a46ebe4d12d787729bd4dc0e518db22632a223b",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-deu-expression.rdf",
+      "sha256": "53bdd46c0c4915d1a4ebb77e1b6f1f7edd551dd5e6a80140b8933e060c86e244",
+      "bytes": 7742
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-deu-expression.rdf.headers",
+      "sha256": "dda57e7c15026ae9647ef558e8e2739dee3e1b51863712a645864035639d8343",
+      "bytes": 294
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-encoded.html",
+      "sha256": "8e230a7440b7e0fff247c74eac0d476caf5e0c2268168535f52844e4764ee4c2",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-encoded.html.headers",
+      "sha256": "d7494ef1ca0b114579e5b33f2948f1eb8f8034d42ba1fa29ce56930a5ebd1c0d",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-eurlex-direct.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-formex.xml",
+      "sha256": "8f61357b5cd28365208128c0b3bcab484752995a3fd73ea0515d103d112d8448",
+      "bytes": 78337
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-item-2",
+      "sha256": "b0c017ded5380a9fe5278c53f34cb6251cd7a8cb3ea05b313dee413af22ab014",
+      "bytes": 90166
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-item-2.headers",
+      "sha256": "db417055961f2b433695e2e3504890333bd712afeb5d161b4a8ca1138de95948",
+      "bytes": 310
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-item-3",
+      "sha256": "41fbe0b2c5a1acf382195293c13bbc779a4bca28354c927cd7c251bd0d9a27e3",
+      "bytes": 18463
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-item-3.headers",
+      "sha256": "01c0a93720e8282c5e049f8c9a8fa7548e7ad159a68ce564d8a8090eb9322b1e",
+      "bytes": 288
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-item-4",
+      "sha256": "db5aa9b3d2a8f376290f1b34a3539213c9d10684d2f2c4826e33445cb153abbf",
+      "bytes": 615716
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-item-4.headers",
+      "sha256": "6ac3e3970404d8714c2d9364fc577d0bc9b7a180d6a1d9b3ad418b84cd7481b7",
+      "bytes": 300
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-lower.html",
+      "sha256": "93c8049e31b66fad77f7ad73759b69ec6c99d6836c8817b179efaba61c61e843",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-lower.html.headers",
+      "sha256": "376d5d33702f6302941101816d057a881b293bb4a6e8e37b2101dfe56037250a",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-oj.html",
+      "sha256": "211817ed26864d0658882247cd20d1165e664ef641bcfe241b8761e3366dd806",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-oj.html.headers",
+      "sha256": "c70b53ce6f95ad22cf0e8ad81cad519de625b54dc03dfbed5a409a54dab9d2df",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-read.txt",
+      "sha256": "f972868a8dc4b03911720890ea5117396db0d023e49aacf5261692bc43afe619",
+      "bytes": 56525
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-stable.html",
+      "sha256": "a70bdc01b960d1880c589d6f4f24bb40580f0e9f9e3cbef922063542fc60525d",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-stable.html.headers",
+      "sha256": "5dfc5223e2ba9f7faaaf6e2e926fc88180ef9021f7e92867e0284b3b7ad725f6",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-static.html",
+      "sha256": "2f5c4017748b5d2b6ff16005f961f5a5b0004c028178138db52cc4323453ed32",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-static.html.headers",
+      "sha256": "def5657524fd481a237f0ac7fddcfff311128f9e280787db5efc7db52ab87b43",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-txt.html",
+      "sha256": "b31a09a46c7164b0bf9f9f02431f7abbda534c22683bde7415fc96ebaaac692e",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-txt.html.headers",
+      "sha256": "87e252fa8c94d858b92efee00bb1679daee83934643966c8a0472b9511eb7642",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-xml.html",
+      "sha256": "9f195f271a80be195950aa56c76743a2a3470d39731ed28a31b92c1ba82e3c0d",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum-xml.html.headers",
+      "sha256": "48244d37107203ddc4aff5d9a2d4e82ab677996548232979eebf1cc8466d3a59",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum.html.headers",
+      "sha256": "bb5134fb1986833727217d0b5571afa2a1c3a59f07c58aad236a19796b79b809",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum.pdf",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p113-p130/kwantum.pdf.headers",
+      "sha256": "b49de7fe3aa5572a1338cb955ff0e76c7270ace2807671924aef36140ab83916",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p113-p130/preflight-evidence.json",
+      "sha256": "26137227fe5117d7cec557f4ae1972cc09e2891a27b02380fdad37b16ab1d823",
+      "bytes": 5635
+    },
+    {
+      "path": "sources/review-p113-p130/preservation.json",
+      "sha256": "2dee0e9d07547a36b5d197b6e8ab2482c79d6633895bd649a27b63aeaa87613c",
+      "bytes": 22280
+    },
+    {
+      "path": "sources/review-p113-p130/previous-review-p101a-p112.json",
+      "sha256": "a16825d0ae65de6711a31e2e30a996795ef051d244420c67c64a5010ea12952b",
+      "bytes": 27151
+    },
+    {
+      "path": "sources/review-p113-p130/quality-console.json",
+      "sha256": "31527fbda7cef1ad21b26ee81f7918a943c765fb842fb748f1795ad70f765a19",
+      "bytes": 855
+    },
+    {
+      "path": "sources/review-p113-p130/search-log.json",
+      "sha256": "3a98a81b5621dfa795c8ecf6a338e21edb741650b0236f7aaba2b3187c845863",
+      "bytes": 2211
+    },
+    {
+      "path": "sources/review-p113-p130/tarzan-corrected.pdf",
+      "sha256": "3fe3b5d21233cfed7da484758d837db08607d8684f51f5b1a4518f3913221794",
+      "bytes": 51650
+    },
+    {
+      "path": "sources/review-p113-p130/tarzan-corrected.pdf.headers",
+      "sha256": "38e98f8f95e6cb0b5f55172590b9c8772195bde318850a0536b42f0358ad44ae",
+      "bytes": 2936
+    },
+    {
+      "path": "sources/review-p113-p130/tarzan-intake.md",
+      "sha256": "6c62d28583dd20450ff5b7b335ef3758072f8f90d519359d6a8d7c66214970be",
+      "bytes": 54183
+    },
+    {
+      "path": "sources/review-p113-p130/tarzan-read.txt",
+      "sha256": "e8f606b047ef8fac69e2c70d9db629fb2134deec7b63a5dc90fa9ebfcbedfcff",
+      "bytes": 53025
+    },
+    {
+      "path": "sources/review-p113-p130/tarzan.xml",
+      "sha256": "51dff62cfa11b4a77797d58a042e64fa5002dd8a5774e442c216ee51717c4fda",
+      "bytes": 76520
+    },
+    {
+      "path": "sources/review-p113-p130/tarzan.zip",
+      "sha256": "6a84c058ec90603d8233f08dcafc78a8f115881be2a35d9969376763228e3135",
+      "bytes": 15850
+    },
+    {
+      "path": "sources/review-p113-p130/tarzan.zip.headers",
+      "sha256": "3f7c99d80508fdbd5fbb6fc9b38a402ae4a12c01913eb1b91496016ab060649e",
+      "bytes": 3026
     },
     {
       "path": "sources/review-p20-p32b/amendment.pdf",
@@ -2854,8 +3394,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "cd8c95dd6bae2912390169fc5a6a4da233c0ed192606feb13c58c28e95035b64",
-      "bytes": 138044
+      "sha256": "747b214cb9c0fdd2996a75522f86827f576375a6feee7c4d38ee57388e10bb4c",
+      "bytes": 172537
     },
     {
       "path": "sources/verify-sources.py",

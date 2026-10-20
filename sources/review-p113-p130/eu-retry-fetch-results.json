@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX%3A62023CJ0227",
+    "accessed_at": "2026-10-20T14:13:06.147215+00:00",
+    "http_status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX%3A62023CJ0227",
+    "response_path": "sources/review-p113-p130/kwantum-encoded.html",
+    "sha256": "8e230a7440b7e0fff247c74eac0d476caf5e0c2268168535f52844e4764ee4c2",
+    "bytes": 2035,
+    "expected_format": "full German judgment HTML",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A62023CJ0227",
+    "accessed_at": "2026-10-20T14:13:06.147587+00:00",
+    "http_status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A62023CJ0227",
+    "response_path": "sources/review-p113-p130/kwantum-lower.html",
+    "sha256": "93c8049e31b66fad77f7ad73759b69ec6c99d6836c8817b179efaba61c61e843",
+    "bytes": 2035,
+    "expected_format": "full German judgment HTML",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli%3AECLI%3AEU%3AC%3A2024%3A914",
+    "accessed_at": "2026-10-20T14:13:06.147688+00:00",
+    "http_status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli%3AECLI%3AEU%3AC%3A2024%3A914",
+    "response_path": "sources/review-p113-p130/kwantum-xml.html",
+    "sha256": "9f195f271a80be195950aa56c76743a2a3470d39731ed28a31b92c1ba82e3c0d",
+    "bytes": 2035,
+    "expected_format": "full German judgment HTML",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://curia.europa.eu/juris/document/document.jsf?text=&docid=291566&pageIndex=0&doclang=DE&mode=lst&dir=&occ=first&part=1",
+    "accessed_at": "2026-10-20T14:13:06.209514+00:00",
+    "http_status": 200,
+    "final_url": "https://infocuria.curia.europa.eu/tabs/redirect/juris/document/document.jsf?text=&docid=291566&pageIndex=0&doclang=DE&mode=lst&dir=&occ=first&part=1",
+    "response_path": "sources/review-p113-p130/kwantum-curia-full.html",
+    "sha256": "413824fbbaa5c6d60c5e8a24f6bd3861e173e4a45ae5e1490e78df16ce269fb6",
+    "bytes": 130226,
+    "expected_format": "full German judgment HTML",
+    "expected_format_validated": false
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "verified_at": "2026-10-20T14:24:45.501873+00:00",
+  "method": "Selektive Suche in amtlichen Datenbanken und lokaler RII-Manifestdatei. Tatsächlich vollständige Lektüre zweier Entscheidungen. Keine Suchtreffer oder Pressemitteilung als Entscheidungsbeleg.",
+  "queries": [
+    "site.rechtsprechung-im-internet.de UrhG § 113",
+    "site.nrwe.justiz.nrw.de \"4 T 347/17\"",
+    "site.bundesgerichtshof.de \"Tonträger aus Drittstaaten\"",
+    "site.rechtsprechung-im-internet.de \"Tarzan\" \"2014\"",
+    "site.curia.europa.eu C-227/23 Urteil 24 Oktober 2024"
+  ],
+  "local_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+  "local_queries": [
+    "I ZR 19/07",
+    "I ZR 80/04",
+    "I ZR 43/14",
+    "I ZR 49/13"
+  ],
+  "accepted": [
+    "BGH 26.2.2014 I ZR 49/13, Rn. 1–70, berichtigt",
+    "EuGH 24.10.2024 C-227/23, Rn. 1–92"
+  ],
+  "not_used": [
+    {
+      "candidate": "LG Bonn 16.10.2017 4 T 347/17",
+      "reason": "Kein hinreichend verifizierter amtlicher Volltext ausgewählt; weder Entscheidung noch behaupteter Inhalt zitiert."
+    },
+    {
+      "candidate": "BGH I ZR 43/14 und I ZR 80/04",
+      "reason": "Als Kandidaten ermittelt, nicht vollständig für dieses Los gelesen; keine eigenen Volltextkarten und keine selbständigen Entscheidungszitate."
+    },
+    {
+      "candidate": "BGH I ZR 19/07",
+      "reason": "Suchansatz ergab Motezuma; kein hinreichender Schwerpunkt für dieses Los; nicht zitiert."
+    }
+  ],
+  "firecrawl": "CLI-Status tatsächlich geprüft: 0 verfügbare Credits; keine erfolgreiche Extraktion behauptet, keine Authentifizierung oder Einstellungen verändert. Direkte amtliche Abrufe verwendet.",
+  "rejected_responses": "Direkte EUR-Lex-Antworten leer oder Prüf-HTML; Curia-URLs lieferten RPEX-Anwendung statt Urteil; BGH-PDF-Link HTML. Nach Formatprüfung verworfen. Erfolgreicher EU-Ersatz: amtliches Cellar-XHTML, Formex-ZIP/XML und PDF mit genauer Sprach-/Dokumentidentität.",
+  "limits": "Selektive Recherche, keine erschöpfende Rechtsprechungs- oder Folgeentscheidungsabdeckung. Für 18 weitere Einheiten keine zusätzliche spezifische Volltextentscheidung aufgenommen; keine Behauptung, es gebe dazu keine Rechtsprechung."
+}
