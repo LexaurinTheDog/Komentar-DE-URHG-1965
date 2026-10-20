@@ -3,7 +3,7 @@
   "complete": true,
   "decisive_date": "2026-10-19",
   "official_url": "https://www.gesetze-im-internet.de/urhg/",
-  "verified_at": "2026-10-20T12:05:20.824985+00:00",
+  "verified_at": "2026-10-20T12:16:06.541236+00:00",
   "version_evidence": {
     "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
     "amendment_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
@@ -229,5 +229,40 @@
       "warnings": [],
       "ok": true
     }
+  },
+  "bounded_review_p20_p32b_confirmation": {
+    "verified_at": "2026-10-20T12:16:06.541236+00:00",
+    "official_url": "https://www.gesetze-im-internet.de/urhg/",
+    "fetch_log": "sources/review-p20-p32b/fetch-results.json",
+    "source_unchanged": true,
+    "xml_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+    "index_unchanged": true,
+    "amendment_unchanged": true,
+    "extracted_assigned_units_agree": true,
+    "reviewed_ids": [
+      "p20",
+      "p20a",
+      "p20b",
+      "p20c",
+      "p20d",
+      "p21",
+      "p22",
+      "p23",
+      "p24",
+      "p25",
+      "p26",
+      "p27",
+      "p28",
+      "p29",
+      "p30",
+      "p31",
+      "p31a",
+      "p32",
+      "p32a",
+      "p32b"
+    ],
+    "coverage_recheck": "completeness-report.json",
+    "historical_duplicate_check": "Alle 307 XML-Datensätze erneut klassifiziert, nur ein Buildstand und keine doppelten Kennungen.",
+    "annexes_and_formula": "Eine Anlage mit fünf Gruppen und 26 Buchstabenpunkten; keine unklassifizierte operative Norm oder Eingangsformel. Aktuelle XML identisch zu den bereits abgeglichenen amtlichen HTML-/PDF-Belegen."
   }
 }

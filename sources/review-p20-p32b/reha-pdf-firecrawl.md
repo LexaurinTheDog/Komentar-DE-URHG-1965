@@ -1,0 +1,262 @@
+### Sam mlung der R ech t sprech ung
+
+URTEIL DES GERIC HTSHOF S (Große K ammer)
+
+31. Mai 2016 *
+„Vorlage zur Vorabentscheidung — Geistiges Eigentum — Urheberrech t und verwandte Schut zrech te — Rich tlinie 2001/29/EG — Art. 3 Abs. 1 — Rich tlinie 2006/115/EG — Art. 8 Abs. 2 — B egrif f ‚ öf fentliche W iedergabe‘ — Installation von F ernsehgeräten durch den B etreiber eines Rehabilitationszentrums, damit die Patienten sich F ernsehsendungen ansehen können“
+
+### In der Rech tssache C -117/15
+
+betref fend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereich t vom Landgerich t K öln (Deutschland) mit Entscheidung vom 20. F ebruar 2015, beim Gerich tshof eingegangen am 9. März 2015, in dem Verfahren
+
+### Reha T raining G esel lsc haft für Sport- und Unfal lrehabilitation mb H
+
+gegen
+
+**G esel lsc haft für musikalisc he Auffüh rungs-und mec hanisc he V er vielfältigungsrec hte e. V.** **(G E M A) ,**
+
+### B eteiligte:
+
+**G esel lsc haft zur V erwertung von Leistungssc hutz rec hten mb H (G V L),**
+
+erlässt
+
+### DER GERIC HTSHOF (Große K ammer)
+
+unter Mitwirkung des Präsidenten K. Lenaerts, der K ammerpräsidenten L. B ay Larsen, T. von Danwitz,
+
+J. L. da C ruz Vilaça, D. Šváby und C. Lycourgos, der Rich ter A. Rosas, E. Juhász, A. B org B art het und
+J. Malenovský (B erich terstat ter), der Rich terinnen M. B erger und A. Prechal sowie des Rich ters
+M. Vilaras, Generalanwalt : Y. B ot, K anzler : K. Malacek, Verwaltungsrat, aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 19. Januar 2016,
+### unter B erücksich tigung der Erklärungen
+
+— der Reha Training Gesellschaft für Sport -und Unfallrehabilitation mbH, vertreten durch die Rech tsanwälte S. Dreismann und D. Herfs,
+
+* Verfahrenssprache: Deutsch.
+<u>D E</u> EC LI: EU: C : 2016: 379
+
+URTEIL VOM 31. 5. 2016 – RECHTSSACHE C-117/15 REHA TRAINING
+
+— der Gesellschaft für musikalische Auf führungs-und mechanische Vervielfältigungsrech te e. V. (GEMA), vertreten durch die Rech tsanwälte C. von K öckritz, I. B rinker, N. Lutzhöft und
+
+T. Holzmüller,
+— der Gesellschaft zur Verwertung von Leistungsschut zrech ten mbH (GVL), vertreten durch die Rech tsanwälte U. K arpenstein und M. K ot tmann,
+
+— der deutschen Regierung, vertreten durch T. Henze und J. K emper als B evollmäch tigte,
+
+— der französischen Regierung, vertreten durch G. de B ergues, D. C olas und D. Segoin als B evollmäch tigte,
+
+— der ungarischen Regierung, vertreten durch G. Szima, M. Z. F ehér und M. B óra als B evollmäch tigte,
+
+— der Europäischen K ommission, vertreten durch J. Samnadda und T. Scharf als B evollmäch tigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sit zung vom 23. F ebruar 2016
+
+folgendes
+
+### Urteil
+
+1 Das Vorabentscheidungsersuchen betrif ft die Auslegung von Art. 3 Abs. 1 der Rich tlinie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. Mai 2001 zur Harmonisierung bestimmter Aspekte des Urheberrech ts und der verwandten Schut zrech te in der Informationsgesellschaft (AB l. 2001, L 167, S. 10) und von Art. 8 Abs. 2 der Rich tlinie 2006/115/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zum Vermietrech t und Verleihrech t sowie zu bestimmten dem Urheberrech t verwandten Schut zrech ten im B ereich des geistigen Eigentums (AB l. 2006, L 376, S. 28).
+
+2 Es ergeh t in einem Rech tsstreit zwischen der Reha Training Gesellschaft für Sport -und Unfallrehabilitation mbH (im F olgenden: Reha Training), die ein Rehabilitationszentrum betreibt, und der für die gemeinsame W ahrnehmung von Urheberrech ten im B ereich der Musik in Deutschland zuständigen Gesellschaft für musikalische Auf führungs-und mechanische Vervielfältigungsrech te e. V. (GEMA) wegen der W eigerung von Reha Training, an die GEMA eine urheberrech tliche Vergütung für die Z ugänglichmachung von geschützten W erken in den Räumlichkeiten von Reha Training zu zahlen.
+
+### Rec htlic her Rahmen
+
+*Unionsrecht*
+
+### Rich tlinie 2001/29
+
+3 Die Erwägungsgründe 9, 10, 20 und 23 der Rich tlinie 2001/29 lauten:
+
+„(9) Jede Harmonisierung des Urheberrech ts und der verwandten Schut zrech te muss von einem hohen Schut zniveau ausgehen, da diese Rech te für das geistige Schaf fen wesentlich sind. Ihr Schut z trägt dazu bei, die Erhaltung und Entwicklung kreativer Tätigkeit im Interesse der
+
+Urheber, ausübenden K ünstler, Hersteller, Verbraucher, von K ultur und W irtschaft sowie der breiten Öf fentlichkeit sicherzustellen. Das geistige Eigentum ist daher als B estandteil des Eigentums anerkannt worden.
+
+(10) W enn Urheber und ausübende K ünstler weiter schöpferisch und künstlerisch tätig sein sollen, müssen sie für die Nut zung ihrer W erke eine angemessene Vergütung erhalten, was ebenso für die Produzenten gilt, damit diese die W erke finanzieren können. Um Produkte wie Tonträger, F ilme oder Multimediaprodukte herstellen und Dienstleistungen, z. B. Dienste auf Abruf, anbieten zu können, sind beträch tliche Investitionen erforderlich. Nur wenn die Rech te des geistigen Eigentums angemessen geschützt werden, kann eine angemessene Vergütung der Rech tsinhaber gewährleistet und ein zufrieden stellender Ertrag dieser Investitionen sichergestellt werden.
+
+…
+
+(20) Die vorliegende Rich tlinie beruh t auf den Grundsät zen und B estimmungen, die in den einschlägigen geltenden Rich tlinien bereits festgeschrieben sind, und zwar insbesondere in [der Rich tlinie 92/100/EW G des Rates vom 19. November 1992 über das Vermietrech t und Verleihrech t sowie bestimmte dem Urheberrech t verwandte Schut zrech te im B ereich des geistigen Eigentums (AB l. 1992, L 346, S. 61) in der durch die Rich tlinie 93/98/EW G des Rates vom 29. Oktober 1993 (AB l. 1993, L 290, S. 9) geänderten F assung]. Die betref fenden Grundsät ze und B estimmungen werden fortentwickelt und in den Rahmen der Informationsgesellschaft eingeordnet. Die B estimmungen dieser Rich tlinie sollten unbeschadet der genannten Rich tlinien gelten, sofern diese Rich tlinie nich ts anderes bestimmt.
+
+…
+
+(23) Mit dieser Rich tlinie sollte das für die öf fentliche W iedergabe geltende Urheberrech t weiter harmonisiert werden. Dieses Rech t sollte im weiten Sinne verstanden werden, nämlich dahin gehend, dass es jegliche W iedergabe an die Öf fentlichkeit umfasst, die an dem Ort, an dem die W iedergabe ihren Ursprung nimmt, nich t anwesend ist. Dieses Rech t sollte jegliche entsprechende drah tgebundene oder drah tlose öf fentliche Übertragung oder W eiterverbreitung eines W erks, einschließlich der Rundfunkübertragung, umfassen. Dieses Rech t sollte für keine weiteren Handlungen gelten. “
+
+4 Art. 3 Abs. 1 dieser Rich tlinie bestimmt :
+
+„Die Mitgliedstaaten sehen vor, dass den Urhebern das ausschließliche Rech t zusteht, die drah tgebundene oder drah tlose öf fentliche W iedergabe ihrer W erke einschließlich der öf fentlichen Z ugänglichmachung der W erke in der W eise, dass sie Mitgliedern der Öf fentlichkeit von Orten und zu Z eiten ihrer W ahl zugänglich sind, zu erlauben oder zu verbieten. “
+
+5 Art. 12 Abs. 2 der Rich tlinie sieh t vor :
+
+„Der Schut z der dem Urheberrech t verwandten Schut zrech te im Sinne dieser Rich tlinie lässt den Schut z des Urheberrech ts unberührt und beeinträch tigt ihn in keiner W eise. “
+
+### Rich tlinie 2006/115
+
+6 Der drit te Erwägungsgrund der Rich tlinie 2006/115 lautet :
+
+„Dem angemessenen Schut z von urheberrech tlich geschützten W erken und Gegenständen der verwandten Schut zrech te durch Vermiet-und Verleihrech te sowie dem Schut z von Gegenständen der verwandten Schut zrech te durch das Aufzeichnungsrecht, Verbreitungsrecht, Senderech t und Rech t der öf fentlichen W iedergabe kommt daher eine grundlegende B edeutung für die wirtschaftliche und kulturelle Entwicklung der Gemeinschaft zu. “
+
+7 Art. 8 Abs. 2 dieser Rich tlinie bestimmt :
+
+„Die Mitgliedstaaten sehen ein Rech t vor, das bei Nut zung eines zu Handelszwecken veröf fentlich ten Tonträgers oder eines Vervielfältigungsstücks eines solchen Tonträgers für drah tlos übertragene Rundfunksendungen oder eine öf fentliche W iedergabe die Z ahlung einer einzigen angemessenen Vergütung durch den Nut zer und die Aufteilung dieser Vergütung auf die ausübenden K ünstler und die Tonträgerhersteller gewährleistet. B esteh t zwischen den ausübenden K ünstlern und den Tonträgerherstellern kein diesbezügliches Einvernehmen, so können die B edingungen, nach denen die Vergütung unter ihnen aufzuteilen ist, von den Mitgliedstaaten festgelegt werden. “
+
+8 Die Rich tlinie 92/100 in der durch die Rich tlinie 93/98 geänderten F assung wurde durch die Rich tlinie 2006/115 kodifiziert und aufgehoben. Der W ortlaut von Art. 8 der Rich tlinie 2006/115 ist jedoch gegenüber Art. 8 der aufgehobenen Rich tlinie unverändert geblieben.
+
+### Deutsches R echt
+
+9 § 15 Abs. 2 des Geset zes über Urheberrech t und verwandte Schut zrech te – Urheberrech tsgeset z (Urh G) vom 9. September 1965 (B GB l. 1965 I S. 1273) in seiner auf den Sachverhalt des Ausgangsverfahrens anwendbaren F assung sieh t vor :
+
+„Der Urheber hat ferner das ausschließliche Recht, sein W erk in unkörperlicher F orm öf fentlich wiederzugeben (Rech t der öf fentlichen W iedergabe). Das Rech t der öf fentlichen W iedergabe umfasst insbesondere
+
+1. das Vortrags-, Auf führungs-und Vorführungsrech t (§ 19),
+2. das Rech t der öf fentlichen Z ugänglichmachung (§ 19a),
+3. das Senderech t (§ 20),
+4. das Rech t der W iedergabe durch B ild-oder Tonträger (§ 21),
+5. das Rech t der W iedergabe von F unksendungen und von öf fentlicher Z ugänglichmachung (§ 22). “
+10 § 15 Abs. 3 Urh G lautet :
+
+„Die W iedergabe ist öf fentlich, wenn sie für eine Mehrzahl von Mitgliedern der Öf fentlichkeit bestimmt ist. Z ur Öf fentlichkeit gehört jeder, der nich t mit demjenigen, der das W erk verwertet, oder mit den anderen Personen, denen das W erk in unkörperlicher F orm wahrnehmbar oder zugänglich gemach t wird, durch persönliche B eziehungen verbunden ist. “
+
+### Ausgangsverfah ren und V orlagefragen
+
+11 In den Räumlichkeiten des von Reha Training betriebenen Rehabilitationszentrums können Unfallopfer eine postoperative B ehandlung zur Rehabilitation erhalten.
+
+12 Z u diesen Räumlichkeiten gehören zwei W arteräume und ein Trainingsraum, in denen Reha Training von Juni 2012 bis Juni 2013 über dort installierte F ernsehgeräte ihren Patienten ermöglich te, sich F ernsehsendungen anzusehen. Diese Sendungen konnten daher von den Personen, die sich zur B ehandlung in dem Rehabilitationszentrum aufhielten, wahrgenommen werden.
+
+13 Reha Training hat zu keinem Z eitpunkt bei der GEMA eine Erlaubnis für die Z ugänglichmachung dieser Sendungen eingeholt. Nach Auf fassung der GEMA werden durch eine solche Z ugänglichmachung W erke des von ihr verwalteten Repertoires öf fentlich wiedergegeben. Sie stellte daher die nach ihrer Ansich t von Reha Training auf der Grundlage der geltenden Vergütungssät ze für den Z eitraum von Juni 2012 bis Juni 2013 geschuldete Vergütung in Rechnung und beantragte beim Amtsgerich t K öln (Deutschland) mangels Erhalt der Z ahlung die Verurteilung dieser Gesellschaft zur Z ahlung von Schadensersat z in Höhe dieses B etrags.
+
+14 Das Amtsgerich t K öln gab dieser K lage statt. Reha Training legte gegen das Urteil B erufung beim Landgerich t K öln (Deutschland) ein.
+
+15 Das vorlegende Gerich t sieh t auf der Grundlage der von der Rech tsprechung des Gerich tshofs zur Auslegung der Rich tlinie 2001/29 entwickelten K riterien in der Z ugänglichmachung von F ernsehsendungen durch Reha Training eine öf fentliche W iedergabe. Es ist darüber hinaus der Auf fassung, dass für die B estimmung einer „öf fentlichen W iedergabe“ im Sinne von Art. 8 Abs. 2 der Rich tlinie 2006/115 dieselben K riterien gälten, sieh t sich an einer Entscheidung in diesem Sinne aber durch das Urteil vom 15. März 2012, SC F (C -135/10, EU: C : 2012: 140), gehindert.
+
+16 In diesem Urteil habe der Gerich tshof nämlich befunden, dass die Patienten einer Z ahnarz tpraxis nich t als „Personen allgemein“ eingestuft werden könnten. Da im vorliegenden F all grundsät zlich nur die Patienten von Reha Training Z ugang zu der von ihr durchgeführten B ehandlung hät ten, könnten diese Patienten nich t als „Personen allgemein“ eingestuft werden, sondern seien eine „private Gruppe“.
+
+17 Im Urteil vom 15. März 2012, SC F (C -135/10, EU: C : 2012: 140), habe der Gerich tshof ferner festgestellt, dass die Patienten einer Z ahnarz tpraxis eine unerhebliche oder sogar unbedeutende Z ahl von Personen bildeten, da die Gruppe der gleich zeitig in dieser Praxis anwesenden Personen im Allgemeinen sehr klein sei. Auch die Gruppe der Patienten von Reha Training sei jedoch of fensich tlich begrenzt.
+
+18 Im Übrigen habe der Gerich tshof in diesem Urteil entschieden, dass die normalen Patienten einer Z ahnarz tpraxis nich t darauf eingestellt seien, dort Musik zu hören, da sie zufällig in deren Genuss kämen und sie nich t wählten. Im vorliegenden F all nähmen die Patienten von Reha Training in den W arteräumen und im Trainingsraum die F ernsehsendungen ebenfalls unabhängig von ihren W ünschen und ihrer Auswahl wahr.
+
+19 Das Landgerich t K öln hat daher beschlossen, das Verfahren auszuset zen und dem Gerich tshof folgende F ragen zur Vorabentscheidung vorzulegen:
+
+1. B eurteilt sich die F rage, ob eine öf fentliche W iedergabe im Sinne von Art. 3 Abs. 1 der Rich tlinie 2001/29 und /oder im Sinne von Art. 8 Abs. 2 der Rich tlinie 2006/115 vorliegt, stets nach denselben K riterien, nämlich dass — ein Nut zer in voller K enntnis der F olgen seines Verhaltens tätig wird, um Drit ten einen Z ugang zum geschützten W erk zu verschaf fen, den diese ohne sein Tätigwerden nich t hät ten,
+
+— die „Öf fentlichkeit “ eine unbestimmte Z ahl potenzieller Leistungsempfänger bedeutet und ferner aus rech t vielen Personen bestehen muss, wobei die Unbestimmt heit gegeben ist, wenn es sich um „Personen allgemein“, also nich t um Personen handelt, die einer privaten Gruppe angehören, und mit „rech t vielen Personen“ gemeint ist, dass eine bestimmte Mindestschwelle überschrit ten werden muss, eine allzu kleine oder gar unbedeutende Mehrzahl betrof fener Personen das K riterium mit hin nich t erfüllt, wobei es in diesem Z usammenhang nich t nur darauf ankommt, wie viele Personen gleich zeitig zu demselben W erk Z ugang haben, sondern auch darauf, wie viele von ihnen in der F olge Z ugang zu dem W erk haben;
+
+— es sich um ein neues Publikum handelt, für das das W erk wiedergegeben wird, also für ein Publikum, das der Urheber des W erkes nich t berücksich tigt hat, als er dessen Nut zung im W ege der öf fentlichen W iedergabe erlaubt hat, es sei denn, dass die nachfolgende W iedergabe nach einem spezifischen technischen Verfahren erfolgt, das sich von demjenigen der ursprünglichen W iedergabe unterscheidet, und
+
+— es nich t unerheblich ist, ob die betref fende Nut zungshandlung Erwerbszwecken dient, ferner das Publikum für diese W iedergabe aufnahmebereit ist und nich t nur zufällig „erreich t “ wird, wobei dies keine zwingende Vorausset zung für eine öf fentliche W iedergabe ist ?
+
+2. Ist in F ällen wie im Ausgangsverfahren, in denen der B etreiber eines Rehabilitationszentrums in seinen Räumlichkeiten F ernsehgeräte installiert, zu denen er ein Sendesignal übermit telt und so die F ernsehsendungen wahrnehmbar macht, die F rage, ob eine öf fentliche W iedergabe vorliegt, nach dem B egrif f der „öf fentlichen W iedergabe“ aus Art. 3 Abs. 1 der Rich tlinie 2001/29 oder aus Art. 8 Abs. 2 der Rich tlinie 2006/115 zu beurteilen, wenn mit den wahrnehmbar gemach ten F ernsehsendungen die Urheberrech te und Leistungsschut zrech te einer Vielzahl von B eteiligten, insbesondere K omponisten, Textdich ter und Musikverleger, aber auch ausübende K ünstler, Tonträgerhersteller und Urheber von Sprachwerken sowie deren Verlage, betrof fen sind ?
+3. Liegt in F ällen wie im Ausgangsverfahren, in denen der B etreiber eines Rehabilitationszentrums in seinen Räumlichkeiten F ernsehgeräte installiert, zu denen er ein Sendesignal übermit telt und so die F ernsehsendungen seinen Patienten wahrnehmbar macht, eine „öf fentlichen W iedergabe“ gemäß Art. 3 Abs. 1 der Rich tlinie 2001/29 oder gemäß Art. 8 Abs. 2 der Rich tlinie 2006/115 vor ?
+4. W enn für F älle wie im Ausgangsverfahren eine öf fentliche W iedergabe in diesem Sinne bejah t wird: Hält der Gerich tshof seine Rech tsprechung aufrecht, dass im F all der W iedergabe geschützter Tonträger im Rahmen von Radiosendungen für Patienten in einer Z ahnarz tpraxis (vgl. Urteil SC F, C -135/10, EU: C : 2012: 140) oder ähnlichen Einrich tungen keine öf fentliche W iedergabe erfolgt ?
+20 Mit Schreiben vom 17. April 2015 hat das vorlegende Gerich t dem Gerich tshof mitgeteilt, dass die Gesellschaft zur Verwertung von Leistungsschut zrech ten mbH (GVL) als B eteiligte zum Ausgangsverfahren zugelassen worden sei.
+
+21 Die französische Regierung hat gemäß Art. 16 Abs. 3 der Sat zung des Gerich tshofs der Europäischen Union beantragt, dass der Gerich tshof als Große K ammer tagt.
+
+### Zu den V orlagefragen
+
+22 Mit seinen ersten drei F ragen, die zusammen zu prüfen sind, möch te das vorlegende Gerich t zum einen wissen, ob in einer Rech tssache wie der des Ausgangsverfahrens, in der durch die Verbreitung von F ernsehsendungen über F ernsehgeräte, die der B etreiber eines Rehabilitationszentrums in seinen Räumlichkeiten installiert hat, die Urheberrech te und Leistungsschut zrech te einer Vielzahl von B eteiligten, insbesondere K omponisten, Textdich tern und Musikverlegern, aber auch ausübenden K ünstlern, Tonträgerherstellern und Urhebern von Sprachwerken sowie deren Verlagen, betrof fen sein
+
+sollen, die F rage, ob ein solcher Sachverhalt eine „öf fentliche W iedergabe“ darstellt, sowohl nach Art. 3 Abs. 1 der Rich tlinie 2001/29 als auch nach Art. 8 Abs. 2 der Rich tlinie 2006/115 oder nur nach einer dieser B estimmungen zu beurteilen ist, und zum anderen, ob sich das Vorliegen einer solchen W iedergabe nach denselben K riterien beurteilt. F erner möch te es wissen, ob eine solche Verbreitung eine „öf fentliche W iedergabe“ im Sinne der einen und /oder der anderen dieser B estimmungen darstellt.
+
+23 Hierzu ist darauf hinzuweisen, dass die Mitgliedstaaten nach Art. 3 Abs. 1 der Rich tlinie 2001/29 sicherzustellen haben, dass den Urhebern das ausschließliche Rech t zusteht, die drah tgebundene oder drah tlose öf fentliche W iedergabe ihrer W erke einschließlich der öf fentlichen Z ugänglichmachung der W erke in der W eise, dass sie Mitgliedern der Öf fentlichkeit an Orten und zu Z eiten ihrer W ahl zugänglich sind, zu erlauben oder zu verbieten.
+
+24 Außerdem müssen die Geset ze der Mitgliedstaaten nach Art. 8 Abs. 2 der Rich tlinie 2006/115 bei Nut zung eines zu Handelszwecken veröf fentlich ten Tonträgers oder eines Vervielfältigungsstücks eines solchen Tonträgers für drah tlos übertragene Rundfunksendungen oder eine öf fentliche W iedergabe zum einen die Z ahlung einer einzigen angemessenen Vergütung durch den Nut zer und zum anderen die Aufteilung dieser Vergütung auf die ausübenden K ünstler und die Tonträgerhersteller gewährleisten.
+
+25 Hierzu ist zunächst fest zustellen, dass nach dem 20. Erwägungsgrund der Rich tlinie 2001/29 namentlich die B estimmungen dieser Rich tlinie grundsät zlich unbeschadet der Rich tlinie 92/100 in der durch die Rich tlinie 93/98 geänderten F assung, die durch die Rich tlinie 2006/115 kodifiziert und aufgehoben worden ist, gelten sollten, sofern die Rich tlinie 2001/29 nich ts anderes bestimmt (vgl. in diesem Sinne Urteil vom 9. F ebruar 2012, Luksan, C -277/10, EU : C : 2012: 65, Rn. 43 und die dort angeführte Rech tsprechung).
+
+26 Nach keiner B estimmung der Rich tlinie 2001/29 kann jedoch von den in Art. 8 Abs. 2 der Rich tlinie 2006/115 ent haltenen Grundsät zen abgewichen werden.
+
+27 Daher berührt die Anwendung von Art. 3 Abs. 1 der Rich tlinie 2001/29 nich t die Anwendung von Art. 8 Abs. 2 der Rich tlinie 2006/115.
+
+28 Darüber hinaus müssen in Anbetrach t der Erfordernisse der Einheit und K ohärenz der Unionsrech tsordnung die in den Rich tlinien 2001/29 und 2006/115 verwendeten B egrif fe dieselbe B edeutung haben, es sei denn, dass der Unionsgeset zgeber in einem konkreten geset zgeberischen K ontext einen anderen W illen zum Ausdruck gebrach t hat (vgl. in diesem Sinne Urteil vom
+
+4. Oktober 2011, F ootball Association Premier League u. a., C -403/08 und C -429/08, EU : C : 2011: 631, Rn. 188).
+29 Tatsächlich ergibt der Vergleich der Art. 3 Abs. 1 der Rich tlinie 2001/29 und 8 Abs. 2 der Rich tlinie 2006/115, dass der in diesen B estimmungen ent haltene B egrif f „öf fentliche W iedergabe“ in Z usammenhängen verwendet wird, die nich t gleich sind, und zwar ähnliche, aber gleichwohl teilweise unterschiedliche Z ielset zungen verfolgt (vgl. in diesem Sinne Urteil vom 15. März 2012, SC F, C -135/10, EU: C : 2012: 140, Rn. 74).
+
+30 Die Urheber verfügen nämlich nach Art. 3 Abs. 1 der Rich tlinie 2001/29 über ein Rech t vorbeugender Art, das es ihnen erlaubt, sich bei Nut zern ihrer W erke vor der öf fentlichen W iedergabe, die diese Nut zer durch zuführen beabsich tigen, einzuschalten, und zwar, um diese zu verbieten. Dagegen verfügen die ausübenden K ünstler und die Tonträgerhersteller nach Art. 8 Abs. 2 der Rich tlinie 2006/115 über ein Rech t mit Entschädigungscharakter, das nich t ausgeübt werden kann, bevor ein zu Handelszwecken veröf fentlich ter Tonträger oder ein Vervielfältigungsstück eines solchen Tonträgers durch einen Nut zer für eine öf fentliche W iedergabe verwendet wird oder bereits verwendet worden ist (vgl. in diesem Sinne Urteil vom 15. März 2012, SC F, C -135/10, EU: C : 2012: 140, Rn. 75).
+
+31 Gleichwohl bestehen keine Anhaltspunkte dafür, dass der Unionsgeset zgeber dem B egrif f „öf fentliche W iedergabe“ im jeweiligen K ontext der Rich tlinien 2001/29 und 2006/115 eine unterschiedliche B edeutung zuschreiben wollte.
+
+32 W ie nämlich der Generalanwalt in Nr. 34 seiner Schlussanträge festgestellt hat, kann die unterschiedliche Art der im Rahmen dieser Rich tlinien geschützten Rech te nich t die Tatsache verschleiern, dass nach deren W ortlaut diese Rech te an denselben Umstand anknüpfen, nämlich die öf fentliche W iedergabe geschützter W erke.
+
+33 Aus den vorstehenden Erwägungen ergibt sich, dass in einer Rech tssache wie der des Ausgangsverfahrens, die die Verbreitung von F ernsehsendungen betrif ft, von der behauptet wird, sie beeinträch tige nich t nur die Urheberrech te, sondern u. a. auch die Rech te der ausübenden K ünstler oder der Tonträgerhersteller, sowohl Art. 3 Abs. 1 der Rich tlinie 2001/29 als auch Art. 8 Abs. 2 der Rich tlinie 2006/115 anzuwenden ist, wobei dem B egrif f „öf fentliche W iedergabe“ in diesen beiden Vorschriften dieselbe B edeutung beigemessen wird.
+
+34 Daher ist dieser B egrif f nach Maßgabe der jeweils anwendbaren B estimmung nach denselben K riterien zu beurteilen, um u. a. widersprüchliche und miteinander unvereinbare Auslegungen zu vermeiden.
+
+35 Hierzu hat der Gerich tshof bereits festgestellt, dass zur B eurteilung des Vorliegens einer öf fentlichen W iedergabe mehrere K riterien zu berücksich tigen sind, die unselbständig und miteinander verfloch ten sind. Da diese K riterien im jeweiligen Einzelfall in sehr unterschiedlichem Maß vorliegen können, sind sie einzeln und in ihrem Z usammenwirken mit den anderen K riterien anzuwenden (vgl. in diesem Sinne Urteil vom 15. März 2012, Phonographic Performance [Ireland], C -162/10, EU : C : 2012: 141, Rn. 30 und die dort angeführte Rech tsprechung).
+
+36 Außerdem ist darauf hinzuweisen, dass der B egrif f „öf fentliche W iedergabe“ weit zu verstehen ist, wie dies ausdrücklich der 23. Erwägungsgrund der Rich tlinie 2001/29 besagt (vgl. in diesem Sinne Urteil vom 7. März 2013, ITV B roadcasting u. a., C -607/11, EU: C : 2013: 147, Rn. 20 und die dort angeführte Rech tsprechung).
+
+37 Der Gerich tshof hat ferner bereits entschieden, dass der B egrif f „öf fentliche W iedergabe“ zwei kumulative Tatbestandsmerkmale vereint, nämlich eine „Handlung der W iedergabe“ eines W erks und seine „öf fentliche“ W iedergabe (Urteil vom 19. November 2015, SB S B elgium, C -325/14, EU : C : 2015: 764, Rn. 15 und die dort angeführte Rech tsprechung).
+
+38 Dies vorausgeschickt ist erstens zum B egrif f „Handlung der W iedergabe“ darauf hinzuweisen, dass dieser jede Übertragung geschützter W erke unabhängig vom eingesetzten technischen Mit tel oder Verfahren umfasst (vgl. in diesem Sinne Urteil vom 19. November 2015, SB S B elgium, C -325/14, EU : C : 2015: 764, Rn. 16 und die dort angeführte Rech tsprechung).
+
+39 F erner muss jede Übertragung oder W eiterverbreitung eines W erks, die nach einem spezifischen technischen Verfahren erfolgt, grundsät zlich vom Urheber des betref fenden W erks einzeln erlaubt werden (Urteil vom 19. November 2015, SB S B elgium, C -325/14, EU: C : 2015: 764, Rn. 17 und die dort angeführte Rech tsprechung).
+
+40 Z weitens fällt die W iedergabe geschützter W erke, wie in Rn. 37 des vorliegenden Urteils ausgeführt, nur dann unter den B egrif f „öf fentliche W iedergabe“ im Sinne von Art. 3 Abs. 1 der Rich tlinie 2001/29, wenn sie darüber hinaus tatsächlich „öf fentlich “ erfolgt.
+
+41 Hierzu ergibt sich aus der Rech tsprechung des Gerich tshofs als Erstes, dass der B egrif f „Öf fentlichkeit “ eine unbestimmte Z ahl möglicher Adressaten umfasst und zudem rech t viele Personen voraussetzt (vgl. in diesem Sinne Urteil vom 7. Dezember 2006, SGAE, C -306/05, EU: C : 2006: 764, Rn. 37 und 38 und die dort angeführte Rech tsprechung).
+
+42 Der Gerich tshof hat zum einen hinsich tlich der „Unbestimmt heit “ der Öf fentlichkeit darauf hingewiesen, dass es um die Z ugänglichmachung eines W erks in geeigneter W eise für „Personen allgemein“, also nich t auf besondere Personen beschränkt, die einer privaten Gruppe angehören, geh t (vgl. in diesem Sinne Urteil vom 15. März 2012, SC F, C -135/10, EU: C : 2012: 140, Rn. 85).
+
+43 Z um anderen hat der Gerich tshof zum B egrif f „rech t viele Personen“ ausgeführt, dass dieser eine „bestimmte Mindestschwelle “ beinhaltet, was ihn dazu veranlasst hat, eine allzu kleine oder gar unbedeutende Mehrzahl betrof fener Personen von der Einstufung als „Öf fentlichkeit “ auszuschließen (vgl. in diesem Sinne Urteil vom 15. März 2012, SC F, C -135/10, EU: C : 2012: 140, Rn. 86).
+
+44 B ei der B estimmung der Z ahl dieser Adressaten ist die kumulative W irkung zu berücksich tigen, die sich daraus ergibt, dass die W erke den möglichen Adressaten zugänglich gemach t werden (vgl. in diesem Sinne Urteil vom 7. Dezember 2006, SGAE, C -306/05, EU : C : 2006: 764, Rn. 39). Es kommt insbesondere darauf an, wie viele Personen gleich zeitig und nacheinander Z ugang zu demselben W erk haben (vgl. in diesem Sinne Urteil vom 15. März 2012, Phonographic Performance [Ireland], C -162/10, EU : C : 2012: 141, Rn. 35).
+
+45 Als Z weites muss nach Auf fassung des Gerich tshofs ein durch Rundfunk gesendetes W erk, um unter den B egrif f „öf fentliche W iedergabe“ fallen zu können, für ein „neues Publikum“ übertragen werden,
+
+d. h. ein Publikum, das von den Inhabern der Rech te an den geschützten W erken nich t berücksich tigt wurde, als sie deren Nut zung durch W iedergabe an das ursprüngliche Publikum zugestimmt haben (vgl. in diesem Sinne Urteile vom 7. Dezember 2006, SGAE, C -306/05, EU: C : 2006: 764, Rn. 40 und 42, sowie vom 4. Oktober 2011, F ootball Association Premier League u. a., C -403/08 und C -429/08, EU : C : 2011: 631, Rn. 197).
+46 In diesem Z usammenhang hat der Gerich tshof auf die zentrale Rolle des Nut zers hingewiesen. Er hat nämlich entschieden, dass, damit eine öf fentliche W iedergabe vorliegt, dieser Nut zer in voller K enntnis der F olgen seines Verhaltens einem zusät zlichen Publikum Z ugang zu der Rundfunksendung, die das geschützte W erke ent hält, verschaf fen und sich dabei zeigen muss, dass die Personen, die dieses „neue“ Publikum darstellen, ohne dieses Tätigwerden grundsät zlich nich t in den Genuss des ausgestrahlten W erks kommen könnten, obwohl sie sich im Sendegebiet der Sendung aufhalten (vgl. in diesem Sinne Urteile vom 7. Dezember 2006, SGAE, C -306/05, EU : C : 2006: 764, Rn. 42, sowie vom 4. Oktober 2011, F ootball Association Premier League u. a., C -403/08 und C -429/08, EU: C : 2011: 631, Rn. 195).
+
+47 So hat der Gerich tshof bereits entschieden, dass die B etreiber einer Gastwirtschaft, eines Hotels oder einer K ureinrich tung solche Nut zer sind und eine öf fentliche W iedergabe vornehmen, wenn sie geschützte W erke absich tlich dadurch übertragen, dass sie willentlich ein Signal über F ernseh-oder Radioempfänger, die sie in ihrer Einrich tung installiert haben, verbreiten (vgl. in diesem Sinne Urteile vom 7. Dezember 2006, SGAE, C -306/05, EU : C : 2006: 764, Rn. 42 und 47, vom 4. Oktober 2011, F ootball Association Premier League u. a., C -403/08 und C -429/08, EU: C : 2011: 631, Rn. 196, sowie vom
+
+27. F ebruar 2014, OSA, C -351/12, EU: C : 2014: 110, Rn. 26).
+48 Es wird also vorausgesetzt, dass das Publikum, für das die W iedergabe in diesen Einrich tungen vorgenommen wird, nich t bloß zufällig „erreich t “ wird, sondern dass sich deren B etreiber gezielt an es wenden (vgl. in diesem Sinne Urteil vom 15. März 2012, SC F, C -135/10, EU: C : 2012: 140, Rn. 91).
+
+49 F erner ist darauf hinzuweisen, dass der gewerbliche C harakter der Verbreitung eines geschützten W erks für die Einstufung einer solchen Verbreitung als „öf fentliche W iedergabe“ zwar mit Sicherheit nich t ausschlaggebend ist (vgl. in diesem Sinne Urteil vom 7. März 2013, ITV B roadcasting u. a., C -607/11, EU: C : 2013: 147, Rn. 43), doch hierfür – u. a. zur B estimmung der möglichen Vergütung für diese Verbreitung – auch nich t unerheblich ist (vgl. in diesem Sinne Urteil vom 4. Oktober 2011, F ootball Association Premier League u. a., C -403/08 und C -429/08, EU : C : 2011: 631, Rn. 204 und die dort angeführte Rech tsprechung),
+
+50 W ie der Gerich tshof in Rn. 91 des Urteils vom 15. März 2012, SC F (C -135/10, EU : C : 2012: 140), befunden hat, in dessen Rahmen er sowohl die F rage, ob eine öf fentliche W iedergabe vorliegt, als auch die F rage, ob ein Vergütungsanspruch für diese W iedergabe besteht, beantwortet hat, ist dies der Z usammenhang, in dem die „Aufnahmebereitschaft “ der Öf fentlichkeit von B edeutung sein kann.
+
+51 So hat der Gerich tshof entschieden, dass die Verbreitung geschützter W erke Erwerbszwecken dient, wenn der Nut zer daraus einen wirtschaftlichen Nut zen ziehen kann, der mit der At traktivität und daher der größeren F requentierung der Einrich tung, in der er diese Verbreitung vornimmt, verbunden ist (vgl. in diesem Sinne Urteil vom 4. Oktober 2011, F ootball Association Premier League u. a., C -403/08 und C -429/08, EU: C : 2011: 631, Rn. 205 und 206).
+
+52 In B ezug auf die Verbreitung von Tonträgern in einer Z ahnarz tpraxis hat der Gerich tshof dies jedoch verneint, da die Patienten eines Z ahnarz tes einer solchen Verbreitung im Allgemeinen keine B edeutung beimessen, so dass diese nich t geeignet ist, die At traktivität und daher die F requentierung dieser Praxis zu erhöhen (vgl. in diesem Sinne Urteil vom 15. März 2012, SC F, C -135/10, EU : C : 2012: 140, Rn. 97 und 98).
+
+53 Anhand der verschiedenen von der Rech tsprechung des Gerich tshofs entwickelten K riterien ist zu prüfen, ob die Verbreitung von F ernsehsendungen wie die im Ausgangsverfahren fragliche als „öf fentliche W iedergabe“ im Sinne von Art. 3 Abs. 1 der Rich tlinie 2001/29 und von Art. 8 Abs. 2 der Rich tlinie 2006/115 eingestuft werden kann.
+
+54 Der Gerich tshof hat hierzu erstens, wie in Rn. 47 des vorliegenden Urteils festgestellt, bereits entschieden, dass die B etreiber einer Gastwirtschaft, eines Hotels oder einer K ureinrich tung eine W iedergabe vornehmen, wenn sie geschützte W erke absich tlich dadurch an ihre K unden übertragen, dass sie willentlich ein Signal über F ernseh -oder Radioempfänger, die sie in ihrer Einrich tung installiert haben, verbreiten.
+
+55 Diese Situationen erscheinen jedoch der des Ausgangsverfahrens völlig vergleichbar, in der, wie sich aus dem Vorabentscheidungsersuchen ergibt, der B etreiber eines Rehabilitationszentrums geschützte W erke absich tlich über F ernsehgeräte, die an mehreren Orten dieser Einrich tung installiert sind, an seine Patienten überträgt.
+
+56 Die Vornahme einer W iedergabe durch einen solchen B etreiber ist daher zu bejahen.
+
+57 Z weitens ist, was die Gesamt heit der Patienten eines Rehabilitationszentrums wie das des Ausgangsverfahrens betrif ft, fest zustellen, dass sich aus den dem Gerich tshof vorgelegten Akten ergibt, dass es sich um Personen allgemein handelt.
+
+58 Darüber hinaus ist der von diesen Patienten gebildete Personenkreis nich t „allzu klein oder gar unbedeutend “, wobei insbesondere zu berücksich tigen ist, dass diese Patienten gleich zeitig an mehreren Orten der Einrich tung in den Genuss der ausgestrahlten W erke kommen können.
+
+59 Daher ist anzunehmen, dass die Gesamt heit der Patienten eines Rehabilitationszentrums wie das des Ausgangsverfahrens eine „Öf fentlichkeit “ im Sinne von Art. 3 Abs. 1 der Rich tlinie 2001/29 und Art. 8 Abs. 2 der Rich tlinie 2006/115 darstellen.
+
+60 Die Patienten eines solchen Rehabilitationszentrums könnten schließlich ohne gezieltes Eingreifen des B etreibers dieses Z entrums grundsät zlich nich t in den Genuss der ausgestrahlten W erke kommen. Da das Ausgangsverfahren die Z ahlung einer urheberrech tlichen Vergütung für die Z ugänglichmachung von geschützten W erken in den Räumlichkeiten dieses Z entrums zum Ursprung hat, ist ferner fest zustellen, dass diese Patienten bei der Erteilung der Erlaubnis für die Z ugänglichmachung ganz of fensich tlich nich t berücksich tigt worden sind.
+
+61 F olglich stellen die Patienten eines Rehabilitationszentrums wie das des Ausgangsverfahrens ein „neues Publikum“ im Sinne der in Rn. 45 des vorliegenden Urteils genannten Rech tsprechung dar.
+
+62 In Anbetrach t dieser Erwägungen ist anzunehmen, dass der B etreiber eines Rehabilitationszentrums wie das des Ausgangsverfahrens eine öf fentliche W iedergabe vornimmt.
+
+63 W as drit tens den gewerblichen C harakter einer solchen W iedergabe betrif ft, ist, wie der Generalanwalt in Nr. 71 seiner Schlussanträge festgestellt hat, darauf hinzuweisen, dass im vorliegenden F all die Verbreitung von F ernsehsendungen über F ernsehgeräte, da sie den Patienten eines Rehabilitationszentrums wie das des Ausgangsverfahrens während ihrer B ehandlungen oder den vorangehenden W artezeiten Unterhaltung bieten soll, eine zusät zliche Dienstleistung darstellt, die zwar keine medizinische B edeutung besitzt, sich aber auf die Standards und At traktivität der Einrich tung günstig auswirkt und dieser somit einen W et tbewerbsvorteil verschaf ft.
+
+64 Daraus folgt, dass in einer Situation wie der des Ausgangsverfahrens die Verbreitung von F ernsehsendungen durch den B etreiber eines Rehabilitationszentrums wie Reha Training einen gewerblichen Z weck aufweisen kann, der bei der B estimmung der Höhe der für eine solche Verbreitung gegebenenfalls geschuldeten Vergütung berücksich tigt werden kann.
+
+65 Nach alledem ist auf die ersten drei F ragen zu antworten, dass in einer Rech tssache wie der des Ausgangsverfahrens, in der durch die Verbreitung von F ernsehsendungen über F ernsehgeräte, die der B etreiber eines Rehabilitationszentrums in seinen Räumlichkeiten installiert hat, die Urheberrech te und Leistungsschut zrech te einer Vielzahl von B etrof fenen, insbesondere K omponisten, Textdich tern und Musikverlegern, aber auch ausübenden K ünstlern, Tonträgerherstellern und Urhebern von Sprachwerken sowie deren Verlagen, betrof fen sein sollen, die F rage, ob ein solcher Sachverhalt eine „öf fentliche W iedergabe“ darstellt, sowohl nach Art. 3 Abs. 1 der Rich tlinie 2001/29 als auch nach Art. 8 Abs. 2 der Rich tlinie 2006/115 zu beurteilen ist, und zwar anhand derselben Auslegungskriterien. F erner sind diese beiden B estimmungen dahin auszulegen, dass eine solche Verbreitung eine „öf fentliche W iedergabe“ darstellt.
+
+66 In Anbetrach t der Antwort auf diese ersten drei F ragen erübrigt sich die Antwort auf die vierte F rage.
+
+### Kosten
+
+67 F ür die Parteien des Ausgangsverfahrens ist das Verfahren ein Z wischenstreit in dem beim vorlegenden Gerich t anhängigen Rech tsstreit; die K ostenentscheidung ist daher Sache dieses Gerich ts. Die Auslagen anderer B eteiligter für die Abgabe von Erklärungen vor dem Gerich tshof sind nich t erstat tungsfähig.
+
+Aus diesen Gründen hat der Gerich tshof (Große K ammer) für Rech t erkannt :
+
+**In einer Rec htssac he wie der des Ausgangsverfah rens, in der dur c h die V erbreitung von** **F ernsehsendungen über F ernsehgeräte, die der Betreiber eines Rehabilitationszentrums in** **seinen Räumlic hkeiten instal liert hat, die Ur heber rec hte und Leistungssc hutz rec hte einer** **V ielzahl von Betroffenen, insbesondere Komponisten, T extdic htern und Musikverlegern, aber** **auc h ausübenden Künstlern, T onträger herstel lern und Ur hebern von Sprac hwerken sowie deren** **V erlagen, betroffen sein sol len, ist die F rage, ob ein solc her Sac h ver halt eine „öffentlic he** **Wiedergabe“ darstel lt, sowohl nac h Art. 3 Abs. 1 der Ric htlinie 2001/29/EG des E uropäisc hen** **P arlaments und des Rates vom 2 2. Mai 2001 zur H armonisierung bestimmter Aspekte des** **Ur heber rec hts und der verwandten Sc hutz rec hte in der Informationsgesel lsc haft als auc h nac h** **Art. 8 Abs. 2 der Ric htlinie 2006/115/EG des E uropäisc hen P arlaments und des Rates vom** **1 2. Dezember 2006 zum V ermietrec ht und V erleih rec ht sowie zu bestimmten dem Ur heber rec ht**
+
+**verwandten Sc hutz rec hten im Bereic h des geistigen E igentums zu beurteilen, und zwar anhand** **dersel ben Auslegungskriterien. F erner sind diese beiden Bestimmungen dahin auszulegen, dass** **eine solc he V erbreitung eine „öffentlic he Wiedergabe“ darstel lt.**
+
+Unterschriften

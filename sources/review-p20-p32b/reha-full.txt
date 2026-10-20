@@ -1,0 +1,392 @@
+URTEIL DES GERICHTSHOFS (Große Kammer)
+31. Mai 2016 (
+*1
+)
+„Vorlage zur Vorabentscheidung — Geistiges Eigentum — Urheberrecht und verwandte Schutzrechte — Richtlinie 2001/29/EG — Art. 3 Abs. 1 — Richtlinie 2006/115/EG — Art. 8 Abs. 2 — Begriff ‚öffentliche Wiedergabe‘ — Installation von Fernsehgeräten durch den Betreiber eines Rehabilitationszentrums, damit die Patienten sich Fernsehsendungen ansehen können“
+In der Rechtssache C‑117/15
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Landgericht Köln (Deutschland) mit Entscheidung vom 20. Februar 2015, beim Gerichtshof eingegangen am 9. März 2015, in dem Verfahren
+Reha Training Gesellschaft für Sport- und Unfallrehabilitation mbH
+gegen
+Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte e. V. (GEMA),
+Beteiligte:
+Gesellschaft zur Verwertung von Leistungsschutzrechten mbH (GVL),
+erlässt
+DER GERICHTSHOF (Große Kammer)
+unter Mitwirkung des Präsidenten K. Lenaerts, der Kammerpräsidenten L. Bay Larsen, T. von Danwitz, J. L. da Cruz Vilaça, D. Šváby und C. Lycourgos, der Richter A. Rosas, E. Juhász, A. Borg Barthet und J. Malenovský (Berichterstatter), der Richterinnen M. Berger und A. Prechal sowie des Richters M. Vilaras,
+Generalanwalt: Y. Bot,
+Kanzler: K. Malacek, Verwaltungsrat,
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 19. Januar 2016,
+unter Berücksichtigung der Erklärungen
+—
+der Reha Training Gesellschaft für Sport- und Unfallrehabilitation mbH, vertreten durch die Rechtsanwälte S. Dreismann und D. Herfs,
+—
+der Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte e. V. (GEMA), vertreten durch die Rechtsanwälte C. von Köckritz, I. Brinker, N. Lutzhöft und T. Holzmüller,
+—
+der Gesellschaft zur Verwertung von Leistungsschutzrechten mbH (GVL), vertreten durch die Rechtsanwälte U. Karpenstein und M. Kottmann,
+—
+der deutschen Regierung, vertreten durch T. Henze und J. Kemper als Bevollmächtigte,
+—
+der französischen Regierung, vertreten durch G. de Bergues, D. Colas und D. Segoin als Bevollmächtigte,
+—
+der ungarischen Regierung, vertreten durch G. Szima, M. Z. Fehér und M. Bóra als Bevollmächtigte,
+—
+der Europäischen Kommission, vertreten durch J. Samnadda und T. Scharf als Bevollmächtigte,
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 23. Februar 2016
+folgendes
+Urteil
+1
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 3 Abs. 1 der Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. Mai 2001 zur Harmonisierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in der Informationsgesellschaft (
+ABl. 2001, L 167, S. 10
+) und von Art. 8 Abs. 2 der Richtlinie 2006/115/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zum Vermietrecht und Verleihrecht sowie zu bestimmten dem Urheberrecht verwandten Schutzrechten im Bereich des geistigen Eigentums (
+ABl. 2006, L 376, S. 28
+).
+2
+Es ergeht in einem Rechtsstreit zwischen der Reha Training Gesellschaft für Sport- und Unfallrehabilitation mbH (im Folgenden: Reha Training), die ein Rehabilitationszentrum betreibt, und der für die gemeinsame Wahrnehmung von Urheberrechten im Bereich der Musik in Deutschland zuständigen Gesellschaft für musikalische Aufführungs‑ und mechanische Vervielfältigungsrechte e. V. (GEMA) wegen der Weigerung von Reha Training, an die GEMA eine urheberrechtliche Vergütung für die Zugänglichmachung von geschützten Werken in den Räumlichkeiten von Reha Training zu zahlen.
+Rechtlicher Rahmen
+Unionsrecht
+Richtlinie 2001/29
+3
+Die Erwägungsgründe 9, 10, 20 und 23 der Richtlinie 2001/29 lauten:
+„(9)
+Jede Harmonisierung des Urheberrechts und der verwandten Schutzrechte muss von einem hohen Schutzniveau ausgehen, da diese Rechte für das geistige Schaffen wesentlich sind. Ihr Schutz trägt dazu bei, die Erhaltung und Entwicklung kreativer Tätigkeit im Interesse der Urheber, ausübenden Künstler, Hersteller, Verbraucher, von Kultur und Wirtschaft sowie der breiten Öffentlichkeit sicherzustellen. Das geistige Eigentum ist daher als Bestandteil des Eigentums anerkannt worden.
+(10)
+Wenn Urheber und ausübende Künstler weiter schöpferisch und künstlerisch tätig sein sollen, müssen sie für die Nutzung ihrer Werke eine angemessene Vergütung erhalten, was ebenso für die Produzenten gilt, damit diese die Werke finanzieren können. Um Produkte wie Tonträger, Filme oder Multimediaprodukte herstellen und Dienstleistungen, z. B. Dienste auf Abruf, anbieten zu können, sind beträchtliche Investitionen erforderlich. Nur wenn die Rechte des geistigen Eigentums angemessen geschützt werden, kann eine angemessene Vergütung der Rechtsinhaber gewährleistet und ein zufrieden stellender Ertrag dieser Investitionen sichergestellt werden.
+…
+(20)
+Die vorliegende Richtlinie beruht auf den Grundsätzen und Bestimmungen, die in den einschlägigen geltenden Richtlinien bereits festgeschrieben sind, und zwar insbesondere in [der Richtlinie 92/100/EWG des Rates vom 19. November 1992 über das Vermietrecht und Verleihrecht sowie bestimmte dem Urheberrecht verwandte Schutzrechte im Bereich des geistigen Eigentums (
+ABl. 1992, L 346, S. 61
+) in der durch die Richtlinie 93/98/EWG des Rates vom 29. Oktober 1993 (
+ABl. 1993, L 290, S. 9
+) geänderten Fassung]. Die betreffenden Grundsätze und Bestimmungen werden fortentwickelt und in den Rahmen der Informationsgesellschaft eingeordnet. Die Bestimmungen dieser Richtlinie sollten unbeschadet der genannten Richtlinien gelten, sofern diese Richtlinie nichts anderes bestimmt.
+…
+(23)
+Mit dieser Richtlinie sollte das für die öffentliche Wiedergabe geltende Urheberrecht weiter harmonisiert werden. Dieses Recht sollte im weiten Sinne verstanden werden, nämlich dahin gehend, dass es jegliche Wiedergabe an die Öffentlichkeit umfasst, die an dem Ort, an dem die Wiedergabe ihren Ursprung nimmt, nicht anwesend ist. Dieses Recht sollte jegliche entsprechende drahtgebundene oder drahtlose öffentliche Übertragung oder Weiterverbreitung eines Werks, einschließlich der Rundfunkübertragung, umfassen. Dieses Recht sollte für keine weiteren Handlungen gelten.“
+4
+Art. 3 Abs. 1 dieser Richtlinie bestimmt:
+„Die Mitgliedstaaten sehen vor, dass den Urhebern das ausschließliche Recht zusteht, die drahtgebundene oder drahtlose öffentliche Wiedergabe ihrer Werke einschließlich der öffentlichen Zugänglichmachung der Werke in der Weise, dass sie Mitgliedern der Öffentlichkeit von Orten und zu Zeiten ihrer Wahl zugänglich sind, zu erlauben oder zu verbieten.“
+5
+Art. 12 Abs. 2 der Richtlinie sieht vor:
+„Der Schutz der dem Urheberrecht verwandten Schutzrechte im Sinne dieser Richtlinie lässt den Schutz des Urheberrechts unberührt und beeinträchtigt ihn in keiner Weise.“
+Richtlinie 2006/115
+6
+Der dritte Erwägungsgrund der Richtlinie 2006/115 lautet:
+„Dem angemessenen Schutz von urheberrechtlich geschützten Werken und Gegenständen der verwandten Schutzrechte durch Vermiet- und Verleihrechte sowie dem Schutz von Gegenständen der verwandten Schutzrechte durch das Aufzeichnungsrecht, Verbreitungsrecht, Senderecht und Recht der öffentlichen Wiedergabe kommt daher eine grundlegende Bedeutung für die wirtschaftliche und kulturelle Entwicklung der Gemeinschaft zu.“
+7
+Art. 8 Abs. 2 dieser Richtlinie bestimmt:
+„Die Mitgliedstaaten sehen ein Recht vor, das bei Nutzung eines zu Handelszwecken veröffentlichten Tonträgers oder eines Vervielfältigungsstücks eines solchen Tonträgers für drahtlos übertragene Rundfunksendungen oder eine öffentliche Wiedergabe die Zahlung einer einzigen angemessenen Vergütung durch den Nutzer und die Aufteilung dieser Vergütung auf die ausübenden Künstler und die Tonträgerhersteller gewährleistet. Besteht zwischen den ausübenden Künstlern und den Tonträgerherstellern kein diesbezügliches Einvernehmen, so können die Bedingungen, nach denen die Vergütung unter ihnen aufzuteilen ist, von den Mitgliedstaaten festgelegt werden.“
+8
+Die Richtlinie 92/100 in der durch die Richtlinie 93/98 geänderten Fassung wurde durch die Richtlinie 2006/115 kodifiziert und aufgehoben. Der Wortlaut von Art. 8 der Richtlinie 2006/115 ist jedoch gegenüber Art. 8 der aufgehobenen Richtlinie unverändert geblieben.
+Deutsches Recht
+9
+§ 15 Abs. 2 des Gesetzes über Urheberrecht und verwandte Schutzrechte – Urheberrechtsgesetz (UrhG) vom 9. September 1965 (BGBl. 1965 I S. 1273) in seiner auf den Sachverhalt des Ausgangsverfahrens anwendbaren Fassung sieht vor:
+„Der Urheber hat ferner das ausschließliche Recht, sein Werk in unkörperlicher Form öffentlich wiederzugeben (Recht der öffentlichen Wiedergabe). Das Recht der öffentlichen Wiedergabe umfasst insbesondere
+1.   das Vortrags-, Aufführungs- und Vorführungsrecht (§ 19),
+2.   das Recht der öffentlichen Zugänglichmachung (§ 19a),
+3.   das Senderecht (§ 20),
+4.   das Recht der Wiedergabe durch Bild- oder Tonträger (§ 21),
+5.   das Recht der Wiedergabe von Funksendungen und von öffentlicher Zugänglichmachung (§ 22).“
+10
+§ 15 Abs. 3 UrhG lautet:
+„Die Wiedergabe ist öffentlich, wenn sie für eine Mehrzahl von Mitgliedern der Öffentlichkeit bestimmt ist. Zur Öffentlichkeit gehört jeder, der nicht mit demjenigen, der das Werk verwertet, oder mit den anderen Personen, denen das Werk in unkörperlicher Form wahrnehmbar oder zugänglich gemacht wird, durch persönliche Beziehungen verbunden ist.“
+Ausgangsverfahren und Vorlagefragen
+11
+In den Räumlichkeiten des von Reha Training betriebenen Rehabilitationszentrums können Unfallopfer eine postoperative Behandlung zur Rehabilitation erhalten.
+12
+Zu diesen Räumlichkeiten gehören zwei Warteräume und ein Trainingsraum, in denen Reha Training von Juni 2012 bis Juni 2013 über dort installierte Fernsehgeräte ihren Patienten ermöglichte, sich Fernsehsendungen anzusehen. Diese Sendungen konnten daher von den Personen, die sich zur Behandlung in dem Rehabilitationszentrum aufhielten, wahrgenommen werden.
+13
+Reha Training hat zu keinem Zeitpunkt bei der GEMA eine Erlaubnis für die Zugänglichmachung dieser Sendungen eingeholt. Nach Auffassung der GEMA werden durch eine solche Zugänglichmachung Werke des von ihr verwalteten Repertoires öffentlich wiedergegeben. Sie stellte daher die nach ihrer Ansicht von Reha Training auf der Grundlage der geltenden Vergütungssätze für den Zeitraum von Juni 2012 bis Juni 2013 geschuldete Vergütung in Rechnung und beantragte beim Amtsgericht Köln (Deutschland) mangels Erhalt der Zahlung die Verurteilung dieser Gesellschaft zur Zahlung von Schadensersatz in Höhe dieses Betrags.
+14
+Das Amtsgericht Köln gab dieser Klage statt. Reha Training legte gegen das Urteil Berufung beim Landgericht Köln (Deutschland) ein.
+15
+Das vorlegende Gericht sieht auf der Grundlage der von der Rechtsprechung des Gerichtshofs zur Auslegung der Richtlinie 2001/29 entwickelten Kriterien in der Zugänglichmachung von Fernsehsendungen durch Reha Training eine öffentliche Wiedergabe. Es ist darüber hinaus der Auffassung, dass für die Bestimmung einer „öffentlichen Wiedergabe“ im Sinne von Art. 8 Abs. 2 der Richtlinie 2006/115 dieselben Kriterien gälten, sieht sich an einer Entscheidung in diesem Sinne aber durch das Urteil vom 15. März 2012, SCF (
+C‑135/10
+,
+EU:C:2012:140
+), gehindert.
+16
+In diesem Urteil habe der Gerichtshof nämlich befunden, dass die Patienten einer Zahnarztpraxis nicht als „Personen allgemein“ eingestuft werden könnten. Da im vorliegenden Fall grundsätzlich nur die Patienten von Reha Training Zugang zu der von ihr durchgeführten Behandlung hätten, könnten diese Patienten nicht als „Personen allgemein“ eingestuft werden, sondern seien eine „private Gruppe“.
+17
+Im Urteil vom 15. März 2012, SCF (
+C‑135/10
+,
+EU:C:2012:140
+), habe der Gerichtshof ferner festgestellt, dass die Patienten einer Zahnarztpraxis eine unerhebliche oder sogar unbedeutende Zahl von Personen bildeten, da die Gruppe der gleichzeitig in dieser Praxis anwesenden Personen im Allgemeinen sehr klein sei. Auch die Gruppe der Patienten von Reha Training sei jedoch offensichtlich begrenzt.
+18
+Im Übrigen habe der Gerichtshof in diesem Urteil entschieden, dass die normalen Patienten einer Zahnarztpraxis nicht darauf eingestellt seien, dort Musik zu hören, da sie zufällig in deren Genuss kämen und sie nicht wählten. Im vorliegenden Fall nähmen die Patienten von Reha Training in den Warteräumen und im Trainingsraum die Fernsehsendungen ebenfalls unabhängig von ihren Wünschen und ihrer Auswahl wahr.
+19
+Das Landgericht Köln hat daher beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+20
+Mit Schreiben vom 17. April 2015 hat das vorlegende Gericht dem Gerichtshof mitgeteilt, dass die Gesellschaft zur Verwertung von Leistungsschutzrechten mbH (GVL) als Beteiligte zum Ausgangsverfahren zugelassen worden sei.
+21
+Die französische Regierung hat gemäß Art. 16 Abs. 3 der Satzung des Gerichtshofs der Europäischen Union beantragt, dass der Gerichtshof als Große Kammer tagt.
+Zu den Vorlagefragen
+22
+Mit seinen ersten drei Fragen, die zusammen zu prüfen sind, möchte das vorlegende Gericht zum einen wissen, ob in einer Rechtssache wie der des Ausgangsverfahrens, in der durch die Verbreitung von Fernsehsendungen über Fernsehgeräte, die der Betreiber eines Rehabilitationszentrums in seinen Räumlichkeiten installiert hat, die Urheberrechte und Leistungsschutzrechte einer Vielzahl von Beteiligten, insbesondere Komponisten, Textdichtern und Musikverlegern, aber auch ausübenden Künstlern, Tonträgerherstellern und Urhebern von Sprachwerken sowie deren Verlagen, betroffen sein sollen, die Frage, ob ein solcher Sachverhalt eine „öffentliche Wiedergabe“ darstellt, sowohl nach Art. 3 Abs. 1 der Richtlinie 2001/29 als auch nach Art. 8 Abs. 2 der Richtlinie 2006/115 oder nur nach einer dieser Bestimmungen zu beurteilen ist, und zum anderen, ob sich das Vorliegen einer solchen Wiedergabe nach denselben Kriterien beurteilt. Ferner möchte es wissen, ob eine solche Verbreitung eine „öffentliche Wiedergabe“ im Sinne der einen und/oder der anderen dieser Bestimmungen darstellt.
+23
+Hierzu ist darauf hinzuweisen, dass die Mitgliedstaaten nach Art. 3 Abs. 1 der Richtlinie 2001/29 sicherzustellen haben, dass den Urhebern das ausschließliche Recht zusteht, die drahtgebundene oder drahtlose öffentliche Wiedergabe ihrer Werke einschließlich der öffentlichen Zugänglichmachung der Werke in der Weise, dass sie Mitgliedern der Öffentlichkeit an Orten und zu Zeiten ihrer Wahl zugänglich sind, zu erlauben oder zu verbieten.
+24
+Außerdem müssen die Gesetze der Mitgliedstaaten nach Art. 8 Abs. 2 der Richtlinie 2006/115 bei Nutzung eines zu Handelszwecken veröffentlichten Tonträgers oder eines Vervielfältigungsstücks eines solchen Tonträgers für drahtlos übertragene Rundfunksendungen oder eine öffentliche Wiedergabe zum einen die Zahlung einer einzigen angemessenen Vergütung durch den Nutzer und zum anderen die Aufteilung dieser Vergütung auf die ausübenden Künstler und die Tonträgerhersteller gewährleisten.
+25
+Hierzu ist zunächst festzustellen, dass nach dem 20. Erwägungsgrund der Richtlinie 2001/29 namentlich die Bestimmungen dieser Richtlinie grundsätzlich unbeschadet der Richtlinie 92/100 in der durch die Richtlinie 93/98 geänderten Fassung, die durch die Richtlinie 2006/115 kodifiziert und aufgehoben worden ist, gelten sollten, sofern die Richtlinie 2001/29 nichts anderes bestimmt (vgl. in diesem Sinne Urteil vom 9. Februar 2012, Luksan,
+C‑277/10
+,
+EU:C:2012:65
+, Rn.
+43
+und die dort angeführte Rechtsprechung).
+26
+Nach keiner Bestimmung der Richtlinie 2001/29 kann jedoch von den in Art. 8 Abs. 2 der Richtlinie 2006/115 enthaltenen Grundsätzen abgewichen werden.
+27
+Daher berührt die Anwendung von Art. 3 Abs. 1 der Richtlinie 2001/29 nicht die Anwendung von Art. 8 Abs. 2 der Richtlinie 2006/115.
+28
+Darüber hinaus müssen in Anbetracht der Erfordernisse der Einheit und Kohärenz der Unionsrechtsordnung die in den Richtlinien 2001/29 und 2006/115 verwendeten Begriffe dieselbe Bedeutung haben, es sei denn, dass der Unionsgesetzgeber in einem konkreten gesetzgeberischen Kontext einen anderen Willen zum Ausdruck gebracht hat (vgl. in diesem Sinne Urteil vom 4. Oktober 2011, Football Association Premier League u. a.,
+C‑403/08 und C‑429/08
+,
+EU:C:2011:631
+, Rn.
+188
+).
+29
+Tatsächlich ergibt der Vergleich der Art. 3 Abs. 1 der Richtlinie 2001/29 und 8 Abs. 2 der Richtlinie 2006/115, dass der in diesen Bestimmungen enthaltene Begriff „öffentliche Wiedergabe“ in Zusammenhängen verwendet wird, die nicht gleich sind, und zwar ähnliche, aber gleichwohl teilweise unterschiedliche Zielsetzungen verfolgt (vgl. in diesem Sinne Urteil vom 15. März 2012, SCF,
+C‑135/10
+,
+EU:C:2012:140
+, Rn.
+74
+).
+30
+Die Urheber verfügen nämlich nach Art. 3 Abs. 1 der Richtlinie 2001/29 über ein Recht vorbeugender Art, das es ihnen erlaubt, sich bei Nutzern ihrer Werke vor der öffentlichen Wiedergabe, die diese Nutzer durchzuführen beabsichtigen, einzuschalten, und zwar, um diese zu verbieten. Dagegen verfügen die ausübenden Künstler und die Tonträgerhersteller nach Art. 8 Abs. 2 der Richtlinie 2006/115 über ein Recht mit Entschädigungscharakter, das nicht ausgeübt werden kann, bevor ein zu Handelszwecken veröffentlichter Tonträger oder ein Vervielfältigungsstück eines solchen Tonträgers durch einen Nutzer für eine öffentliche Wiedergabe verwendet wird oder bereits verwendet worden ist (vgl. in diesem Sinne Urteil vom 15. März 2012, SCF,
+C‑135/10
+,
+EU:C:2012:140
+, Rn.
+75
+).
+31
+Gleichwohl bestehen keine Anhaltspunkte dafür, dass der Unionsgesetzgeber dem Begriff „öffentliche Wiedergabe“ im jeweiligen Kontext der Richtlinien 2001/29 und 2006/115 eine unterschiedliche Bedeutung zuschreiben wollte.
+32
+Wie nämlich der Generalanwalt in Nr. 34 seiner Schlussanträge festgestellt hat, kann die unterschiedliche Art der im Rahmen dieser Richtlinien geschützten Rechte nicht die Tatsache verschleiern, dass nach deren Wortlaut diese Rechte an denselben Umstand anknüpfen, nämlich die öffentliche Wiedergabe geschützter Werke.
+33
+Aus den vorstehenden Erwägungen ergibt sich, dass in einer Rechtssache wie der des Ausgangsverfahrens, die die Verbreitung von Fernsehsendungen betrifft, von der behauptet wird, sie beeinträchtige nicht nur die Urheberrechte, sondern u. a. auch die Rechte der ausübenden Künstler oder der Tonträgerhersteller, sowohl Art. 3 Abs. 1 der Richtlinie 2001/29 als auch Art. 8 Abs. 2 der Richtlinie 2006/115 anzuwenden ist, wobei dem Begriff „öffentliche Wiedergabe“ in diesen beiden Vorschriften dieselbe Bedeutung beigemessen wird.
+34
+Daher ist dieser Begriff nach Maßgabe der jeweils anwendbaren Bestimmung nach denselben Kriterien zu beurteilen, um u. a. widersprüchliche und miteinander unvereinbare Auslegungen zu vermeiden.
+35
+Hierzu hat der Gerichtshof bereits festgestellt, dass zur Beurteilung des Vorliegens einer öffentlichen Wiedergabe mehrere Kriterien zu berücksichtigen sind, die unselbständig und miteinander verflochten sind. Da diese Kriterien im jeweiligen Einzelfall in sehr unterschiedlichem Maß vorliegen können, sind sie einzeln und in ihrem Zusammenwirken mit den anderen Kriterien anzuwenden (vgl. in diesem Sinne Urteil vom 15. März 2012, Phonographic Performance [Ireland],
+C‑162/10
+,
+EU:C:2012:141
+, Rn.
+30
+und die dort angeführte Rechtsprechung).
+36
+Außerdem ist darauf hinzuweisen, dass der Begriff „öffentliche Wiedergabe“ weit zu verstehen ist, wie dies ausdrücklich der 23. Erwägungsgrund der Richtlinie 2001/29 besagt (vgl. in diesem Sinne Urteil vom 7. März 2013, ITV Broadcasting u. a.,
+C‑607/11
+,
+EU:C:2013:147
+, Rn.
+20
+und die dort angeführte Rechtsprechung).
+37
+Der Gerichtshof hat ferner bereits entschieden, dass der Begriff „öffentliche Wiedergabe“ zwei kumulative Tatbestandsmerkmale vereint, nämlich eine „Handlung der Wiedergabe“ eines Werks und seine „öffentliche“ Wiedergabe (Urteil vom 19. November 2015, SBS Belgium,
+C‑325/14
+,
+EU:C:2015:764
+, Rn.
+15
+und die dort angeführte Rechtsprechung).
+38
+Dies vorausgeschickt ist erstens zum Begriff „Handlung der Wiedergabe“ darauf hinzuweisen, dass dieser jede Übertragung geschützter Werke unabhängig vom eingesetzten technischen Mittel oder Verfahren umfasst (vgl. in diesem Sinne Urteil vom 19. November 2015, SBS Belgium,
+C‑325/14
+,
+EU:C:2015:764
+, Rn.
+16
+und die dort angeführte Rechtsprechung).
+39
+Ferner muss jede Übertragung oder Weiterverbreitung eines Werks, die nach einem spezifischen technischen Verfahren erfolgt, grundsätzlich vom Urheber des betreffenden Werks einzeln erlaubt werden (Urteil vom 19. November 2015, SBS Belgium,
+C‑325/14
+,
+EU:C:2015:764
+, Rn.
+17
+und die dort angeführte Rechtsprechung).
+40
+Zweitens fällt die Wiedergabe geschützter Werke, wie in Rn. 37 des vorliegenden Urteils ausgeführt, nur dann unter den Begriff „öffentliche Wiedergabe“ im Sinne von Art. 3 Abs. 1 der Richtlinie 2001/29, wenn sie darüber hinaus tatsächlich „öffentlich“ erfolgt.
+41
+Hierzu ergibt sich aus der Rechtsprechung des Gerichtshofs als Erstes, dass der Begriff „Öffentlichkeit“ eine unbestimmte Zahl möglicher Adressaten umfasst und zudem recht viele Personen voraussetzt (vgl. in diesem Sinne Urteil vom 7. Dezember 2006, SGAE,
+C‑306/05
+,
+EU:C:2006:764
+, Rn.
+37
+und
+38
+und die dort angeführte Rechtsprechung).
+42
+Der Gerichtshof hat zum einen hinsichtlich der „Unbestimmtheit“ der Öffentlichkeit darauf hingewiesen, dass es um die Zugänglichmachung eines Werks in geeigneter Weise für „Personen allgemein“, also nicht auf besondere Personen beschränkt, die einer privaten Gruppe angehören, geht (vgl. in diesem Sinne Urteil vom 15. März 2012, SCF,
+C‑135/10
+,
+EU:C:2012:140
+, Rn.
+85
+).
+43
+Zum anderen hat der Gerichtshof zum Begriff „recht viele Personen“ ausgeführt, dass dieser eine „bestimmte Mindestschwelle“ beinhaltet, was ihn dazu veranlasst hat, eine allzu kleine oder gar unbedeutende Mehrzahl betroffener Personen von der Einstufung als „Öffentlichkeit“ auszuschließen (vgl. in diesem Sinne Urteil vom 15. März 2012, SCF,
+C‑135/10
+,
+EU:C:2012:140
+, Rn.
+86
+).
+44
+Bei der Bestimmung der Zahl dieser Adressaten ist die kumulative Wirkung zu berücksichtigen, die sich daraus ergibt, dass die Werke den möglichen Adressaten zugänglich gemacht werden (vgl. in diesem Sinne Urteil vom 7. Dezember 2006, SGAE,
+C‑306/05
+,
+EU:C:2006:764
+, Rn.
+39
+). Es kommt insbesondere darauf an, wie viele Personen gleichzeitig und nacheinander Zugang zu demselben Werk haben (vgl. in diesem Sinne Urteil vom 15. März 2012, Phonographic Performance [Ireland],
+C‑162/10
+,
+EU:C:2012:141
+, Rn.
+35
+).
+45
+Als Zweites muss nach Auffassung des Gerichtshofs ein durch Rundfunk gesendetes Werk, um unter den Begriff „öffentliche Wiedergabe“ fallen zu können, für ein „neues Publikum“ übertragen werden, d. h. ein Publikum, das von den Inhabern der Rechte an den geschützten Werken nicht berücksichtigt wurde, als sie deren Nutzung durch Wiedergabe an das ursprüngliche Publikum zugestimmt haben (vgl. in diesem Sinne Urteile vom 7. Dezember 2006, SGAE,
+C‑306/05
+,
+EU:C:2006:764
+, Rn.
+40
+und
+42
+, sowie vom 4. Oktober 2011, Football Association Premier League u. a.,
+C‑403/08 und C‑429/08
+,
+EU:C:2011:631
+, Rn.
+197
+).
+46
+In diesem Zusammenhang hat der Gerichtshof auf die zentrale Rolle des Nutzers hingewiesen. Er hat nämlich entschieden, dass, damit eine öffentliche Wiedergabe vorliegt, dieser Nutzer in voller Kenntnis der Folgen seines Verhaltens einem zusätzlichen Publikum Zugang zu der Rundfunksendung, die das geschützte Werke enthält, verschaffen und sich dabei zeigen muss, dass die Personen, die dieses „neue“ Publikum darstellen, ohne dieses Tätigwerden grundsätzlich nicht in den Genuss des ausgestrahlten Werks kommen könnten, obwohl sie sich im Sendegebiet der Sendung aufhalten (vgl. in diesem Sinne Urteile vom 7. Dezember 2006, SGAE,
+C‑306/05
+,
+EU:C:2006:764
+, Rn.
+42
+, sowie vom 4. Oktober 2011, Football Association Premier League u. a.,
+C‑403/08 und C‑429/08
+,
+EU:C:2011:631
+, Rn.
+195
+).
+47
+So hat der Gerichtshof bereits entschieden, dass die Betreiber einer Gastwirtschaft, eines Hotels oder einer Kureinrichtung solche Nutzer sind und eine öffentliche Wiedergabe vornehmen, wenn sie geschützte Werke absichtlich dadurch übertragen, dass sie willentlich ein Signal über Fernseh- oder Radioempfänger, die sie in ihrer Einrichtung installiert haben, verbreiten (vgl. in diesem Sinne Urteile vom 7. Dezember 2006, SGAE,
+C‑306/05
+,
+EU:C:2006:764
+, Rn.
+42
+und
+47
+, vom 4. Oktober 2011, Football Association Premier League u. a.,
+C‑403/08 und C‑429/08
+,
+EU:C:2011:631
+, Rn.
+196
+, sowie vom 27. Februar 2014, OSA,
+C‑351/12
+,
+EU:C:2014:110
+, Rn.
+26
+).
+48
+Es wird also vorausgesetzt, dass das Publikum, für das die Wiedergabe in diesen Einrichtungen vorgenommen wird, nicht bloß zufällig „erreicht“ wird, sondern dass sich deren Betreiber gezielt an es wenden (vgl. in diesem Sinne Urteil vom 15. März 2012, SCF,
+C‑135/10
+,
+EU:C:2012:140
+, Rn.
+91
+).
+49
+Ferner ist darauf hinzuweisen, dass der gewerbliche Charakter der Verbreitung eines geschützten Werks für die Einstufung einer solchen Verbreitung als „öffentliche Wiedergabe“ zwar mit Sicherheit nicht ausschlaggebend ist (vgl. in diesem Sinne Urteil vom 7. März 2013, ITV Broadcasting u. a.,
+C‑607/11
+,
+EU:C:2013:147
+, Rn.
+43
+), doch hierfür – u. a. zur Bestimmung der möglichen Vergütung für diese Verbreitung – auch nicht unerheblich ist (vgl. in diesem Sinne Urteil vom 4. Oktober 2011, Football Association Premier League u. a.,
+C‑403/08 und C‑429/08
+,
+EU:C:2011:631
+, Rn.
+204
+und die dort angeführte Rechtsprechung),
+50
+Wie der Gerichtshof in Rn. 91 des Urteils vom 15. März 2012, SCF (
+C‑135/10
+,
+EU:C:2012:140
+), befunden hat, in dessen Rahmen er sowohl die Frage, ob eine öffentliche Wiedergabe vorliegt, als auch die Frage, ob ein Vergütungsanspruch für diese Wiedergabe besteht, beantwortet hat, ist dies der Zusammenhang, in dem die „Aufnahmebereitschaft“ der Öffentlichkeit von Bedeutung sein kann.
+51
+So hat der Gerichtshof entschieden, dass die Verbreitung geschützter Werke Erwerbszwecken dient, wenn der Nutzer daraus einen wirtschaftlichen Nutzen ziehen kann, der mit der Attraktivität und daher der größeren Frequentierung der Einrichtung, in der er diese Verbreitung vornimmt, verbunden ist (vgl. in diesem Sinne Urteil vom 4. Oktober 2011, Football Association Premier League u. a.,
+C‑403/08 und C‑429/08
+,
+EU:C:2011:631
+, Rn.
+205
+und
+206
+).
+52
+In Bezug auf die Verbreitung von Tonträgern in einer Zahnarztpraxis hat der Gerichtshof dies jedoch verneint, da die Patienten eines Zahnarztes einer solchen Verbreitung im Allgemeinen keine Bedeutung beimessen, so dass diese nicht geeignet ist, die Attraktivität und daher die Frequentierung dieser Praxis zu erhöhen (vgl. in diesem Sinne Urteil vom 15. März 2012, SCF,
+C‑135/10
+,
+EU:C:2012:140
+, Rn.
+97
+und
+98
+).
+53
+Anhand der verschiedenen von der Rechtsprechung des Gerichtshofs entwickelten Kriterien ist zu prüfen, ob die Verbreitung von Fernsehsendungen wie die im Ausgangsverfahren fragliche als „öffentliche Wiedergabe“ im Sinne von Art. 3 Abs. 1 der Richtlinie 2001/29 und von Art. 8 Abs. 2 der Richtlinie 2006/115 eingestuft werden kann.
+54
+Der Gerichtshof hat hierzu erstens, wie in Rn. 47 des vorliegenden Urteils festgestellt, bereits entschieden, dass die Betreiber einer Gastwirtschaft, eines Hotels oder einer Kureinrichtung eine Wiedergabe vornehmen, wenn sie geschützte Werke absichtlich dadurch an ihre Kunden übertragen, dass sie willentlich ein Signal über Fernseh- oder Radioempfänger, die sie in ihrer Einrichtung installiert haben, verbreiten.
+55
+Diese Situationen erscheinen jedoch der des Ausgangsverfahrens völlig vergleichbar, in der, wie sich aus dem Vorabentscheidungsersuchen ergibt, der Betreiber eines Rehabilitationszentrums geschützte Werke absichtlich über Fernsehgeräte, die an mehreren Orten dieser Einrichtung installiert sind, an seine Patienten überträgt.
+56
+Die Vornahme einer Wiedergabe durch einen solchen Betreiber ist daher zu bejahen.
+57
+Zweitens ist, was die Gesamtheit der Patienten eines Rehabilitationszentrums wie das des Ausgangsverfahrens betrifft, festzustellen, dass sich aus den dem Gerichtshof vorgelegten Akten ergibt, dass es sich um Personen allgemein handelt.
+58
+Darüber hinaus ist der von diesen Patienten gebildete Personenkreis nicht „allzu klein oder gar unbedeutend“, wobei insbesondere zu berücksichtigen ist, dass diese Patienten gleichzeitig an mehreren Orten der Einrichtung in den Genuss der ausgestrahlten Werke kommen können.
+59
+Daher ist anzunehmen, dass die Gesamtheit der Patienten eines Rehabilitationszentrums wie das des Ausgangsverfahrens eine „Öffentlichkeit“ im Sinne von Art. 3 Abs. 1 der Richtlinie 2001/29 und Art. 8 Abs. 2 der Richtlinie 2006/115 darstellen.
+60
+Die Patienten eines solchen Rehabilitationszentrums könnten schließlich ohne gezieltes Eingreifen des Betreibers dieses Zentrums grundsätzlich nicht in den Genuss der ausgestrahlten Werke kommen. Da das Ausgangsverfahren die Zahlung einer urheberrechtlichen Vergütung für die Zugänglichmachung von geschützten Werken in den Räumlichkeiten dieses Zentrums zum Ursprung hat, ist ferner festzustellen, dass diese Patienten bei der Erteilung der Erlaubnis für die Zugänglichmachung ganz offensichtlich nicht berücksichtigt worden sind.
+61
+Folglich stellen die Patienten eines Rehabilitationszentrums wie das des Ausgangsverfahrens ein „neues Publikum“ im Sinne der in Rn. 45 des vorliegenden Urteils genannten Rechtsprechung dar.
+62
+In Anbetracht dieser Erwägungen ist anzunehmen, dass der Betreiber eines Rehabilitationszentrums wie das des Ausgangsverfahrens eine öffentliche Wiedergabe vornimmt.
+63
+Was drittens den gewerblichen Charakter einer solchen Wiedergabe betrifft, ist, wie der Generalanwalt in Nr. 71 seiner Schlussanträge festgestellt hat, darauf hinzuweisen, dass im vorliegenden Fall die Verbreitung von Fernsehsendungen über Fernsehgeräte, da sie den Patienten eines Rehabilitationszentrums wie das des Ausgangsverfahrens während ihrer Behandlungen oder den vorangehenden Wartezeiten Unterhaltung bieten soll, eine zusätzliche Dienstleistung darstellt, die zwar keine medizinische Bedeutung besitzt, sich aber auf die Standards und Attraktivität der Einrichtung günstig auswirkt und dieser somit einen Wettbewerbsvorteil verschafft.
+64
+Daraus folgt, dass in einer Situation wie der des Ausgangsverfahrens die Verbreitung von Fernsehsendungen durch den Betreiber eines Rehabilitationszentrums wie Reha Training einen gewerblichen Zweck aufweisen kann, der bei der Bestimmung der Höhe der für eine solche Verbreitung gegebenenfalls geschuldeten Vergütung berücksichtigt werden kann.
+65
+Nach alledem ist auf die ersten drei Fragen zu antworten, dass in einer Rechtssache wie der des Ausgangsverfahrens, in der durch die Verbreitung von Fernsehsendungen über Fernsehgeräte, die der Betreiber eines Rehabilitationszentrums in seinen Räumlichkeiten installiert hat, die Urheberrechte und Leistungsschutzrechte einer Vielzahl von Betroffenen, insbesondere Komponisten, Textdichtern und Musikverlegern, aber auch ausübenden Künstlern, Tonträgerherstellern und Urhebern von Sprachwerken sowie deren Verlagen, betroffen sein sollen, die Frage, ob ein solcher Sachverhalt eine „öffentliche Wiedergabe“ darstellt, sowohl nach Art. 3 Abs. 1 der Richtlinie 2001/29 als auch nach Art. 8 Abs. 2 der Richtlinie 2006/115 zu beurteilen ist, und zwar anhand derselben Auslegungskriterien. Ferner sind diese beiden Bestimmungen dahin auszulegen, dass eine solche Verbreitung eine „öffentliche Wiedergabe“ darstellt.
+66
+In Anbetracht der Antwort auf diese ersten drei Fragen erübrigt sich die Antwort auf die vierte Frage.
+Kosten
+67
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+Aus diesen Gründen hat der Gerichtshof (Große Kammer) für Recht erkannt:
+In einer Rechtssache wie der des Ausgangsverfahrens, in der durch die Verbreitung von Fernsehsendungen über Fernsehgeräte, die der Betreiber eines Rehabilitationszentrums in seinen Räumlichkeiten installiert hat, die Urheberrechte und Leistungsschutzrechte einer Vielzahl von Betroffenen, insbesondere Komponisten, Textdichtern und Musikverlegern, aber auch ausübenden Künstlern, Tonträgerherstellern und Urhebern von Sprachwerken sowie deren Verlagen, betroffen sein sollen, ist die Frage, ob ein solcher Sachverhalt eine „öffentliche Wiedergabe“ darstellt, sowohl nach Art. 3 Abs. 1 der Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. Mai 2001 zur Harmonisierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in der Informationsgesellschaft als auch nach Art. 8 Abs. 2 der Richtlinie 2006/115/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zum Vermietrecht und Verleihrecht sowie zu bestimmten dem Urheberrecht verwandten Schutzrechten im Bereich des geistigen Eigentums zu beurteilen, und zwar anhand derselben Auslegungskriterien. Ferner sind diese beiden Bestimmungen dahin auszulegen, dass eine solche Verbreitung eine „öffentliche Wiedergabe“ darstellt.
+Unterschriften
+(
+*1
+)	Verfahrenssprache: Deutsch.
+Top

@@ -1,0 +1,14 @@
+{
+  "Date": "Tue, 20 Oct 2026 12:09:39 GMT",
+  "Server": "Apache",
+  "Last-Modified": "Fri, 29 May 2026 19:55:05 GMT",
+  "ETag": "\"11be0-652fa38a3794e\"",
+  "Accept-Ranges": "bytes",
+  "Content-Length": "72672",
+  "X-Content-Type-Options": "nosniff",
+  "X-Frame-Options": "sameorigin",
+  "X-XSS-Protection": "1; mode=block",
+  "Keep-Alive": "timeout=5, max=96",
+  "Connection": "Keep-Alive",
+  "Content-Type": "application/zip"
+}

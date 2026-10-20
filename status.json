@@ -1,6 +1,6 @@
 {
   "stage": "bounded_review_complete",
-  "updated_at": "2026-10-20T12:05:20.824985+00:00",
+  "updated_at": "2026-10-20T12:16:06.541236+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -17,15 +17,15 @@
     "statutory_changes_since_intake_detected": false,
     "preflight_verified_at": "2026-10-20T11:54:07.436691+00:00",
     "coverage_report": "completeness-report.json",
-    "source_integrity_checked_responses": 20,
-    "bounded_review_verified_at": "2026-10-20T12:05:20.824985+00:00"
+    "source_integrity_checked_responses": 28,
+    "bounded_review_verified_at": "2026-10-20T12:16:06.541236+00:00"
   },
   "total_units": 254,
   "completed_units": 254,
   "paragraph_units": 253,
   "annex_units": 1,
   "chapters": 12,
-  "commentary_chars": 220253,
+  "commentary_chars": 231957,
   "case_law_sources": [
     {
       "court": "EuGH",
@@ -105,6 +105,60 @@
       "celex": "62017CJ0161",
       "court": "EuGH",
       "read_scope": "Vollständiger amtlicher Entscheidungstext einschließlich Verfahrenskontext, aller Randnummern und Tenor im Prüflos §§ 1–19a gelesen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62015CJ0117",
+      "accessed_at": "2026-10-20T12:09:40.489582+00:00",
+      "response_received_at": "2026-10-20T12:09:41.955170+00:00",
+      "http_status": 200,
+      "transport": "Firecrawl CLI; statusCode reported by provider",
+      "cache_state": "hit",
+      "cache_timestamp": "2026-10-20T12:08:51.842Z",
+      "response_path": "sources/review-p20-p32b/reha-firecrawl.json",
+      "sha256": "2558739b46f0b306aa48ad2ff9f11629051ad8f8f0c010715b3b9254cac787f3",
+      "raw_path": "sources/review-p20-p32b/reha-raw.html",
+      "raw_sha256": "11123646eebb4b5d848ad5b51e198db164bd1e5dffecc641447792835645b468",
+      "expected_format_validated": true,
+      "celex": "62015CJ0117",
+      "read_scope": "Vollständiger Text; bei Reha Training HTML und vier fehlende Fragen aus amtlichem PDF."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE314182012.zip",
+      "accessed_at": "2026-10-20T12:10:56.184993+00:00",
+      "response_received_at": "2026-10-20T12:10:56.410524+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p20-p32b/kommunikationsdesigner.zip",
+      "sha256": "be6e64b2e6acdd2d988893c093d82342b394ac7370e590603f7353b4eaf012cf",
+      "raw_path": "sources/review-p20-p32b/kommunikationsdesigner.xml",
+      "raw_sha256": "661a52b6499c8aadce903a6b3e1c92febb61ff7e025554542673939110f8554d",
+      "expected_format_validated": true,
+      "doknr": "KORE314182012",
+      "read_scope": "Vollständiger Text; bei Reha Training HTML und vier fehlende Fragen aus amtlichem PDF."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=ecli%3AECLI%3AEU%3AC%3A2016%3A379",
+      "accessed_at": "2026-10-20T12:14:05.475526+00:00",
+      "response_received_at": "2026-10-20T12:14:06.450199+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p20-p32b/reha-pdf-response.json",
+      "sha256": "48c590e399780f975a867c9010719699b06bd408555fc096d659b9bd27c6c2d5",
+      "expected_format_validated": true,
+      "format": "Firecrawl extraction of official PDF, metadata contentType application/pdf, 12 pages; includes four questions omitted by HTML",
+      "metadata": {
+        "scrapeId": "01a1593b-aefd-7649-b21f-4be78714da16",
+        "sourceURL": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=ecli%3AECLI%3AEU%3AC%3A2016%3A379",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=ecli%3AECLI%3AEU%3AC%3A2016%3A379",
+        "statusCode": 200,
+        "numPages": 12,
+        "totalPages": 12,
+        "contentType": "application/pdf",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-10-20T12:12:54.055Z",
+        "creditsUsed": 12,
+        "concurrencyLimited": false
+      },
+      "read_scope": "Vollständiger Text; bei Reha Training HTML und vier fehlende Fragen aus amtlichem PDF."
     }
   ],
   "case_cards": [
@@ -112,7 +166,9 @@
     "cases/cofemel.md",
     "cases/usedsoft.md",
     "cases/mio-usm.md",
-    "cases/renckhoff.md"
+    "cases/renckhoff.md",
+    "cases/reha-training.md",
+    "cases/kommunikationsdesigner.md"
   ],
   "validation_result": {
     "repo": "Komentar-DE-URHG-1965",
@@ -128,10 +184,12 @@
   "independent_second_pass_completed": false,
   "unresolved_blockers": [],
   "remaining_limitations": [
-    "Abgeschlossen ist ausschließlich dieses Prüflos mit 20 Kennungen. Die übrigen 234 Einheiten wurden inhaltlich nicht im zweiten Durchgang geprüft.",
-    "Selektive Rechtsprechung: Geburtstagszug und Cofemel erneut im vollständigen vorhandenen amtlichen Text gelesen; Mio/USM und Renckhoff neu beschafft und vollständig gelesen. UsedSoft und spätere nationale Folgeverfahren waren nicht Gegenstand dieses Prüfloses.",
-    "Aktuelle konsolidierte Fassung und belegtes Inkrafttreten; kein Vollarchiv sämtlicher historischer Gesetzesfassungen. Fremdgesetzliche historische Zitate in Entscheidungen sind Verfahrenskontext und keine aktuelle Parallelkommentierung.",
-    "Keine externe anwaltliche Freigabe. Technische Texttreue, Längen- und Ähnlichkeitsprüfungen ersetzen die dokumentierte juristische Einzelprüfung nicht."
+    "Abgeschlossen ist ausschließlich dieses Prüflos mit genau 20 Kennungen. Die übrigen 234 Einheiten wurden in diesem Arbeitsgang nicht erneut inhaltlich geprüft; das frühere Prüflos §§ 1–19a bleibt dokumentiert. Keine vollständige zweite Buchprüfung.",
+    "Selektive Rechtsprechung: Reha Training und Kommunikationsdesigner im vollständigen Text gelesen. Bei Reha Training fehlen in der HTML-Ausgabe die vier Fragen zu Rn. 19; diese wurden aus der amtlichen PDF-Extraktion ergänzt und gelesen. Keine umfassende Folgeentscheidungsrecherche.",
+    "Das Boot III wurde amtlich beschafft und als Kandidat gesichtet, aber nicht vollständig gelesen; deshalb kein Entscheidungsbeleg und keine daraus abgeleitete heutige Vergütungsquote.",
+    "Kommunikationsdesigner stammt aus 2012; historische gesellschaftsrechtliche Aussagen werden nicht als vollständiger heutiger Rechtsstand ausgegeben. Entscheidung wird nur für die eng bezeichnete Urheber-GbR-Konstellation verwendet.",
+    "Aktuelle amtliche Konsolidierung mit belegtem Inkrafttreten; kein Vollarchiv aller historischen Gesetzesfassungen und keine Garantie gegen noch nicht eingearbeitete Änderungen.",
+    "Keine externe anwaltliche Freigabe. Technische Prüfungen ersetzen keine juristische Einzelprüfung."
   ],
   "publication": false,
   "push": false,
@@ -145,58 +203,61 @@
     "official_identifiers": 254,
     "parsed_units": 254,
     "xml_text_agreement": 1.0,
-    "local_links_checked": 103,
+    "local_links_checked": 129,
     "broken_local_links": [],
     "repeated_long_paragraphs": [],
-    "commentary_preservation": "commentary-preservation.json",
+    "commentary_preservation": "review-result.json: per-unit hashes and baseline commit",
     "bounded_reviewed_units": 20,
-    "bounded_corrected_units": 12,
+    "bounded_corrected_units": 13,
     "unassigned_commentary_units_preserved": 234
   },
   "review_result": "review-result.json",
   "reviewed_ids": [
-    "p1",
-    "p2",
-    "p3",
-    "p4",
-    "p5",
-    "p6",
-    "p7",
-    "p8",
-    "p9",
-    "p10",
-    "p11",
-    "p12",
-    "p13",
-    "p14",
-    "p15",
-    "p16",
-    "p17",
-    "p18",
-    "p19",
-    "p19a"
+    "p20",
+    "p20a",
+    "p20b",
+    "p20c",
+    "p20d",
+    "p21",
+    "p22",
+    "p23",
+    "p24",
+    "p25",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p31a",
+    "p32",
+    "p32a",
+    "p32b"
   ],
   "corrected_ids": [
-    "p2",
-    "p3",
-    "p5",
-    "p8",
-    "p10",
-    "p12",
-    "p15",
-    "p16",
-    "p17",
-    "p18",
-    "p19",
-    "p19a"
+    "p20a",
+    "p20b",
+    "p20c",
+    "p20d",
+    "p21",
+    "p22",
+    "p23",
+    "p26",
+    "p27",
+    "p31",
+    "p31a",
+    "p32",
+    "p32a"
   ],
   "whole_book_review_complete": false,
   "case_law_sources_reviewed_in_this_task": [
-    "cases/geburtstagszug.md",
-    "cases/cofemel.md",
-    "cases/mio-usm.md",
-    "cases/renckhoff.md"
+    "cases/reha-training.md",
+    "cases/kommunikationsdesigner.md"
   ],
-  "validation_recorded_at": "2026-10-20T12:07:18.581826+00:00",
-  "validation_output_commit": "cb3b959"
+  "bounded_review_preservation": "review-result.json",
+  "prior_validation": {
+    "result": null,
+    "recorded_at": "2026-10-20T12:07:18.581826+00:00",
+    "output_commit": "cb3b959"
+  }
 }

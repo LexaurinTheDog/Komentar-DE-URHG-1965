@@ -1,6 +1,6 @@
 {
   "algorithm": "SHA-256",
-  "generated_at": "2026-10-20T12:05:44.013734+00:00",
+  "generated_at": "2026-10-20T12:17:13.479045+00:00",
   "sources": [
     {
       "path": "sources/aktualitaet.headers",
@@ -393,9 +393,164 @@
       "bytes": 218728
     },
     {
+      "path": "sources/review-p20-p32b/amendment.pdf",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883
+    },
+    {
+      "path": "sources/review-p20-p32b/amendment.pdf.headers.json",
+      "sha256": "7201216d3de2f159d21ff06f8b523a0963aea2b1176d60b09d6a811d7ba6ba27",
+      "bytes": 1190
+    },
+    {
+      "path": "sources/review-p20-p32b/before-part-02.md",
+      "sha256": "22668710536a62e3cf01b9afe6a63eb0fbd50cc5e9914c4616dee98bedda7345",
+      "bytes": 19791
+    },
+    {
+      "path": "sources/review-p20-p32b/before-part-03.md",
+      "sha256": "4996c965684fe33537acbe2d0a083c16d8fe3fcb9f54f8e5bd739d314fac2295",
+      "bytes": 15112
+    },
+    {
+      "path": "sources/review-p20-p32b/boot-intake.md",
+      "sha256": "bb684b99ff01ea584f20c99e6fc55439dcb3663ed437a49732c21750b7441235",
+      "bytes": 169996
+    },
+    {
+      "path": "sources/review-p20-p32b/boot.xml",
+      "sha256": "8da14f222e18d4555a06fef0b0d97287f380f70206605054883610c8be3a8ee3",
+      "bytes": 236642
+    },
+    {
+      "path": "sources/review-p20-p32b/boot.zip",
+      "sha256": "06d03d8400a19f19591d91c32ddfbe6b3f53ad8622085d40c6c82ba1cf2091d5",
+      "bytes": 45522
+    },
+    {
+      "path": "sources/review-p20-p32b/boot.zip.headers.json",
+      "sha256": "fd8af40878f035d600183361cc224a7e342bc3617e44c7b3076fda1ea039ebed",
+      "bytes": 3224
+    },
+    {
+      "path": "sources/review-p20-p32b/case-fetch-results.json",
+      "sha256": "834f80ea5a2769e9d40e397dc327f677bf2eabe62e7f2222b86ab6af38f5eaf5",
+      "bytes": 2917
+    },
+    {
+      "path": "sources/review-p20-p32b/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "bytes": 401221
+    },
+    {
+      "path": "sources/review-p20-p32b/current.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672
+    },
+    {
+      "path": "sources/review-p20-p32b/current.zip.headers.json",
+      "sha256": "138260ab686580d11d3df883320eb6f81d6e6c6ae9b9e52294ffe3de96e24904",
+      "bytes": 431
+    },
+    {
+      "path": "sources/review-p20-p32b/fetch-results.json",
+      "sha256": "77096a33e91d13f1379c9dfb3ed35d9dbd004081207ddeed6a33c654668f1143",
+      "bytes": 2368
+    },
+    {
+      "path": "sources/review-p20-p32b/fetch.py",
+      "sha256": "f71e6993381c7c3a733b3085507124d2502d9f04e28e8f7060815197acec930b",
+      "bytes": 1747
+    },
+    {
+      "path": "sources/review-p20-p32b/index-firecrawl.md",
+      "sha256": "7833e5df1ce1a98ca0202702f068b5f3a7da10014e407dbac15297138234b611",
+      "bytes": 41749
+    },
+    {
+      "path": "sources/review-p20-p32b/index.html",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665
+    },
+    {
+      "path": "sources/review-p20-p32b/index.html.headers.json",
+      "sha256": "2a21176cea4cf320cd4fc729815067182ba5de39436b6a23bc28dd5795b456b4",
+      "bytes": 487
+    },
+    {
+      "path": "sources/review-p20-p32b/kommunikationsdesigner-full.txt",
+      "sha256": "f6e61a77ceb890b1ebab650f9b3d31166e24ac056ba597213f806824283d4ddc",
+      "bytes": 31577
+    },
+    {
+      "path": "sources/review-p20-p32b/kommunikationsdesigner-intake.md",
+      "sha256": "385d700af220c5022a4e731a81fd361589b5ac8b602bd1fff4085263aecb7ee7",
+      "bytes": 25060
+    },
+    {
+      "path": "sources/review-p20-p32b/kommunikationsdesigner.xml",
+      "sha256": "661a52b6499c8aadce903a6b3e1c92febb61ff7e025554542673939110f8554d",
+      "bytes": 37254
+    },
+    {
+      "path": "sources/review-p20-p32b/kommunikationsdesigner.zip",
+      "sha256": "be6e64b2e6acdd2d988893c093d82342b394ac7370e590603f7353b4eaf012cf",
+      "bytes": 8338
+    },
+    {
+      "path": "sources/review-p20-p32b/local-contract-candidates.txt",
+      "sha256": "c1bf1247eaa73d749738ffac54e78878865ddffce25748382c48d0f089534114",
+      "bytes": 99864
+    },
+    {
+      "path": "sources/review-p20-p32b/local-contract-search.json",
+      "sha256": "adabfd34482432be0a0d8d28372527c4ae6ab2c4c27a6923634c3c7f0a1f45a1",
+      "bytes": 114416
+    },
+    {
+      "path": "sources/review-p20-p32b/previous-review-p1-p19a.json",
+      "sha256": "4c2e00f09221207d9beb06c88be4aa44cabda9fc0807cb5686686f5fc7e89cb1",
+      "bytes": 24720
+    },
+    {
+      "path": "sources/review-p20-p32b/reha-firecrawl.json",
+      "sha256": "2558739b46f0b306aa48ad2ff9f11629051ad8f8f0c010715b3b9254cac787f3",
+      "bytes": 326268
+    },
+    {
+      "path": "sources/review-p20-p32b/reha-full.txt",
+      "sha256": "9bac9b863412b3ace0a11eab5b540913729c0768b57b5dd58f7ab8feec3e8890",
+      "bytes": 34237
+    },
+    {
+      "path": "sources/review-p20-p32b/reha-pdf-firecrawl.md",
+      "sha256": "c2b681ce8e6658d33346dc8f99775efcbb39cb79a480739419a00ad3572948eb",
+      "bytes": 38795
+    },
+    {
+      "path": "sources/review-p20-p32b/reha-pdf-rejected.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p20-p32b/reha-pdf-response.json",
+      "sha256": "48c590e399780f975a867c9010719699b06bd408555fc096d659b9bd27c6c2d5",
+      "bytes": 39563
+    },
+    {
+      "path": "sources/review-p20-p32b/reha-raw.html",
+      "sha256": "11123646eebb4b5d848ad5b51e198db164bd1e5dffecc641447792835645b468",
+      "bytes": 229600
+    },
+    {
+      "path": "sources/review-p20-p32b/search-boot.json",
+      "sha256": "8199c4722afba03e945f02baa16c934986ed8b06eea551b259b72d2290fd0e7a",
+      "bytes": 1095
+    },
+    {
       "path": "sources/search-log.json",
-      "sha256": "15a9ec4be775deb0d88691f1f22c7bc99998a55674d2e081530471ba387c7fac",
-      "bytes": 2856
+      "sha256": "d10aa66a7d915d39ce9e9e66e1e490edd7f99f5be4104dbb583fa355703ae801",
+      "bytes": 4655
     },
     {
       "path": "sources/searches/amendment-search.json",
@@ -469,8 +624,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "64fdf8fda9ecb1d6a54b2fb20ff07ecb2adae06a01e1e0a6675eb249cfb0ff7a",
-      "bytes": 16740
+      "sha256": "3059da11a9920956b8cee2d99bfe028328200cf7e8c6d0aff2914afca554f653",
+      "bytes": 23438
     },
     {
       "path": "sources/verify-sources.py",

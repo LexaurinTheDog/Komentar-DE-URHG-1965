@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62015CJ0117",
+    "accessed_at": "2026-10-20T12:09:40.489582+00:00",
+    "response_received_at": "2026-10-20T12:09:41.955170+00:00",
+    "http_status": 200,
+    "transport": "Firecrawl CLI; statusCode reported by provider",
+    "cache_state": "hit",
+    "cache_timestamp": "2026-10-20T12:08:51.842Z",
+    "response_path": "sources/review-p20-p32b/reha-firecrawl.json",
+    "sha256": "2558739b46f0b306aa48ad2ff9f11629051ad8f8f0c010715b3b9254cac787f3",
+    "raw_path": "sources/review-p20-p32b/reha-raw.html",
+    "raw_sha256": "11123646eebb4b5d848ad5b51e198db164bd1e5dffecc641447792835645b468",
+    "expected_format_validated": true,
+    "celex": "62015CJ0117"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE314182012.zip",
+    "accessed_at": "2026-10-20T12:10:56.184993+00:00",
+    "response_received_at": "2026-10-20T12:10:56.410524+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p20-p32b/kommunikationsdesigner.zip",
+    "sha256": "be6e64b2e6acdd2d988893c093d82342b394ac7370e590603f7353b4eaf012cf",
+    "raw_path": "sources/review-p20-p32b/kommunikationsdesigner.xml",
+    "raw_sha256": "661a52b6499c8aadce903a6b3e1c92febb61ff7e025554542673939110f8554d",
+    "expected_format_validated": true,
+    "doknr": "KORE314182012"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62015CJ0117",
+    "accessed_at": "2026-10-20T12:12:39.955034+00:00",
+    "http_status": 202,
+    "response_path": "sources/review-p20-p32b/reha-pdf-rejected.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "expected_format_validated": false,
+    "bytes": 0
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=ecli%3AECLI%3AEU%3AC%3A2016%3A379",
+    "accessed_at": "2026-10-20T12:14:05.475526+00:00",
+    "response_received_at": "2026-10-20T12:14:06.450199+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p20-p32b/reha-pdf-response.json",
+    "sha256": "48c590e399780f975a867c9010719699b06bd408555fc096d659b9bd27c6c2d5",
+    "expected_format_validated": true,
+    "format": "Firecrawl extraction of official PDF, metadata contentType application/pdf, 12 pages; includes four questions omitted by HTML",
+    "metadata": {
+      "scrapeId": "01a1593b-aefd-7649-b21f-4be78714da16",
+      "sourceURL": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=ecli%3AECLI%3AEU%3AC%3A2016%3A379",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=ecli%3AECLI%3AEU%3AC%3A2016%3A379",
+      "statusCode": 200,
+      "numPages": 12,
+      "totalPages": 12,
+      "contentType": "application/pdf",
+      "proxyUsed": "basic",
+      "cacheState": "hit",
+      "cachedAt": "2026-10-20T12:12:54.055Z",
+      "creditsUsed": 12,
+      "concurrencyLimited": false
+    }
+  }
+]

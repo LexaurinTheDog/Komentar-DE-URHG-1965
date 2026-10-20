@@ -1,0 +1,16 @@
+{
+  "Date": "Tue, 20 Oct 2026 12:09:39 GMT",
+  "Server": "Apache",
+  "Last-Modified": "Tue, 20 Oct 2026 00:25:43 GMT",
+  "ETag": "\"e529-65e3aabce8934-gzip\"",
+  "Accept-Ranges": "bytes",
+  "Vary": "Accept-Encoding",
+  "Content-Encoding": "gzip",
+  "X-Content-Type-Options": "nosniff",
+  "X-Frame-Options": "sameorigin",
+  "X-XSS-Protection": "1; mode=block",
+  "Content-Length": "8998",
+  "Keep-Alive": "timeout=5, max=91",
+  "Connection": "Keep-Alive",
+  "Content-Type": "text/html"
+}

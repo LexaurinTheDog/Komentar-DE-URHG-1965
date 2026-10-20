@@ -46,5 +46,39 @@
       ],
       "disposition": "Alte Vergütungsfassungen und BGH-Aussage zum Schutzumfang historisch eingeordnet. Keine künstliche Verteilung auf andere Einheiten."
     }
-  ]
+  ],
+  "bounded_review_p20_p32b": {
+    "verified_at": "2026-10-20T12:16:06.541236+00:00",
+    "searches": [
+      {
+        "query": "site.rechtsprechung-im-internet.de \"Das Boot\" \"I ZR 176/18\"",
+        "tool": "Firecrawl search",
+        "evidence": "sources/review-p20-p32b/search-boot.json",
+        "disposition": "Nur Entdeckung; keine Pressemitteilung als Entscheidungsersatz."
+      },
+      {
+        "query": "Lokaler nationaler RII-Korpus: Normbeginn § 32/32a, BGH und I ZR, Metadaten-/Titelprüfung",
+        "evidence": [
+          "sources/review-p20-p32b/local-contract-candidates.txt",
+          "sources/review-p20-p32b/local-contract-search.json"
+        ],
+        "disposition": "Sachfremde StGB-/Prozessnormen ausgeschlossen. Kommunikationsdesigner als eng begrenzter §-32-Fall ausgewählt und amtliches XML vollständig gelesen."
+      },
+      {
+        "query": "Reha Training C-117/15; amtlicher EUR-Lex-Volltext und PDF",
+        "tool": "web search and Firecrawl scrape",
+        "evidence": "sources/review-p20-p32b/case-fetch-results.json",
+        "disposition": "Alle 67 Randnummern, Sachverhalt, Tenor sowie vier im HTML fehlende Vorlagefragen im amtlichen PDF gelesen."
+      },
+      {
+        "query": "Das Boot III I ZR 9/18; gezielter lokaler Abgleich und amtliches RII-ZIP",
+        "evidence": [
+          "sources/review-p20-p32b/boot.xml",
+          "sources/review-p20-p32b/boot-intake.md"
+        ],
+        "disposition": "Metadaten und Eingangsteil gesichtet; nicht vollständig gelesen, nicht als Autorität zitiert. Erster BGH-PDF-Abruf gab kein gültiges PDF; nicht als PDF gespeichert oder verwendet."
+      }
+    ],
+    "coverage": "Selektive Recherche, keine Vollständigkeit beansprucht. Zusätzliche Fälle nur §§ 22 und 32 zugeordnet."
+  }
 }

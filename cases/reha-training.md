@@ -1,0 +1,15 @@
+# EuGH – Reha Training
+
+Gericht: Gerichtshof der Europäischen Union, Große Kammer. Urteil vom 31. Mai 2016, C-117/15, Reha Training Gesellschaft für Sport- und Unfallrehabilitation mbH gegen GEMA, ECLI:EU:C:2016:379. Geprüft am 20. Oktober 2026.
+
+Amtliche Quelle: [EUR-Lex, CELEX 62015CJ0117](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62015CJ0117). Belege: [Antwort mit HTML](../sources/review-p20-p32b/reha-firecrawl.json), [HTML](../sources/review-p20-p32b/reha-raw.html), [HTML-Lesetext](../sources/review-p20-p32b/reha-full.txt), [amtliche PDF-Extraktion](../sources/review-p20-p32b/reha-pdf-firecrawl.md), [PDF-Antwort mit Metadaten](../sources/review-p20-p32b/reha-pdf-response.json), [Abrufprotokoll](../sources/review-p20-p32b/case-fetch-results.json).
+
+Das Verfahren betraf Fernsehgeräte in zwei Warte- und einem Trainingsraum eines Rehabilitationszentrums. Der Streitgegenstand war die Vergütung für das den Patienten eröffnete Fernsehangebot; die Ansicht der GEMA und die Überlegungen des vorlegenden Landgerichts in Rn. 13–19 sind von den eigenen Entscheidungsgründen zu unterscheiden.
+
+Rn. 23–34 unterscheiden das vorbeugende Werkrecht vom Vergütungsrecht ausübender Künstler und Tonträgerhersteller und verlangen im Streitfall dieselben Kriterien für die öffentliche Wiedergabe. Rn. 35–48 behandeln die miteinander verflochtenen Kriterien: Wiedergabehandlung, hinreichend große und unbestimmte Empfängerzahl, kumulierte gleichzeitige und aufeinanderfolgende Zugänge sowie die gezielte Erschließung des zusätzlichen Publikums. Rn. 49–52 ordnen den Erwerbszweck ein; er ist für die Einordnung nicht allein ausschlaggebend.
+
+Rn. 54–62 bejahen anhand der tatsächlichen Verhältnisse die Wiedergabehandlung, Öffentlichkeit und das zusätzliche Publikum. Rn. 63–65 berücksichtigen die Unterhaltung als mögliche Attraktivitätssteigerung und damit als wirtschaftlichen Vorteil. Der Tenor bestätigt für die geschilderte Konstellation die öffentliche Wiedergabe nach beiden unionsrechtlichen Vorschriften. Er setzt keinen konkreten deutschen Tarif oder Zahlungsbetrag fest.
+
+Verwendet für § 22. Keine allgemeine Aussage über jedes Behandlungszimmer, jedes bloß bereitgestellte Empfangsgerät oder jede digitale Wiedergabeform. Die aktuelle Einordnung der jeweiligen Handlung und der Rechteinhaber bleibt erforderlich. Der Gesetzeswortlaut wird aus der aktuellen amtlichen UrhG-XML-Datei gewonnen, nicht aus den historischen Zitaten des Urteils. Andere Entscheidungen, auf die der EuGH verweist, werden hier nicht als selbständig vollständig geprüfte Fälle ausgegeben.
+
+Quellenkontrolle: In der erhaltenen amtlichen HTML-Ausgabe fehlen nach Rn. 19 die vier Vorlagefragen. Die amtliche PDF-Extraktion umfasst zwölf Seiten und enthält diese Fragen; sie wurde ergänzend gelesen. Die leere HTTP-202-Antwort des direkten PDF-Abrufs wurde verworfen und nicht als PDF gewertet. Firecrawl lieferte dagegen eine als PDF ausgewiesene Antwort mit vollständigem extrahiertem Text; kein lokales PDF-Binäroriginal wird für diesen Fall behauptet.
