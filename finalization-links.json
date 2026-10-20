@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-10-20T15:01:55.095944+00:00",
+  "scope": "Root manuscript documents and case cards; historical/raw source HTML navigation excluded.",
+  "results": {
+    "WORK": {
+      "checked_local_document_links": 316,
+      "broken_links": []
+    },
+    "OUTPUT": {
+      "checked_local_document_links": 364,
+      "broken_links": []
+    }
+  },
+  "ok": true
+}

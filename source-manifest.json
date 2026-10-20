@@ -1,6 +1,6 @@
 {
   "algorithm": "SHA-256",
-  "generated_at": "2026-10-20T15:00:57.967468+00:00",
+  "generated_at": "2026-10-20T15:01:54.927224+00:00",
   "sources": [
     {
       "path": "sources/aktualitaet.headers",
@@ -121,6 +121,11 @@
       "path": "sources/finalization-2026-10-20/before-00-einleitung.md",
       "sha256": "959ad6a660376360dc93a4b668d233a8284333fe684cca4f15a86ee44e7aff30",
       "bytes": 9145
+    },
+    {
+      "path": "sources/finalization-2026-10-20/before-INDEX.md",
+      "sha256": "027301592ed25c6acf74bc87323b803f6182e4f20886ad931741ef7c8756c4aa",
+      "bytes": 1459
     },
     {
       "path": "sources/finalization-2026-10-20/before-README.md",
