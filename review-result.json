@@ -385,5 +385,16 @@
     "case_full_text_comparison": "sources/review-p87k-p101/case-local-agreement.json",
     "previous_review": "sources/review-p87k-p101/previous-review-p79a-p87j.json"
   },
-  "technical_validation": "validation-result.json"
+  "technical_validation": "validation-result.json",
+  "validation_result": {
+    "repo": "Komentar-DE-URHG-1965",
+    "units": 254,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 356119,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "validation_recorded_at": "2026-10-20T13:52:16.459405+00:00",
+  "validation_output_content_commit": "71f27b5b535a227c774c884b474deac9826fe517"
 }

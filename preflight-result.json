@@ -174,7 +174,7 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 328638,
+    "commentary_chars": 356119,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -183,7 +183,7 @@
     "completeness_report": "completeness-report.json",
     "quality_report": "quality-report.json",
     "preservation_report": "commentary-preservation.json",
-    "local_links_checked": 321,
+    "local_links_checked": 364,
     "broken_local_links": 0
   },
   "bounded_review_confirmation": {
@@ -10780,6 +10780,15 @@
     "unresolved_blockers": [],
     "limitations": [
       "Nur Quellen-/Parser-Preflight aller amtlichen Datensätze; inhaltlicher zweiter Durchgang ausschließlich für die 20 zugewiesenen Einheiten."
-    ]
+    ],
+    "technical_validation": {
+      "repo": "Komentar-DE-URHG-1965",
+      "units": 254,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 356119,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   }
 }
