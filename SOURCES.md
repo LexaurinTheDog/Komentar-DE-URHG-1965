@@ -1,6 +1,6 @@
 # Quellen und Nachweise
 
-Prüfdatum: 19. Oktober 2026. Primärquelle für den Gesetzestext ist ausschließlich das amtliche deutsche Angebot; eine tschechische Rechtsquelle wurde nicht als Ersatz verwendet.
+Ursprüngliches Prüfdatum: 19. Oktober 2026; erneuter Quellen- und Parser-Preflight: 20. Oktober 2026. Primärquelle für den Gesetzestext ist ausschließlich das amtliche deutsche Angebot; eine tschechische Rechtsquelle wurde nicht als Ersatz verwendet.
 
 - [Amtlicher XML-Rohtext](sources/urhg.xml), [ZIP-Antwort](sources/urhg.zip), [HTTP-Header](sources/urhg-xml.headers), [amtliches Inhaltsverzeichnis als Roh-HTML](sources/index.html).
 - [Verifikation mit URLs, Zeitpunkten, HTTP-Ergebnissen, Hashes und Wirksamkeitsbeleg](sources/verification.json).
@@ -13,3 +13,5 @@ Prüfdatum: 19. Oktober 2026. Primärquelle für den Gesetzestext ist ausschlie�
 Die amtlichen HTML- und XML-Antworten sowie der vollständige Wortlaut liegen lokal vor. Firecrawl wurde für die vollständigen EUR-Lex-Seiten verwendet, nachdem Direktabrufe keinen verwendbaren Text lieferten. Die zugehörigen Antwortdateien enthalten Roh-HTML, Extraktion und HTTP-Metadaten. Gecachte Antworten und ihr Datum sind ausgewiesen. Die nummerierten Absatzdateien sind Lesehilfen, keine Ersatzfassung für verschachtelte Listen der Volltexte.
 
 Gesetzesinterne Querverweise wurden mit dem extrahierten Paragraphenbestand abgeglichen. Externe und historische Verweisungen werden im amtlichen Wortlaut erhalten. Dieses Buch liefert keine vollständige parallele Edition sämtlicher verwiesenen Vorschriften. Konkrete historische Berechnungen, anwendbare Staatsverträge, Landeszuständigkeiten oder Durchführungsverordnungen müssen für einen Einzelfall zusätzlich in ihrer maßgeblichen Fassung beschafft werden; hierzu werden keine nicht belegten Detailergebnisse behauptet.
+
+Erneute direkte amtliche Abrufe: [HTTP-Protokoll](sources/preflight-2026-10-20/fetch-results.json), [aktuelle ZIP-Antwort](sources/preflight-2026-10-20/current.zip), [vollständiges amtliches HTML](sources/preflight-2026-10-20/full.html), [amtliches PDF](sources/preflight-2026-10-20/current.pdf). [Preflight-Ergebnis](preflight-result.json) und [Abdeckungsbericht](completeness-report.json) dokumentieren die amtliche Sammelstelle §§ 52a/52b und die überprüfte Abwesenheit einer Eingangsformel. Vorherige Parser-, Einheiten- und kanonische Textstände liegen unverändert im Nachweisordner `sources/preflight-2026-10-20/`.

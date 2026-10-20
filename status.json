@@ -1,6 +1,6 @@
 {
-  "stage": "drafted_technical_validation",
-  "updated_at": "2026-10-19T16:32:14.171953+00:00",
+  "stage": "preflight_complete",
+  "updated_at": "2026-10-20T11:55:13.591414+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -14,14 +14,16 @@
     "commencement_evidence": "BGBl. 2026 I Nr. 157, ausgegeben 29.5.2026, Art. 3: Tag nach Verkündung",
     "original_preserved": true,
     "change_map": "sources/change-map.json",
-    "statutory_changes_since_intake_detected": false
+    "statutory_changes_since_intake_detected": false,
+    "preflight_verified_at": "2026-10-20T11:54:07.436691+00:00",
+    "coverage_report": "completeness-report.json"
   },
-  "total_units": 255,
-  "completed_units": 255,
-  "paragraph_units": 254,
+  "total_units": 254,
+  "completed_units": 254,
+  "paragraph_units": 253,
   "annex_units": 1,
   "chapters": 12,
-  "commentary_chars": 213255,
+  "commentary_chars": 213321,
   "case_law_sources": [
     {
       "court": "EuGH",
@@ -72,24 +74,23 @@
     "cases/cofemel.md",
     "cases/usedsoft.md"
   ],
-  "validation_result": {
-    "repo": "Komentar-DE-URHG-1965",
-    "units": 255,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 213255,
-    "errors": [],
-    "warnings": [],
-    "ok": true
-  },
+  "validation_result": null,
   "completeness_result": true,
   "quality_result": true,
   "independent_second_pass_completed": false,
   "unresolved_blockers": [],
   "remaining_limitations": [
-    "Unabhängiger vollständiger zweiter inhaltlicher Durchgang eines frischen Prozesses steht aus.",
-    "Selektive Rechtsprechungsrecherche mit drei geprüften Entscheidungen; keine erschöpfende Erhebung sämtlicher späterer Rechtsprechung.",
-    "Keine vollständige Kommentierung sämtlicher externer oder historischer Verweisungsnormen, konkreter Staatsverträge, Landesverordnungen oder Durchführungsregeln. Einzelfallentscheidungen hierzu erfordern zusätzliche Quellenprüfung."
+    "Dieser Arbeitsgang ist ein Quellen- und Parser-Preflight; keine Gesamtfreigabe des vorhandenen Manuskripts.",
+    "Unabhängiger vollständiger zweiter inhaltlicher Durchgang steht aus.",
+    "Vorhandene selektive Rechtsprechungsrecherche wurde erhalten und in diesem Preflight nicht erneut inhaltlich geprüft.",
+    "Aktuelle amtliche Konsolidierung, kein Vollarchiv aller historischen Fassungen; Grenzen der Aktualitätskontrolle siehe sources/verification.json."
   ],
   "publication": false,
-  "push": false
+  "push": false,
+  "task_kind": "preflight",
+  "prior_stage": "drafted_technical_validation",
+  "authored_units_in_this_task": 0,
+  "manuscript_units_content_reviewed_in_this_task": 0,
+  "preflight_result": "preflight-result.json",
+  "commentary_preservation": "commentary-preservation.json"
 }

@@ -553,14 +553,7 @@
     "xml_text_sha256": "7cdb205a3e8d87eadc93acacefbad22da178553e8ef18c5c949c4441574be1f3"
   },
   {
-    "id": "p52a",
-    "doknr": "BJNR012730965BJNE023101123",
-    "empty_body": true,
-    "repealed": true,
-    "xml_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-    "id": "p52b",
+    "id": "p52a-52b",
     "doknr": "BJNR012730965BJNE023101123",
     "empty_body": true,
     "repealed": true,

@@ -1,0 +1,95 @@
+{
+  "stage": "drafted_technical_validation",
+  "updated_at": "2026-10-19T16:32:14.171953+00:00",
+  "country": "de",
+  "identifier": "UrhG",
+  "decisive_date": "2026-10-19",
+  "version": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157; wirksam 30.5.2026",
+  "source_checks": {
+    "verification": "sources/verification.json",
+    "official_xml_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+    "official_xml_http_status": 200,
+    "official_index_http_status": 200,
+    "amending_gazette_http_status": 200,
+    "commencement_evidence": "BGBl. 2026 I Nr. 157, ausgegeben 29.5.2026, Art. 3: Tag nach Verkündung",
+    "original_preserved": true,
+    "change_map": "sources/change-map.json",
+    "statutory_changes_since_intake_detected": false
+  },
+  "total_units": 255,
+  "completed_units": 255,
+  "paragraph_units": 254,
+  "annex_units": 1,
+  "chapters": 12,
+  "commentary_chars": 213255,
+  "case_law_sources": [
+    {
+      "court": "EuGH",
+      "celex": "62011CJ0128",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62011CJ0128",
+      "accessed_at": "2026-10-19T16:27:05+00:00",
+      "http_status": 200,
+      "raw_path": "sources/usedsoft-raw.html",
+      "sha256": "467e38a9912e6a6717d4abfd94d4c22e5916a0b830b0a58e19e4ad90319149c4",
+      "response_path": "sources/usedsoft-response.json",
+      "response_sha256": "d81703686faf9fc93fd581d4d8109237c3ce041b27c347d894a898650c9f34eb",
+      "format_validated": true,
+      "cache_state": "hit",
+      "cached_at": "2026-10-19T16:09:52.133Z",
+      "read_scope": "Vollständiger Entscheidungstext einschließlich Hintergrund, Vorlage und Tenor; nummerierte Auszüge nur zusätzliche Lesehilfe."
+    },
+    {
+      "court": "EuGH",
+      "celex": "62017CJ0683",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0683",
+      "accessed_at": "2026-10-19T16:27:05+00:00",
+      "http_status": 200,
+      "raw_path": "sources/cofemel-raw.html",
+      "sha256": "71234cba1ac8ebc6087bd595b5b3bc776e371acd76dfb34ad3a6cef2b8c2a4fc",
+      "response_path": "sources/cofemel-response.json",
+      "response_sha256": "9302ade4faf22cc4a410a08b2e459559504f0b86d5a17e2555b90dab37150d10",
+      "format_validated": true,
+      "cache_state": "hit",
+      "cached_at": "2026-10-19T16:09:57.787Z",
+      "read_scope": "Vollständiger Entscheidungstext einschließlich Hintergrund, Vorlage und Tenor; nummerierte Auszüge nur zusätzliche Lesehilfe."
+    },
+    {
+      "court": "BGH",
+      "date": "2013-11-13",
+      "docket": "I ZR 143/12",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301962013.zip",
+      "http_status": 200,
+      "raw_path": "sources/geburtstagszug.xml",
+      "sha256": "52a5282fad26a708f6a03c4ce1cfb7765db80adfbd4f23439e03ae8cd7ac5a16",
+      "accessed_at": "2026-10-19T16:09:58+00:00",
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore301962013.md",
+      "local_copy": "sources/bgh-geburtstagszug-intake.md",
+      "format_validated": true
+    }
+  ],
+  "case_cards": [
+    "cases/geburtstagszug.md",
+    "cases/cofemel.md",
+    "cases/usedsoft.md"
+  ],
+  "validation_result": {
+    "repo": "Komentar-DE-URHG-1965",
+    "units": 255,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 213255,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness_result": true,
+  "quality_result": true,
+  "independent_second_pass_completed": false,
+  "unresolved_blockers": [],
+  "remaining_limitations": [
+    "Unabhängiger vollständiger zweiter inhaltlicher Durchgang eines frischen Prozesses steht aus.",
+    "Selektive Rechtsprechungsrecherche mit drei geprüften Entscheidungen; keine erschöpfende Erhebung sämtlicher späterer Rechtsprechung.",
+    "Keine vollständige Kommentierung sämtlicher externer oder historischer Verweisungsnormen, konkreter Staatsverträge, Landesverordnungen oder Durchführungsregeln. Einzelfallentscheidungen hierzu erfordern zusätzliche Quellenprüfung."
+  ],
+  "publication": false,
+  "push": false
+}

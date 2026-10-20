@@ -16,5 +16,27 @@
       "§ 54d: Aktualisierung des Verweises auf das Umsatzsteuergesetz.",
       "§ 87b Abs. 3: Ausnahme nach Art. 43 der Verordnung (EU) 2023/2854."
     ]
-  }
+  },
+  "preflight_checked_at": "2026-10-20T11:54:07.436691+00:00",
+  "renewed_xml_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+  "source_version_change_since_2026_10_19": false,
+  "parser_changes": [
+    {
+      "previous_ids": [
+        "p52a",
+        "p52b"
+      ],
+      "current_id": "p52a-52b",
+      "official_label": "(XXXX) §§ 52a und 52b",
+      "official_doknr": "BJNR012730965BJNE023101123",
+      "reason": "Ein amtlicher Datensatz statt zwei künstlicher Datensätze; beide bestehenden Kommentare unverändert in einer Einheit erhalten."
+    },
+    {
+      "field": "eingangsformel",
+      "change": "Kein Text ergänzt",
+      "reason": "In der aktuellen amtlichen XML-, HTML- und PDF-Fassung keine Eingangsformel ausgewiesen; kein unklassifizierter operativer XML-Datensatz vorhanden."
+    }
+  ],
+  "preserved_previous_extraction": "sources/preflight-2026-10-20/before-units.jsonl",
+  "preserved_previous_canonical_source": "sources/preflight-2026-10-20/before-urhg-canonical.md"
 }

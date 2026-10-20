@@ -80,19 +80,230 @@
       "expected_format_validated": true,
       "format": "XML: dokumente, jurabk UrhG, doknr BJNR012730965",
       "derived_from": "sources/urhg.zip"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T11:50:47.794805+00:00",
+      "http_status": 200,
+      "response_path": "sources/preflight-2026-10-20/current.zip",
+      "headers_path": "sources/preflight-2026-10-20/current.zip.headers",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "accessed_at": "2026-10-20T11:50:47.795170+00:00",
+      "http_status": 200,
+      "response_path": "sources/preflight-2026-10-20/index.html",
+      "headers_path": "sources/preflight-2026-10-20/index.html.headers",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "accessed_at": "2026-10-20T11:50:47.795260+00:00",
+      "http_status": 200,
+      "response_path": "sources/preflight-2026-10-20/full.html",
+      "headers_path": "sources/preflight-2026-10-20/full.html.headers",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T11:50:47.795319+00:00",
+      "http_status": 200,
+      "response_path": "sources/preflight-2026-10-20/aktuell.html",
+      "headers_path": "sources/preflight-2026-10-20/aktuell.html.headers",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T11:50:48.062793+00:00",
+      "http_status": 200,
+      "response_path": "sources/preflight-2026-10-20/amendment.pdf",
+      "headers_path": "sources/preflight-2026-10-20/amendment.pdf.headers",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "accessed_at": "2026-10-20T11:50:48.066969+00:00",
+      "http_status": 200,
+      "response_path": "sources/preflight-2026-10-20/current.pdf",
+      "headers_path": "sources/preflight-2026-10-20/current.pdf.headers",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T11:50:47.794805+00:00",
+      "http_status": 200,
+      "response_path": "sources/preflight-2026-10-20/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "expected_format_validated": true,
+      "format": "XML: dokumente; jurabk UrhG; doknr BJNR012730965",
+      "derived_from": "sources/preflight-2026-10-20/current.zip"
     }
   ],
   "version": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
   "effective_version_evidence": "BGBl. 2026 I Nr. 157, Art. 2 und Art. 3, Seiten 7–8; verkündet 29.05.2026, wirksam 30.05.2026.",
-  "currency_check": "Amtliche konsolidierte XML-Fassung und amtliches Inhaltsverzeichnis am 19.10.2026 abgerufen; jüngster ausgewiesener Änderungsstand mit Verkündung abgeglichen; zusätzlich amtliche Aktualitäten und dokumentierte Websuche geprüft. Keine spätere Änderung oder noch ausstehende Inkrafttretensregel in diesen Quellen gefunden.",
+  "currency_check": "Ursprünglicher Bearbeitungsstichtag 19.10.2026; erneut am 20.10.2026 aus amtlichem ZIP, HTML-Verzeichnis, Voll-HTML und GII-PDF geprüft. Änderungsstand unverändert. Der erneut erhaltene Verkündungstext BGBl. 2026 I Nr. 157 ist bytegleich zum gelesenen Beleg: Art. 2 ändert § 54d und ergänzt § 87b Abs. 3; Art. 3 bestimmt den Tag nach der Verkündung vom 29.5.2026. Wirksam seit 30.5.2026. Kein ausstehendes Inkrafttreten dieser Änderungen.",
   "limitations": [
-    "Die Recherche ist eine datierte Bestandsprüfung, keine Zusicherung künftiger Unverändertheit."
+    "Datierter Nachweis des amtlich veröffentlichten Konsolidierungsstandes; keine Garantie gegen eine noch nicht eingearbeitete oder noch nicht indizierte Änderung.",
+    "Kein Vollarchiv sämtlicher seit 1965 geltenden Fassungen; historische Stichtagsprüfung konkreter Altfälle bleibt gesondert erforderlich."
   ],
   "change_map": "sources/change-map.json",
   "aktualitaetendienst": {
     "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
-    "raw_path": "sources/aktualitaet.html",
+    "raw_path": "sources/preflight-2026-10-20/aktuell.html",
+    "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
     "urheberrechtliche_titel": [],
-    "limitation": "Titelübersicht ergänzt die aktuelle amtliche Konsolidierung; keine vollständige Einzelanalyse aller omnibusartigen Änderungsgesetze."
+    "limitation": "Titelkontrolle und ergänzende amtliche Domain-Suche; keine Vollanalyse aller omnibusartigen Änderungsgesetze. Die aktuelle konsolidierte amtliche Fassung und ihre Änderungsangabe sind der zentrale Bestandsbeleg."
+  },
+  "preflight_verified_at": "2026-10-20T11:54:07.436691+00:00",
+  "preflight": {
+    "decisive_date": "2026-10-19",
+    "checked_on": "2026-10-20",
+    "xml_unchanged_since_initial_check": true,
+    "zip_unchanged": true,
+    "index_unchanged": true,
+    "amendment_pdf_unchanged": true,
+    "builddate": "20260529215505",
+    "new_version_detected": false,
+    "search_evidence": "sources/preflight-2026-10-20/preflight-2026-10-20-amendments.json",
+    "html_extraction": "sources/preflight-2026-10-20/preflight-2026-10-20-index.md",
+    "historical_versions": {
+      "all_builddates": [
+        "20260529215505"
+      ],
+      "duplicate_versions_found": false,
+      "scope": "Aktuelle konsolidierte amtliche XML-Datei vollständig auf Mehrfachkennungen und unklassifizierte Normkörper geprüft; historische Datumsangaben in Übergangsrecht und Fußnoten sind keine daneben geltenden Fassungsdatensätze. Kein Vollarchiv aller seit 1965 geltenden Fassungen."
+    },
+    "eingangsformel": {
+      "xml_record_present": false,
+      "html_heading_present": false,
+      "pdf_label_present": false,
+      "unclassified_operative_xml_records": [],
+      "disposition": "Keine Eingangsformel im amtlichen konsolidierten XML, im vollständigen HTML oder im GII-PDF ausgewiesen. Der einzige unbenannte XML-Datensatz enthält ausschließlich Metadaten und Fußnoten, keinen Normkörper. Keine historische Formel aus Erinnerung ergänzt.",
+      "evidence_paths": [
+        "sources/urhg.xml",
+        "sources/preflight-2026-10-20/full.html",
+        "sources/preflight-2026-10-20/current-pdf.txt"
+      ]
+    },
+    "annexes": [
+      {
+        "id": "anlage",
+        "label": "Anlage (zu § 61a)",
+        "doknr": "BJNR012730965BJNE018706123",
+        "included": true,
+        "evidence_path": "sources/urhg.xml",
+        "evidence_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+        "groups": [
+          {
+            "number": "1.",
+            "child_ids": [
+              "anlage/1/a",
+              "anlage/1/b",
+              "anlage/1/c",
+              "anlage/1/d",
+              "anlage/1/e"
+            ],
+            "letter_labels": [
+              "a)",
+              "b)",
+              "c)",
+              "d)",
+              "e)"
+            ]
+          },
+          {
+            "number": "2.",
+            "child_ids": [
+              "anlage/2/a",
+              "anlage/2/b",
+              "anlage/2/c",
+              "anlage/2/d",
+              "anlage/2/e"
+            ],
+            "letter_labels": [
+              "a)",
+              "b)",
+              "c)",
+              "d)",
+              "e)"
+            ]
+          },
+          {
+            "number": "3.",
+            "child_ids": [
+              "anlage/3/a",
+              "anlage/3/b",
+              "anlage/3/c"
+            ],
+            "letter_labels": [
+              "a)",
+              "b)",
+              "c)"
+            ]
+          },
+          {
+            "number": "4.",
+            "child_ids": [
+              "anlage/4/a",
+              "anlage/4/b",
+              "anlage/4/c",
+              "anlage/4/d",
+              "anlage/4/e",
+              "anlage/4/f",
+              "anlage/4/g",
+              "anlage/4/h"
+            ],
+            "letter_labels": [
+              "a)",
+              "b)",
+              "c)",
+              "d)",
+              "e)",
+              "f)",
+              "g)",
+              "h)"
+            ]
+          },
+          {
+            "number": "5.",
+            "child_ids": [
+              "anlage/5/a",
+              "anlage/5/b",
+              "anlage/5/c",
+              "anlage/5/d",
+              "anlage/5/e"
+            ],
+            "letter_labels": [
+              "a)",
+              "b)",
+              "c)",
+              "d)",
+              "e)"
+            ]
+          }
+        ],
+        "description": "Eine operative Anlage: fünf Quellengruppen; Buchstaben a–e, a–e, a–c, a–h und a–e. Fundstellenkommentar ist redaktioneller Hinweis, kein Tatbestand.",
+        "full_xml_text_agrees": true
+      }
+    ]
   }
 }

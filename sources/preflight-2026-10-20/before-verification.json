@@ -1,0 +1,98 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_on": "2026-10-19T16:30:54.457441+00:00",
+  "checks": [
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-19T16:30:37+00:00",
+      "http_status": 200,
+      "response_path": "sources/aktualitaet.html",
+      "headers_path": "sources/aktualitaet.headers",
+      "sha256": "f2c92645e935e53c51e5f69a06756484133dff26f032251a8b6db1d778bb045c",
+      "expected_format_validated": true,
+      "bytes": 74406
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-19T16:06:21+00:00",
+      "http_status": 200,
+      "response_path": "sources/urhg.zip",
+      "headers_path": "sources/urhg-xml.headers",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "expected_format_validated": true,
+      "bytes": 72672
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "accessed_at": "2026-10-19T16:06:39+00:00",
+      "http_status": 200,
+      "response_path": "sources/index.html",
+      "headers_path": "sources/index.headers",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "expected_format_validated": true,
+      "bytes": 58665
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuell.html",
+      "accessed_at": "2026-10-19T16:06:39+00:00",
+      "http_status": 200,
+      "response_path": "sources/aktuell.html",
+      "headers_path": "sources/aktuell.headers",
+      "sha256": "b28409365645f205cfe999e0dd44ccc5e708c744365dc15f4f4c14b5886d6673",
+      "expected_format_validated": true,
+      "bytes": 6140,
+      "disposition": "Dieser URL liefert die allgemeine alphabetische Gesetzesnavigation; nicht als Aktualitätendienst gewertet. Ersetzt durch aktuDienst.html."
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/157/VO.html",
+      "accessed_at": "2026-10-19T16:07:17+00:00",
+      "http_status": 200,
+      "response_path": "sources/bgbl-2026-157.html",
+      "headers_path": "sources/bgbl-2026-157.headers",
+      "sha256": "0c7416c58b69a0a6c7cc2ec800ddb5183b7b81ba62c7d1d51a8d0c87d09aa776",
+      "expected_format_validated": true,
+      "bytes": 41458
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-19T16:07:26+00:00",
+      "http_status": 200,
+      "response_path": "sources/bgbl-2026-157.pdf",
+      "headers_path": "sources/bgbl-2026-157-pdf.headers",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "expected_format_validated": true,
+      "bytes": 336883
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301962013.zip",
+      "accessed_at": "2026-10-19T16:09:58+00:00",
+      "http_status": 200,
+      "response_path": "sources/geburtstagszug.zip",
+      "headers_path": "sources/geburtstagszug.headers",
+      "sha256": "db7ed0d6265ea85c045f7382c20af1619adba6b3e4227c59796b7440aa608890",
+      "expected_format_validated": true,
+      "bytes": 105656
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "response_path": "sources/urhg.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "expected_format_validated": true,
+      "format": "XML: dokumente, jurabk UrhG, doknr BJNR012730965",
+      "derived_from": "sources/urhg.zip"
+    }
+  ],
+  "version": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
+  "effective_version_evidence": "BGBl. 2026 I Nr. 157, Art. 2 und Art. 3, Seiten 7–8; verkündet 29.05.2026, wirksam 30.05.2026.",
+  "currency_check": "Amtliche konsolidierte XML-Fassung und amtliches Inhaltsverzeichnis am 19.10.2026 abgerufen; jüngster ausgewiesener Änderungsstand mit Verkündung abgeglichen; zusätzlich amtliche Aktualitäten und dokumentierte Websuche geprüft. Keine spätere Änderung oder noch ausstehende Inkrafttretensregel in diesen Quellen gefunden.",
+  "limitations": [
+    "Die Recherche ist eine datierte Bestandsprüfung, keine Zusicherung künftiger Unverändertheit."
+  ],
+  "change_map": "sources/change-map.json",
+  "aktualitaetendienst": {
+    "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "raw_path": "sources/aktualitaet.html",
+    "urheberrechtliche_titel": [],
+    "limitation": "Titelübersicht ergänzt die aktuelle amtliche Konsolidierung; keine vollständige Einzelanalyse aller omnibusartigen Änderungsgesetze."
+  }
+}

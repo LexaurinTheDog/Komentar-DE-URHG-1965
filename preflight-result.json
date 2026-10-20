@@ -1,0 +1,175 @@
+{
+  "kind": "preflight",
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/urhg/",
+  "verified_at": "2026-10-20T11:54:07.436691+00:00",
+  "version_evidence": {
+    "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
+    "amendment_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+    "amendment_evidence_path": "sources/preflight-2026-10-20/amendment.pdf",
+    "amendment_sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+    "commencement_article": "Art. 3: Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.",
+    "promulgated": "2026-05-29",
+    "effective_from": "2026-05-30",
+    "affected_units": [
+      "p54d",
+      "p87b"
+    ],
+    "current_xml_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+    "unchanged_since_intake": true,
+    "check_scope": "Ursprünglicher Bearbeitungsstichtag 19.10.2026; erneut am 20.10.2026 aus amtlichem ZIP, HTML-Verzeichnis, Voll-HTML und GII-PDF geprüft. Änderungsstand unverändert. Der erneut erhaltene Verkündungstext BGBl. 2026 I Nr. 157 ist bytegleich zum gelesenen Beleg: Art. 2 ändert § 54d und ergänzt § 87b Abs. 3; Art. 3 bestimmt den Tag nach der Verkündung vom 29.5.2026. Wirksam seit 30.5.2026. Kein ausstehendes Inkrafttreten dieser Änderungen."
+  },
+  "historical_versions_checked": {
+    "all_builddates": [
+      "20260529215505"
+    ],
+    "duplicate_versions_found": false,
+    "scope": "Aktuelle konsolidierte amtliche XML-Datei vollständig auf Mehrfachkennungen und unklassifizierte Normkörper geprüft; historische Datumsangaben in Übergangsrecht und Fußnoten sind keine daneben geltenden Fassungsdatensätze. Kein Vollarchiv aller seit 1965 geltenden Fassungen."
+  },
+  "annexes_checked": [
+    {
+      "id": "anlage",
+      "label": "Anlage (zu § 61a)",
+      "doknr": "BJNR012730965BJNE018706123",
+      "included": true,
+      "evidence_path": "sources/urhg.xml",
+      "evidence_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "groups": [
+        {
+          "number": "1.",
+          "child_ids": [
+            "anlage/1/a",
+            "anlage/1/b",
+            "anlage/1/c",
+            "anlage/1/d",
+            "anlage/1/e"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)"
+          ]
+        },
+        {
+          "number": "2.",
+          "child_ids": [
+            "anlage/2/a",
+            "anlage/2/b",
+            "anlage/2/c",
+            "anlage/2/d",
+            "anlage/2/e"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)"
+          ]
+        },
+        {
+          "number": "3.",
+          "child_ids": [
+            "anlage/3/a",
+            "anlage/3/b",
+            "anlage/3/c"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)"
+          ]
+        },
+        {
+          "number": "4.",
+          "child_ids": [
+            "anlage/4/a",
+            "anlage/4/b",
+            "anlage/4/c",
+            "anlage/4/d",
+            "anlage/4/e",
+            "anlage/4/f",
+            "anlage/4/g",
+            "anlage/4/h"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)"
+          ]
+        },
+        {
+          "number": "5.",
+          "child_ids": [
+            "anlage/5/a",
+            "anlage/5/b",
+            "anlage/5/c",
+            "anlage/5/d",
+            "anlage/5/e"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)"
+          ]
+        }
+      ],
+      "description": "Eine operative Anlage: fünf Quellengruppen; Buchstaben a–e, a–e, a–c, a–h und a–e. Fundstellenkommentar ist redaktioneller Hinweis, kein Tatbestand.",
+      "full_xml_text_agrees": true
+    }
+  ],
+  "eingangsformel_checked": {
+    "xml_record_present": false,
+    "html_heading_present": false,
+    "pdf_label_present": false,
+    "unclassified_operative_xml_records": [],
+    "disposition": "Keine Eingangsformel im amtlichen konsolidierten XML, im vollständigen HTML oder im GII-PDF ausgewiesen. Der einzige unbenannte XML-Datensatz enthält ausschließlich Metadaten und Fußnoten, keinen Normkörper. Keine historische Formel aus Erinnerung ergänzt.",
+    "evidence_paths": [
+      "sources/urhg.xml",
+      "sources/preflight-2026-10-20/full.html",
+      "sources/preflight-2026-10-20/current-pdf.txt"
+    ]
+  },
+  "coverage": {
+    "expected_count": 254,
+    "parsed_count": 254,
+    "missing": [],
+    "duplicates": [],
+    "unexpected": [],
+    "independent_xml_text_agreement": true,
+    "report": "completeness-report.json"
+  },
+  "repairs": [
+    {
+      "previous_ids": [
+        "p52a",
+        "p52b"
+      ],
+      "current_id": "p52a-52b",
+      "official_label": "(XXXX) §§ 52a und 52b",
+      "official_doknr": "BJNR012730965BJNE023101123",
+      "reason": "Ein amtlicher Datensatz statt zwei künstlicher Datensätze; beide bestehenden Kommentare unverändert in einer Einheit erhalten."
+    },
+    {
+      "field": "eingangsformel",
+      "change": "Kein Text ergänzt",
+      "reason": "In der aktuellen amtlichen XML-, HTML- und PDF-Fassung keine Eingangsformel ausgewiesen; kein unklassifizierter operativer XML-Datensatz vorhanden."
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Datierter Nachweis des amtlich veröffentlichten Konsolidierungsstandes; keine Garantie gegen eine noch nicht eingearbeitete oder noch nicht indizierte Änderung.",
+    "Kein Vollarchiv sämtlicher seit 1965 geltenden Fassungen; historische Stichtagsprüfung konkreter Altfälle bleibt gesondert erforderlich.",
+    "Nur Quellen- und Parser-Preflight; vorhandene Kommentare erhalten, keine vollständige zweite inhaltliche Manuskriptprüfung und keine Gesamtfreigabe."
+  ]
+}

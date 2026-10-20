@@ -748,17 +748,9 @@ Zulässig ist die Vervielfältigung, die Verbreitung und die öffentliche Wieder
 
 § 52 Abs. 1 Satz 3: Mit GG (100-1) vereinbar, soweit die Vergütungspflicht für Veranstaltungen der Gefangenenbetreuung entfällt; BVerfGE v. 11.10.1988 I 187 (1 BvR 743/86)
 
-## § 52a (weggefallen)
+## (XXXX) §§ 52a und 52b (weggefallen)
 
 (weggefallen)
-
-Das amtliche XML enthält hier keinen Vorschriftentext; der Wegfallvermerk stammt aus dem amtlichen Titel.
-
-## § 52b (weggefallen)
-
-(weggefallen)
-
-Das amtliche XML enthält hier keinen Vorschriftentext; der Wegfallvermerk stammt aus dem amtlichen Titel.
 
 Das amtliche XML enthält hier keinen Vorschriftentext; der Wegfallvermerk stammt aus dem amtlichen Titel.
 

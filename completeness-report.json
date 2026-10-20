@@ -1,4 +1,5 @@
 {
+  "official_xml_url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
   "official_index_url": "https://www.gesetze-im-internet.de/urhg/index.html",
   "expected_ids": [
     "p1",
@@ -80,6 +81,7 @@
     "p51",
     "p51a",
     "p52",
+    "p52a-52b",
     "p53",
     "p53a",
     "p54",
@@ -253,11 +255,1789 @@
     "p141",
     "p142",
     "p143",
-    "anlage",
-    "p52a",
-    "p52b"
+    "anlage"
   ],
-  "official_xml_ids": [
+  "official_identifiers": [
+    {
+      "id": "p1",
+      "label": "§ 1",
+      "doknr": "BJNR012730965BJNE004101377",
+      "title": "Allgemeines",
+      "body_empty": false
+    },
+    {
+      "id": "p2",
+      "label": "§ 2",
+      "doknr": "BJNR012730965BJNE004202305",
+      "title": "Geschützte Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p3",
+      "label": "§ 3",
+      "doknr": "BJNR012730965BJNE004301304",
+      "title": "Bearbeitungen",
+      "body_empty": false
+    },
+    {
+      "id": "p4",
+      "label": "§ 4",
+      "doknr": "BJNR012730965BJNE004401307",
+      "title": "Sammelwerke und Datenbankwerke",
+      "body_empty": false
+    },
+    {
+      "id": "p5",
+      "label": "§ 5",
+      "doknr": "BJNR012730965BJNE004501377",
+      "title": "Amtliche Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p6",
+      "label": "§ 6",
+      "doknr": "BJNR012730965BJNE004600315",
+      "title": "Veröffentlichte und erschienene Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p7",
+      "label": "§ 7",
+      "doknr": "BJNR012730965BJNE004700315",
+      "title": "Urheber",
+      "body_empty": false
+    },
+    {
+      "id": "p8",
+      "label": "§ 8",
+      "doknr": "BJNR012730965BJNE004800315",
+      "title": "Miturheber",
+      "body_empty": false
+    },
+    {
+      "id": "p9",
+      "label": "§ 9",
+      "doknr": "BJNR012730965BJNE004900315",
+      "title": "Urheber verbundener Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p10",
+      "label": "§ 10",
+      "doknr": "BJNR012730965BJNE005001140",
+      "title": "Vermutung der Urheber- oder Rechtsinhaberschaft",
+      "body_empty": false
+    },
+    {
+      "id": "p11",
+      "label": "§ 11",
+      "doknr": "BJNR012730965BJNE005102377",
+      "title": "Allgemeines",
+      "body_empty": false
+    },
+    {
+      "id": "p12",
+      "label": "§ 12",
+      "doknr": "BJNR012730965BJNE005200315",
+      "title": "Veröffentlichungsrecht",
+      "body_empty": false
+    },
+    {
+      "id": "p13",
+      "label": "§ 13",
+      "doknr": "BJNR012730965BJNE005300315",
+      "title": "Anerkennung der Urheberschaft",
+      "body_empty": false
+    },
+    {
+      "id": "p14",
+      "label": "§ 14",
+      "doknr": "BJNR012730965BJNE005400315",
+      "title": "Entstellung des Werkes",
+      "body_empty": false
+    },
+    {
+      "id": "p15",
+      "label": "§ 15",
+      "doknr": "BJNR012730965BJNE005501377",
+      "title": "Allgemeines",
+      "body_empty": false
+    },
+    {
+      "id": "p16",
+      "label": "§ 16",
+      "doknr": "BJNR012730965BJNE005601377",
+      "title": "Vervielfältigungsrecht",
+      "body_empty": false
+    },
+    {
+      "id": "p17",
+      "label": "§ 17",
+      "doknr": "BJNR012730965BJNE005701307",
+      "title": "Verbreitungsrecht",
+      "body_empty": false
+    },
+    {
+      "id": "p18",
+      "label": "§ 18",
+      "doknr": "BJNR012730965BJNE005800315",
+      "title": "Ausstellungsrecht",
+      "body_empty": false
+    },
+    {
+      "id": "p19",
+      "label": "§ 19",
+      "doknr": "BJNR012730965BJNE005901377",
+      "title": "Vortrags-, Aufführungs- und Vorführungsrecht",
+      "body_empty": false
+    },
+    {
+      "id": "p19a",
+      "label": "§ 19a",
+      "doknr": "BJNR012730965BJNE022700377",
+      "title": "Recht der öffentlichen Zugänglichmachung",
+      "body_empty": false
+    },
+    {
+      "id": "p20",
+      "label": "§ 20",
+      "doknr": "BJNR012730965BJNE006001307",
+      "title": "Senderecht",
+      "body_empty": false
+    },
+    {
+      "id": "p20a",
+      "label": "§ 20a",
+      "doknr": "BJNR012730965BJNE021800307",
+      "title": "Europäische Satellitensendung",
+      "body_empty": false
+    },
+    {
+      "id": "p20b",
+      "label": "§ 20b",
+      "doknr": "BJNR012730965BJNE021902360",
+      "title": "Weitersendung",
+      "body_empty": false
+    },
+    {
+      "id": "p20c",
+      "label": "§ 20c",
+      "doknr": "BJNR012730965BJNE027800360",
+      "title": "Europäischer ergänzender Online-Dienst",
+      "body_empty": false
+    },
+    {
+      "id": "p20d",
+      "label": "§ 20d",
+      "doknr": "BJNR012730965BJNE027900360",
+      "title": "Direkteinspeisung",
+      "body_empty": false
+    },
+    {
+      "id": "p21",
+      "label": "§ 21",
+      "doknr": "BJNR012730965BJNE006100315",
+      "title": "Recht der Wiedergabe durch Bild- oder Tonträger",
+      "body_empty": false
+    },
+    {
+      "id": "p22",
+      "label": "§ 22",
+      "doknr": "BJNR012730965BJNE006201377",
+      "title": "Recht der Wiedergabe von Funksendungen und von öffentlicher\nZugänglichmachung",
+      "body_empty": false
+    },
+    {
+      "id": "p23",
+      "label": "§ 23",
+      "doknr": "BJNR012730965BJNE006303360",
+      "title": "Bearbeitungen und Umgestaltungen",
+      "body_empty": false
+    },
+    {
+      "id": "p24",
+      "label": "§ 24",
+      "doknr": "BJNR012730965BJNE006401360",
+      "title": "(weggefallen)",
+      "body_empty": true
+    },
+    {
+      "id": "p25",
+      "label": "§ 25",
+      "doknr": "BJNR012730965BJNE006500315",
+      "title": "Zugang zu Werkstücken",
+      "body_empty": false
+    },
+    {
+      "id": "p26",
+      "label": "§ 26",
+      "doknr": "BJNR012730965BJNE006603377",
+      "title": "Folgerecht",
+      "body_empty": false
+    },
+    {
+      "id": "p27",
+      "label": "§ 27",
+      "doknr": "BJNR012730965BJNE006701307",
+      "title": "Vergütung für Vermietung und Verleihen",
+      "body_empty": false
+    },
+    {
+      "id": "p28",
+      "label": "§ 28",
+      "doknr": "BJNR012730965BJNE006800315",
+      "title": "Vererbung des Urheberrechts",
+      "body_empty": false
+    },
+    {
+      "id": "p29",
+      "label": "§ 29",
+      "doknr": "BJNR012730965BJNE006901377",
+      "title": "Rechtsgeschäfte über das Urheberrecht",
+      "body_empty": false
+    },
+    {
+      "id": "p30",
+      "label": "§ 30",
+      "doknr": "BJNR012730965BJNE007000315",
+      "title": "Rechtsnachfolger des Urhebers",
+      "body_empty": false
+    },
+    {
+      "id": "p31",
+      "label": "§ 31",
+      "doknr": "BJNR012730965BJNE007102377",
+      "title": "Einräumung von Nutzungsrechten",
+      "body_empty": false
+    },
+    {
+      "id": "p31a",
+      "label": "§ 31a",
+      "doknr": "BJNR012730965BJNE007104125",
+      "title": "Verträge über unbekannte Nutzungsarten",
+      "body_empty": false
+    },
+    {
+      "id": "p32",
+      "label": "§ 32",
+      "doknr": "BJNR012730965BJNE007203360",
+      "title": "Angemessene Vergütung",
+      "body_empty": false
+    },
+    {
+      "id": "p32a",
+      "label": "§ 32a",
+      "doknr": "BJNR012730965BJNE022203360",
+      "title": "Weitere Beteiligung des Urhebers",
+      "body_empty": false
+    },
+    {
+      "id": "p32b",
+      "label": "§ 32b",
+      "doknr": "BJNR012730965BJNE022301360",
+      "title": "Zwingende Anwendung",
+      "body_empty": false
+    },
+    {
+      "id": "p32c",
+      "label": "§ 32c",
+      "doknr": "BJNR012730965BJNE024000377",
+      "title": "Vergütung für später bekannte Nutzungsarten",
+      "body_empty": false
+    },
+    {
+      "id": "p32d",
+      "label": "§ 32d",
+      "doknr": "BJNR012730965BJNE025801360",
+      "title": "Auskunft und Rechenschaft des Vertragspartners",
+      "body_empty": false
+    },
+    {
+      "id": "p32e",
+      "label": "§ 32e",
+      "doknr": "BJNR012730965BJNE025901360",
+      "title": "Auskunft und Rechenschaft Dritter in der Lizenzkette",
+      "body_empty": false
+    },
+    {
+      "id": "p32f",
+      "label": "§ 32f",
+      "doknr": "BJNR012730965BJNE028000360",
+      "title": "Mediation und außergerichtliche Konfliktbeilegung",
+      "body_empty": false
+    },
+    {
+      "id": "p32g",
+      "label": "§ 32g",
+      "doknr": "BJNR012730965BJNE028100360",
+      "title": "Vertretung durch Vereinigungen",
+      "body_empty": false
+    },
+    {
+      "id": "p33",
+      "label": "§ 33",
+      "doknr": "BJNR012730965BJNE007301377",
+      "title": "Weiterwirkung von Nutzungsrechten",
+      "body_empty": false
+    },
+    {
+      "id": "p34",
+      "label": "§ 34",
+      "doknr": "BJNR012730965BJNE007401377",
+      "title": "Übertragung von Nutzungsrechten",
+      "body_empty": false
+    },
+    {
+      "id": "p35",
+      "label": "§ 35",
+      "doknr": "BJNR012730965BJNE007501377",
+      "title": "Einräumung weiterer Nutzungsrechte",
+      "body_empty": false
+    },
+    {
+      "id": "p35a",
+      "label": "§ 35a",
+      "doknr": "BJNR012730965BJNE028200360",
+      "title": "Mediation und außergerichtliche Konfliktbeilegung bei Videoabrufdiensten",
+      "body_empty": false
+    },
+    {
+      "id": "p36",
+      "label": "§ 36",
+      "doknr": "BJNR012730965BJNE007604360",
+      "title": "Gemeinsame Vergütungsregeln",
+      "body_empty": false
+    },
+    {
+      "id": "p36a",
+      "label": "§ 36a",
+      "doknr": "BJNR012730965BJNE022403123",
+      "title": "Schlichtungsstelle",
+      "body_empty": false
+    },
+    {
+      "id": "p36b",
+      "label": "§ 36b",
+      "doknr": "BJNR012730965BJNE026001360",
+      "title": "Unterlassungsanspruch bei Verstoß gegen gemeinsame Vergütungsregeln",
+      "body_empty": false
+    },
+    {
+      "id": "p36c",
+      "label": "§ 36c",
+      "doknr": "BJNR012730965BJNE026100123",
+      "title": "Individualvertragliche Folgen des Verstoßes gegen gemeinsame Vergütungsregeln",
+      "body_empty": false
+    },
+    {
+      "id": "p36d",
+      "label": "§ 36d",
+      "doknr": "BJNR012730965BJNE028300360",
+      "title": "Unterlassungsanspruch bei Nichterteilung von Auskünften",
+      "body_empty": false
+    },
+    {
+      "id": "p37",
+      "label": "§ 37",
+      "doknr": "BJNR012730965BJNE007700315",
+      "title": "Verträge über die Einräumung von Nutzungsrechten",
+      "body_empty": false
+    },
+    {
+      "id": "p38",
+      "label": "§ 38",
+      "doknr": "BJNR012730965BJNE007801360",
+      "title": "Beiträge zu Sammlungen",
+      "body_empty": false
+    },
+    {
+      "id": "p39",
+      "label": "§ 39",
+      "doknr": "BJNR012730965BJNE007900315",
+      "title": "Änderungen des Werkes",
+      "body_empty": false
+    },
+    {
+      "id": "p40",
+      "label": "§ 40",
+      "doknr": "BJNR012730965BJNE008001125",
+      "title": "Verträge über künftige Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p40a",
+      "label": "§ 40a",
+      "doknr": "BJNR012730965BJNE026200123",
+      "title": "Recht zur anderweitigen Verwertung nach zehn Jahren bei pauschaler Vergütung",
+      "body_empty": false
+    },
+    {
+      "id": "p41",
+      "label": "§ 41",
+      "doknr": "BJNR012730965BJNE008102360",
+      "title": "Rückrufsrecht wegen Nichtausübung",
+      "body_empty": false
+    },
+    {
+      "id": "p42",
+      "label": "§ 42",
+      "doknr": "BJNR012730965BJNE008200315",
+      "title": "Rückrufsrecht wegen gewandelter Überzeugung",
+      "body_empty": false
+    },
+    {
+      "id": "p42a",
+      "label": "§ 42a",
+      "doknr": "BJNR012730965BJNE022802301",
+      "title": "Zwangslizenz zur Herstellung von Tonträgern",
+      "body_empty": false
+    },
+    {
+      "id": "p43",
+      "label": "§ 43",
+      "doknr": "BJNR012730965BJNE008300315",
+      "title": "Urheber in Arbeits- oder Dienstverhältnissen",
+      "body_empty": false
+    },
+    {
+      "id": "p44",
+      "label": "§ 44",
+      "doknr": "BJNR012730965BJNE008400315",
+      "title": "Veräußerung des Originals des Werkes",
+      "body_empty": false
+    },
+    {
+      "id": "p44a",
+      "label": "§ 44a",
+      "doknr": "BJNR012730965BJNE022900377",
+      "title": "Vorübergehende Vervielfältigungshandlungen",
+      "body_empty": false
+    },
+    {
+      "id": "p44b",
+      "label": "§ 44b",
+      "doknr": "BJNR012730965BJNE028400360",
+      "title": "Text und Data Mining",
+      "body_empty": false
+    },
+    {
+      "id": "p45",
+      "label": "§ 45",
+      "doknr": "BJNR012730965BJNE008500315",
+      "title": "Rechtspflege und öffentliche Sicherheit",
+      "body_empty": false
+    },
+    {
+      "id": "p45a",
+      "label": "§ 45a",
+      "doknr": "BJNR012730965BJNE023001360",
+      "title": "Menschen mit Behinderungen",
+      "body_empty": false
+    },
+    {
+      "id": "p45b",
+      "label": "§ 45b",
+      "doknr": "BJNR012730965BJNE027500360",
+      "title": "Menschen mit einer Seh- oder Lesebehinderung",
+      "body_empty": false
+    },
+    {
+      "id": "p45c",
+      "label": "§ 45c",
+      "doknr": "BJNR012730965BJNE027601360",
+      "title": "Befugte Stellen; Vergütung; Verordnungsermächtigung",
+      "body_empty": false
+    },
+    {
+      "id": "p45d",
+      "label": "§ 45d",
+      "doknr": "BJNR012730965BJNE027700360",
+      "title": "Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis",
+      "body_empty": false
+    },
+    {
+      "id": "p46",
+      "label": "§ 46",
+      "doknr": "BJNR012730965BJNE008603123",
+      "title": "Sammlungen für den religiösen Gebrauch",
+      "body_empty": false
+    },
+    {
+      "id": "p47",
+      "label": "§ 47",
+      "doknr": "BJNR012730965BJNE008701304",
+      "title": "Schulfunksendungen",
+      "body_empty": false
+    },
+    {
+      "id": "p48",
+      "label": "§ 48",
+      "doknr": "BJNR012730965BJNE008801377",
+      "title": "Öffentliche Reden",
+      "body_empty": false
+    },
+    {
+      "id": "p49",
+      "label": "§ 49",
+      "doknr": "BJNR012730965BJNE008902377",
+      "title": "Zeitungsartikel und Rundfunkkommentare",
+      "body_empty": false
+    },
+    {
+      "id": "p50",
+      "label": "§ 50",
+      "doknr": "BJNR012730965BJNE009001377",
+      "title": "Berichterstattung über Tagesereignisse",
+      "body_empty": false
+    },
+    {
+      "id": "p51",
+      "label": "§ 51",
+      "doknr": "BJNR012730965BJNE009102123",
+      "title": "Zitate",
+      "body_empty": false
+    },
+    {
+      "id": "p51a",
+      "label": "§ 51a",
+      "doknr": "BJNR012730965BJNE028500360",
+      "title": "Karikatur, Parodie und Pastiche",
+      "body_empty": false
+    },
+    {
+      "id": "p52",
+      "label": "§ 52",
+      "doknr": "BJNR012730965BJNE009203123",
+      "title": "Öffentliche Wiedergabe",
+      "body_empty": false
+    },
+    {
+      "id": "p52a-52b",
+      "label": "(XXXX) §§ 52a und 52b",
+      "doknr": "BJNR012730965BJNE023101123",
+      "title": "(weggefallen)",
+      "body_empty": true
+    },
+    {
+      "id": "p53",
+      "label": "§ 53",
+      "doknr": "BJNR012730965BJNE009306123",
+      "title": "Vervielfältigungen zum privaten und sonstigen eigenen Gebrauch",
+      "body_empty": false
+    },
+    {
+      "id": "p53a",
+      "label": "§ 53a",
+      "doknr": "BJNR012730965BJNE024201123",
+      "title": "(weggefallen)",
+      "body_empty": true
+    },
+    {
+      "id": "p54",
+      "label": "§ 54",
+      "doknr": "BJNR012730965BJNE009405123",
+      "title": "Vergütungspflicht",
+      "body_empty": false
+    },
+    {
+      "id": "p54a",
+      "label": "§ 54a",
+      "doknr": "BJNR012730965BJNE020002123",
+      "title": "Vergütungshöhe",
+      "body_empty": false
+    },
+    {
+      "id": "p54b",
+      "label": "§ 54b",
+      "doknr": "BJNR012730965BJNE020102140",
+      "title": "Vergütungspflicht des Händlers oder Importeurs",
+      "body_empty": false
+    },
+    {
+      "id": "p54c",
+      "label": "§ 54c",
+      "doknr": "BJNR012730965BJNE020202123",
+      "title": "Vergütungspflicht des Betreibers von Ablichtungsgeräten",
+      "body_empty": false
+    },
+    {
+      "id": "p54d",
+      "label": "§ 54d",
+      "doknr": "BJNR012730965BJNE020302129",
+      "title": "Hinweispflicht",
+      "body_empty": false
+    },
+    {
+      "id": "p54e",
+      "label": "§ 54e",
+      "doknr": "BJNR012730965BJNE020401377",
+      "title": "Meldepflicht",
+      "body_empty": false
+    },
+    {
+      "id": "p54f",
+      "label": "§ 54f",
+      "doknr": "BJNR012730965BJNE020502140",
+      "title": "Auskunftspflicht",
+      "body_empty": false
+    },
+    {
+      "id": "p54g",
+      "label": "§ 54g",
+      "doknr": "BJNR012730965BJNE020601377",
+      "title": "Kontrollbesuch",
+      "body_empty": false
+    },
+    {
+      "id": "p54h",
+      "label": "§ 54h",
+      "doknr": "BJNR012730965BJNE020702360",
+      "title": "Verwertungsgesellschaften; Handhabung der Mitteilungen",
+      "body_empty": false
+    },
+    {
+      "id": "p55",
+      "label": "§ 55",
+      "doknr": "BJNR012730965BJNE009500315",
+      "title": "Vervielfältigung durch Sendeunternehmen",
+      "body_empty": false
+    },
+    {
+      "id": "p55a",
+      "label": "§ 55a",
+      "doknr": "BJNR012730965BJNE021000307",
+      "title": "Benutzung eines Datenbankwerkes",
+      "body_empty": false
+    },
+    {
+      "id": "p56",
+      "label": "§ 56",
+      "doknr": "BJNR012730965BJNE009601377",
+      "title": "Vervielfältigung und öffentliche Wiedergabe in Geschäftsbetrieben",
+      "body_empty": false
+    },
+    {
+      "id": "p57",
+      "label": "§ 57",
+      "doknr": "BJNR012730965BJNE009700315",
+      "title": "Unwesentliches Beiwerk",
+      "body_empty": false
+    },
+    {
+      "id": "p58",
+      "label": "§ 58",
+      "doknr": "BJNR012730965BJNE009802123",
+      "title": "Werbung für die Ausstellung und den öffentlichen Verkauf von Werken",
+      "body_empty": false
+    },
+    {
+      "id": "p59",
+      "label": "§ 59",
+      "doknr": "BJNR012730965BJNE009900315",
+      "title": "Werke an öffentlichen Plätzen",
+      "body_empty": false
+    },
+    {
+      "id": "p60",
+      "label": "§ 60",
+      "doknr": "BJNR012730965BJNE010001377",
+      "title": "Bildnisse",
+      "body_empty": false
+    },
+    {
+      "id": "p60a",
+      "label": "§ 60a",
+      "doknr": "BJNR012730965BJNE026501360",
+      "title": "Unterricht und Lehre",
+      "body_empty": false
+    },
+    {
+      "id": "p60b",
+      "label": "§ 60b",
+      "doknr": "BJNR012730965BJNE026601360",
+      "title": "Unterrichts- und Lehrmedien",
+      "body_empty": false
+    },
+    {
+      "id": "p60c",
+      "label": "§ 60c",
+      "doknr": "BJNR012730965BJNE026700123",
+      "title": "Wissenschaftliche Forschung",
+      "body_empty": false
+    },
+    {
+      "id": "p60d",
+      "label": "§ 60d",
+      "doknr": "BJNR012730965BJNE026801360",
+      "title": "Text und Data Mining für Zwecke der wissenschaftlichen Forschung",
+      "body_empty": false
+    },
+    {
+      "id": "p60e",
+      "label": "§ 60e",
+      "doknr": "BJNR012730965BJNE026901360",
+      "title": "Bibliotheken",
+      "body_empty": false
+    },
+    {
+      "id": "p60f",
+      "label": "§ 60f",
+      "doknr": "BJNR012730965BJNE027001360",
+      "title": "Archive, Museen und Bildungseinrichtungen",
+      "body_empty": false
+    },
+    {
+      "id": "p60g",
+      "label": "§ 60g",
+      "doknr": "BJNR012730965BJNE027100123",
+      "title": "Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis",
+      "body_empty": false
+    },
+    {
+      "id": "p60h",
+      "label": "§ 60h",
+      "doknr": "BJNR012730965BJNE027201360",
+      "title": "Angemessene Vergütung der gesetzlich erlaubten Nutzungen",
+      "body_empty": false
+    },
+    {
+      "id": "p61",
+      "label": "§ 61",
+      "doknr": "BJNR012730965BJNE010102360",
+      "title": "Verwaiste Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p61a",
+      "label": "§ 61a",
+      "doknr": "BJNR012730965BJNE025401123",
+      "title": "Sorgfältige Suche und Dokumentationspflichten",
+      "body_empty": false
+    },
+    {
+      "id": "p61b",
+      "label": "§ 61b",
+      "doknr": "BJNR012730965BJNE025500360",
+      "title": "Beendigung der Nutzung und Vergütungspflicht der nutzenden Institution",
+      "body_empty": false
+    },
+    {
+      "id": "p61c",
+      "label": "§ 61c",
+      "doknr": "BJNR012730965BJNE025600360",
+      "title": "Nutzung verwaister Werke durch öffentlich-rechtliche Rundfunkanstalten",
+      "body_empty": false
+    },
+    {
+      "id": "p61d",
+      "label": "§ 61d",
+      "doknr": "BJNR012730965BJNE028600360",
+      "title": "Nicht verfügbare Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p61e",
+      "label": "§ 61e",
+      "doknr": "BJNR012730965BJNE028700360",
+      "title": "Verordnungsermächtigung",
+      "body_empty": false
+    },
+    {
+      "id": "p61f",
+      "label": "§ 61f",
+      "doknr": "BJNR012730965BJNE028800360",
+      "title": "Information über nicht verfügbare Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p61g",
+      "label": "§ 61g",
+      "doknr": "BJNR012730965BJNE028900360",
+      "title": "Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis",
+      "body_empty": false
+    },
+    {
+      "id": "p62",
+      "label": "§ 62",
+      "doknr": "BJNR012730965BJNE010204360",
+      "title": "Änderungsverbot",
+      "body_empty": false
+    },
+    {
+      "id": "p63",
+      "label": "§ 63",
+      "doknr": "BJNR012730965BJNE010306360",
+      "title": "Quellenangabe",
+      "body_empty": false
+    },
+    {
+      "id": "p63a",
+      "label": "§ 63a",
+      "doknr": "BJNR012730965BJNE022502360",
+      "title": "Gesetzliche Vergütungsansprüche",
+      "body_empty": false
+    },
+    {
+      "id": "p64",
+      "label": "§ 64",
+      "doknr": "BJNR012730965BJNE010401307",
+      "title": "Allgemeines",
+      "body_empty": false
+    },
+    {
+      "id": "p65",
+      "label": "§ 65",
+      "doknr": "BJNR012730965BJNE010502360",
+      "title": "Miturheber, Filmwerke, Musikkomposition mit Text",
+      "body_empty": false
+    },
+    {
+      "id": "p66",
+      "label": "§ 66",
+      "doknr": "BJNR012730965BJNE010602377",
+      "title": "Anonyme und pseudonyme Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p67",
+      "label": "§ 67",
+      "doknr": "BJNR012730965BJNE010701307",
+      "title": "Lieferungswerke",
+      "body_empty": false
+    },
+    {
+      "id": "p68",
+      "label": "§ 68",
+      "doknr": "BJNR012730965BJNE010802360",
+      "title": "Vervielfältigungen gemeinfreier visueller Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p69",
+      "label": "§ 69",
+      "doknr": "BJNR012730965BJNE010900315",
+      "title": "Berechnung der Fristen",
+      "body_empty": false
+    },
+    {
+      "id": "p69a",
+      "label": "§ 69a",
+      "doknr": "BJNR012730965BJNE019203360",
+      "title": "Gegenstand des Schutzes",
+      "body_empty": false
+    },
+    {
+      "id": "p69b",
+      "label": "§ 69b",
+      "doknr": "BJNR012730965BJNE019300305",
+      "title": "Urheber in Arbeits- und Dienstverhältnissen",
+      "body_empty": false
+    },
+    {
+      "id": "p69c",
+      "label": "§ 69c",
+      "doknr": "BJNR012730965BJNE019403377",
+      "title": "Zustimmungsbedürftige Handlungen",
+      "body_empty": false
+    },
+    {
+      "id": "p69d",
+      "label": "§ 69d",
+      "doknr": "BJNR012730965BJNE019501360",
+      "title": "Ausnahmen von den zustimmungsbedürftigen Handlungen",
+      "body_empty": false
+    },
+    {
+      "id": "p69e",
+      "label": "§ 69e",
+      "doknr": "BJNR012730965BJNE019600305",
+      "title": "Dekompilierung",
+      "body_empty": false
+    },
+    {
+      "id": "p69f",
+      "label": "§ 69f",
+      "doknr": "BJNR012730965BJNE019702360",
+      "title": "Rechtsverletzungen; ergänzende Schutzbestimmungen",
+      "body_empty": false
+    },
+    {
+      "id": "p69g",
+      "label": "§ 69g",
+      "doknr": "BJNR012730965BJNE019802360",
+      "title": "Anwendung sonstiger Rechtsvorschriften, Vertragsrecht",
+      "body_empty": false
+    },
+    {
+      "id": "p70",
+      "label": "§ 70",
+      "doknr": "BJNR012730965BJNE011002377",
+      "title": "Wissenschaftliche Ausgaben",
+      "body_empty": false
+    },
+    {
+      "id": "p71",
+      "label": "§ 71",
+      "doknr": "BJNR012730965BJNE011106360",
+      "title": "Nachgelassene Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p72",
+      "label": "§ 72",
+      "doknr": "BJNR012730965BJNE011203377",
+      "title": "Lichtbilder",
+      "body_empty": false
+    },
+    {
+      "id": "p73",
+      "label": "§ 73",
+      "doknr": "BJNR012730965BJNE011301377",
+      "title": "Ausübender Künstler",
+      "body_empty": false
+    },
+    {
+      "id": "p74",
+      "label": "§ 74",
+      "doknr": "BJNR012730965BJNE011402140",
+      "title": "Anerkennung als ausübender Künstler",
+      "body_empty": false
+    },
+    {
+      "id": "p75",
+      "label": "§ 75",
+      "doknr": "BJNR012730965BJNE011503377",
+      "title": "Beeinträchtigungen der Darbietung",
+      "body_empty": false
+    },
+    {
+      "id": "p76",
+      "label": "§ 76",
+      "doknr": "BJNR012730965BJNE011602377",
+      "title": "Dauer der Persönlichkeitsrechte",
+      "body_empty": false
+    },
+    {
+      "id": "p77",
+      "label": "§ 77",
+      "doknr": "BJNR012730965BJNE011701377",
+      "title": "Aufnahme, Vervielfältigung und Verbreitung",
+      "body_empty": false
+    },
+    {
+      "id": "p78",
+      "label": "§ 78",
+      "doknr": "BJNR012730965BJNE011802377",
+      "title": "Öffentliche Wiedergabe",
+      "body_empty": false
+    },
+    {
+      "id": "p79",
+      "label": "§ 79",
+      "doknr": "BJNR012730965BJNE011904123",
+      "title": "Nutzungsrechte",
+      "body_empty": false
+    },
+    {
+      "id": "p79a",
+      "label": "§ 79a",
+      "doknr": "BJNR012730965BJNE025100360",
+      "title": "Vergütungsanspruch des ausübenden Künstlers",
+      "body_empty": false
+    },
+    {
+      "id": "p79b",
+      "label": "§ 79b",
+      "doknr": "BJNR012730965BJNE026300123",
+      "title": "Vergütung des ausübenden Künstlers für später bekannte Nutzungsarten",
+      "body_empty": false
+    },
+    {
+      "id": "p80",
+      "label": "§ 80",
+      "doknr": "BJNR012730965BJNE012003360",
+      "title": "Gemeinsame Darbietung mehrerer ausübender Künstler",
+      "body_empty": false
+    },
+    {
+      "id": "p81",
+      "label": "§ 81",
+      "doknr": "BJNR012730965BJNE012104140",
+      "title": "Schutz des Veranstalters",
+      "body_empty": false
+    },
+    {
+      "id": "p82",
+      "label": "§ 82",
+      "doknr": "BJNR012730965BJNE012204360",
+      "title": "Dauer der Verwertungsrechte",
+      "body_empty": false
+    },
+    {
+      "id": "p83",
+      "label": "§ 83",
+      "doknr": "BJNR012730965BJNE012302377",
+      "title": "Schranken der Verwertungsrechte",
+      "body_empty": false
+    },
+    {
+      "id": "p84",
+      "label": "§ 84",
+      "doknr": "BJNR012730965BJNE012401377",
+      "title": "(weggefallen)",
+      "body_empty": false
+    },
+    {
+      "id": "p85",
+      "label": "§ 85",
+      "doknr": "BJNR012730965BJNE012507360",
+      "title": "Verwertungsrechte",
+      "body_empty": false
+    },
+    {
+      "id": "p86",
+      "label": "§ 86",
+      "doknr": "BJNR012730965BJNE012601377",
+      "title": "Anspruch auf Beteiligung",
+      "body_empty": false
+    },
+    {
+      "id": "p87",
+      "label": "§ 87",
+      "doknr": "BJNR012730965BJNE012708360",
+      "title": "Sendeunternehmen",
+      "body_empty": false
+    },
+    {
+      "id": "p87a",
+      "label": "§ 87a",
+      "doknr": "BJNR012730965BJNE021100307",
+      "title": "Begriffsbestimmungen",
+      "body_empty": false
+    },
+    {
+      "id": "p87b",
+      "label": "§ 87b",
+      "doknr": "BJNR012730965BJNE021202129",
+      "title": "Rechte des Datenbankherstellers",
+      "body_empty": false
+    },
+    {
+      "id": "p87c",
+      "label": "§ 87c",
+      "doknr": "BJNR012730965BJNE021304360",
+      "title": "Schranken des Rechts des Datenbankherstellers",
+      "body_empty": false
+    },
+    {
+      "id": "p87d",
+      "label": "§ 87d",
+      "doknr": "BJNR012730965BJNE021400307",
+      "title": "Dauer der Rechte",
+      "body_empty": false
+    },
+    {
+      "id": "p87e",
+      "label": "§ 87e",
+      "doknr": "BJNR012730965BJNE021500307",
+      "title": "Verträge über die Benutzung einer Datenbank",
+      "body_empty": false
+    },
+    {
+      "id": "p87f",
+      "label": "§ 87f",
+      "doknr": "BJNR012730965BJNE024801360",
+      "title": "Begriffsbestimmungen",
+      "body_empty": false
+    },
+    {
+      "id": "p87g",
+      "label": "§ 87g",
+      "doknr": "BJNR012730965BJNE024901360",
+      "title": "Rechte des Presseverlegers",
+      "body_empty": false
+    },
+    {
+      "id": "p87h",
+      "label": "§ 87h",
+      "doknr": "BJNR012730965BJNE025001360",
+      "title": "Ausübung der Rechte des Presseverlegers",
+      "body_empty": false
+    },
+    {
+      "id": "p87i",
+      "label": "§ 87i",
+      "doknr": "BJNR012730965BJNE029000360",
+      "title": "Vermutung der Rechtsinhaberschaft; gesetzlich erlaubte Nutzungen",
+      "body_empty": false
+    },
+    {
+      "id": "p87j",
+      "label": "§ 87j",
+      "doknr": "BJNR012730965BJNE029100360",
+      "title": "Dauer der Rechte des Presseverlegers",
+      "body_empty": false
+    },
+    {
+      "id": "p87k",
+      "label": "§ 87k",
+      "doknr": "BJNR012730965BJNE029200360",
+      "title": "Beteiligungsanspruch",
+      "body_empty": false
+    },
+    {
+      "id": "p88",
+      "label": "§ 88",
+      "doknr": "BJNR012730965BJNE012804125",
+      "title": "Recht zur Verfilmung",
+      "body_empty": false
+    },
+    {
+      "id": "p89",
+      "label": "§ 89",
+      "doknr": "BJNR012730965BJNE012903125",
+      "title": "Rechte am Filmwerk",
+      "body_empty": false
+    },
+    {
+      "id": "p90",
+      "label": "§ 90",
+      "doknr": "BJNR012730965BJNE013002123",
+      "title": "Einschränkung der Rechte",
+      "body_empty": false
+    },
+    {
+      "id": "p91",
+      "label": "§ 91",
+      "doknr": "BJNR012730965BJNE013101377",
+      "title": "(weggefallen)",
+      "body_empty": false
+    },
+    {
+      "id": "p92",
+      "label": "§ 92",
+      "doknr": "BJNR012730965BJNE013202377",
+      "title": "Ausübende Künstler",
+      "body_empty": false
+    },
+    {
+      "id": "p93",
+      "label": "§ 93",
+      "doknr": "BJNR012730965BJNE013301377",
+      "title": "Schutz gegen Entstellung; Namensnennung",
+      "body_empty": false
+    },
+    {
+      "id": "p94",
+      "label": "§ 94",
+      "doknr": "BJNR012730965BJNE013406140",
+      "title": "Schutz des Filmherstellers",
+      "body_empty": false
+    },
+    {
+      "id": "p95",
+      "label": "§ 95",
+      "doknr": "BJNR012730965BJNE013502377",
+      "title": "Laufbilder",
+      "body_empty": false
+    },
+    {
+      "id": "p95a",
+      "label": "§ 95a",
+      "doknr": "BJNR012730965BJNE023201360",
+      "title": "Schutz technischer Maßnahmen",
+      "body_empty": false
+    },
+    {
+      "id": "p95b",
+      "label": "§ 95b",
+      "doknr": "BJNR012730965BJNE023304360",
+      "title": "Durchsetzung von Schrankenbestimmungen",
+      "body_empty": false
+    },
+    {
+      "id": "p95c",
+      "label": "§ 95c",
+      "doknr": "BJNR012730965BJNE023400377",
+      "title": "Schutz der zur Rechtewahrnehmung erforderlichen Informationen",
+      "body_empty": false
+    },
+    {
+      "id": "p95d",
+      "label": "§ 95d",
+      "doknr": "BJNR012730965BJNE023502360",
+      "title": "Kennzeichnungspflichten",
+      "body_empty": false
+    },
+    {
+      "id": "p96",
+      "label": "§ 96",
+      "doknr": "BJNR012730965BJNE013601377",
+      "title": "Verwertungsverbot",
+      "body_empty": false
+    },
+    {
+      "id": "p97",
+      "label": "§ 97",
+      "doknr": "BJNR012730965BJNE013702140",
+      "title": "Anspruch auf Unterlassung und Schadensersatz",
+      "body_empty": false
+    },
+    {
+      "id": "p97a",
+      "label": "§ 97a",
+      "doknr": "BJNR012730965BJNE024402360",
+      "title": "Abmahnung",
+      "body_empty": false
+    },
+    {
+      "id": "p98",
+      "label": "§ 98",
+      "doknr": "BJNR012730965BJNE013802140",
+      "title": "Anspruch auf Vernichtung, Rückruf und Überlassung",
+      "body_empty": false
+    },
+    {
+      "id": "p99",
+      "label": "§ 99",
+      "doknr": "BJNR012730965BJNE013902140",
+      "title": "Haftung des Inhabers eines Unternehmens",
+      "body_empty": false
+    },
+    {
+      "id": "p100",
+      "label": "§ 100",
+      "doknr": "BJNR012730965BJNE014001140",
+      "title": "Entschädigung",
+      "body_empty": false
+    },
+    {
+      "id": "p101",
+      "label": "§ 101",
+      "doknr": "BJNR012730965BJNE014104360",
+      "title": "Anspruch auf Auskunft",
+      "body_empty": false
+    },
+    {
+      "id": "p101a",
+      "label": "§ 101a",
+      "doknr": "BJNR012730965BJNE018801140",
+      "title": "Anspruch auf Vorlage und Besichtigung",
+      "body_empty": false
+    },
+    {
+      "id": "p101b",
+      "label": "§ 101b",
+      "doknr": "BJNR012730965BJNE024500140",
+      "title": "Sicherung von Schadensersatzansprüchen",
+      "body_empty": false
+    },
+    {
+      "id": "p102",
+      "label": "§ 102",
+      "doknr": "BJNR012730965BJNE014202377",
+      "title": "Verjährung",
+      "body_empty": false
+    },
+    {
+      "id": "p102a",
+      "label": "§ 102a",
+      "doknr": "BJNR012730965BJNE024600140",
+      "title": "Ansprüche aus anderen gesetzlichen Vorschriften",
+      "body_empty": false
+    },
+    {
+      "id": "p103",
+      "label": "§ 103",
+      "doknr": "BJNR012730965BJNE014301140",
+      "title": "Bekanntmachung des Urteils",
+      "body_empty": false
+    },
+    {
+      "id": "p104",
+      "label": "§ 104",
+      "doknr": "BJNR012730965BJNE014400315",
+      "title": "Rechtsweg",
+      "body_empty": false
+    },
+    {
+      "id": "p104a",
+      "label": "§ 104a",
+      "doknr": "BJNR012730965BJNE025300360",
+      "title": "Gerichtsstand",
+      "body_empty": false
+    },
+    {
+      "id": "p105",
+      "label": "§ 105",
+      "doknr": "BJNR012730965BJNE014503377",
+      "title": "Gerichte für Urheberrechtsstreitsachen",
+      "body_empty": false
+    },
+    {
+      "id": "p106",
+      "label": "§ 106",
+      "doknr": "BJNR012730965BJNE014601309",
+      "title": "Unerlaubte Verwertung urheberrechtlich geschützter Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p107",
+      "label": "§ 107",
+      "doknr": "BJNR012730965BJNE014701309",
+      "title": "Unzulässiges Anbringen der Urheberbezeichnung",
+      "body_empty": false
+    },
+    {
+      "id": "p108",
+      "label": "§ 108",
+      "doknr": "BJNR012730965BJNE014804377",
+      "title": "Unerlaubte Eingriffe in verwandte Schutzrechte",
+      "body_empty": false
+    },
+    {
+      "id": "p108a",
+      "label": "§ 108a",
+      "doknr": "BJNR012730965BJNE018501309",
+      "title": "Gewerbsmäßige unerlaubte Verwertung",
+      "body_empty": false
+    },
+    {
+      "id": "p108b",
+      "label": "§ 108b",
+      "doknr": "BJNR012730965BJNE023600377",
+      "title": "Unerlaubte Eingriffe in technische Schutzmaßnahmen und\nzur Rechtewahrnehmung erforderliche Informationen",
+      "body_empty": false
+    },
+    {
+      "id": "p109",
+      "label": "§ 109",
+      "doknr": "BJNR012730965BJNE014902377",
+      "title": "Strafantrag",
+      "body_empty": false
+    },
+    {
+      "id": "p110",
+      "label": "§ 110",
+      "doknr": "BJNR012730965BJNE015005140",
+      "title": "Einziehung",
+      "body_empty": false
+    },
+    {
+      "id": "p111",
+      "label": "§ 111",
+      "doknr": "BJNR012730965BJNE015102377",
+      "title": "Bekanntgabe der Verurteilung",
+      "body_empty": false
+    },
+    {
+      "id": "p111a",
+      "label": "§ 111a",
+      "doknr": "BJNR012730965BJNE023702360",
+      "title": "Bußgeldvorschriften",
+      "body_empty": false
+    },
+    {
+      "id": "p111b",
+      "label": "§ 111b",
+      "doknr": "BJNR012730965BJNE018908123",
+      "title": "Verfahren nach deutschem Recht",
+      "body_empty": false
+    },
+    {
+      "id": "p111c",
+      "label": "§ 111c",
+      "doknr": "BJNR012730965BJNE024701123",
+      "title": "Verfahren nach der Verordnung (EU) Nr. 608/2013",
+      "body_empty": false
+    },
+    {
+      "id": "p112",
+      "label": "§ 112",
+      "doknr": "BJNR012730965BJNE015201377",
+      "title": "Allgemeines",
+      "body_empty": false
+    },
+    {
+      "id": "p113",
+      "label": "§ 113",
+      "doknr": "BJNR012730965BJNE015300315",
+      "title": "Urheberrecht",
+      "body_empty": false
+    },
+    {
+      "id": "p114",
+      "label": "§ 114",
+      "doknr": "BJNR012730965BJNE015400315",
+      "title": "Originale von Werken",
+      "body_empty": false
+    },
+    {
+      "id": "p115",
+      "label": "§ 115",
+      "doknr": "BJNR012730965BJNE015500315",
+      "title": "Urheberrecht",
+      "body_empty": false
+    },
+    {
+      "id": "p116",
+      "label": "§ 116",
+      "doknr": "BJNR012730965BJNE015600315",
+      "title": "Originale von Werken",
+      "body_empty": false
+    },
+    {
+      "id": "p117",
+      "label": "§ 117",
+      "doknr": "BJNR012730965BJNE015700315",
+      "title": "Testamentsvollstrecker",
+      "body_empty": false
+    },
+    {
+      "id": "p118",
+      "label": "§ 118",
+      "doknr": "BJNR012730965BJNE015801377",
+      "title": "Entsprechende Anwendung",
+      "body_empty": false
+    },
+    {
+      "id": "p119",
+      "label": "§ 119",
+      "doknr": "BJNR012730965BJNE015903377",
+      "title": "Zwangsvollstreckung in bestimmte Vorrichtungen",
+      "body_empty": false
+    },
+    {
+      "id": "p120",
+      "label": "§ 120",
+      "doknr": "BJNR012730965BJNE016001307",
+      "title": "Deutsche Staatsangehörige und Staatsangehörige\nanderer EU-Staaten und EWR-Staaten",
+      "body_empty": false
+    },
+    {
+      "id": "p121",
+      "label": "§ 121",
+      "doknr": "BJNR012730965BJNE016101301",
+      "title": "Ausländische Staatsangehörige",
+      "body_empty": false
+    },
+    {
+      "id": "p122",
+      "label": "§ 122",
+      "doknr": "BJNR012730965BJNE016200315",
+      "title": "Staatenlose",
+      "body_empty": false
+    },
+    {
+      "id": "p123",
+      "label": "§ 123",
+      "doknr": "BJNR012730965BJNE016300315",
+      "title": "Ausländische Flüchtlinge",
+      "body_empty": false
+    },
+    {
+      "id": "p124",
+      "label": "§ 124",
+      "doknr": "BJNR012730965BJNE016400315",
+      "title": "Wissenschaftliche Ausgaben und Lichtbilder",
+      "body_empty": false
+    },
+    {
+      "id": "p125",
+      "label": "§ 125",
+      "doknr": "BJNR012730965BJNE016503377",
+      "title": "Schutz des ausübenden Künstlers",
+      "body_empty": false
+    },
+    {
+      "id": "p126",
+      "label": "§ 126",
+      "doknr": "BJNR012730965BJNE016603377",
+      "title": "Schutz des Herstellers von Tonträgern",
+      "body_empty": false
+    },
+    {
+      "id": "p127",
+      "label": "§ 127",
+      "doknr": "BJNR012730965BJNE016703377",
+      "title": "Schutz des Sendeunternehmens",
+      "body_empty": false
+    },
+    {
+      "id": "p127a",
+      "label": "§ 127a",
+      "doknr": "BJNR012730965BJNE021601301",
+      "title": "Schutz des Datenbankherstellers",
+      "body_empty": false
+    },
+    {
+      "id": "p127b",
+      "label": "§ 127b",
+      "doknr": "BJNR012730965BJNE029300360",
+      "title": "Schutz des Presseverlegers",
+      "body_empty": false
+    },
+    {
+      "id": "p128",
+      "label": "§ 128",
+      "doknr": "BJNR012730965BJNE016801307",
+      "title": "Schutz des Filmherstellers",
+      "body_empty": false
+    },
+    {
+      "id": "p129",
+      "label": "§ 129",
+      "doknr": "BJNR012730965BJNE016900315",
+      "title": "Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p130",
+      "label": "§ 130",
+      "doknr": "BJNR012730965BJNE017000315",
+      "title": "Übersetzungen",
+      "body_empty": false
+    },
+    {
+      "id": "p131",
+      "label": "§ 131",
+      "doknr": "BJNR012730965BJNE017100315",
+      "title": "Vertonte Sprachwerke",
+      "body_empty": false
+    },
+    {
+      "id": "p132",
+      "label": "§ 132",
+      "doknr": "BJNR012730965BJNE017205125",
+      "title": "Verträge",
+      "body_empty": false
+    },
+    {
+      "id": "p133",
+      "label": "§ 133",
+      "doknr": "BJNR012730965BJNE017301360",
+      "title": "Übergangsregelung bei der Umsetzung vertragsrechtlicher Bestimmungen der Richtlinie (EU) 2019/790",
+      "body_empty": false
+    },
+    {
+      "id": "p134",
+      "label": "§ 134",
+      "doknr": "BJNR012730965BJNE017400315",
+      "title": "Urheber",
+      "body_empty": false
+    },
+    {
+      "id": "p135",
+      "label": "§ 135",
+      "doknr": "BJNR012730965BJNE017500315",
+      "title": "Inhaber verwandter Schutzrechte",
+      "body_empty": false
+    },
+    {
+      "id": "p135a",
+      "label": "§ 135a",
+      "doknr": "BJNR012730965BJNE017600315",
+      "title": "Berechnung der Schutzfrist",
+      "body_empty": false
+    },
+    {
+      "id": "p136",
+      "label": "§ 136",
+      "doknr": "BJNR012730965BJNE017700315",
+      "title": "Vervielfältigung und Verbreitung",
+      "body_empty": false
+    },
+    {
+      "id": "p137",
+      "label": "§ 137",
+      "doknr": "BJNR012730965BJNE017800315",
+      "title": "Übertragung von Rechten",
+      "body_empty": false
+    },
+    {
+      "id": "p137a",
+      "label": "§ 137a",
+      "doknr": "BJNR012730965BJNE018600304",
+      "title": "Lichtbildwerke",
+      "body_empty": false
+    },
+    {
+      "id": "p137b",
+      "label": "§ 137b",
+      "doknr": "BJNR012730965BJNE019000309",
+      "title": "Bestimmte Ausgaben",
+      "body_empty": false
+    },
+    {
+      "id": "p137c",
+      "label": "§ 137c",
+      "doknr": "BJNR012730965BJNE019100309",
+      "title": "Ausübende Künstler",
+      "body_empty": false
+    },
+    {
+      "id": "p137d",
+      "label": "§ 137d",
+      "doknr": "BJNR012730965BJNE019902360",
+      "title": "Computerprogramme",
+      "body_empty": false
+    },
+    {
+      "id": "p137e",
+      "label": "§ 137e",
+      "doknr": "BJNR012730965BJNE020801377",
+      "title": "Übergangsregelung bei Umsetzung der Richtlinie 92/100/EWG",
+      "body_empty": false
+    },
+    {
+      "id": "p137f",
+      "label": "§ 137f",
+      "doknr": "BJNR012730965BJNE020900307",
+      "title": "Übergangsregelung bei Umsetzung der Richtlinie 93/98/EWG",
+      "body_empty": false
+    },
+    {
+      "id": "p137g",
+      "label": "§ 137g",
+      "doknr": "BJNR012730965BJNE021703360",
+      "title": "Übergangsregelung bei Umsetzung der Richtlinie 96/9/EG",
+      "body_empty": false
+    },
+    {
+      "id": "p137h",
+      "label": "§ 137h",
+      "doknr": "BJNR012730965BJNE022000307",
+      "title": "Übergangsregelung bei Umsetzung der Richtlinie 93/83/EWG",
+      "body_empty": false
+    },
+    {
+      "id": "p137i",
+      "label": "§ 137i",
+      "doknr": "BJNR012730965BJNE022100377",
+      "title": "Übergangsregelung zum Gesetz zur Modernisierung des Schuldrechts",
+      "body_empty": false
+    },
+    {
+      "id": "p137j",
+      "label": "§ 137j",
+      "doknr": "BJNR012730965BJNE023800377",
+      "title": "Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2001/29/EG",
+      "body_empty": false
+    },
+    {
+      "id": "p137k",
+      "label": "§ 137k",
+      "doknr": "BJNR012730965BJNE023904360",
+      "title": "(weggefallen)",
+      "body_empty": true
+    },
+    {
+      "id": "p137l",
+      "label": "§ 137l",
+      "doknr": "BJNR012730965BJNE024300377",
+      "title": "Übergangsregelung für neue Nutzungsarten",
+      "body_empty": false
+    },
+    {
+      "id": "p137m",
+      "label": "§ 137m",
+      "doknr": "BJNR012730965BJNE025200360",
+      "title": "Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2011/77/EU",
+      "body_empty": false
+    },
+    {
+      "id": "p137n",
+      "label": "§ 137n",
+      "doknr": "BJNR012730965BJNE025700360",
+      "title": "Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2012/28/EU",
+      "body_empty": false
+    },
+    {
+      "id": "p137o",
+      "label": "§ 137o",
+      "doknr": "BJNR012730965BJNE027300123",
+      "title": "Übergangsregelung zum Urheberrechts-Wissensgesellschafts-Gesetz",
+      "body_empty": false
+    },
+    {
+      "id": "p137p",
+      "label": "§ 137p",
+      "doknr": "BJNR012730965BJNE029400360",
+      "title": "Übergangsregelung aus Anlass der Umsetzung der Richtlinie (EU) 2019/789",
+      "body_empty": false
+    },
+    {
+      "id": "p137q",
+      "label": "§ 137q",
+      "doknr": "BJNR012730965BJNE029500360",
+      "title": "Übergangsregelung zur Verlegerbeteiligung",
+      "body_empty": false
+    },
+    {
+      "id": "p137r",
+      "label": "§ 137r",
+      "doknr": "BJNR012730965BJNE029600360",
+      "title": "Übergangsregelung zum Schutz des Presseverlegers",
+      "body_empty": false
+    },
+    {
+      "id": "p138",
+      "label": "§ 138",
+      "doknr": "BJNR012730965BJNE017905301",
+      "title": "Register anonymer und pseudonymer Werke",
+      "body_empty": false
+    },
+    {
+      "id": "p138a",
+      "label": "§ 138a",
+      "doknr": "BJNR012730965BJNE026400123",
+      "title": "Datenschutz",
+      "body_empty": false
+    },
+    {
+      "id": "p139",
+      "label": "§ 139",
+      "doknr": "BJNR012730965BJNE018001377",
+      "title": "Änderung der Strafprozessordnung",
+      "body_empty": false
+    },
+    {
+      "id": "p140",
+      "label": "§ 140",
+      "doknr": "BJNR012730965BJNE018101377",
+      "title": "Änderung des Gesetzes über das am 6. September 1952\nunterzeichnete Welturheberrechtsabkommen",
+      "body_empty": false
+    },
+    {
+      "id": "p141",
+      "label": "§ 141",
+      "doknr": "BJNR012730965BJNE018201377",
+      "title": "Aufgehobene Vorschriften",
+      "body_empty": false
+    },
+    {
+      "id": "p142",
+      "label": "§ 142",
+      "doknr": "BJNR012730965BJNE027401360",
+      "title": "Evaluierung",
+      "body_empty": false
+    },
+    {
+      "id": "p143",
+      "label": "§ 143",
+      "doknr": "BJNR012730965BJNE018400315",
+      "title": "Inkrafttreten",
+      "body_empty": false
+    },
+    {
+      "id": "anlage",
+      "label": "Anlage (zu § 61a)",
+      "doknr": "BJNR012730965BJNE018706123",
+      "title": "Quellen einer sorgfältigen Suche",
+      "body_empty": false
+    }
+  ],
+  "official_index_ids": [
     "p1",
     "p2",
     "p3",
@@ -337,8 +2117,7 @@
     "p51",
     "p51a",
     "p52",
-    "p52a",
-    "p52b",
+    "p52a-52b",
     "p53",
     "p53a",
     "p54",
@@ -594,8 +2373,7 @@
     "p51",
     "p51a",
     "p52",
-    "p52a",
-    "p52b",
+    "p52a-52b",
     "p53",
     "p53a",
     "p54",
@@ -771,1810 +2549,1752 @@
     "p143",
     "anlage"
   ],
-  "expected_count": 255,
-  "parsed_count": 255,
+  "expected_count": 254,
+  "parsed_count": 254,
   "missing": [],
   "unexpected": [],
   "duplicates": [],
+  "official_duplicate_ids": [],
+  "official_duplicate_doknr": [],
+  "index_duplicates": [],
   "index_xml_difference": [],
+  "order_agrees": true,
+  "independent_xml_stream_mismatches": [],
   "annex_disposition": [
     {
       "id": "anlage",
+      "label": "Anlage (zu § 61a)",
+      "doknr": "BJNR012730965BJNE018706123",
       "included": true,
-      "description": "Anlage zu § 61a: alle fünf Quellengruppen mit ihren nummerierten und buchstabierten Suchquellen; eigenständige Einheit."
+      "evidence_path": "sources/urhg.xml",
+      "evidence_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "groups": [
+        {
+          "number": "1.",
+          "child_ids": [
+            "anlage/1/a",
+            "anlage/1/b",
+            "anlage/1/c",
+            "anlage/1/d",
+            "anlage/1/e"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)"
+          ]
+        },
+        {
+          "number": "2.",
+          "child_ids": [
+            "anlage/2/a",
+            "anlage/2/b",
+            "anlage/2/c",
+            "anlage/2/d",
+            "anlage/2/e"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)"
+          ]
+        },
+        {
+          "number": "3.",
+          "child_ids": [
+            "anlage/3/a",
+            "anlage/3/b",
+            "anlage/3/c"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)"
+          ]
+        },
+        {
+          "number": "4.",
+          "child_ids": [
+            "anlage/4/a",
+            "anlage/4/b",
+            "anlage/4/c",
+            "anlage/4/d",
+            "anlage/4/e",
+            "anlage/4/f",
+            "anlage/4/g",
+            "anlage/4/h"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)"
+          ]
+        },
+        {
+          "number": "5.",
+          "child_ids": [
+            "anlage/5/a",
+            "anlage/5/b",
+            "anlage/5/c",
+            "anlage/5/d",
+            "anlage/5/e"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)"
+          ]
+        }
+      ],
+      "description": "Eine operative Anlage: fünf Quellengruppen; Buchstaben a–e, a–e, a–c, a–h und a–e. Fundstellenkommentar ist redaktioneller Hinweis, kein Tatbestand.",
+      "full_xml_text_agrees": true
     }
   ],
+  "eingangsformel": {
+    "xml_record_present": false,
+    "html_heading_present": false,
+    "pdf_label_present": false,
+    "unclassified_operative_xml_records": [],
+    "disposition": "Keine Eingangsformel im amtlichen konsolidierten XML, im vollständigen HTML oder im GII-PDF ausgewiesen. Der einzige unbenannte XML-Datensatz enthält ausschließlich Metadaten und Fußnoten, keinen Normkörper. Keine historische Formel aus Erinnerung ergänzt.",
+    "evidence_paths": [
+      "sources/urhg.xml",
+      "sources/preflight-2026-10-20/full.html",
+      "sources/preflight-2026-10-20/current-pdf.txt"
+    ]
+  },
   "empty_slots": [
     {
-      "id": "p1",
-      "doknr": "BJNR012730965BJNE004101377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "154a181bdb9e6b55699554375b2464842c4e4debeeaa8022061e29cfb2c3eda1"
-    },
-    {
-      "id": "p2",
-      "doknr": "BJNR012730965BJNE004202305",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "faaac78c393ad4eb45c125edc0273d114bb5a452705cb1f8dcd39f704699b41d"
-    },
-    {
-      "id": "p3",
-      "doknr": "BJNR012730965BJNE004301304",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "0b3801c4a381a2245027fdebc9382e43b62dac9635790b82f37a2f8acbec128b"
-    },
-    {
-      "id": "p4",
-      "doknr": "BJNR012730965BJNE004401307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c2b83ed4d2299f4a955764a03e2189adfe0e517d8ad7cb8c4e314dd81e6a6380"
-    },
-    {
-      "id": "p5",
-      "doknr": "BJNR012730965BJNE004501377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "efcf2d121ade816249af17176b19b2948b6f816d29d14b5cc4766218758c7474"
-    },
-    {
-      "id": "p6",
-      "doknr": "BJNR012730965BJNE004600315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "1f63378b6020d187b22351a15bd555a892d3d94a6557cc00cbfc8d284c91c8fa"
-    },
-    {
-      "id": "p7",
-      "doknr": "BJNR012730965BJNE004700315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "4009061a93c7582aa285b8aa4236579fc7de5aa5d4a3d5767a493211362c966d"
-    },
-    {
-      "id": "p8",
-      "doknr": "BJNR012730965BJNE004800315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "cb55af4bff3e78fa3d18e30ff749ad3cd16f938c09837ca2f325f45423a6000f"
-    },
-    {
-      "id": "p9",
-      "doknr": "BJNR012730965BJNE004900315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "aab2b702ea1df258f122d9a0fdc12c61ec390e2746b968a3123992f626f300eb"
-    },
-    {
-      "id": "p10",
-      "doknr": "BJNR012730965BJNE005001140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "e0df08f2a52e6a9e010265e468e9034a68c2b71294785ce549d79977cf1cf87e"
-    },
-    {
-      "id": "p11",
-      "doknr": "BJNR012730965BJNE005102377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "e95e73ac296a43aeb6b3216b7af148a684574cbbc4ee84d6b5bfa11d84692320"
-    },
-    {
-      "id": "p12",
-      "doknr": "BJNR012730965BJNE005200315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "bc621e65e1a98ea7e1042e07294a37965518ed54240957d8db1d4cdf572eb347"
-    },
-    {
-      "id": "p13",
-      "doknr": "BJNR012730965BJNE005300315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "b9c9f37ef790b67c65f7395cd64295419207f83e28fe286c704c749182755f02"
-    },
-    {
-      "id": "p14",
-      "doknr": "BJNR012730965BJNE005400315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "9c86b47fab539ac72e927102b26065df2cf1fe8d5e67bc1bdec80a15e8be8709"
-    },
-    {
-      "id": "p15",
-      "doknr": "BJNR012730965BJNE005501377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "0ef2e274cda4c53e1a13c598d74aaeae76b3edc13fb7249c96cfb4e61e21547e"
-    },
-    {
-      "id": "p16",
-      "doknr": "BJNR012730965BJNE005601377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "0e16048a3101ea19c18ac1e0f8ca726234635207811a4dfc05de9d8a7c5b4050"
-    },
-    {
-      "id": "p17",
-      "doknr": "BJNR012730965BJNE005701307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "bd553a0d726acd932b37cac71b6b851c9aba167f15e060776dfcaa712274b3cd"
-    },
-    {
-      "id": "p18",
-      "doknr": "BJNR012730965BJNE005800315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "e4b4ca7440a7e68b30a247202b2fef2e10aee7db55847573abe083c006ea4f58"
-    },
-    {
-      "id": "p19",
-      "doknr": "BJNR012730965BJNE005901377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "9cedd905f883f7fafd0afbe4aa878e1d6824d6c41147df2e3afd25fa03735274"
-    },
-    {
-      "id": "p19a",
-      "doknr": "BJNR012730965BJNE022700377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "0182cd0618d78ba80e30ad720247a159949ba5e4fb38e55b465cb662db85c8d5"
-    },
-    {
-      "id": "p20",
-      "doknr": "BJNR012730965BJNE006001307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "b5de8789c553e249ff5609001616c6db3950bb1341ee954e6260208bbc65cce2"
-    },
-    {
-      "id": "p20a",
-      "doknr": "BJNR012730965BJNE021800307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "213640901b5b122f95cb48362621ced5ed97febba12770f8674e08f779213c19"
-    },
-    {
-      "id": "p20b",
-      "doknr": "BJNR012730965BJNE021902360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "7128050aafdd27608ba729f9df7ec6c712bbdfa9f4788444a786b3498dbe1450"
-    },
-    {
-      "id": "p20c",
-      "doknr": "BJNR012730965BJNE027800360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "aab45feba1afe2ea2257080f296785bdadd25634dd0ff83b5a3b1f1880042664"
-    },
-    {
-      "id": "p20d",
-      "doknr": "BJNR012730965BJNE027900360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "9f8627965b77ce2484f32e80fc6c6723b25fc376d10d6008c8ac6ff485055f7b"
-    },
-    {
-      "id": "p21",
-      "doknr": "BJNR012730965BJNE006100315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "18b654e27d1933b654d93f8673a348dde419d784616153532084276497e425b8"
-    },
-    {
-      "id": "p22",
-      "doknr": "BJNR012730965BJNE006201377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "6e841279702902200dc0371be033be7be9afbd24ca73a87cde0949c6dff1124a"
-    },
-    {
-      "id": "p23",
-      "doknr": "BJNR012730965BJNE006303360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c34d337095b534b2aca92766b5692dc382e3801ab2644597bcb9e800683442ce"
-    },
-    {
       "id": "p24",
+      "label": "§ 24",
       "doknr": "BJNR012730965BJNE006401360",
-      "empty_body": true,
-      "repealed": true,
-      "xml_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "title": "(weggefallen)",
+      "body_empty": true
     },
     {
-      "id": "p25",
-      "doknr": "BJNR012730965BJNE006500315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "a76ff1cc3444a7f8a31d6a02f3b84093271a8ceb485e566fbdef39968e24c386"
-    },
-    {
-      "id": "p26",
-      "doknr": "BJNR012730965BJNE006603377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3b511a9d9284fca3566e4f2dda72c590458f63e26a6622a49f2df2e79d915407"
-    },
-    {
-      "id": "p27",
-      "doknr": "BJNR012730965BJNE006701307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "307b6481dd2fa14399bd37532959414fe6ee801754cce354b155f5ca0219688a"
-    },
-    {
-      "id": "p28",
-      "doknr": "BJNR012730965BJNE006800315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c6a37694b13c617214ecf2a7db3ea7baf2ee3fa9da17b965adb39d83851f7845"
-    },
-    {
-      "id": "p29",
-      "doknr": "BJNR012730965BJNE006901377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "40e3b2aaf530dd43e2c648a6a1ae17b9bbb5a7d7ef8aa0b882e06758fc7ec974"
-    },
-    {
-      "id": "p30",
-      "doknr": "BJNR012730965BJNE007000315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "faf5b591c67e2535f67c027481b0d0b33539969b0161c51b84832cbf37c352d7"
-    },
-    {
-      "id": "p31",
-      "doknr": "BJNR012730965BJNE007102377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c2cbd056776536eae4c4dc64e92f3224bb02051070dc04b68e7fb098533cbdf2"
-    },
-    {
-      "id": "p31a",
-      "doknr": "BJNR012730965BJNE007104125",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "80e0bf0df9cf420f530c1c24d53a1cac442ce9b5c482a981b2e9d368d9153c17"
-    },
-    {
-      "id": "p32",
-      "doknr": "BJNR012730965BJNE007203360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "2fd04f6e069393bcfeb2fcf1e24f7551a55c7a47b014d13367cd7b2c44f89e70"
-    },
-    {
-      "id": "p32a",
-      "doknr": "BJNR012730965BJNE022203360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "a96ef6563e1d329a560508f3b58251dae2ae44dad99ffd59910024808066a359"
-    },
-    {
-      "id": "p32b",
-      "doknr": "BJNR012730965BJNE022301360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "cf3e90c830000f9cc9563ce7fc87bb77dcedac4b5a1979ba2b7e832af83205a4"
-    },
-    {
-      "id": "p32c",
-      "doknr": "BJNR012730965BJNE024000377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "6cbc1c8ceea0a20782f85686ea7b45d288067ce29d7060624e9eb14e615a08e2"
-    },
-    {
-      "id": "p32d",
-      "doknr": "BJNR012730965BJNE025801360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "bcf8e412d845c1461bd4afade38db61370666fbff66e6a1808346a5293552a9f"
-    },
-    {
-      "id": "p32e",
-      "doknr": "BJNR012730965BJNE025901360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "56eb38ab4c3ce8a8b0b4ecfff612e68926fe11b14989906a3b32ec6d0455eb00"
-    },
-    {
-      "id": "p32f",
-      "doknr": "BJNR012730965BJNE028000360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "e29993e387d80298d3c10fb9333ab7170ae217f3d1db37ef8b698d5824b922c2"
-    },
-    {
-      "id": "p32g",
-      "doknr": "BJNR012730965BJNE028100360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "532aff4322f0b5ae6925c3fcc314926c95fc678ff4d5ab3c80bc354cecee5edc"
-    },
-    {
-      "id": "p33",
-      "doknr": "BJNR012730965BJNE007301377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "7f13da412f19e0d4c5f2f0fef67a178afcabb57eac2a7e299d4a44e7b7f003ab"
-    },
-    {
-      "id": "p34",
-      "doknr": "BJNR012730965BJNE007401377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "2913cc25d3f1736079453e1ed874a6a2d3dc1c782983dfd1f7bfd137fbe9e8e1"
-    },
-    {
-      "id": "p35",
-      "doknr": "BJNR012730965BJNE007501377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "96b1b0c2123c70569cdeefa39c6024a7fbb278c9337d57b55a4c62c738f07f38"
-    },
-    {
-      "id": "p35a",
-      "doknr": "BJNR012730965BJNE028200360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "860099f3a1f316cea1d76e8a56eb219542e5e56252c6b14bc762f29131e24ea0"
-    },
-    {
-      "id": "p36",
-      "doknr": "BJNR012730965BJNE007604360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3c2f4553ae12f463654e2584db828bcae634f36b5e37c7e1ddb9519309ea4907"
-    },
-    {
-      "id": "p36a",
-      "doknr": "BJNR012730965BJNE022403123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "63e52055ef3acd317d7519fd7a3ac89337c6217370e45e9b1af08419aceec4e4"
-    },
-    {
-      "id": "p36b",
-      "doknr": "BJNR012730965BJNE026001360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "555244b55edb7ef3340e3fa6711e82a51b7d599c9dd64d19f2b92b5c0b51691a"
-    },
-    {
-      "id": "p36c",
-      "doknr": "BJNR012730965BJNE026100123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "a3251407fd8696aff4bf655b581d7809b86d4a26a02fe1337559fde2938d09de"
-    },
-    {
-      "id": "p36d",
-      "doknr": "BJNR012730965BJNE028300360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "1bff5115ce6b83720933d2a46d3a34fb0b6aa78a4e32722f8b55efb24a325602"
-    },
-    {
-      "id": "p37",
-      "doknr": "BJNR012730965BJNE007700315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "565c2210155e2ea0d1e6f3c76e6a6936f1e3160ccce161c430c6815d897a009b"
-    },
-    {
-      "id": "p38",
-      "doknr": "BJNR012730965BJNE007801360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "d27df9f42feb24fb5499cfd77ba04312a3c252cd958362ffce6f51a84c583285"
-    },
-    {
-      "id": "p39",
-      "doknr": "BJNR012730965BJNE007900315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3bcd4518cc75fe0188b4b8eeba60907ed2918931a0e277ca0457fb4486832f3e"
-    },
-    {
-      "id": "p40",
-      "doknr": "BJNR012730965BJNE008001125",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "e9af51c7a6a78441f63a622131f266fc50a90601391fba1d6a904cdef0d9b21a"
-    },
-    {
-      "id": "p40a",
-      "doknr": "BJNR012730965BJNE026200123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "991fe45625d40eadba091ad57761a3f1827eef92f6860d541fc8083e5a250145"
-    },
-    {
-      "id": "p41",
-      "doknr": "BJNR012730965BJNE008102360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "63d169a439c1fc4896854ebe72a89e2d9f524da1020403d2806563be3624f4ea"
-    },
-    {
-      "id": "p42",
-      "doknr": "BJNR012730965BJNE008200315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "aec19cd377dfff9132215dbcecf4d17d17455c6ba006fbbca40c0fb2f8798bae"
-    },
-    {
-      "id": "p42a",
-      "doknr": "BJNR012730965BJNE022802301",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "d840d5a94ebbb81e7efa84365219e3a12c5be7ed8337cb486921b3181803bfc2"
-    },
-    {
-      "id": "p43",
-      "doknr": "BJNR012730965BJNE008300315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "50641206fc69c86abbac07967364232b98e861cb2ae44b5e0d99b80d3ab3e833"
-    },
-    {
-      "id": "p44",
-      "doknr": "BJNR012730965BJNE008400315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "df04e5a9983a0afa4d15e58d1c085297213b6f2a8a791151d242ce603bbe924e"
-    },
-    {
-      "id": "p44a",
-      "doknr": "BJNR012730965BJNE022900377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "11e992c3e2247942d2a94a780fc897477f51d1e06c3efaecf19652e77200a284"
-    },
-    {
-      "id": "p44b",
-      "doknr": "BJNR012730965BJNE028400360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "8b82ee621bf1137d78bd16660f9546db39c8fe493f2286f11c36a017da289e90"
-    },
-    {
-      "id": "p45",
-      "doknr": "BJNR012730965BJNE008500315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "1fddb5df871e37a7b6fb6f078292a360b37fa02d540cf38fb9003ebe491edbc0"
-    },
-    {
-      "id": "p45a",
-      "doknr": "BJNR012730965BJNE023001360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "414c19a5aa1a820e2e7f69d268a139d1d25f067fbb20ee1f41afccf43a52601e"
-    },
-    {
-      "id": "p45b",
-      "doknr": "BJNR012730965BJNE027500360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "879ab938ffc11befbbbc50f57d7c400db97f8a06297630ed942c4b9a2e00b793"
-    },
-    {
-      "id": "p45c",
-      "doknr": "BJNR012730965BJNE027601360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "330ff2a25187c68aee138642081eed570999d6b02181d9fbbb458e517e048dc3"
-    },
-    {
-      "id": "p45d",
-      "doknr": "BJNR012730965BJNE027700360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "036a4d8043f936486b849cfd415d40e3cbf4abab8e43f3b197eb1a72b033093f"
-    },
-    {
-      "id": "p46",
-      "doknr": "BJNR012730965BJNE008603123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "f616d280a906053741d3d23eb725f547f0e2e3d7cfbc9310eb42abe676ce647e"
-    },
-    {
-      "id": "p47",
-      "doknr": "BJNR012730965BJNE008701304",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "f020ea421bfd1e059d698cd73e4cdceb0bcef697d28e8ce8e4a2736981cbd3bb"
-    },
-    {
-      "id": "p48",
-      "doknr": "BJNR012730965BJNE008801377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "fea49e6baf01a5ad54549ef75bf9ce8988b9052f1ab9738291274fb144a88a15"
-    },
-    {
-      "id": "p49",
-      "doknr": "BJNR012730965BJNE008902377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "7b063663338e6ba66e105f923007c4336e55ad68acaef00fbed437b55382c47a"
-    },
-    {
-      "id": "p50",
-      "doknr": "BJNR012730965BJNE009001377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "72c8af14012c20d284b7943925ca086210be29560c010867f444d2944318b97c"
-    },
-    {
-      "id": "p51",
-      "doknr": "BJNR012730965BJNE009102123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "dbdd63561b023e00eb8d28979f347b8495fe282e1285d7403014daf5069369cf"
-    },
-    {
-      "id": "p51a",
-      "doknr": "BJNR012730965BJNE028500360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "437018c562d59427472300710cc96d018438d17248627924c2ef0c0240788932"
-    },
-    {
-      "id": "p52",
-      "doknr": "BJNR012730965BJNE009203123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "7cdb205a3e8d87eadc93acacefbad22da178553e8ef18c5c949c4441574be1f3"
-    },
-    {
-      "id": "p52a",
+      "id": "p52a-52b",
+      "label": "(XXXX) §§ 52a und 52b",
       "doknr": "BJNR012730965BJNE023101123",
-      "empty_body": true,
-      "repealed": true,
-      "xml_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    {
-      "id": "p52b",
-      "doknr": "BJNR012730965BJNE023101123",
-      "empty_body": true,
-      "repealed": true,
-      "xml_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    {
-      "id": "p53",
-      "doknr": "BJNR012730965BJNE009306123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "e488b3a8f0dcc56bd181b848f3900a810fd53d5a067c7b844733d9983a714b28"
+      "title": "(weggefallen)",
+      "body_empty": true
     },
     {
       "id": "p53a",
+      "label": "§ 53a",
       "doknr": "BJNR012730965BJNE024201123",
-      "empty_body": true,
-      "repealed": true,
-      "xml_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    {
-      "id": "p54",
-      "doknr": "BJNR012730965BJNE009405123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "429a96ae0ac6ed5a3c0ef858bf3a5029f5df08d8ab6cf5ccb1a6ea63fd58791d"
-    },
-    {
-      "id": "p54a",
-      "doknr": "BJNR012730965BJNE020002123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "ab3c9d2409f2cc08892a9fc09c59570a2dbba62b7af4ffce499faccab263bd7b"
-    },
-    {
-      "id": "p54b",
-      "doknr": "BJNR012730965BJNE020102140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "b9f1d926eeedb8b1785a532c6f57511fd5f3ecb72076bdce8d8c26d1416d4376"
-    },
-    {
-      "id": "p54c",
-      "doknr": "BJNR012730965BJNE020202123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "b729f80a577d6b1b50b940f1a6e754d76b6a350d585d85f1689250e5f192c665"
-    },
-    {
-      "id": "p54d",
-      "doknr": "BJNR012730965BJNE020302129",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "24a1799e7b76f895a66df4b164133b9d7901f175a38f25c3a5a5a20a5d490347"
-    },
-    {
-      "id": "p54e",
-      "doknr": "BJNR012730965BJNE020401377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "262308ea7e3b6cf04d74ba3e176eb707da452d741cf7cff2bb53b79e21ede855"
-    },
-    {
-      "id": "p54f",
-      "doknr": "BJNR012730965BJNE020502140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "db750577e1daab542e97dd4047e731300474c950acf7d25d428caf5b2376f932"
-    },
-    {
-      "id": "p54g",
-      "doknr": "BJNR012730965BJNE020601377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "e3de59a6ef80fbaf9c2db042eaf12a42eefd0d493f9bb0b4813b55ab6b83b48a"
-    },
-    {
-      "id": "p54h",
-      "doknr": "BJNR012730965BJNE020702360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "16236e0f4ee8909e3765870b03d07456b30764012b604eb8e62fe664812b04ac"
-    },
-    {
-      "id": "p55",
-      "doknr": "BJNR012730965BJNE009500315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "826a0639e51f18f611442736042b367c8d89d095a54b5fd1946c67cbbdc32a92"
-    },
-    {
-      "id": "p55a",
-      "doknr": "BJNR012730965BJNE021000307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "7565a7e93d1ef753b8029aa4f96a4c7e0b0c0f4edf0f9cb592d37cb0f8dec2a8"
-    },
-    {
-      "id": "p56",
-      "doknr": "BJNR012730965BJNE009601377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "dddaf567b937f4f90c78eabe175eb9f3d3f803e1305082d7e623f1a84b6e2357"
-    },
-    {
-      "id": "p57",
-      "doknr": "BJNR012730965BJNE009700315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "180c77ca85eb464ec4b9cb37b8a715696df7e4ede1cb64df77188a6354f90779"
-    },
-    {
-      "id": "p58",
-      "doknr": "BJNR012730965BJNE009802123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "11a0cd63440e52a0a2822510023bb8face9f1f5917e408b85426c81e4c101470"
-    },
-    {
-      "id": "p59",
-      "doknr": "BJNR012730965BJNE009900315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "280dce07811db1dfd07b83de940901b91300d265317c68916bb04630301db401"
-    },
-    {
-      "id": "p60",
-      "doknr": "BJNR012730965BJNE010001377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "df1cf24ca7198ae913539ba76acbc08e38af031852bf970d11a8d00ce869ee8f"
-    },
-    {
-      "id": "p60a",
-      "doknr": "BJNR012730965BJNE026501360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3d162209b752d06e59a0fc7c82e1f27991a04f263eaa8812d3fb2735e3bb425d"
-    },
-    {
-      "id": "p60b",
-      "doknr": "BJNR012730965BJNE026601360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "2e8b7e259ee55db06bd144a8b3578bf88ef109a922007f55b519c1da75b86b89"
-    },
-    {
-      "id": "p60c",
-      "doknr": "BJNR012730965BJNE026700123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3c9b4b28debd486b0299743ecb34d059691daf6b8cd24f4140b811c0dd6ffc26"
-    },
-    {
-      "id": "p60d",
-      "doknr": "BJNR012730965BJNE026801360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "d9cf0847dc94e5e34004829b1685016498c11f0474cf3dda6b6f5dedcf6c4e5d"
-    },
-    {
-      "id": "p60e",
-      "doknr": "BJNR012730965BJNE026901360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "630a439d83d6b54104e0e8189ae5c38e43542dc8e7ccd08bbad9f048a8fb07d7"
-    },
-    {
-      "id": "p60f",
-      "doknr": "BJNR012730965BJNE027001360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "aba0bb9c33c72361a257a02e9debad689f84a83dd50c0f95a17f5ad7cfe3c8da"
-    },
-    {
-      "id": "p60g",
-      "doknr": "BJNR012730965BJNE027100123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "f4961b8d5435e5dfded849ba126f0feec494b5c827b164a3e672f00f8ea04f27"
-    },
-    {
-      "id": "p60h",
-      "doknr": "BJNR012730965BJNE027201360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "ab31e2050fe636270ddc0a6af60e5d4e81c101d081b818a702ab8ef6554d3be8"
-    },
-    {
-      "id": "p61",
-      "doknr": "BJNR012730965BJNE010102360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "a6609b700a209b1a3707c973015ad5d59f5ab837a1b770ebb445ec89f7187dea"
-    },
-    {
-      "id": "p61a",
-      "doknr": "BJNR012730965BJNE025401123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3e5c3fe3033d0269c797c9465ba4cbcc173d6c5623f0cb44cbce4bcbc1d94e0b"
-    },
-    {
-      "id": "p61b",
-      "doknr": "BJNR012730965BJNE025500360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "83dc3c87243edec725544cb1b9219b5dc6a0ce6de21342af6e326e4a63872a44"
-    },
-    {
-      "id": "p61c",
-      "doknr": "BJNR012730965BJNE025600360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "922ef210eb08180f31aa53772a539d9af1c83722a402852f02d0b77cb89f5435"
-    },
-    {
-      "id": "p61d",
-      "doknr": "BJNR012730965BJNE028600360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "cdaca13868e604ea6c3e1ac0958543b539560556add482d201ba3aba99f5f16d"
-    },
-    {
-      "id": "p61e",
-      "doknr": "BJNR012730965BJNE028700360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "14f9c67d97f2f0da529fa2e9087c9e9bee979e0673ea885e2e464b399905968c"
-    },
-    {
-      "id": "p61f",
-      "doknr": "BJNR012730965BJNE028800360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "890e42dbec658f8c274fad9c4bbdd83e0a9274886392593a41935aa08baf4401"
-    },
-    {
-      "id": "p61g",
-      "doknr": "BJNR012730965BJNE028900360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "cd48cf9416ef07d546c7949763f09800e8cfbb8d437d37bf3ad5ddc0815af694"
-    },
-    {
-      "id": "p62",
-      "doknr": "BJNR012730965BJNE010204360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "4bb6d922c016b59dcfc57e030e61d1a1851572fc8f8c1731bf511289d7f07d47"
-    },
-    {
-      "id": "p63",
-      "doknr": "BJNR012730965BJNE010306360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "a972d41f3fe5e3ef63aae7a9e0ba7839b8d5e733a76c27fc37df50cf991e6174"
-    },
-    {
-      "id": "p63a",
-      "doknr": "BJNR012730965BJNE022502360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "f582457895146675a81b2cc43884c11ffb3cf17a4132d3cffcb38c9935939196"
-    },
-    {
-      "id": "p64",
-      "doknr": "BJNR012730965BJNE010401307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "96be3c87e7fe2c1c3a01bb0f36882d7fda446935bffe9878e374e2493840ceb7"
-    },
-    {
-      "id": "p65",
-      "doknr": "BJNR012730965BJNE010502360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "fa7845697c6d645ef0c6a79cf1f2113d3fa55c8dce2118d4934a6a89f78e0d24"
-    },
-    {
-      "id": "p66",
-      "doknr": "BJNR012730965BJNE010602377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "563e4b7db97a6904dd683de2bdcc49b2b29aa6bbd10457b0dbe2748272201bd1"
-    },
-    {
-      "id": "p67",
-      "doknr": "BJNR012730965BJNE010701307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "b7d1da0f0de0eb817909358ec45714af61088c96a05e318bf7fc3a4f243276b2"
-    },
-    {
-      "id": "p68",
-      "doknr": "BJNR012730965BJNE010802360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "81537ae92b630c8caa55d2132b4b5f34ab9929768624e0a0e55df22af1db6639"
-    },
-    {
-      "id": "p69",
-      "doknr": "BJNR012730965BJNE010900315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "6ef7fd8bdef91b8198025a56366926264923415ff9f53fbf6d0bb070703570ee"
-    },
-    {
-      "id": "p69a",
-      "doknr": "BJNR012730965BJNE019203360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "5caee6967bbadb3012940808e54c8a9533dff7df17e1407392421f3a30a12be6"
-    },
-    {
-      "id": "p69b",
-      "doknr": "BJNR012730965BJNE019300305",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "41bd4c92fd52248e420ea422dc78a8b220ff942e4b20cf5fc10e80c746b207d9"
-    },
-    {
-      "id": "p69c",
-      "doknr": "BJNR012730965BJNE019403377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "39ff36111e7a34329b0c0cff06db565ce1b4ff5948642c3f8394f18be9f4a06d"
-    },
-    {
-      "id": "p69d",
-      "doknr": "BJNR012730965BJNE019501360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "6a94fe4b21a84a5a321640c5d2d6925ee527614517cad77ae1791d57ed558871"
-    },
-    {
-      "id": "p69e",
-      "doknr": "BJNR012730965BJNE019600305",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "91ed92cdfb08e26bd2023b8946d2e4717ac8becb17378439a7ed1a44cf44864e"
-    },
-    {
-      "id": "p69f",
-      "doknr": "BJNR012730965BJNE019702360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "5be9b30919269693b50755228b5367a61c987e574fb7cf6ef442dd5b1e4b4e80"
-    },
-    {
-      "id": "p69g",
-      "doknr": "BJNR012730965BJNE019802360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "1df4f5418ab0a46f2bee291192ff1a6a5b12a3f60b4a80cdbbef4236ce426957"
-    },
-    {
-      "id": "p70",
-      "doknr": "BJNR012730965BJNE011002377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "8e046043b3674d4961b7b0678ce8535303e9316f03cf0aeb2a1e25cebac351b3"
-    },
-    {
-      "id": "p71",
-      "doknr": "BJNR012730965BJNE011106360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "354ed59ff1d4cdfffa5bba3c0584c4221fb12d3b59817c2c247378dffb59769c"
-    },
-    {
-      "id": "p72",
-      "doknr": "BJNR012730965BJNE011203377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "22a492aae43058b508aebc9317f547d969113bcdcd8e2bc174341c294af56bfb"
-    },
-    {
-      "id": "p73",
-      "doknr": "BJNR012730965BJNE011301377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "abf73868051d550f558ffdfcbc0702a5e8f19791a31248fd387225057596313f"
-    },
-    {
-      "id": "p74",
-      "doknr": "BJNR012730965BJNE011402140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "6f781417221e17a3df1a3af3ca7fd661e2b79e5e55866bf8c58564837fdbf340"
-    },
-    {
-      "id": "p75",
-      "doknr": "BJNR012730965BJNE011503377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "f869602a06c263fc5e6925a59b1e27df7f297a9da00ba1f51bf94f2621a8e919"
-    },
-    {
-      "id": "p76",
-      "doknr": "BJNR012730965BJNE011602377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c443f0deb1fa29627b0d8b94baa04bc091b77277371629ad04d7d3d7c16bc97d"
-    },
-    {
-      "id": "p77",
-      "doknr": "BJNR012730965BJNE011701377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "1e0908cdc168f6d301ff3115e2d8f90902442429993bc14f3ca357ca69e51f6e"
-    },
-    {
-      "id": "p78",
-      "doknr": "BJNR012730965BJNE011802377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "068af9185d1a1038b655e748c6308e520bd03df09c7d855d42073cdec29f5318"
-    },
-    {
-      "id": "p79",
-      "doknr": "BJNR012730965BJNE011904123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c590fd5cbfae3d943070878ee58a4ad3fca9852dd9273314c0bf983b288208d2"
-    },
-    {
-      "id": "p79a",
-      "doknr": "BJNR012730965BJNE025100360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "bb420664a125956caaa97bc49e987f7d3cfb93d1bc8bd627769305add0e0bab7"
-    },
-    {
-      "id": "p79b",
-      "doknr": "BJNR012730965BJNE026300123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "a2059d267feb9f0e743034409dbcc1b3e4e22945e2cc8ff567e1cda0c7e54d30"
-    },
-    {
-      "id": "p80",
-      "doknr": "BJNR012730965BJNE012003360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "dc07bc66ddddf51b9f80b3165f3d32212f1d46c44d8e722c33888b463070e6ea"
-    },
-    {
-      "id": "p81",
-      "doknr": "BJNR012730965BJNE012104140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "b216975f5fad456c76ad521be0355081ccd773caa6073026c30e55c07bef7d79"
-    },
-    {
-      "id": "p82",
-      "doknr": "BJNR012730965BJNE012204360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3f3652443345055b4eef850e817cd37b89115cf307a54fef4505f59459bf9fba"
-    },
-    {
-      "id": "p83",
-      "doknr": "BJNR012730965BJNE012302377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "db0ff16a1049c936deea6d89d7e5cda526412733d8fe7fcc3257e94f7ff96f26"
+      "title": "(weggefallen)",
+      "body_empty": true
     },
     {
       "id": "p84",
+      "label": "§ 84",
       "doknr": "BJNR012730965BJNE012401377",
-      "empty_body": false,
-      "repealed": true,
-      "xml_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
-    },
-    {
-      "id": "p85",
-      "doknr": "BJNR012730965BJNE012507360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3f2e1057c4cfe30891bdd6bd691b438249085d8677f9c4aa1ca8a9012c261ad3"
-    },
-    {
-      "id": "p86",
-      "doknr": "BJNR012730965BJNE012601377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "bca0a97054a47e6b7afe1b086b31846c61455f02ab1c777172d8b3c2dccd043f"
-    },
-    {
-      "id": "p87",
-      "doknr": "BJNR012730965BJNE012708360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "4d59ba41c33565bc8114ef8ae61366884b9a17f1bbe9e9fb593b7465c6b9c8a5"
-    },
-    {
-      "id": "p87a",
-      "doknr": "BJNR012730965BJNE021100307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "9400855532b14008682f4fe304db29d8e91f95e2d95798a2cee9fd3a0bb4cb6a"
-    },
-    {
-      "id": "p87b",
-      "doknr": "BJNR012730965BJNE021202129",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "47fdc3a697c617233b5da2fa0660ad9b13a6f14736b0919d02d5994d775381a3"
-    },
-    {
-      "id": "p87c",
-      "doknr": "BJNR012730965BJNE021304360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "50098c08f51815018251ddd678a3da0df30c0618d41318b026ad8fe540c1edc3"
-    },
-    {
-      "id": "p87d",
-      "doknr": "BJNR012730965BJNE021400307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "9abfc9cdd6b16866f141f9c6577b97a94aa53694c09413ee80dd8137fb1e0f10"
-    },
-    {
-      "id": "p87e",
-      "doknr": "BJNR012730965BJNE021500307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "19659a89615087945247a180772dbb2e464ae734b00b1c5547f86c8f3a525b12"
-    },
-    {
-      "id": "p87f",
-      "doknr": "BJNR012730965BJNE024801360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "5f94810187202529002a161e5864d810146feab2bfbabbe44a6232a9298422df"
-    },
-    {
-      "id": "p87g",
-      "doknr": "BJNR012730965BJNE024901360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "0fb5855a3f1ca2ddea8d57f6724d8384b206e080989e7e0ad56d7cf1d1019fbb"
-    },
-    {
-      "id": "p87h",
-      "doknr": "BJNR012730965BJNE025001360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "cb0bd79de26ed8cb5015529872a3f9c4aae2aa63a695adaa45db66246c04109f"
-    },
-    {
-      "id": "p87i",
-      "doknr": "BJNR012730965BJNE029000360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c4b7a33168a27285e774157acbc8fa5c24b60c6beaf037f998b5bd88ff6201e7"
-    },
-    {
-      "id": "p87j",
-      "doknr": "BJNR012730965BJNE029100360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "b056e997426369484e52d2c92144b955f8732ecd2aff753c9c3bff9c372709bf"
-    },
-    {
-      "id": "p87k",
-      "doknr": "BJNR012730965BJNE029200360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "8e7b51693a8bebb367e2c5188736562c9ca8c9e8584a879d68895258df813b6e"
-    },
-    {
-      "id": "p88",
-      "doknr": "BJNR012730965BJNE012804125",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "5a8e75ae9ca7e402ee93fe2cf7248430b0c15263fa150b1bb7cbf2de3163345a"
-    },
-    {
-      "id": "p89",
-      "doknr": "BJNR012730965BJNE012903125",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "da57b6af04be33e6af3c53162e95c6955aaace3d14da3eef452ac47dbf14654b"
-    },
-    {
-      "id": "p90",
-      "doknr": "BJNR012730965BJNE013002123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "8298731937036cdf865e32be3fa042c8ef6c5126ebc794c0c3d937503cd6cb1a"
+      "title": "(weggefallen)",
+      "body_empty": false
     },
     {
       "id": "p91",
+      "label": "§ 91",
       "doknr": "BJNR012730965BJNE013101377",
-      "empty_body": false,
-      "repealed": true,
-      "xml_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
-    },
-    {
-      "id": "p92",
-      "doknr": "BJNR012730965BJNE013202377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "fa5707a0811b48965081533a0a2d83128dbd318107c44b8b00d5b63bb1926495"
-    },
-    {
-      "id": "p93",
-      "doknr": "BJNR012730965BJNE013301377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "913bd9fab041e4d6aa4ab0361782d3d0df42ccf6bd03c771f4ca68c3a4956e2f"
-    },
-    {
-      "id": "p94",
-      "doknr": "BJNR012730965BJNE013406140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "60dfd2d167c217d8b1dc4ef693f82bc700e0b3b0286483fdd2c6f6ff01b6be12"
-    },
-    {
-      "id": "p95",
-      "doknr": "BJNR012730965BJNE013502377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "d2630ddbe6f6d136bfe8e55462326370768fc558d826c0ab2ae78b9f3c3c58bc"
-    },
-    {
-      "id": "p95a",
-      "doknr": "BJNR012730965BJNE023201360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "1bf52cc9220c99409dcd13e28a506e0fa9a3b38364750ddc21bc2c48f68a4720"
-    },
-    {
-      "id": "p95b",
-      "doknr": "BJNR012730965BJNE023304360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "6ee59b5b7686c82a7fd1897dfd814045562bcc701ff919786b494aec47c657bd"
-    },
-    {
-      "id": "p95c",
-      "doknr": "BJNR012730965BJNE023400377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "f6ea684c266321612163d4ce09fcff0a83c1bf988794379b4923aceebb28f76f"
-    },
-    {
-      "id": "p95d",
-      "doknr": "BJNR012730965BJNE023502360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "f9880f5820e28b87521bb56ab278ba4fa2cdcca1c0157e1298a3a8f576703bee"
-    },
-    {
-      "id": "p96",
-      "doknr": "BJNR012730965BJNE013601377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c7c642e89745826e39c5e4ab7813f507fb5b5723f4d6a8204e731126a0e1fefb"
-    },
-    {
-      "id": "p97",
-      "doknr": "BJNR012730965BJNE013702140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "101e39e3be1e50bd1161a51bc5af6d19f93723f668ba387ea22f20f19e6439d8"
-    },
-    {
-      "id": "p97a",
-      "doknr": "BJNR012730965BJNE024402360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "6b2f9860932072097adab8c24b1653482bdf97063fb4f2e89f3cf327d968451f"
-    },
-    {
-      "id": "p98",
-      "doknr": "BJNR012730965BJNE013802140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "28e44c277cd0c298a7338bae22aaa49afc0ff7ce0c8ebaa4a1d7c090e7710f83"
-    },
-    {
-      "id": "p99",
-      "doknr": "BJNR012730965BJNE013902140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "16f0add30d7ffd55946e258c85d943c49380ebc0c6e30af53b17a8f906797b45"
-    },
-    {
-      "id": "p100",
-      "doknr": "BJNR012730965BJNE014001140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "68bc4a774ff17e073b45dc1969ff3f1f6b834a08222270f7620c4e58f382aa50"
-    },
-    {
-      "id": "p101",
-      "doknr": "BJNR012730965BJNE014104360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "9a8610dbebf4ca66796364221c457e3cd70d04d2efcd3f7b0f6f17ba4ef42a79"
-    },
-    {
-      "id": "p101a",
-      "doknr": "BJNR012730965BJNE018801140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c0a0d45d95903d5b00017309d413d7e6f111efd2d12edcfb85831a45535a1419"
-    },
-    {
-      "id": "p101b",
-      "doknr": "BJNR012730965BJNE024500140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "1ab282bf0f897741fea5fe4d4cfef89f834ad8b1a4fbc8742b08b9ab47bf7dd4"
-    },
-    {
-      "id": "p102",
-      "doknr": "BJNR012730965BJNE014202377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "9afc95daec89c1f2fb337269c52132f4cbd5616fdd361eaaaae3b1ace301c604"
-    },
-    {
-      "id": "p102a",
-      "doknr": "BJNR012730965BJNE024600140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "525fae7467c55df83cedef031864f823dd70bbc591b86e49fa1b89eecbfc0dc2"
-    },
-    {
-      "id": "p103",
-      "doknr": "BJNR012730965BJNE014301140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "b10c4ca3fb314835a8ce92d2f3a08ebef85003635866c7ebc864e63afa4485c0"
-    },
-    {
-      "id": "p104",
-      "doknr": "BJNR012730965BJNE014400315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "0b8f30eaa998eb895ee559ceaa956b07238420d7bf7602092670e08b1ac2c11e"
-    },
-    {
-      "id": "p104a",
-      "doknr": "BJNR012730965BJNE025300360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "25e361d232469d589a9372c2b5a7fe1de1b9786b310c60a10d2476c74ff7c282"
-    },
-    {
-      "id": "p105",
-      "doknr": "BJNR012730965BJNE014503377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "88a4266df0a8d05ba539a423360703d3074a20b5a428c926fce9fa46d346bcf8"
-    },
-    {
-      "id": "p106",
-      "doknr": "BJNR012730965BJNE014601309",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "b5bbd17d846007cfb133069ab198ece36c3261c7458ab19b4f287cc5d55fba62"
-    },
-    {
-      "id": "p107",
-      "doknr": "BJNR012730965BJNE014701309",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "10f6e75b181abbc33e386305abbed5d7d7518fee5d2ba2e99c24ab77f48d43e0"
-    },
-    {
-      "id": "p108",
-      "doknr": "BJNR012730965BJNE014804377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "8f5e02f8ccce10d63554d621c35512ba1b7e72c452bfd2f61711f8e8c39a2e54"
-    },
-    {
-      "id": "p108a",
-      "doknr": "BJNR012730965BJNE018501309",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "278f0e5dbdadfe67abcc656003d8484ee6acf8ff4f6963b7b0bf1397c05dfb2c"
-    },
-    {
-      "id": "p108b",
-      "doknr": "BJNR012730965BJNE023600377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "00384178250d3e0b60c84adb7627647e8ab1dc98b276c8690a8ffe91b12256b1"
-    },
-    {
-      "id": "p109",
-      "doknr": "BJNR012730965BJNE014902377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "d3df9b4cd99d41613c21f72e4db2732057213e0a95987992aab962b51eb51999"
-    },
-    {
-      "id": "p110",
-      "doknr": "BJNR012730965BJNE015005140",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "70dd8fc0613d87407efbfa24425858851e44c1080e8473f21c680c380638679a"
-    },
-    {
-      "id": "p111",
-      "doknr": "BJNR012730965BJNE015102377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "20fe249a341ba8fda04edce4d7e969d0f6b984605ba733c5b84d3e4ca06184d2"
-    },
-    {
-      "id": "p111a",
-      "doknr": "BJNR012730965BJNE023702360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "7c8d479cb9f4dfa616084221ea2e80296acf21002653c22479c89e54cdfd3f49"
-    },
-    {
-      "id": "p111b",
-      "doknr": "BJNR012730965BJNE018908123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "9549863fcc7de66e88b85172945b96900a8f79ffa5b5fddcb1deac76161c6c92"
-    },
-    {
-      "id": "p111c",
-      "doknr": "BJNR012730965BJNE024701123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "d27b3818748b2b82f4406d59876e979dbabf6a7374b4d83a7228ada4ea2559ea"
-    },
-    {
-      "id": "p112",
-      "doknr": "BJNR012730965BJNE015201377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "efea1fa7055e61641ffc5f0b1612bc520eb6920c9034d953a67b649623e0fc88"
-    },
-    {
-      "id": "p113",
-      "doknr": "BJNR012730965BJNE015300315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "f101f25d8a0f1e7f7f127531e46fcac30827f5c0aeef2c3542b8b8ed6abf4ad0"
-    },
-    {
-      "id": "p114",
-      "doknr": "BJNR012730965BJNE015400315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c50d0cd911ab9f83e685830263e44250dbeb32673d0e4d3a39b0179b7db97d1d"
-    },
-    {
-      "id": "p115",
-      "doknr": "BJNR012730965BJNE015500315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "17592b0305e94c6069802e9fd8e1a9af54cdd99545bb6c1106af2c3039047ce2"
-    },
-    {
-      "id": "p116",
-      "doknr": "BJNR012730965BJNE015600315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "7e2c8cf491bee6083e9ca369c541c5bca3bd3a63f6ef12f8beac5bcac58cdefa"
-    },
-    {
-      "id": "p117",
-      "doknr": "BJNR012730965BJNE015700315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "feb475c7b47df1b907e90da860ccb1f598a564b5090fd838a4c548eca7a5f0c7"
-    },
-    {
-      "id": "p118",
-      "doknr": "BJNR012730965BJNE015801377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "adfc4a75a607792df2b1a5ca5b01fce2203b3840b761b4cedb330fadd1cfdc67"
-    },
-    {
-      "id": "p119",
-      "doknr": "BJNR012730965BJNE015903377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "d9818330844eb071c2f4f6d7cb140df3f8bb30b1c00db5f22e0b1a40566bafc7"
-    },
-    {
-      "id": "p120",
-      "doknr": "BJNR012730965BJNE016001307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c7c910a04fef332c84da015b7fe23b210a9cddcd9d017297a52886147f1b9846"
-    },
-    {
-      "id": "p121",
-      "doknr": "BJNR012730965BJNE016101301",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "a99c782bddb65d9e1470403f37d6e6c853eab1eaf3856f65e19924d3213e69b0"
-    },
-    {
-      "id": "p122",
-      "doknr": "BJNR012730965BJNE016200315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "504651bbb43d0c91da54c3993fb84bd627ab8a0543d2d916a734b32ea295d9aa"
-    },
-    {
-      "id": "p123",
-      "doknr": "BJNR012730965BJNE016300315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3caba47c9d445fa9e51a03921e918cc955cd0cac8658f4dce9efdd7ad79f115c"
-    },
-    {
-      "id": "p124",
-      "doknr": "BJNR012730965BJNE016400315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "0d524abe24bad45a2235e1a6f93943bcf5ea61bb9132b7629a20cc470e67aa5e"
-    },
-    {
-      "id": "p125",
-      "doknr": "BJNR012730965BJNE016503377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "9f6beab91e250b3ca678f120ecfb23dee10655cc3479cbf0617e9502a6f6cfec"
-    },
-    {
-      "id": "p126",
-      "doknr": "BJNR012730965BJNE016603377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "0212cb81f481af0c72afcb557b054915c9992eca08e59448fd9345ced5bfdb53"
-    },
-    {
-      "id": "p127",
-      "doknr": "BJNR012730965BJNE016703377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "b5b4a70a57ebf60e3e70f0f305817771a36cfe803b34d5a7501149ebd5af3636"
-    },
-    {
-      "id": "p127a",
-      "doknr": "BJNR012730965BJNE021601301",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "1704710842a12bc73eb73f4734639e8a28ac330715f8b783cd8ce02e62f4fd4c"
-    },
-    {
-      "id": "p127b",
-      "doknr": "BJNR012730965BJNE029300360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "be0f0a445b92ab9eedaedd8f87ed2cce5e6c9e667f9efd4033d467eb9e63c220"
-    },
-    {
-      "id": "p128",
-      "doknr": "BJNR012730965BJNE016801307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "0338de4aacccb75dd63a8c80ccaf2b4c4cb04776b24f431bdd1c33af1cfde94d"
-    },
-    {
-      "id": "p129",
-      "doknr": "BJNR012730965BJNE016900315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "ea3440a64be2a23dc4a2473ffe749a0d91275671679dbca6aede7e4863bf72f6"
-    },
-    {
-      "id": "p130",
-      "doknr": "BJNR012730965BJNE017000315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "a94ea840f3e6036327b4252af367beba0e123f1a708bf33fcb78dfd59c6c0c00"
-    },
-    {
-      "id": "p131",
-      "doknr": "BJNR012730965BJNE017100315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "ba004c886000a67741fd7a80e9992cf268a14a2189329a174ff724c52db1abff"
-    },
-    {
-      "id": "p132",
-      "doknr": "BJNR012730965BJNE017205125",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "5bc8039594cef08fd5c1f47758d2d618535db63cef94d426337730fa0c433cb5"
-    },
-    {
-      "id": "p133",
-      "doknr": "BJNR012730965BJNE017301360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "b576aec58518cc25a476e58c80c9dfc935c032226836380b2305a91b63e48c8f"
-    },
-    {
-      "id": "p134",
-      "doknr": "BJNR012730965BJNE017400315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c73e6ec91aebe4396fc6339c4703833394d191cbdedd2d2925a6fc8404e53cc8"
-    },
-    {
-      "id": "p135",
-      "doknr": "BJNR012730965BJNE017500315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "d748db6e2a4366f71b29ec7dd6b3770f6995c6ffee1509ed6c9b7005d4d20c4d"
-    },
-    {
-      "id": "p135a",
-      "doknr": "BJNR012730965BJNE017600315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "24f23d2f020d7e1c20ad68ef32b56b41a25afc684077b81d5238ac8098762387"
-    },
-    {
-      "id": "p136",
-      "doknr": "BJNR012730965BJNE017700315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "22542328bf64db12d26b4efae9a277863ae6d76e5279b2f441456a086f78bca3"
-    },
-    {
-      "id": "p137",
-      "doknr": "BJNR012730965BJNE017800315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "666f0d11a031f85796f0b9f18ae1bb81d5c3d9594afc9597850cc74bca76c6dd"
-    },
-    {
-      "id": "p137a",
-      "doknr": "BJNR012730965BJNE018600304",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "271ba31420443274002243fc45ee9964e11e53e30756887675a3ca32ecb123d8"
-    },
-    {
-      "id": "p137b",
-      "doknr": "BJNR012730965BJNE019000309",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "2bca8f2d83b09176cbacd2ed22b8213d7eb98182f90c0fb6b49cb8f021ca6b7f"
-    },
-    {
-      "id": "p137c",
-      "doknr": "BJNR012730965BJNE019100309",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "e0d160dada61a4ad11488506913730bab5d53d344ac9da0dfc911f193727805c"
-    },
-    {
-      "id": "p137d",
-      "doknr": "BJNR012730965BJNE019902360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "c456594bfa6648d1d27de31866cda8cc9ce3a86b4cc7e059015a80d1e3b0fe0c"
-    },
-    {
-      "id": "p137e",
-      "doknr": "BJNR012730965BJNE020801377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "214c64d80d1df7bfe1c241f692f32e1f799b94c761e98c7304aa504347b74128"
-    },
-    {
-      "id": "p137f",
-      "doknr": "BJNR012730965BJNE020900307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "27ef0077458d5dc4e6876fd1c056e34aa5b80b2533b35ab7240b3c91167e6417"
-    },
-    {
-      "id": "p137g",
-      "doknr": "BJNR012730965BJNE021703360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "dd28cb213fd9a25662111707fe38e294eab6ad9efcf0c45e29729e1e470014ba"
-    },
-    {
-      "id": "p137h",
-      "doknr": "BJNR012730965BJNE022000307",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "566d68addc12d75f946d53a4946248c70cd85c45e3d79679c2db6b850ca0b138"
-    },
-    {
-      "id": "p137i",
-      "doknr": "BJNR012730965BJNE022100377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "e35e9baa5eec876d9e9e79c2768a58646c0ea6e1510fd3af6a3ad6bce7f7580b"
-    },
-    {
-      "id": "p137j",
-      "doknr": "BJNR012730965BJNE023800377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "663c3fb027ec5b1115acab8dd5a5b7dc48ff0f322af384670641ebe43dd58067"
+      "title": "(weggefallen)",
+      "body_empty": false
     },
     {
       "id": "p137k",
+      "label": "§ 137k",
       "doknr": "BJNR012730965BJNE023904360",
-      "empty_body": true,
-      "repealed": true,
-      "xml_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    {
-      "id": "p137l",
-      "doknr": "BJNR012730965BJNE024300377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "37750f0af98ab385557c76fb4b50e5769a29acc9f187e6d4dd71af465e117bbd"
-    },
-    {
-      "id": "p137m",
-      "doknr": "BJNR012730965BJNE025200360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "20e78b3b17a3ca754934bb7458a759f819645c0985ad57d2a1746c21c65f6b37"
-    },
-    {
-      "id": "p137n",
-      "doknr": "BJNR012730965BJNE025700360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "62bd4a47aa6acdd94c9afefc6a086f18c1cb604828184790dcb1cc4428186a8b"
-    },
-    {
-      "id": "p137o",
-      "doknr": "BJNR012730965BJNE027300123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "9ad01964888cdade8f9b85b0a38f2d25d90750c54124215877eda2dd44c61e46"
-    },
-    {
-      "id": "p137p",
-      "doknr": "BJNR012730965BJNE029400360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "b9ede37f5dbcedf032811bfa67f646380efd85076678b47094d6763ec7865058"
-    },
-    {
-      "id": "p137q",
-      "doknr": "BJNR012730965BJNE029500360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "0a2e3a09ebba2608f2234bb1e58a982e705c106da31ac4da7e9262e95285b169"
-    },
-    {
-      "id": "p137r",
-      "doknr": "BJNR012730965BJNE029600360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3e4a88061dfe9cd2fda558233f3408cc593c69621a61daa9ff0769ba0be7afac"
-    },
-    {
-      "id": "p138",
-      "doknr": "BJNR012730965BJNE017905301",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "4a2fb686612a7e61b7a81d07f06523c5fa2b8e3e0a9eb0aa7793e292a9dfd4f7"
-    },
-    {
-      "id": "p138a",
-      "doknr": "BJNR012730965BJNE026400123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "7da6d8b8781a8957be4a9492bd8f9a95fe4356f5001aaa2eda38e2ca0e12795b"
+      "title": "(weggefallen)",
+      "body_empty": true
     },
     {
       "id": "p139",
+      "label": "§ 139",
       "doknr": "BJNR012730965BJNE018001377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+      "title": "Änderung der Strafprozessordnung",
+      "body_empty": false
     },
     {
       "id": "p140",
+      "label": "§ 140",
       "doknr": "BJNR012730965BJNE018101377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+      "title": "Änderung des Gesetzes über das am 6. September 1952\nunterzeichnete Welturheberrechtsabkommen",
+      "body_empty": false
     },
     {
       "id": "p141",
+      "label": "§ 141",
       "doknr": "BJNR012730965BJNE018201377",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
-    },
-    {
-      "id": "p142",
-      "doknr": "BJNR012730965BJNE027401360",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "fe88abb6bd432230998e4a368125e765aaf29e44762e866b2e26a7e1e0726412"
-    },
-    {
-      "id": "p143",
-      "doknr": "BJNR012730965BJNE018400315",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "2213eb437b1f71fe0ae9936601530a5a619634ae9810dde68140931cb25dfcba"
-    },
-    {
-      "id": "anlage",
-      "doknr": "BJNR012730965BJNE018706123",
-      "empty_body": false,
-      "repealed": false,
-      "xml_text_sha256": "839bc13238e76c35fc797745147637cf9ff544f8b7ca2d5569aee8efad868738"
+      "title": "Aufgehobene Vorschriften",
+      "body_empty": false
     }
   ],
+  "xml_record_classification": [
+    {
+      "doknr": "BJNR012730965",
+      "label": null,
+      "disposition": "law_metadata_and_editorial_notes"
+    },
+    {
+      "doknr": "BJNR012730965BJNE022615360",
+      "label": "Inhaltsübersicht",
+      "disposition": "table_of_contents"
+    },
+    {
+      "doknr": "BJNR012730965BJNG000101377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNG000201377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE004101377",
+      "label": "§ 1",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG000301377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE004202305",
+      "label": "§ 2",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE004301304",
+      "label": "§ 3",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE004401307",
+      "label": "§ 4",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE004501377",
+      "label": "§ 5",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE004600315",
+      "label": "§ 6",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG000401377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE004700315",
+      "label": "§ 7",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE004800315",
+      "label": "§ 8",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE004900315",
+      "label": "§ 9",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE005001140",
+      "label": "§ 10",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG000501377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNG000601377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE005102377",
+      "label": "§ 11",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG000701377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE005200315",
+      "label": "§ 12",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE005300315",
+      "label": "§ 13",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE005400315",
+      "label": "§ 14",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG000801377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE005501377",
+      "label": "§ 15",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE005601377",
+      "label": "§ 16",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE005701307",
+      "label": "§ 17",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE005800315",
+      "label": "§ 18",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE005901377",
+      "label": "§ 19",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE022700377",
+      "label": "§ 19a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE006001307",
+      "label": "§ 20",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE021800307",
+      "label": "§ 20a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE021902360",
+      "label": "§ 20b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE027800360",
+      "label": "§ 20c",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE027900360",
+      "label": "§ 20d",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE006100315",
+      "label": "§ 21",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE006201377",
+      "label": "§ 22",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE006303360",
+      "label": "§ 23",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE006401360",
+      "label": "§ 24",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG000901377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE006500315",
+      "label": "§ 25",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE006603377",
+      "label": "§ 26",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE006701307",
+      "label": "§ 27",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG001001377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNG001101377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE006800315",
+      "label": "§ 28",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE006901377",
+      "label": "§ 29",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE007000315",
+      "label": "§ 30",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG001201377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE007102377",
+      "label": "§ 31",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE007104125",
+      "label": "§ 31a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE007203360",
+      "label": "§ 32",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE022203360",
+      "label": "§ 32a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE022301360",
+      "label": "§ 32b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE024000377",
+      "label": "§ 32c",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE025801360",
+      "label": "§ 32d",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE025901360",
+      "label": "§ 32e",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE028000360",
+      "label": "§ 32f",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE028100360",
+      "label": "§ 32g",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE007301377",
+      "label": "§ 33",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE007401377",
+      "label": "§ 34",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE007501377",
+      "label": "§ 35",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE028200360",
+      "label": "§ 35a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE007604360",
+      "label": "§ 36",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE022403123",
+      "label": "§ 36a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE026001360",
+      "label": "§ 36b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE026100123",
+      "label": "§ 36c",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE028300360",
+      "label": "§ 36d",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE007700315",
+      "label": "§ 37",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE007801360",
+      "label": "§ 38",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE007900315",
+      "label": "§ 39",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE008001125",
+      "label": "§ 40",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE026200123",
+      "label": "§ 40a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE008102360",
+      "label": "§ 41",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE008200315",
+      "label": "§ 42",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE022802301",
+      "label": "§ 42a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE008300315",
+      "label": "§ 43",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE008400315",
+      "label": "§ 44",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG001302123",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNG004500123",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE022900377",
+      "label": "§ 44a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE028400360",
+      "label": "§ 44b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE008500315",
+      "label": "§ 45",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE023001360",
+      "label": "§ 45a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE027500360",
+      "label": "§ 45b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE027601360",
+      "label": "§ 45c",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE027700360",
+      "label": "§ 45d",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE008603123",
+      "label": "§ 46",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE008701304",
+      "label": "§ 47",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE008801377",
+      "label": "§ 48",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE008902377",
+      "label": "§ 49",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE009001377",
+      "label": "§ 50",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE009102123",
+      "label": "§ 51",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE028500360",
+      "label": "§ 51a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE009203123",
+      "label": "§ 52",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE023101123",
+      "label": "(XXXX) §§ 52a und 52b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE009306123",
+      "label": "§ 53",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE024201123",
+      "label": "§ 53a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG004600123",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE009405123",
+      "label": "§ 54",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE020002123",
+      "label": "§ 54a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE020102140",
+      "label": "§ 54b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE020202123",
+      "label": "§ 54c",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE020302129",
+      "label": "§ 54d",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE020401377",
+      "label": "§ 54e",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE020502140",
+      "label": "§ 54f",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE020601377",
+      "label": "§ 54g",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE020702360",
+      "label": "§ 54h",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG004700123",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE009500315",
+      "label": "§ 55",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE021000307",
+      "label": "§ 55a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE009601377",
+      "label": "§ 56",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE009700315",
+      "label": "§ 57",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE009802123",
+      "label": "§ 58",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE009900315",
+      "label": "§ 59",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE010001377",
+      "label": "§ 60",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG004800123",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE026501360",
+      "label": "§ 60a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE026601360",
+      "label": "§ 60b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE026700123",
+      "label": "§ 60c",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE026801360",
+      "label": "§ 60d",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE026901360",
+      "label": "§ 60e",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE027001360",
+      "label": "§ 60f",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE027100123",
+      "label": "§ 60g",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE027201360",
+      "label": "§ 60h",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG004900123",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE010102360",
+      "label": "§ 61",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE025401123",
+      "label": "§ 61a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE025500360",
+      "label": "§ 61b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE025600360",
+      "label": "§ 61c",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG005100360",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE028600360",
+      "label": "§ 61d",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE028700360",
+      "label": "§ 61e",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE028800360",
+      "label": "§ 61f",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE028900360",
+      "label": "§ 61g",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG005000123",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE010204360",
+      "label": "§ 62",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE010306360",
+      "label": "§ 63",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE022502360",
+      "label": "§ 63a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG001401377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE010401307",
+      "label": "§ 64",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE010502360",
+      "label": "§ 65",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE010602377",
+      "label": "§ 66",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE010701307",
+      "label": "§ 67",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE010802360",
+      "label": "§ 68",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE010900315",
+      "label": "§ 69",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG004201377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE019203360",
+      "label": "§ 69a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE019300305",
+      "label": "§ 69b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE019403377",
+      "label": "§ 69c",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE019501360",
+      "label": "§ 69d",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE019600305",
+      "label": "§ 69e",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE019702360",
+      "label": "§ 69f",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE019802360",
+      "label": "§ 69g",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG001501377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNG001601377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE011002377",
+      "label": "§ 70",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE011106360",
+      "label": "§ 71",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG001701377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE011203377",
+      "label": "§ 72",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG001801377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE011301377",
+      "label": "§ 73",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE011402140",
+      "label": "§ 74",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE011503377",
+      "label": "§ 75",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE011602377",
+      "label": "§ 76",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE011701377",
+      "label": "§ 77",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE011802377",
+      "label": "§ 78",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE011904123",
+      "label": "§ 79",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE025100360",
+      "label": "§ 79a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE026300123",
+      "label": "§ 79b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE012003360",
+      "label": "§ 80",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE012104140",
+      "label": "§ 81",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE012204360",
+      "label": "§ 82",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE012302377",
+      "label": "§ 83",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE012401377",
+      "label": "§ 84",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG001901377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE012507360",
+      "label": "§ 85",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE012601377",
+      "label": "§ 86",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG002001377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE012708360",
+      "label": "§ 87",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG004301377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE021100307",
+      "label": "§ 87a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE021202129",
+      "label": "§ 87b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE021304360",
+      "label": "§ 87c",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE021400307",
+      "label": "§ 87d",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE021500307",
+      "label": "§ 87e",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG004401360",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE024801360",
+      "label": "§ 87f",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE024901360",
+      "label": "§ 87g",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE025001360",
+      "label": "§ 87h",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE029000360",
+      "label": "§ 87i",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE029100360",
+      "label": "§ 87j",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE029200360",
+      "label": "§ 87k",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG002101377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNG002201377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE012804125",
+      "label": "§ 88",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE012903125",
+      "label": "§ 89",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE013002123",
+      "label": "§ 90",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE013101377",
+      "label": "§ 91",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE013202377",
+      "label": "§ 92",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE013301377",
+      "label": "§ 93",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE013406140",
+      "label": "§ 94",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG002301377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE013502377",
+      "label": "§ 95",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG002401377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNG002501377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE023201360",
+      "label": "§ 95a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE023304360",
+      "label": "§ 95b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE023400377",
+      "label": "§ 95c",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE023502360",
+      "label": "§ 95d",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE013601377",
+      "label": "§ 96",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG002601377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNG002701377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE013702140",
+      "label": "§ 97",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE024402360",
+      "label": "§ 97a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE013802140",
+      "label": "§ 98",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE013902140",
+      "label": "§ 99",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE014001140",
+      "label": "§ 100",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE014104360",
+      "label": "§ 101",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE018801140",
+      "label": "§ 101a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE024500140",
+      "label": "§ 101b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE014202377",
+      "label": "§ 102",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE024600140",
+      "label": "§ 102a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE014301140",
+      "label": "§ 103",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE014400315",
+      "label": "§ 104",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE025300360",
+      "label": "§ 104a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE014503377",
+      "label": "§ 105",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG002801377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE014601309",
+      "label": "§ 106",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE014701309",
+      "label": "§ 107",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE014804377",
+      "label": "§ 108",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE018501309",
+      "label": "§ 108a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE023600377",
+      "label": "§ 108b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE014902377",
+      "label": "§ 109",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE015005140",
+      "label": "§ 110",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE015102377",
+      "label": "§ 111",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE023702360",
+      "label": "§ 111a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG004101377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE018908123",
+      "label": "§ 111b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE024701123",
+      "label": "§ 111c",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG002901377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNG003001377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE015201377",
+      "label": "§ 112",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG003101377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE015300315",
+      "label": "§ 113",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE015400315",
+      "label": "§ 114",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG003201377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE015500315",
+      "label": "§ 115",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE015600315",
+      "label": "§ 116",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE015700315",
+      "label": "§ 117",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG003301377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE015801377",
+      "label": "§ 118",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG003401377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE015903377",
+      "label": "§ 119",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG003501377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNG003601377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNG003701377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE016001307",
+      "label": "§ 120",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE016101301",
+      "label": "§ 121",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE016200315",
+      "label": "§ 122",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE016300315",
+      "label": "§ 123",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG003801377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE016400315",
+      "label": "§ 124",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE016503377",
+      "label": "§ 125",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE016603377",
+      "label": "§ 126",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE016703377",
+      "label": "§ 127",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE021601301",
+      "label": "§ 127a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE029300360",
+      "label": "§ 127b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE016801307",
+      "label": "§ 128",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG003901377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE016900315",
+      "label": "§ 129",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE017000315",
+      "label": "§ 130",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE017100315",
+      "label": "§ 131",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE017205125",
+      "label": "§ 132",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE017301360",
+      "label": "§ 133",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE017400315",
+      "label": "§ 134",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE017500315",
+      "label": "§ 135",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE017600315",
+      "label": "§ 135a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE017700315",
+      "label": "§ 136",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE017800315",
+      "label": "§ 137",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE018600304",
+      "label": "§ 137a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE019000309",
+      "label": "§ 137b",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE019100309",
+      "label": "§ 137c",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE019902360",
+      "label": "§ 137d",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE020801377",
+      "label": "§ 137e",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE020900307",
+      "label": "§ 137f",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE021703360",
+      "label": "§ 137g",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE022000307",
+      "label": "§ 137h",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE022100377",
+      "label": "§ 137i",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE023800377",
+      "label": "§ 137j",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE023904360",
+      "label": "§ 137k",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE024300377",
+      "label": "§ 137l",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE025200360",
+      "label": "§ 137m",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE025700360",
+      "label": "§ 137n",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE027300123",
+      "label": "§ 137o",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE029400360",
+      "label": "§ 137p",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE029500360",
+      "label": "§ 137q",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE029600360",
+      "label": "§ 137r",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNG004001377",
+      "label": null,
+      "disposition": "structure"
+    },
+    {
+      "doknr": "BJNR012730965BJNE017905301",
+      "label": "§ 138",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE026400123",
+      "label": "§ 138a",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE018001377",
+      "label": "§ 139",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE018101377",
+      "label": "§ 140",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE018201377",
+      "label": "§ 141",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE027401360",
+      "label": "§ 142",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE018400315",
+      "label": "§ 143",
+      "disposition": "statutory_unit"
+    },
+    {
+      "doknr": "BJNR012730965BJNE018706123",
+      "label": "Anlage (zu § 61a)",
+      "disposition": "annex"
+    }
+  ],
+  "xml_record_counts": {
+    "law_metadata_and_editorial_notes": 1,
+    "table_of_contents": 1,
+    "structure": 51,
+    "statutory_unit": 253,
+    "annex": 1
+  },
+  "historical_version_check": {
+    "all_builddates": [
+      "20260529215505"
+    ],
+    "duplicate_versions_found": false,
+    "scope": "Aktuelle konsolidierte amtliche XML-Datei vollständig auf Mehrfachkennungen und unklassifizierte Normkörper geprüft; historische Datumsangaben in Übergangsrecht und Fußnoten sind keine daneben geltenden Fassungsdatensätze. Kein Vollarchiv aller seit 1965 geltenden Fassungen."
+  },
   "hashes": {
-    "urhg.xml": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
-    "index.html": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
-    "units.jsonl": "fa714cd8d0a1f6f33326a84275c8d103cb2f668f866226a96c6431095991bd52"
+    "sources/urhg.xml": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+    "sources/preflight-2026-10-20/index.html": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+    "sources/preflight-2026-10-20/full.html": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+    "sources/preflight-2026-10-20/current-pdf.txt": "540571a1ae026695c3f587befbe120940e9c7dc0f3b95a807f7c8ad6fdbb51d6",
+    "units.jsonl": "a60861ec571db3f082b529b914b598b484f4f8fdb67a02fcc421ffa52c8cada2"
   },
   "ok": true
 }

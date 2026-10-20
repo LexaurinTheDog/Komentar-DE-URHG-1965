@@ -1,0 +1,79 @@
+{
+  "cc": "de",
+  "lang": "de",
+  "repo": "Komentar-DE-URHG-1965",
+  "repo_dir": "/Volumes/LaCie/open-commentary/de/Komentar-DE-URHG-1965",
+  "title": "Kommentar zum Urheberrechtsgesetz (UrhG)",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-URHG-1965/sources/urhg-canonical.md",
+  "intro_file": "00-einleitung.md",
+  "intro_desc": "Stand, Methode und Benutzung",
+  "labels": {
+    "text": "Wortlaut der Vorschrift",
+    "chapter": "Kommentarkapitel",
+    "notes": "Amtlicher bzw. dokumentierter Quellenhinweis"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "grundlagen",
+      "title": "Werk, Urheber und Persönlichkeit"
+    },
+    {
+      "n": 2,
+      "slug": "verwertung",
+      "title": "Verwertungsrechte und weitere Befugnisse"
+    },
+    {
+      "n": 3,
+      "slug": "rechtsverkehr",
+      "title": "Rechtsnachfolge und Nutzungsverträge"
+    },
+    {
+      "n": 4,
+      "slug": "schranken",
+      "title": "Gesetzlich erlaubte Nutzungen und Vergütung"
+    },
+    {
+      "n": 5,
+      "slug": "institutionen",
+      "title": "Bildung, Forschung und Kulturerbe"
+    },
+    {
+      "n": 6,
+      "slug": "schutzdauer-software",
+      "title": "Schutzdauer und Computerprogramme"
+    },
+    {
+      "n": 7,
+      "slug": "leistungsschutz",
+      "title": "Ausgaben, Lichtbilder, Darbietungen, Tonträger und Sendungen"
+    },
+    {
+      "n": 8,
+      "slug": "daten-presse-film",
+      "title": "Datenbanken, Presse und Film"
+    },
+    {
+      "n": 9,
+      "slug": "rechtsschutz",
+      "title": "Technischer und zivilrechtlicher Rechtsschutz"
+    },
+    {
+      "n": 10,
+      "slug": "strafrecht-vollstreckung",
+      "title": "Strafrecht, Zoll und Zwangsvollstreckung"
+    },
+    {
+      "n": 11,
+      "slug": "anwendung",
+      "title": "Persönlicher Anwendungsbereich"
+    },
+    {
+      "n": 12,
+      "slug": "uebergang",
+      "title": "Übergangs- und Schlussrecht sowie Suchquellen"
+    }
+  ],
+  "decisive_date": "2026-10-19",
+  "official_xml": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-URHG-1965/sources/urhg.xml"
+}

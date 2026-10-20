@@ -222,27 +222,21 @@ Absatz 1 erlaubt unter kumulativen Bedingungen nicht erwerbsbezogene, eintrittsf
 
 Beispiel: Ein kostenloser Wohlfahrtsnachmittag mit Musik ist hinsichtlich Zielgruppe, Vergütung und Drittinteressen zu untersuchen. Eine dort zusätzlich geplante öffentliche Kinovorführung wird nicht allein durch den sozialen Zweck oder freien Eintritt erlaubt.
 
-### § 52a — (weggefallen)
+### (XXXX) §§ 52a und 52b — (weggefallen)
 
 **Wortlaut der Vorschrift:**
 
 > (weggefallen)
 
 *Amtlicher bzw. dokumentierter Quellenhinweis:* Das amtliche XML enthält hier keinen Vorschriftentext; der Wegfallvermerk stammt aus dem amtlichen Titel.
+
+**Zur früheren Stelle § 52a:**
 
 § 52a ist in der amtlichen Fassung zusammen mit § 52b als weggefallen verzeichnet. Für aktuelle Unterrichts- und Forschungsnutzungen sind insbesondere §§ 60a ff. zu prüfen. Historische Lernplattformverträge oder Entscheidungen zu § 52a belegen daher keine unveränderte heutige Befugnis.
 
 Beispiel: Eine Hochschule möchte einen früher unter § 52a bereitgestellten Text erneut zugänglich machen. Sie muss den neuen Nutzungsvorgang nach dem geltenden Recht prüfen und darf sich nicht allein auf die alte Freischaltung berufen.
 
-### § 52b — (weggefallen)
-
-**Wortlaut der Vorschrift:**
-
-> (weggefallen)
-
-*Amtlicher bzw. dokumentierter Quellenhinweis:* Das amtliche XML enthält hier keinen Vorschriftentext; der Wegfallvermerk stammt aus dem amtlichen Titel.
-
-*Amtlicher bzw. dokumentierter Quellenhinweis:* Das amtliche XML enthält hier keinen Vorschriftentext; der Wegfallvermerk stammt aus dem amtlichen Titel.
+**Zur früheren Stelle § 52b:**
 
 Der Wegfall betrifft die frühere besondere Terminalregelung; er beseitigt nicht die Notwendigkeit einer Rechtsgrundlage für gegenwärtige Bibliotheksangebote. Heute sind insbesondere § 60e und dessen Verhältnis zu Verträgen und Vergütung nach §§ 60g und 60h zu untersuchen. Das amtliche XML enthält für die gemeinsam ausgewiesenen weggefallenen Stellen keinen materiellen Normtext.
 
