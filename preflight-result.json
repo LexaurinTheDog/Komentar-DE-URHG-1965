@@ -174,7 +174,7 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 379581,
+    "commentary_chars": 403385,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -183,7 +183,7 @@
     "completeness_report": "completeness-report.json",
     "quality_report": "quality-report.json",
     "preservation_report": "commentary-preservation.json",
-    "local_links_checked": 402,
+    "local_links_checked": 439,
     "broken_local_links": 0
   },
   "bounded_review_confirmation": {
@@ -11173,6 +11173,15 @@
     "unresolved_blockers": [],
     "limitations": [
       "Gesamter Quellen-/Parser-Preflight, inhaltliche zweite Prüfung nur der genau 20 zugewiesenen Einheiten. Keine vollständige historische Archivprüfung oder vollständige Länder-/Staatsvertragsmatrix."
-    ]
+    ],
+    "technical_validation": {
+      "repo": "Komentar-DE-URHG-1965",
+      "units": 254,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 403385,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   }
 }

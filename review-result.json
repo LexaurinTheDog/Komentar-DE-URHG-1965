@@ -378,5 +378,22 @@
     "case_full_text_comparison": "sources/review-p113-p130/case-local-agreement.json",
     "previous_review": "sources/review-p113-p130/previous-review-p101a-p112.json"
   },
-  "technical_validation": "validation-result.json"
+  "technical_validation": "validation-result.json",
+  "technical_checks": {
+    "strict_validation": {
+      "repo": "Komentar-DE-URHG-1965",
+      "units": 254,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 403385,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "completeness_ok": true,
+    "local_links_checked": 439,
+    "broken_local_links": [],
+    "source_responses_hash_checked": 178,
+    "source_hash_mismatches": [],
+    "limitations": "Diese Prüfungen belegen Text-/Strukturtreue und den dokumentierten Umfang; keine vollständige zweite Buchprüfung oder externe Freigabe."
+  }
 }
