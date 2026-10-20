@@ -1,6 +1,6 @@
 {
   "algorithm": "SHA-256",
-  "generated_at": "2026-10-20T13:16:56.087857+00:00",
+  "generated_at": "2026-10-20T13:37:03.379871+00:00",
   "sources": [
     {
       "path": "sources/aktualitaet.headers",
@@ -1623,9 +1623,514 @@
       "bytes": 3182
     },
     {
+      "path": "sources/review-p79a-p87j/20231222_0000040.headers",
+      "sha256": "68067abd25b1dabf2a3bea42c8ad7434cbcd181f6a54865cc835eacfa7195f78",
+      "bytes": 294
+    },
+    {
+      "path": "sources/review-p79a-p87j/20231222_0000040.rdf",
+      "sha256": "067be28d06115cd332f32707426eb5cc85596b60668ab6a10d007086947ea495",
+      "bytes": 14178
+    },
+    {
+      "path": "sources/review-p79a-p87j/20231222_0000050.headers",
+      "sha256": "c42934fbb1c2b8facd6c49fda3d142d1c2600ba358118fc79db0cbbbe81a1575",
+      "bytes": 294
+    },
+    {
+      "path": "sources/review-p79a-p87j/20231222_0000050.rdf",
+      "sha256": "3c4df06ed49a23eac5d7ff78efea0a0339f6375df70e4274cda234d37dda0c61",
+      "bytes": 10029
+    },
+    {
+      "path": "sources/review-p79a-p87j/L_202490790.headers",
+      "sha256": "f256f38477f897d6de12450bceb350dc633fa2b4197e1e1c187a0b2c75f8a068",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p79a-p87j/L_202490790.rdf",
+      "sha256": "3b23f41ab9a97b57fdcbd92432658a54a4d9630bc94656eb8be4e36a2537c967",
+      "bytes": 33133
+    },
+    {
+      "path": "sources/review-p79a-p87j/L_202490814.headers",
+      "sha256": "44e0712ce09685b29622461f32263c0f2181f7e17b0c5aeb50eff5d2e89c7e0b",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p79a-p87j/L_202490814.rdf",
+      "sha256": "b79c24099a45ebfa469f991cec54abf9f2977a9313084e598c2899d667f682e7",
+      "bytes": 32051
+    },
+    {
+      "path": "sources/review-p79a-p87j/L_202590541.headers",
+      "sha256": "a01377c40821030ca6807558e738e3543351a8319a9f1ab3f4f0b8c8922241dd",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p79a-p87j/L_202590541.rdf",
+      "sha256": "921b0704fe012840dab951226a8ee53c29e1f3c371df5720ff2297eab40312f2",
+      "bytes": 33572
+    },
+    {
+      "path": "sources/review-p79a-p87j/L_202690190.headers",
+      "sha256": "a7536eeda93f30f74e7f208c488bc2cfafd3b44fcb59777a411f550c43b34d5f",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p79a-p87j/L_202690190.rdf",
+      "sha256": "b4df2ce8a5b86fefc0fb360cec6c9f763722da54232d5019d9ef751408da73a8",
+      "bytes": 33483
+    },
+    {
+      "path": "sources/review-p79a-p87j/aktuell.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/review-p79a-p87j/aktuell.html.headers",
+      "sha256": "5b6220ddac1506f2811a1fdf317779102069e1127f2b8212087e50e5eced2ead",
+      "bytes": 324
+    },
+    {
+      "path": "sources/review-p79a-p87j/amendment.pdf",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883
+    },
+    {
+      "path": "sources/review-p79a-p87j/amendment.pdf.headers",
+      "sha256": "592d29be92c8ddcb512427c3dc71b9921fe1106c9acf0aa34cd026dcd19b0323",
+      "bytes": 1018
+    },
+    {
+      "path": "sources/review-p79a-p87j/amendment.txt",
+      "sha256": "330ec58cb454a226cdb04ba26c8da212f4d84f34af5c7c9b5adcb87dcd7dcef7",
+      "bytes": 31271
+    },
+    {
+      "path": "sources/review-p79a-p87j/automobil-intake.md",
+      "sha256": "e28390124bd45ad13a24e0dec7e58d77c3bd391f6d4367ac2b7dc6c6a038eff7",
+      "bytes": 54913
+    },
+    {
+      "path": "sources/review-p79a-p87j/automobil-reading.txt",
+      "sha256": "1318bda0ed7c03baa383d89875eaccf6802381a01946b31f66496f86009249d0",
+      "bytes": 54946
+    },
+    {
+      "path": "sources/review-p79a-p87j/automobil.xml",
+      "sha256": "148a2b4e24f3481d81ea9c600463ab3d6397cd6cbb2da8f93ffc8c03c07ceaf6",
+      "bytes": 79907
+    },
+    {
+      "path": "sources/review-p79a-p87j/automobil.zip",
+      "sha256": "66a326497e05b328da599ec69858583841cd7f1ff4139243eef845d7f4a0553e",
+      "bytes": 17569
+    },
+    {
+      "path": "sources/review-p79a-p87j/automobil.zip.headers",
+      "sha256": "1a072098b6f12bc4b169145479d9872f8a112f8a9ad40fbdaafe23f28d523301",
+      "bytes": 3026
+    },
+    {
+      "path": "sources/review-p79a-p87j/baseline-commit.txt",
+      "sha256": "d03a052cc4a3cf40ddf869cbd57820f628844c1663959976d7c488a567b87702",
+      "bytes": 41
+    },
+    {
+      "path": "sources/review-p79a-p87j/british-horseracing.pdf",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p79a-p87j/british-horseracing.pdf.headers",
+      "sha256": "b72819218590b9a28487d54d9de8f544913878d5c0f3042899c456467f521462",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p79a-p87j/case-local-agreement.json",
+      "sha256": "1d45007fa730c1cf4bcf632f2f116b9d733a5239b56fd18bdc120071341e2c09",
+      "bytes": 1363
+    },
+    {
+      "path": "sources/review-p79a-p87j/cellar-fetch-results.json",
+      "sha256": "eec6a39d8e6c1c702e5d990d8a81b85641ff923583fd8ad2f821e4a480180c6c",
+      "bytes": 1655
+    },
+    {
+      "path": "sources/review-p79a-p87j/consolidated-any-1.pdf.headers",
+      "sha256": "797a543e725a80afb5414c0a1c3525dc043165352c9d972f60433cea7d9bc7b8",
+      "bytes": 288
+    },
+    {
+      "path": "sources/review-p79a-p87j/consolidated-any-1.zip",
+      "sha256": "e49780d289a81fc5e5dd9c31f82c9a70e837d69121b48b3e7df4b725d3d31d17",
+      "bytes": 42863
+    },
+    {
+      "path": "sources/review-p79a-p87j/consolidated-any-2.pdf.headers",
+      "sha256": "e2b128c5ca03b13eea2959dddc7764101a93c840bb353f9a9512cb6fa7c4a701",
+      "bytes": 288
+    },
+    {
+      "path": "sources/review-p79a-p87j/consolidated-any-2.zip",
+      "sha256": "8aa1c3c3e167595c9d803bc3f735d00ef5d768db4d7f5fb841377478e3454d3f",
+      "bytes": 45387
+    },
+    {
+      "path": "sources/review-p79a-p87j/correction-2024-de-expression.headers",
+      "sha256": "f23ab7006b7bc98e1c7c446134b2013c59fddecc12f59994361375b4c3d3ba30",
+      "bytes": 198
+    },
+    {
+      "path": "sources/review-p79a-p87j/correction-2024-de-expression.rdf",
+      "sha256": "520dd55758f7e1bad479e8495baef712c8a28237d0e6fa9642f2c187926f903f",
+      "bytes": 33
+    },
+    {
+      "path": "sources/review-p79a-p87j/correction-any-1.pdf",
+      "sha256": "fe655d5be5367e58a73cb3da5d1382b663e1eeeeecba553698dbcd552ebbcf9e",
+      "bytes": 933183
+    },
+    {
+      "path": "sources/review-p79a-p87j/correction-any-1.pdf.headers",
+      "sha256": "867871149bd8a21b23819ff7c7984bf1c9e374aa2101670bece1ee2d2931e84d",
+      "bytes": 300
+    },
+    {
+      "path": "sources/review-p79a-p87j/correction-any-1.txt",
+      "sha256": "829e41ea5e6fdf1f8d989ecff54c9c9e5e3d69a419883dfe6f39f00278fe6ded",
+      "bytes": 25888
+    },
+    {
+      "path": "sources/review-p79a-p87j/correction-any-2.pdf",
+      "sha256": "5387e4b320315763b72707ba8230bb26f85e05af343f9b0dd285bc34a5594f67",
+      "bytes": 872271
+    },
+    {
+      "path": "sources/review-p79a-p87j/correction-any-2.pdf.headers",
+      "sha256": "867871149bd8a21b23819ff7c7984bf1c9e374aa2101670bece1ee2d2931e84d",
+      "bytes": 300
+    },
+    {
+      "path": "sources/review-p79a-p87j/correction-any-2.txt",
+      "sha256": "3a62336da04b6b2da944e2eb2772206376e0909d07b189da9f3caeed9b365150",
+      "bytes": 3348
+    },
+    {
+      "path": "sources/review-p79a-p87j/current.pdf",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416
+    },
+    {
+      "path": "sources/review-p79a-p87j/current.pdf.headers",
+      "sha256": "89734440f5ac44266fb14bb8d42dbe436d8e1ab8de1b9f608cabb28718132a94",
+      "bytes": 309
+    },
+    {
+      "path": "sources/review-p79a-p87j/current.txt",
+      "sha256": "540571a1ae026695c3f587befbe120940e9c7dc0f3b95a807f7c8ad6fdbb51d6",
+      "bytes": 280366
+    },
+    {
+      "path": "sources/review-p79a-p87j/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "bytes": 401221
+    },
+    {
+      "path": "sources/review-p79a-p87j/current.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672
+    },
+    {
+      "path": "sources/review-p79a-p87j/current.zip.headers",
+      "sha256": "209e86769ae7dd732d6a9ccfbea685afc1d009aa1248fc13d4256a5c9f3c760c",
+      "bytes": 308
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-boe.body",
+      "sha256": "08b01d21ae0f13c0dc1a03259cf2a59e10dc45b417d689c5b98f64c3b6e63ffd",
+      "bytes": 1463578
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-consolidated-de.rdf",
+      "sha256": "fe2fb4508fe51308b90a60553a0e05fe9828f3fe0f054d134f3cef64e2ef1009",
+      "bytes": 14311
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-consolidated-de.rdf.headers",
+      "sha256": "3e21ce67134cea26074963f2df236ebbc8ae64dd37423328504d7294fdab44db",
+      "bytes": 294
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-consolidated-de.txt",
+      "sha256": "d0aa1a8d99ff79e0695ee101543cfb42373f7d3badb4ab8d255547e857f6eb8e",
+      "bytes": 158791
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-consolidated-de.xml",
+      "sha256": "0aac1d7c8a7fb79fa0cbd618938f8853f205eb1b990ad72d11d9ec801248393b",
+      "bytes": 206144
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-correction-2026.rdf",
+      "sha256": "b94b33acc8daa3b36815cce52189b6bd0aae8a543422ac8e1a4d5c213bf2d5c8",
+      "bytes": 33572
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-correction-2026.rdf.headers",
+      "sha256": "7b6fffb042fb9d509614b8805aa590f269302d2ba62a886cc90744f141f3735d",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-correction-de.rdf",
+      "sha256": "de6fc4964b26ae05d43783397a3cee201da9eaf5e23d52566066662c25639568",
+      "bytes": 34487
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-correction-de.rdf.headers",
+      "sha256": "7dc79394732ddbbb4cebe95130a8f2bf6bb697162c9dc059fb9c3ae1033cbc1d",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-de.txt",
+      "sha256": "c458882940dbd2450f18a7e65342829e4bf46a67c9c02bec4be57a6ea70f8cbf",
+      "bytes": 399864
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-eli.pdf",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-eli.pdf.headers",
+      "sha256": "482627d273bb2f1c7551a267439276fcae61fdb93071cab271fc48dd72c4f207",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-html.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-html.html.headers",
+      "sha256": "c222f10678574567cb0bad84eac9a3644200e542ca4fe8dc423ace8839b7dbaf",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-info.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-info.html.headers",
+      "sha256": "685e6c39fa3deec51d8e363c1ad4fdb3432d1b3cf560cd174ac9c2877107edff",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-negotiated.body",
+      "sha256": "a6897fd54051c9da212aadb61b920c24a36d1d98ca24d98f31c9edf91308be40",
+      "bytes": 1490610
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-oj.pdf",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-oj.pdf.headers",
+      "sha256": "6313469f2f1ef4f00bbca3634738c70bf4e6274e9a38a2766991116e08d42bab",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-rdf.body",
+      "sha256": "c2353a81debddd79d4cdf4ca765e8d0585cde0accd17740762167517f30782f9",
+      "bytes": 3845
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-work.rdf",
+      "sha256": "5c395d5f16ca19835712c630d781dc46258b91e879517585d308bc32edff0292",
+      "bytes": 2026207
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-work.rdf.headers",
+      "sha256": "599a11b428ee701dd00e16ebb1decf2fd2e538985e2cd3c4519d96b3129d705c",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act.html.headers",
+      "sha256": "bdba6910c2db4e5972866556fffb5689689211fda8c269d3cde446581c501746",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p79a-p87j/eu-celex-correction-fetch-results.json",
+      "sha256": "497adc5333425249a7e37168cae56f3104830bd6d96c288bbd1f88274bacad3a",
+      "bytes": 1742
+    },
+    {
+      "path": "sources/review-p79a-p87j/eu-correction-fetch-results.json",
+      "sha256": "8e1fcf667ea8a34bc16dd0fcceb8042b047d993b297ea9524e47e2b53af5b5b1",
+      "bytes": 2012
+    },
+    {
+      "path": "sources/review-p79a-p87j/eu-explicit-fetch-results.json",
+      "sha256": "85c5bc5ddfd4a727266a760b0b1278d859d69e6e18a2509c9dac936841f70187",
+      "bytes": 603
+    },
+    {
+      "path": "sources/review-p79a-p87j/eu-final-fetch-results.json",
+      "sha256": "e5b2e52bb500a0f7987dafff8cc62a58018b9129cf6b4bc25d93d995ab7b1272",
+      "bytes": 939
+    },
+    {
+      "path": "sources/review-p79a-p87j/eu-item-any-fetch-results.json",
+      "sha256": "d1d7b8c5b3d8e242951686b7d3ae019c9bdfc92a0cf70c1c311771703cb79ac2",
+      "bytes": 3267
+    },
+    {
+      "path": "sources/review-p79a-p87j/eu-item-fetch-results.json",
+      "sha256": "10375b4bb99765889b9766fd7b16948b8c174f53e93091258b401cb870c564da",
+      "bytes": 1307
+    },
+    {
+      "path": "sources/review-p79a-p87j/eu-metadata-fetch-results.json",
+      "sha256": "eca2a59706fc9d32a5934bde68308cf9febccd84e12c6812fcd8395ddc4a85c2",
+      "bytes": 1736
+    },
+    {
+      "path": "sources/review-p79a-p87j/eu-remaining-metadata-fetch-results.json",
+      "sha256": "0f173f211076460ba66413e39e9604711a81ab13bef72ef0bb7c0c2d9a62d7cb",
+      "bytes": 4205
+    },
+    {
+      "path": "sources/review-p79a-p87j/eu-resource-rdf-fetch-results.json",
+      "sha256": "2da12f5e9ff1ff1c6e5558e97ddcc70ce6cca704cd38c6188d3aac313861ad11",
+      "bytes": 2291
+    },
+    {
+      "path": "sources/review-p79a-p87j/eu-supplemental-metadata-fetch-results.json",
+      "sha256": "1268b45c47be95add2efef095517dc863edf35e8155fdfd2bceba18818b85aee",
+      "bytes": 1782
+    },
+    {
+      "path": "sources/review-p79a-p87j/eu-version-evidence.json",
+      "sha256": "3b80f80c6dc75d62e920754364ec000e664b8ab9b0b62ce037c15ca6e3619128",
+      "bytes": 5633
+    },
+    {
+      "path": "sources/review-p79a-p87j/extra-fetch-results.json",
+      "sha256": "a1971874c7a269274779306c306430043f65b610a28248dc0bece5e44e2e4a02",
+      "bytes": 2496
+    },
+    {
+      "path": "sources/review-p79a-p87j/fetch-results.json",
+      "sha256": "86bcd3657b8bafd18065988e168cfa407d9060d563170aae34e91c2f5c00abc6",
+      "bytes": 4993
+    },
+    {
+      "path": "sources/review-p79a-p87j/format-integrity.json",
+      "sha256": "e6021ffae1ce105ea4e55af73d8d61e3fa77f0cc55d11ddb8615f6e0c6129a6b",
+      "bytes": 8319
+    },
+    {
+      "path": "sources/review-p79a-p87j/full.html",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217
+    },
+    {
+      "path": "sources/review-p79a-p87j/full.html.headers",
+      "sha256": "2090fce0899cdc7b9bc5613c9e11be26f1fc5f4b55938eeb88f49574ba940732",
+      "bytes": 325
+    },
+    {
+      "path": "sources/review-p79a-p87j/index.html",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665
+    },
+    {
+      "path": "sources/review-p79a-p87j/index.html.headers",
+      "sha256": "f5a1b9d176a03c1da6c40a121e34810e83c1324fc600b9fa3cea536791f51d87",
+      "bytes": 323
+    },
+    {
+      "path": "sources/review-p79a-p87j/metall-reread.json",
+      "sha256": "554fb05d508ab880e070c081b6b339a4854e99720f43780d1cfe8328c5ce86e8",
+      "bytes": 917
+    },
+    {
+      "path": "sources/review-p79a-p87j/preflight-evidence.json",
+      "sha256": "29ddf9c234bbdf543267714b6e0ebcadd6dbe957c93a195e9764fb27e887f023",
+      "bytes": 14027
+    },
+    {
+      "path": "sources/review-p79a-p87j/preservation.json",
+      "sha256": "201c5b173b4624dcb9c9dcf1ea96b01c8e7a56b9e30ae9051108d0a109ab1c98",
+      "bytes": 22148
+    },
+    {
+      "path": "sources/review-p79a-p87j/previous-review-p67-p79.json",
+      "sha256": "6192548dd94065644e06a3380be1958e59524b66d49823571263dbb6ec4f50d4",
+      "bytes": 25235
+    },
+    {
+      "path": "sources/review-p79a-p87j/search-log.json",
+      "sha256": "131957b58c2b2e90d36a2858ab821d2c303202a83888ecf81547a28a4fc3f5e5",
+      "bytes": 1802
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-corr-JOL_2016_257_R_0013.headers",
+      "sha256": "41f6a0619a90d952716a14bab6cc3cf6990ecd4e0bfd5b1f025599ac16dbe20a",
+      "bytes": 294
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-corr-JOL_2016_257_R_0013.rdf",
+      "sha256": "fd65b6a93d3f256625fa791818667373a9d1759ac71325a4da9c808bf4fe40b3",
+      "bytes": 26765
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-corr-L_202690559.headers",
+      "sha256": "410d0119190b3df039f1946097a64e115a7ee73cb0fa7281b9d6e47d60d9ad36",
+      "bytes": 294
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-corr-L_202690559.rdf",
+      "sha256": "9b7ae1f00489efc8db83e1e48e9d9dad7f330dd9b07b84810a48176ea0b668be",
+      "bytes": 30719
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-directive.headers",
+      "sha256": "b5ee25552d8b9b8cc6d4bcc0caac33a746a4bcfa63a7596ff09c0cc44ef35f5f",
+      "bytes": 301
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-directive.pdf",
+      "sha256": "08f356966b696ae9dfd986283a900803f37f1382d2bf76bbb54bc3e0288ff0d8",
+      "bytes": 397902
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-directive.pdf.headers",
+      "sha256": "4e0ea65fd2b927832368e586a22c66c671ac065b113a40aeac7652a837c1d5c3",
+      "bytes": 288
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-directive.rdf",
+      "sha256": "59c1dfd2e11914357e65e7b8914b4dcd9337702abf3ca3cc439c6c957286c07c",
+      "bytes": 10983702
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-directive.txt",
+      "sha256": "0719ccc3feea8866444b435ff762241d920e5fddc625a79fbb7a84d91b2b1486",
+      "bytes": 53942
+    },
+    {
       "path": "sources/search-log.json",
-      "sha256": "8b6bfb5dab525ca3691cb345c7c6520753c42b918554ce2873044ef25eac3e03",
-      "bytes": 13640
+      "sha256": "76a3f59a7e5a842126814465eb1c360391c863189d48c3166c5f697a8021ef99",
+      "bytes": 15555
     },
     {
       "path": "sources/searches/amendment-search.json",
@@ -1699,8 +2204,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "72b7f0a58359e3edbe1587c246e3d7aab7a45abb5eb05ea7f2adafa689ce0cf1",
-      "bytes": 71551
+      "sha256": "98baa58e317e34d69eaa88dc6346cb9cf61ef5d52f138faaf45c03eaf71562c2",
+      "bytes": 109193
     },
     {
       "path": "sources/verify-sources.py",

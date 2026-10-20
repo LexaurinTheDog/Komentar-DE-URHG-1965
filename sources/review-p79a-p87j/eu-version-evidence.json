@@ -1,0 +1,91 @@
+{
+  "verified_at": "2026-10-20T13:35:18.257894+00:00",
+  "decisive_date": "2026-10-19",
+  "official_source": "https://publications.europa.eu/resource/celex/32023R2854",
+  "original_official_pdf": "sources/review-p79a-p87j/data-act-negotiated.body",
+  "original_sha256": "a6897fd54051c9da212aadb61b920c24a36d1d98ca24d98f31c9edf91308be40",
+  "corrected_german_formex": "sources/review-p79a-p87j/data-act-consolidated-de.xml",
+  "corrected_sha256": "0aac1d7c8a7fb79fa0cbd618938f8853f205eb1b990ad72d11d9ec801248393b",
+  "consolidation_info": {
+    "CONSLEG.REF": "2023R2854",
+    "CONSLEG.DATE": "20250909",
+    "DATE.LAST.MOD": "20250909",
+    "PROD.SEQ": "000.003.0",
+    "START.DATE": "20231222",
+    "END.DATE": "99999999",
+    "END": "NONE",
+    "LEG.VAL": "REG"
+  },
+  "articles_checked": {
+    "43": "Artikel 43 Datenbanken, die bestimmte Daten enthalten Das in Artikel 7 der Richtlinie 96/9/EG festgelegte Schutzrecht  sui generis  findet keine Anwendung, wenn Daten mittels eines in den Anwendungsbereich der vorliegenden Verordnung – und insbesondere der Artikel 4 und 5 dieser Verordnung – fallenden vernetzten Produkts oder verbundenen Dienstes erlangt oder erzeugt wurden.",
+    "50": "Artikel 50 Inkrafttreten und Geltungsbeginn Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im  Amtsblatt der Europäischen Union  in Kraft. Sie gilt ab dem  12. September 2025 . Die Verpflichtung gemäß Artikel 3 Absatz 1 gilt für vernetzte Produkte und die mit ihnen verbundenen Dienste, die nach dem  12. September 2026  in Verkehr gebracht wurden. Kapitel III gilt nur in Bezug auf Datenbereitstellungspflichten nach dem Unionsrecht oder nach im Einklang mit Unionsrecht erlassenen nationalen Rechtsvorschriften, die nach dem  12. September 2025  in Kraft treten. Kapitel IV gilt für Verträge, die nach dem  12. September 2025  geschlossen wurden. Kapitel IV gilt ab dem  12. September 2027  für Verträge, die am oder vor dem  12. September 2025  geschlossen wurden, sofern a) sie unbefristet sind oder b) ihre Geltungsdauer frühestens 10 Jahre nach dem  11. Januar 2024  endet."
+  },
+  "german_corrigendum": "sources/review-p79a-p87j/correction-any-1.pdf",
+  "german_corrigendum_read_scope": "Alle 24 Korrekturpunkte der fünfseitigen Berichtigung 2025/90691 gelesen; Art. 43 und 50 unverändert. Art. 4/5 hier nur als von Art. 43 genannte Zusammenhänge, keine umfassende Zugangsanspruchsprüfung.",
+  "later_corrections": [
+    {
+      "evidence": "L_202690190.rdf",
+      "expressions": [
+        "http://publications.europa.eu/resource/oj/L_202690190.NLD"
+      ]
+    },
+    {
+      "evidence": "data-act-correction-2026.rdf",
+      "expressions": [
+        "http://publications.europa.eu/resource/oj/L_202690805.SLV"
+      ]
+    },
+    {
+      "evidence": "20231222_0000040.rdf",
+      "expressions": [
+        "http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000040.NLD"
+      ]
+    },
+    {
+      "evidence": "20231222_0000050.rdf",
+      "expressions": [
+        "http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050.SLV"
+      ]
+    }
+  ],
+  "effective_evidence": "Veröffentlichung 22.12.2023; Art. 50: Inkrafttreten 11.1.2024, grundsätzliche Anwendbarkeit ab 12.9.2025. Sondertermine für Art. 3 Abs. 1, Kapitel III und IV nicht auf Art. 43 übertragen. § 87b Abs. 3 seit 30.5.2026; unionsrechtliche Grenze bereits zuvor anwendbar.",
+  "metadata_current_status": "Amtliches CELLAR-Arbeitsmetadatum als in Kraft ausgewiesen; Korrekturverknüpfungen kontrolliert. Neuere Konsolidierungen 000.004/000.005 betreffen NL/SLV, kein neuer deutscher Artikel-43-/Artikel-50-Text. Ein verknüpfter Änderungsvorschlag ist keine beschlossene Änderung.",
+  "original_and_corrected_relevant_articles_agree": true,
+  "scope_limit": "Art. 43, Anwendungsbeginn in Art. 50 und zugehörige Fassungsmetadaten. Keine vollständige Kommentierung der Datenverordnung; nicht jeder verknüpfte anderssprachige Korrekturtext wurde inhaltlich gelesen.",
+  "services_definition": {
+    "source": "sources/review-p79a-p87j/services-directive.pdf",
+    "sha256": "08f356966b696ae9dfd986283a900803f37f1382d2bf76bbb54bc3e0288ff0d8",
+    "read_scope": "Art. 1 Abs. 1 Buchstabe b und Begriffsunterteilungen einschließlich Anhangverweis; keine vollständige Richtlinienkommentierung",
+    "corrections_checked": [
+      {
+        "evidence": "services-corr-L_202690559.rdf",
+        "expressions": [
+          "http://publications.europa.eu/resource/oj/L_202690559.HRV"
+        ]
+      },
+      {
+        "evidence": "services-corr-JOL_2016_257_R_0013.rdf",
+        "expressions": [
+          "http://publications.europa.eu/resource/oj/JOL_2016_257_R_0013.LIT"
+        ]
+      }
+    ],
+    "finding": "Die zwei amtlich verknüpften Berichtigungen betreffen Kroatisch und Litauisch, nicht den hier verwendeten deutschen Definitionswortlaut."
+  },
+  "mechanical_article_comparison": [
+    {
+      "article": "43",
+      "entire_article_agrees_after_whitespace_only": true,
+      "normalized_characters": 324,
+      "original_text_sha256": "395e2a92b2c8534a24035e72582e6bef1f909adc3572963ca635cf8443f1ef36",
+      "corrected_text_sha256": "395e2a92b2c8534a24035e72582e6bef1f909adc3572963ca635cf8443f1ef36"
+    },
+    {
+      "article": "50",
+      "entire_article_agrees_after_whitespace_only": true,
+      "normalized_characters": 752,
+      "original_text_sha256": "4fab9c53a5e852e36d7aa58a40f2fee14bbfb420d6486d297f87199087fa93b9",
+      "corrected_text_sha256": "4fab9c53a5e852e36d7aa58a40f2fee14bbfb420d6486d297f87199087fa93b9"
+    }
+  ]
+}

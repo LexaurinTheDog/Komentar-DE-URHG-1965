@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313992011.zip",
+    "accessed_at": "2026-10-20T13:22:22.031748+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p79a-p87j/automobil.zip",
+    "headers_path": "sources/review-p79a-p87j/automobil.zip.headers",
+    "sha256": "66a326497e05b328da599ec69858583841cd7f1ff4139243eef845d7f4a0553e",
+    "bytes": 17569,
+    "expected_format_validated": true,
+    "format": "ZIP with judicial XML, exact BGH docket verified"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:L_202302854",
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:L_202302854",
+    "accessed_at": "2026-10-20T13:22:22.032017+00:00",
+    "http_status": 202,
+    "response_path": "sources/review-p79a-p87j/data-act-oj.pdf",
+    "headers_path": "sources/review-p79a-p87j/data-act-oj.pdf.headers",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "expected_format": "pdf",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX%3A32023R2854",
+    "accessed_at": "2026-10-20T13:22:22.032253+00:00",
+    "error": "Document is empty",
+    "expected_format_validated": false,
+    "response_path": "sources/review-p79a-p87j/data-act-html.html",
+    "headers_path": "sources/review-p79a-p87j/data-act-html.html.headers",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "body_disposition": "Empty response captured; no valid statutory document; HTTP status was not retained by initial exception handler."
+  },
+  {
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/2854/oj/deu/pdf",
+    "final_url": "https://eur-lex.europa.eu/eli/reg/2023/2854/oj/deu/pdf",
+    "accessed_at": "2026-10-20T13:22:22.032331+00:00",
+    "http_status": 202,
+    "response_path": "sources/review-p79a-p87j/data-act-eli.pdf",
+    "headers_path": "sources/review-p79a-p87j/data-act-eli.pdf.headers",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "expected_format": "pdf",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://op.europa.eu/de/publication-detail/-/publication/35478ac7-a0d6-11ee-b164-01aa75ed71a1/language-de",
+    "accessed_at": "2026-10-20T13:22:22.032394+00:00",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  }
+]

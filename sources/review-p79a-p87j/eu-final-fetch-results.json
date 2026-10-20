@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/cellar/698cce91-8d49-11f0-bfe2-01aa75ed71a1",
+    "accessed_at": "2026-10-20T13:24:27.637439+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/20bb2a9b-b7b0-11f1-81de-01aa75ed71a1",
+    "accessed_at": "2026-10-20T13:24:27.638429+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/d24fe6d5-9f7f-11f0-97c8-01aa75ed71a1",
+    "accessed_at": "2026-10-20T13:24:27.638663+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  }
+]

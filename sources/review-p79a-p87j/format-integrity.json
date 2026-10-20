@@ -1,0 +1,265 @@
+{
+  "checked_at": "2026-10-20T13:37:01.386918+00:00",
+  "accepted_body_checks": [
+    {
+      "path": "sources/review-p79a-p87j/data-act-rdf.body",
+      "sha256": "c2353a81debddd79d4cdf4ca765e8d0585cde0accd17740762167517f30782f9",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-negotiated.body",
+      "sha256": "a6897fd54051c9da212aadb61b920c24a36d1d98ca24d98f31c9edf91308be40",
+      "validated": {
+        "format": "PDF",
+        "pages": 71
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-boe.body",
+      "sha256": "08b01d21ae0f13c0dc1a03259cf2a59e10dc45b417d689c5b98f64c3b6e63ffd",
+      "validated": {
+        "format": "PDF",
+        "pages": 71
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/correction-any-1.pdf",
+      "sha256": "fe655d5be5367e58a73cb3da5d1382b663e1eeeeecba553698dbcd552ebbcf9e",
+      "validated": {
+        "format": "PDF",
+        "pages": 5
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/correction-any-2.pdf",
+      "sha256": "5387e4b320315763b72707ba8230bb26f85e05af343f9b0dd285bc34a5594f67",
+      "validated": {
+        "format": "PDF",
+        "pages": 1
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/consolidated-any-1.zip",
+      "sha256": "e49780d289a81fc5e5dd9c31f82c9a70e837d69121b48b3e7df4b725d3d31d17",
+      "validated": {
+        "format": "XML ZIP",
+        "roots": [
+          "DOC",
+          "CONS.ACT"
+        ]
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/consolidated-any-2.zip",
+      "sha256": "8aa1c3c3e167595c9d803bc3f735d00ef5d768db4d7f5fb841377478e3454d3f",
+      "validated": {
+        "format": "XML ZIP",
+        "roots": [
+          "DOC",
+          "CONS.ACT"
+        ]
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-work.rdf",
+      "sha256": "5c395d5f16ca19835712c630d781dc46258b91e879517585d308bc32edff0292",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-directive.pdf",
+      "sha256": "08f356966b696ae9dfd986283a900803f37f1382d2bf76bbb54bc3e0288ff0d8",
+      "validated": {
+        "format": "PDF",
+        "pages": 15
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/L_202490790.rdf",
+      "sha256": "3b23f41ab9a97b57fdcbd92432658a54a4d9630bc94656eb8be4e36a2537c967",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/L_202490814.rdf",
+      "sha256": "b79c24099a45ebfa469f991cec54abf9f2977a9313084e598c2899d667f682e7",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/L_202590541.rdf",
+      "sha256": "921b0704fe012840dab951226a8ee53c29e1f3c371df5720ff2297eab40312f2",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/L_202690190.rdf",
+      "sha256": "b4df2ce8a5b86fefc0fb360cec6c9f763722da54232d5019d9ef751408da73a8",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/20231222_0000040.rdf",
+      "sha256": "067be28d06115cd332f32707426eb5cc85596b60668ab6a10d007086947ea495",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/20231222_0000050.rdf",
+      "sha256": "3c4df06ed49a23eac5d7ff78efea0a0339f6375df70e4274cda234d37dda0c61",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-directive.rdf",
+      "sha256": "59c1dfd2e11914357e65e7b8914b4dcd9337702abf3ca3cc439c6c957286c07c",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-correction-de.rdf",
+      "sha256": "de6fc4964b26ae05d43783397a3cee201da9eaf5e23d52566066662c25639568",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-correction-2026.rdf",
+      "sha256": "b94b33acc8daa3b36815cce52189b6bd0aae8a543422ac8e1a4d5c213bf2d5c8",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-consolidated-de.rdf",
+      "sha256": "fe2fb4508fe51308b90a60553a0e05fe9828f3fe0f054d134f3cef64e2ef1009",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-corr-L_202690559.rdf",
+      "sha256": "9b7ae1f00489efc8db83e1e48e9d9dad7f330dd9b07b84810a48176ea0b668be",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/services-corr-JOL_2016_257_R_0013.rdf",
+      "sha256": "fd65b6a93d3f256625fa791818667373a9d1759ac71325a4da9c808bf4fe40b3",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/automobil.zip",
+      "sha256": "66a326497e05b328da599ec69858583841cd7f1ff4139243eef845d7f4a0553e",
+      "validated": {
+        "format": "XML ZIP",
+        "roots": [
+          "dokument"
+        ]
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/current.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "validated": {
+        "format": "XML ZIP",
+        "roots": [
+          "dokumente"
+        ]
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/index.html",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "validated": {
+        "format": "HTML",
+        "root": "html"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/full.html",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "validated": {
+        "format": "HTML",
+        "root": "html"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/current.pdf",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "validated": {
+        "format": "PDF",
+        "pages": 76
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/amendment.pdf",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "validated": {
+        "format": "PDF",
+        "pages": 8
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/aktuell.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "validated": {
+        "format": "HTML",
+        "root": "html"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "dokumente"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/automobil.xml",
+      "sha256": "148a2b4e24f3481d81ea9c600463ab3d6397cd6cbb2da8f93ffc8c03c07ceaf6",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "dokument"
+      }
+    },
+    {
+      "path": "sources/review-p79a-p87j/data-act-consolidated-de.xml",
+      "sha256": "0aac1d7c8a7fb79fa0cbd618938f8853f205eb1b990ad72d11d9ec801248393b",
+      "validated": {
+        "format": "XML/RDF",
+        "root": "CONS.ACT"
+      }
+    }
+  ],
+  "all_accepted_bodies_and_hashes_valid": true,
+  "rejected_candidates_not_used": true
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "url": "http://publications.europa.eu/resource/oj/L_202590691.DEU",
+    "accessed_at": "2026-10-20T13:25:02.725095+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000030.DEU",
+    "accessed_at": "2026-10-20T13:25:02.725456+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  }
+]

@@ -1,0 +1,40 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://publications.europa.eu/ontology/cdm#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.1="http://www.w3.org/2004/02/skos/core#"
+    xmlns:j.2="http://publications.europa.eu/ontology/annotation#"
+    xmlns:j.3="http://publications.europa.eu/ontology/cdm/cmr#" > 
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/oj/L_202302854.DEU">
+    <j.0:title xml:lang="de">Verordnung (EU) 2023/2854 des Europäischen Parlaments und des Rates vom 13. Dezember 2023 über harmonisierte Vorschriften für einen fairen Datenzugang und eine faire Datennutzung sowie zur Änderung der Verordnung (EU) 2017/2394 und der Richtlinie (EU) 2020/1828 (Datenverordnung) (Text von Bedeutung für den EWR)</j.0:title>
+    <j.0:expression_manifested_by_manifestation rdf:resource="http://publications.europa.eu/resource/oj/L_202302854.DEU.xhtml"/>
+    <j.0:expression_subtitle>PE/49/2023/REV/1</j.0:expression_subtitle>
+    <j.0:expression_uses_language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <j.0:expression_title xml:lang="de">Verordnung (EU) 2023/2854 des Europäischen Parlaments und des Rates vom 13. Dezember 2023 über harmonisierte Vorschriften für einen fairen Datenzugang und eine faire Datennutzung sowie zur Änderung der Verordnung (EU) 2017/2394 und der Richtlinie (EU) 2020/1828 (Datenverordnung) (Text von Bedeutung für den EWR)</j.0:expression_title>
+    <j.0:title>PE/49/2023/REV/1</j.0:title>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#expression"/>
+    <j.0:uses rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <j.0:expression_manifested_by_manifestation rdf:resource="http://publications.europa.eu/resource/oj/L_202302854.DEU.fmx4"/>
+    <j.0:expression_manifested_by_manifestation rdf:resource="http://publications.europa.eu/resource/oj/L_202302854.DEU.pdfa2a"/>
+    <j.0:belongs_to rdf:resource="http://publications.europa.eu/resource/oj/L_202302854"/>
+    <j.0:subtitle>PE/49/2023/REV/1</j.0:subtitle>
+    <j.2:build_info rdf:datatype="http://www.w3.org/2001/XMLSchema#string">reception-ID: PO-20231222-805; environment: PROD; CERES: 4.22.0; IMMC2CDM: 3.2.3; rules: oj/rules.xml#76400#2023-11-16T18:07:00; builddate: 2023-12-22T02:48:28.703;</j.2:build_info>
+    <j.0:expression_belongs_to_work rdf:resource="http://publications.europa.eu/resource/oj/L_202302854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/language/DEU">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#language"/>
+    <j.1:inScheme rdf:resource="http://publications.europa.eu/resource/authority/language"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0004">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/oj/L_202302854.DEU"/>
+    <j.3:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#language">deu</j.3:lang>
+    <j.3:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-12-22T02:53:27.558+01:00</j.3:creationDate>
+    <j.3:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#language">de</j.3:lang>
+    <j.3:lastModificationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-09-01T15:57:17.649+02:00</j.3:lastModificationDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/language">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+  </rdf:Description>
+</rdf:RDF>

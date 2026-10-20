@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/celex/32023R2854R(1)",
+    "accessed_at": "2026-10-20T13:24:03.195125+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/32023R2854R(2)",
+    "accessed_at": "2026-10-20T13:24:03.195578+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/32023R2854R(3)",
+    "accessed_at": "2026-10-20T13:24:03.195667+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/32023R2854R(5)",
+    "accessed_at": "2026-10-20T13:24:03.195739+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/32023R2854R(6)",
+    "accessed_at": "2026-10-20T13:24:03.390618+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/02023R2854-20231222",
+    "accessed_at": "2026-10-20T13:24:03.390779+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/cellar/698cce91-8d49-11f0-bfe2-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T13:24:38.195118+00:00",
+    "request_accept": "application/rdf+xml",
+    "request_accept_language": "de",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/698cce91-8d49-11f0-bfe2-01aa75ed71a1/rdf/object/full",
+    "content_type": "application/rdf+xml;charset=UTF-8",
+    "response_path": "sources/review-p79a-p87j/data-act-correction-de.rdf",
+    "headers_path": "sources/review-p79a-p87j/data-act-correction-de.rdf.headers",
+    "bytes": 34487,
+    "sha256": "de6fc4964b26ae05d43783397a3cee201da9eaf5e23d52566066662c25639568",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/20bb2a9b-b7b0-11f1-81de-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T13:24:38.195795+00:00",
+    "request_accept": "application/rdf+xml",
+    "request_accept_language": "de",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/20bb2a9b-b7b0-11f1-81de-01aa75ed71a1/rdf/object/full",
+    "content_type": "application/rdf+xml;charset=UTF-8",
+    "response_path": "sources/review-p79a-p87j/data-act-correction-2026.rdf",
+    "headers_path": "sources/review-p79a-p87j/data-act-correction-2026.rdf.headers",
+    "bytes": 33572,
+    "sha256": "b94b33acc8daa3b36815cce52189b6bd0aae8a543422ac8e1a4d5c213bf2d5c8",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/d24fe6d5-9f7f-11f0-97c8-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T13:24:38.195912+00:00",
+    "request_accept": "application/rdf+xml",
+    "request_accept_language": "de",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/d24fe6d5-9f7f-11f0-97c8-01aa75ed71a1/rdf/object/full",
+    "content_type": "application/rdf+xml;charset=UTF-8",
+    "response_path": "sources/review-p79a-p87j/data-act-consolidated-de.rdf",
+    "headers_path": "sources/review-p79a-p87j/data-act-consolidated-de.rdf.headers",
+    "bytes": 14311,
+    "sha256": "fe2fb4508fe51308b90a60553a0e05fe9828f3fe0f054d134f3cef64e2ef1009",
+    "expected_format_validated": true
+  }
+]

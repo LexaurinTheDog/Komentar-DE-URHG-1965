@@ -256,5 +256,47 @@
       }
     ],
     "coverage": "Selektiv: Softwareerschöpfung/Benutzung und Lichtbild-/Reproduktionsgrenze. Keine erschöpfende Software-, Künstler- oder Folgeentscheidungsrecherche; kein Beleg aus Suchauszügen."
+  },
+  "bounded_review_p79a_p87j": {
+    "verified_at": "2026-10-20T13:35:18.257894+00:00",
+    "scope": "Selektive Recherche für das zugewiesene Los; keine Vollständigkeitsbehauptung",
+    "web_discovery_queries": [
+      "site.rechtsprechung-im-internet.de Datenbankhersteller I ZR Automobil Onlinebörse",
+      "site.curia.europa.eu C-203/02 British Horseracing Board Investition Datenbank",
+      "site.eur-lex.europa.eu 2023/2854 Artikel 43 Datenbanken",
+      "site.rechtsprechung-im-internet.de \"Presseverleger\" \"87g\""
+    ],
+    "local_corpus": "Manifest mit Aktenzeichen I ZR 159/10 durchsucht; vollständige Entscheidung danach amtlich geladen und gelesen. Kandidaten I ZR 76/13 und I ZR 55/17 betrafen andere Themen und wurden nicht als Datenbankbelege verwendet.",
+    "selected": [
+      {
+        "case": "Automobil-Onlinebörse",
+        "read": "Rn. 1–78, Tenor, Kontext",
+        "supported_ids": [
+          "p87a",
+          "p87b"
+        ]
+      },
+      {
+        "case": "Metall auf Metall VI",
+        "read": "Rn. 1–52, Tenor, Kontext, vorhandenes amtliches XML",
+        "supported_ids": [
+          "p83",
+          "p85"
+        ]
+      }
+    ],
+    "not_used": [
+      {
+        "case": "British Horseracing Board C-203/02",
+        "reason": "Direkter EUR-Lex-PDF-Abruf HTTP 202 mit leerem Körper; keine eigenständige Urteilsaussage daraus übernommen."
+      },
+      {
+        "case": "OLG Nürnberg 3 U 32063/25 UWG",
+        "reason": "Nur Drittanbietersuchtreffer, kein amtlicher Volltext gelesen; keine Aussage als Nachweis übernommen."
+      }
+    ],
+    "firecrawl": "CLI-Status: 0/1000 Credits, keine Extraktion; keine Einstellungen geändert.",
+    "eu_sources": "Original-PDF durch amtliches CELLAR-Content-Negotiation erhalten; deutsche korrigierte FORMEX-ZIP und Berichtigung sowie Sprach-/Fassungsmetadaten separat überprüft.",
+    "rejected_fetches": 31
   }
 }

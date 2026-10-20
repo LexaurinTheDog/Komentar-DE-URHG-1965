@@ -1,0 +1,79 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/cellar/e146e2f4-b5d7-11ef-acb1-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T13:29:45.781269+00:00",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/e146e2f4-b5d7-11ef-acb1-01aa75ed71a1/rdf/object/full",
+    "response_path": "sources/review-p79a-p87j/L_202490790.rdf",
+    "headers_path": "sources/review-p79a-p87j/L_202490790.headers",
+    "sha256": "3b23f41ab9a97b57fdcbd92432658a54a4d9630bc94656eb8be4e36a2537c967",
+    "bytes": 33133,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/a5abef28-bc18-11ef-91ed-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T13:29:45.781634+00:00",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/a5abef28-bc18-11ef-91ed-01aa75ed71a1/rdf/object/full",
+    "response_path": "sources/review-p79a-p87j/L_202490814.rdf",
+    "headers_path": "sources/review-p79a-p87j/L_202490814.headers",
+    "sha256": "b79c24099a45ebfa469f991cec54abf9f2977a9313084e598c2899d667f682e7",
+    "bytes": 32051,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/a71f1bcf-554a-11f0-a9d0-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T13:29:45.781709+00:00",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/a71f1bcf-554a-11f0-a9d0-01aa75ed71a1/rdf/object/full",
+    "response_path": "sources/review-p79a-p87j/L_202590541.rdf",
+    "headers_path": "sources/review-p79a-p87j/L_202590541.headers",
+    "sha256": "921b0704fe012840dab951226a8ee53c29e1f3c371df5720ff2297eab40312f2",
+    "bytes": 33572,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/decaff6e-1c21-11f1-8c3a-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T13:29:45.781773+00:00",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/decaff6e-1c21-11f1-8c3a-01aa75ed71a1/rdf/object/full",
+    "response_path": "sources/review-p79a-p87j/L_202690190.rdf",
+    "headers_path": "sources/review-p79a-p87j/L_202690190.headers",
+    "sha256": "b4df2ce8a5b86fefc0fb360cec6c9f763722da54232d5019d9ef751408da73a8",
+    "bytes": 33483,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/a69bacf9-293d-11f1-8803-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T13:29:45.781842+00:00",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/a69bacf9-293d-11f1-8803-01aa75ed71a1/rdf/object/full",
+    "response_path": "sources/review-p79a-p87j/20231222_0000040.rdf",
+    "headers_path": "sources/review-p79a-p87j/20231222_0000040.headers",
+    "sha256": "067be28d06115cd332f32707426eb5cc85596b60668ab6a10d007086947ea495",
+    "bytes": 14178,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/5055ec07-c72d-11f1-a77b-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T13:29:46.074364+00:00",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/5055ec07-c72d-11f1-a77b-01aa75ed71a1/rdf/object/full",
+    "response_path": "sources/review-p79a-p87j/20231222_0000050.rdf",
+    "headers_path": "sources/review-p79a-p87j/20231222_0000050.headers",
+    "sha256": "3c4df06ed49a23eac5d7ff78efea0a0339f6375df70e4274cda234d37dda0c61",
+    "bytes": 10029,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/a857b646-5cfd-11e5-afbf-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T13:29:46.077659+00:00",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/a857b646-5cfd-11e5-afbf-01aa75ed71a1/rdf/object/full",
+    "response_path": "sources/review-p79a-p87j/services-directive.rdf",
+    "headers_path": "sources/review-p79a-p87j/services-directive.headers",
+    "sha256": "59c1dfd2e11914357e65e7b8914b4dcd9337702abf3ca3cc439c6c957286c07c",
+    "bytes": 10983702,
+    "expected_format_validated": true
+  }
+]

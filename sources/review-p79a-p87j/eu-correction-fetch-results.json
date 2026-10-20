@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/oj/L_202490790",
+    "accessed_at": "2026-10-20T13:23:36.614113+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/oj/L_202490814",
+    "accessed_at": "2026-10-20T13:23:36.615081+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/oj/L_202590541",
+    "accessed_at": "2026-10-20T13:23:36.615383+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/oj/L_202590691",
+    "accessed_at": "2026-10-20T13:23:36.615721+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/oj/L_202690190",
+    "accessed_at": "2026-10-20T13:23:36.848322+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/oj/L_202690805",
+    "accessed_at": "2026-10-20T13:23:36.850016+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050",
+    "accessed_at": "2026-10-20T13:23:36.852192+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  }
+]

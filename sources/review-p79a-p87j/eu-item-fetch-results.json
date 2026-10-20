@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/cellar/698cce91-8d49-11f0-bfe2-01aa75ed71a1.0001.01/DOC_1",
+    "accessed_at": "2026-10-20T13:25:20.196298+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 406: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/698cce91-8d49-11f0-bfe2-01aa75ed71a1.0002.01/DOC_1",
+    "accessed_at": "2026-10-20T13:25:20.196661+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 406: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/d24fe6d5-9f7f-11f0-97c8-01aa75ed71a1.0001.01/DOC_1",
+    "accessed_at": "2026-10-20T13:25:20.196741+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 406: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/d24fe6d5-9f7f-11f0-97c8-01aa75ed71a1.0002.01/DOC_1",
+    "accessed_at": "2026-10-20T13:25:20.196802+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 406: ",
+    "expected_format_validated": false
+  }
+]

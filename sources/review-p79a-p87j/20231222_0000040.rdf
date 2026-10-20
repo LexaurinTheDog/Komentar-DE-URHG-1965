@@ -1,0 +1,147 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://publications.europa.eu/ontology/cdm#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.1="http://www.w3.org/2004/02/skos/core#"
+    xmlns:j.2="http://publications.europa.eu/ontology/annotation#"
+    xmlns:j.3="http://publications.europa.eu/ontology/cdm/cmr#" > 
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/celex/32023R2854"/>
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/eli/reg/2023/2854/oj"/>
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/oj/L_202302854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000030">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#resource_legal"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000040">
+    <j.0:edited_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:work_has_successor_work rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:version rdf:datatype="http://www.w3.org/2001/XMLSchema#string">004</j.0:version>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#act_consolidated"/>
+    <j.0:act_consolidated_consolidates_resource_legal rdf:resource="http://publications.europa.eu/resource/celex/32023R2854R%2805%29"/>
+    <j.0:work_date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-22</j.0:work_date_document>
+    <j.0:work_has_expression rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000040.NLD"/>
+    <j.0:resource_legal_date_entry-into-force rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-22</j.0:resource_legal_date_entry-into-force>
+    <j.0:act_consolidated_version rdf:datatype="http://www.w3.org/2001/XMLSchema#string">004</j.0:act_consolidated_version>
+    <j.0:work_is_logical_successor_of_work rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854-20231222_0000030"/>
+    <j.2:build_info rdf:datatype="http://www.w3.org/2001/XMLSchema#string">reception-ID: PO-20260401-357; environment: PROD; CERES: 4.29.5; IMMC2CDM: 3.2.3; rules: consleg/rules-consleg.xml#76477#2024-02-14T18:26:34; builddate: 2026-04-01T02:25:20.092;</j.2:build_info>
+    <j.0:work_created_by_agent rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/OP_DATPRO"/>
+    <j.0:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-22</j.0:date_document>
+    <j.0:work_is_logical_successor_of_work rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000030"/>
+    <j.0:is_logical_successor_of rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854-20231222_0000030"/>
+    <j.0:date_creation_legacy rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-03-26</j.0:date_creation_legacy>
+    <j.0:is_logical_successor_of rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000030"/>
+    <j.0:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-22</j.0:date>
+    <j.0:resource_legal_consolidated_by_act_consolidated rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:act_consolidated_layer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">000</j.0:act_consolidated_layer>
+    <j.0:work_id_document rdf:datatype="http://www.w3.org/2001/XMLSchema#string">consolidation:2023R2854/20231222_0000040</j.0:work_id_document>
+    <j.0:work_has_resource-type rdf:resource="http://publications.europa.eu/resource/authority/resource-type/CONS_TEXT"/>
+    <j.0:act_consolidated_consolidates_resource_legal rdf:resource="http://publications.europa.eu/resource/celex/32023R2854"/>
+    <j.0:act_consolidated_based_on_resource_legal rdf:resource="http://publications.europa.eu/resource/celex/32023R2854"/>
+    <j.0:date_entry-into-force rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-22</j.0:date_entry-into-force>
+    <j.0:has rdf:resource="http://publications.europa.eu/resource/authority/resource-type/CONS_TEXT"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#resource_legal"/>
+    <j.0:layer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">000</j.0:layer>
+    <j.0:created_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/OP_DATPRO"/>
+    <j.0:consolidates rdf:resource="http://publications.europa.eu/resource/celex/32023R2854"/>
+    <j.0:act_consolidated_consolidates_resource_legal rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854-20231222_0000030"/>
+    <j.0:published_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/PUBL"/>
+    <j.0:based_on rdf:resource="http://publications.europa.eu/resource/celex/32023R2854"/>
+    <j.0:has_successor rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:consolidates rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000030"/>
+    <j.0:consolidates rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854-20231222_0000030"/>
+    <j.0:consolidates rdf:resource="http://publications.europa.eu/resource/celex/02023R2854-20231222_0000030"/>
+    <j.0:do_not_index rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.0:do_not_index>
+    <j.0:consolidated_by rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-03-26</j.0:date>
+    <j.0:act_consolidated_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-22</j.0:act_consolidated_date>
+    <j.0:act_consolidated_consolidates_resource_legal rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000030"/>
+    <j.0:consolidates rdf:resource="http://publications.europa.eu/resource/celex/32023R2854R%2805%29"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+    <j.0:act_consolidated_consolidates_resource_legal rdf:resource="http://publications.europa.eu/resource/celex/02023R2854-20231222_0000030"/>
+    <j.0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">consolidation:2023R2854/20231222_0000040</j.0:identifier>
+    <j.0:work_version rdf:datatype="http://www.w3.org/2001/XMLSchema#string">final</j.0:work_version>
+    <j.0:work_date_creation_legacy rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-03-26</j.0:work_date_creation_legacy>
+    <j.0:version rdf:datatype="http://www.w3.org/2001/XMLSchema#string">final</j.0:version>
+    <j.0:id_document rdf:datatype="http://www.w3.org/2001/XMLSchema#string">consolidation:2023R2854/20231222_0000040</j.0:id_document>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/celex/32023R2854R%2806%29">
+    <j.0:resource_legal_consolidated_by_act_consolidated rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:consolidated_by rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#resource_legal"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#act_consolidated"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/consolidation/2023R2854-20231222_0000040">
+    <j.0:work_has_successor_work rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:resource_legal_consolidated_by_act_consolidated rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:has_successor rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:consolidated_by rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/consolidation/2023R2854-20231222_0000030">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#resource_legal"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/resource-type">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/5055ec07-c72d-11f1-a77b-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/a69bacf9-293d-11f1-8803-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000040"/>
+    <j.3:lastModificationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-01T02:29:18.174+02:00</j.3:lastModificationDate>
+    <j.3:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-03-26T19:00:18.950+01:00</j.3:creationDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/resource-type/CONS_TEXT">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#resource-type"/>
+    <j.1:inScheme rdf:resource="http://publications.europa.eu/resource/authority/resource-type"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_decoding"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/celex/02023R2854-20231222_0000040">
+    <j.0:resource_legal_consolidated_by_act_consolidated rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:consolidated_by rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/celex/02023R2854-20231222_0000030">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#resource_legal"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/celex/32023R2854R%2805%29">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#resource_legal"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body/PUBL">
+    <j.1:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#institution"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#agent-conceptual"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#agent"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/20bb2a9b-b7b0-11f1-81de-01aa75ed71a1">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/eli/reg/2023/2854/corrigendum/2026-09-24/oj"/>
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/oj/L_202690805"/>
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/celex/32023R2854R%2806%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/celex/32023R2854">
+    <j.0:resource_legal_consolidated_by_act_consolidated rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:resource_legal_basis_for_act_consolidated rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:consolidated_by rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:basis_for rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#resource_legal"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body/OP_DATPRO">
+    <j.0:agent_creates_work rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.0:creates rdf:resource="http://publications.europa.eu/resource/consolidation/2023R2854%2F20231222_0000050"/>
+    <j.1:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#institution"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#agent-conceptual"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#agent"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+</rdf:RDF>

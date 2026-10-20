@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/celex/32023R2854",
+    "accessed_at": "2026-10-20T13:22:40.576417+00:00",
+    "request_accept": "application/rdf+xml",
+    "request_accept_language": "de",
+    "http_status": 200,
+    "final_url": "http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0004/rdf/object/full",
+    "response_path": "sources/review-p79a-p87j/data-act-rdf.body",
+    "sha256": "c2353a81debddd79d4cdf4ca765e8d0585cde0accd17740762167517f30782f9",
+    "bytes": 3845,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/32023R2854",
+    "accessed_at": "2026-10-20T13:22:40.576837+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "http_status": 200,
+    "final_url": "http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0004.01/DOC_1",
+    "response_path": "sources/review-p79a-p87j/data-act-negotiated.body",
+    "sha256": "a6897fd54051c9da212aadb61b920c24a36d1d98ca24d98f31c9edf91308be40",
+    "bytes": 1490610,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.boe.es/doue/2023/2854/L00001-00071.pdf",
+    "accessed_at": "2026-10-20T13:22:40.576926+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "http_status": 200,
+    "final_url": "https://www.boe.es/doue/2023/2854/L00001-00071.pdf",
+    "response_path": "sources/review-p79a-p87j/data-act-boe.body",
+    "sha256": "08b01d21ae0f13c0dc1a03259cf2a59e10dc45b417d689c5b98f64c3b6e63ffd",
+    "bytes": 1463578,
+    "expected_format_validated": true
+  }
+]

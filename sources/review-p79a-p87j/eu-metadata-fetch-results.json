@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T13:23:13.777308+00:00",
+    "request_accept": "application/rdf+xml",
+    "request_accept_language": "de",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1/rdf/object/full",
+    "content_type": "application/rdf+xml;charset=UTF-8",
+    "response_path": "sources/review-p79a-p87j/data-act-work.rdf",
+    "headers_path": "sources/review-p79a-p87j/data-act-work.rdf.headers",
+    "bytes": 2026207,
+    "sha256": "5c395d5f16ca19835712c630d781dc46258b91e879517585d308bc32edff0292",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/32023R2854R(04)",
+    "accessed_at": "2026-10-20T13:23:13.777897+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/32015L1535",
+    "accessed_at": "2026-10-20T13:23:13.778100+00:00",
+    "request_accept": "application/pdf",
+    "request_accept_language": "de",
+    "http_status": 200,
+    "final_url": "http://publications.europa.eu/resource/cellar/a857b646-5cfd-11e5-afbf-01aa75ed71a1.0004.01/DOC_1",
+    "content_type": "application/pdf;charset=UTF-8",
+    "response_path": "sources/review-p79a-p87j/services-directive.pdf",
+    "headers_path": "sources/review-p79a-p87j/services-directive.pdf.headers",
+    "bytes": 397902,
+    "sha256": "08f356966b696ae9dfd986283a900803f37f1382d2bf76bbb54bc3e0288ff0d8",
+    "expected_format_validated": true
+  }
+]

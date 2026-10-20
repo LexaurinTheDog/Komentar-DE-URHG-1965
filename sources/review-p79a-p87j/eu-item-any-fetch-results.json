@@ -1,0 +1,60 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/cellar/698cce91-8d49-11f0-bfe2-01aa75ed71a1.0001.01/DOC_1",
+    "accessed_at": "2026-10-20T13:25:30.483142+00:00",
+    "request_accept": "*/*",
+    "request_accept_language": "de",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/698cce91-8d49-11f0-bfe2-01aa75ed71a1.0001.01/DOC_1",
+    "content_type": "application/pdf;type=pdfa2a;charset=UTF-8",
+    "response_path": "sources/review-p79a-p87j/correction-any-1.pdf",
+    "headers_path": "sources/review-p79a-p87j/correction-any-1.pdf.headers",
+    "bytes": 933183,
+    "sha256": "fe655d5be5367e58a73cb3da5d1382b663e1eeeeecba553698dbcd552ebbcf9e",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/698cce91-8d49-11f0-bfe2-01aa75ed71a1.0002.01/DOC_1",
+    "accessed_at": "2026-10-20T13:25:30.483678+00:00",
+    "request_accept": "*/*",
+    "request_accept_language": "de",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/698cce91-8d49-11f0-bfe2-01aa75ed71a1.0002.01/DOC_1",
+    "content_type": "application/pdf;type=pdfa2a;charset=UTF-8",
+    "response_path": "sources/review-p79a-p87j/correction-any-2.pdf",
+    "headers_path": "sources/review-p79a-p87j/correction-any-2.pdf.headers",
+    "bytes": 872271,
+    "sha256": "5387e4b320315763b72707ba8230bb26f85e05af343f9b0dd285bc34a5594f67",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/d24fe6d5-9f7f-11f0-97c8-01aa75ed71a1.0001.01/DOC_1",
+    "accessed_at": "2026-10-20T13:25:30.483828+00:00",
+    "request_accept": "*/*",
+    "request_accept_language": "de",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/d24fe6d5-9f7f-11f0-97c8-01aa75ed71a1.0001.01/DOC_1",
+    "content_type": "application/zip;charset=UTF-8",
+    "expected_format_validated": true,
+    "response_path": "sources/review-p79a-p87j/consolidated-any-1.zip",
+    "sha256": "e49780d289a81fc5e5dd9c31f82c9a70e837d69121b48b3e7df4b725d3d31d17",
+    "bytes": 42863,
+    "expected_format": "ZIP containing FORMEX XML, not a PDF",
+    "format_correction": "Original server Content-Type was application/zip; initial PDF/XML check rejected it. Subsequently ZIP CRC and XML roots checked. Response bytes unchanged."
+  },
+  {
+    "url": "https://publications.europa.eu/resource/cellar/d24fe6d5-9f7f-11f0-97c8-01aa75ed71a1.0002.01/DOC_1",
+    "accessed_at": "2026-10-20T13:25:30.483949+00:00",
+    "request_accept": "*/*",
+    "request_accept_language": "de",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/d24fe6d5-9f7f-11f0-97c8-01aa75ed71a1.0002.01/DOC_1",
+    "content_type": "application/zip;charset=UTF-8",
+    "expected_format_validated": true,
+    "response_path": "sources/review-p79a-p87j/consolidated-any-2.zip",
+    "sha256": "8aa1c3c3e167595c9d803bc3f735d00ef5d768db4d7f5fb841377478e3454d3f",
+    "bytes": 45387,
+    "expected_format": "ZIP containing FORMEX XML, not a PDF",
+    "format_correction": "Original server Content-Type was application/zip; initial PDF/XML check rejected it. Subsequently ZIP CRC and XML roots checked. Response bytes unchanged."
+  }
+]

@@ -1,6 +1,6 @@
 {
   "stage": "bounded_review_complete",
-  "updated_at": "2026-10-20T13:18:51.706318+00:00",
+  "updated_at": "2026-10-20T13:35:18.257894+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -17,8 +17,8 @@
     "statutory_changes_since_intake_detected": false,
     "preflight_verified_at": "2026-10-20T11:54:07.436691+00:00",
     "coverage_report": "completeness-report.json",
-    "source_integrity_checked_responses": 94,
-    "bounded_review_verified_at": "2026-10-20T13:16:17.649120+00:00",
+    "source_integrity_checked_responses": 125,
+    "bounded_review_verified_at": "2026-10-20T13:35:18.257894+00:00",
     "source_integrity_mismatches": []
   },
   "total_units": 254,
@@ -26,7 +26,7 @@
   "paragraph_units": 253,
   "annex_units": 1,
   "chapters": 12,
-  "commentary_chars": 311477,
+  "commentary_chars": 328638,
   "case_law_sources": [
     {
       "court": "EuGH",
@@ -278,6 +278,18 @@
       "bytes": 17728,
       "expected_format_validated": true,
       "read_scope": "Full 76 paragraphs, tenor and context; national corpus comparison."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313992011.zip",
+      "accessed_at": "2026-10-20T13:22:22.031748+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p79a-p87j/automobil.zip",
+      "headers_path": "sources/review-p79a-p87j/automobil.zip.headers",
+      "sha256": "66a326497e05b328da599ec69858583841cd7f1ff4139243eef845d7f4a0553e",
+      "bytes": 17569,
+      "expected_format_validated": true,
+      "format": "ZIP with judicial XML, exact BGH docket verified",
+      "read_scope": "All 78 numbered paragraphs, tenor and context; national corpus comparison."
     }
   ],
   "case_cards": [
@@ -296,7 +308,8 @@
     "cases/ueber-alle-berge.md",
     "cases/elektronische-leseplaetze-ii.md",
     "cases/leseplaetze-verfassungsbeschwerde.md",
-    "cases/museumsfotos.md"
+    "cases/museumsfotos.md",
+    "cases/automobil-onlineboerse.md"
   ],
   "validation_result": {
     "repo": "Komentar-DE-URHG-1965",
@@ -325,11 +338,11 @@
   "independent_second_pass_completed": false,
   "unresolved_blockers": [],
   "remaining_limitations": [
-    "Genau 20 zugewiesene Einheiten vollständig geprüft; alle 234 anderen Kommentare gegenüber dem Ausgangscommit unverändert erhalten. Keine erneute inhaltliche Prüfung früherer Lose und keine ganze zweite Buchprüfung. Mit sechs bewahrten früheren Losen sind 140 Einheiten dokumentiert; 114 weitere bleiben im zweiten Durchgang offen.",
-    "Selektive Rechtsprechung: Museumsfotos mit allen 76 Randnummern und dem nationalen Korpus gelesen; UsedSoft mit allen 89 Randnummern, verschachtelten Normzitaten/Fragen und Tenor erneut aus bewahrtem amtlichem Rohtext gelesen. Keine erschöpfende Software-/Künstler- oder Folgeentscheidungsübersicht.",
-    "Museumsfotos betrifft hinsichtlich Gemäldereproduktionen vor § 68 liegendes Recht. Vertrags-/Eigentumsfragen aus dem Urteil nicht pauschal auf heutiges Recht übertragen. Weitere dortige Fundstellen nicht als selbständig geprüft ausgegeben.",
-    "Firecrawl ohne Credits; amtliches Gesetz und BGH-Entscheidung direkt beschafft. Top-System-Direktabruf HTTP 202/leer und Web-Robotprüfung verworfen. Warcraft-Kandidat nur gesichtet, nicht als Autorität verwendet.",
-    "Aktuelle Konsolidierung, Inkrafttreten der letzten Änderung, historische Mehrfachkennungen und Anlage geprüft; kein vollständiges historisches Fassungsarchiv. Interne Verweisungsnormen geprüft, keine umfassende Kommentierung fremder Regelwerke. Technische Prüfungen beweisen keine juristische Qualität und keine externe anwaltliche Freigabe."
+    "Genau 20 zugewiesene Einheiten vollständig inhaltlich geprüft. Alle 234 nicht zugewiesenen Kommentare gegenüber dem Ausgangscommit unverändert; frühere Lose nur bewahrt. Mit den sieben bisherigen Losen sind 160 verschiedene Einheiten dokumentiert; 94 Einheiten bleiben für den zweiten Durchgang offen.",
+    "Selektive Rechtsprechung: Automobil-Onlinebörse vollständig mit nationalem Korpusabgleich gelesen, Metall auf Metall VI vollständig erneut aus bewahrtem amtlichem XML gelesen. Keine erschöpfende Recherche aller späteren Datenbank-, Sende- oder Presseentscheidungen; keine pauschale Scraping-/Samplingfreigabe.",
+    "Aktuelle amtliche Konsolidierung und letzte Verkündung geprüft; kein historisches Vollarchiv und keine Garantie gegen noch nicht eingearbeitete Änderungen. EU-Normen nur im benannten Querverweisumfang geprüft, nicht vollständig kommentiert.",
+    "Firecrawl ohne verfügbares Guthaben; direkte amtliche Abrufe benutzt. Leere EUR-Lex-Antworten verworfen. Einige verworfene HTTP-Fehlerkandidaten besitzen nur einen Fehlerlog, keinen erhaltenen Fehlerkörper; sie tragen keine materielle Aussage. Erfolgreich verwendete Quellen mit Antwortkörper, Formatprüfung und SHA-256 bewahrt.",
+    "Technische Validierung und Längengrenzen beweisen keine juristische Qualität; keine vollständige zweite Buchprüfung und keine externe anwaltliche Freigabe."
   ],
   "publication": false,
   "push": false,
@@ -348,57 +361,58 @@
     "repeated_long_paragraphs": [],
     "commentary_preservation": "review-result.json: per-unit hashes and baseline commit",
     "bounded_reviewed_units": 20,
-    "bounded_corrected_units": 14,
+    "bounded_corrected_units": 15,
     "unassigned_commentary_units_preserved": 234,
     "all_commented_units": 254,
-    "total_unique_units_with_recorded_bounded_reviews": 140,
-    "units_remaining_for_second_pass": 114
+    "total_unique_units_with_recorded_bounded_reviews": 160,
+    "units_remaining_for_second_pass": 94
   },
   "review_result": "review-result.json",
   "reviewed_ids": [
-    "p67",
-    "p68",
-    "p69",
-    "p69a",
-    "p69b",
-    "p69c",
-    "p69d",
-    "p69e",
-    "p69f",
-    "p69g",
-    "p70",
-    "p71",
-    "p72",
-    "p73",
-    "p74",
-    "p75",
-    "p76",
-    "p77",
-    "p78",
-    "p79"
+    "p79a",
+    "p79b",
+    "p80",
+    "p81",
+    "p82",
+    "p83",
+    "p84",
+    "p85",
+    "p86",
+    "p87",
+    "p87a",
+    "p87b",
+    "p87c",
+    "p87d",
+    "p87e",
+    "p87f",
+    "p87g",
+    "p87h",
+    "p87i",
+    "p87j"
   ],
   "corrected_ids": [
-    "p68",
-    "p69a",
-    "p69c",
-    "p69d",
-    "p69e",
-    "p69f",
-    "p69g",
-    "p70",
-    "p71",
-    "p72",
-    "p74",
-    "p77",
-    "p78",
-    "p79"
+    "p79a",
+    "p80",
+    "p81",
+    "p82",
+    "p83",
+    "p85",
+    "p87",
+    "p87a",
+    "p87b",
+    "p87c",
+    "p87d",
+    "p87e",
+    "p87f",
+    "p87g",
+    "p87j"
   ],
   "whole_book_review_complete": false,
   "case_law_sources_reviewed_in_this_task": [
-    "cases/museumsfotos.md",
-    "cases/usedsoft.md"
+    "cases/automobil-onlineboerse.md",
+    "cases/metall-auf-metall-vi.md"
   ],
-  "bounded_review_preservation": "sources/review-p67-p79/preservation.json",
+  "bounded_review_preservation": "sources/review-p79a-p87j/preservation.json",
   "prior_validation": {
     "result": {
       "repo": "Komentar-DE-URHG-1965",
