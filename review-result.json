@@ -381,5 +381,17 @@
     ],
     "previous_review": "sources/review-p60c-p66/previous-review-p53-p60b.json"
   },
-  "technical_validation": "validation-result.json"
+  "technical_validation": "validation-result.json",
+  "technical_validation_result": {
+    "repo": "Komentar-DE-URHG-1965",
+    "units": 254,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 295813,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "technical_validation_checked_at": "2026-10-20T13:06:01.122874+00:00",
+  "quality_report": "quality-report.json",
+  "parser_reproduction": "sources/review-p60c-p66/parser-reproduction.json"
 }

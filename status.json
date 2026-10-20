@@ -1,6 +1,6 @@
 {
   "stage": "bounded_review_complete",
-  "updated_at": "2026-10-20T13:04:00.199172+00:00",
+  "updated_at": "2026-10-20T13:06:01.122874+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -288,7 +288,7 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 277358,
+    "commentary_chars": 295813,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -329,14 +329,16 @@
     "official_identifiers": 254,
     "parsed_units": 254,
     "xml_text_agreement": 1.0,
-    "local_links_checked": 219,
+    "local_links_checked": 257,
     "broken_local_links": [],
     "repeated_long_paragraphs": [],
     "commentary_preservation": "review-result.json: per-unit hashes and baseline commit",
     "bounded_reviewed_units": 20,
     "bounded_corrected_units": 14,
     "unassigned_commentary_units_preserved": 234,
-    "all_commented_units": 254
+    "all_commented_units": 254,
+    "total_unique_units_with_recorded_bounded_reviews": 120,
+    "units_remaining_for_second_pass": 134
   },
   "review_result": "review-result.json",
   "reviewed_ids": [
@@ -422,5 +424,6 @@
     "ok": true
   },
   "local_links_checked": 219,
-  "broken_local_links": []
+  "broken_local_links": [],
+  "recorded_technical_validation_at": "2026-10-20T13:06:01.122874+00:00"
 }
