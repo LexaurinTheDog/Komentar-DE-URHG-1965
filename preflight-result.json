@@ -174,7 +174,7 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 403385,
+    "commentary_chars": 426726,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -183,7 +183,7 @@
     "completeness_report": "completeness-report.json",
     "quality_report": "quality-report.json",
     "preservation_report": "commentary-preservation.json",
-    "local_links_checked": 439,
+    "local_links_checked": 476,
     "broken_local_links": 0
   },
   "bounded_review_confirmation": {
@@ -11369,6 +11369,15 @@
     "unresolved_blockers": [],
     "limitations": [
       "Quellen-/Parser-Preflight für den gesamten amtlichen Datensatz; zweite Inhaltsprüfung nur dieser 20 Einheiten. Kein historisches Vollarchiv, kein Ersatz konkreter altrechtlicher Fallprüfung."
-    ]
+    ],
+    "technical_validation": {
+      "repo": "Komentar-DE-URHG-1965",
+      "units": 254,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 426726,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   }
 }

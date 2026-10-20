@@ -15,9 +15,9 @@
     "original_preserved": true,
     "change_map": "sources/change-map.json",
     "statutory_changes_since_intake_detected": false,
-    "preflight_verified_at": "2026-10-20T14:24:45.501873+00:00",
+    "preflight_verified_at": "2026-10-20T14:38:29.565841+00:00",
     "coverage_report": "completeness-report.json",
-    "source_integrity_checked_responses": 178,
+    "source_integrity_checked_responses": 188,
     "bounded_review_verified_at": "2026-10-20T14:38:29.565841+00:00",
     "source_integrity_mismatches": []
   },
@@ -428,7 +428,7 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 403385,
+    "commentary_chars": 426726,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -443,7 +443,7 @@
   },
   "quality_result": {
     "ok": true,
-    "local_links_checked": 439,
+    "local_links_checked": 476,
     "broken_local_links": [],
     "xml_mismatches": [],
     "repeated_long_paragraphs": []
@@ -468,7 +468,7 @@
     "official_identifiers": 254,
     "parsed_units": 254,
     "xml_text_agreement": 1.0,
-    "local_links_checked": 439,
+    "local_links_checked": 476,
     "broken_local_links": [],
     "repeated_long_paragraphs": [],
     "commentary_preservation": "review-result.json: per-unit hashes and baseline commit",
@@ -543,33 +543,33 @@
     "recorded_at": "2026-10-20T12:07:18.581826+00:00",
     "output_commit": "cb3b959"
   },
-  "validation_recorded_at": "2026-10-20T14:26:28.837699+00:00",
-  "validation_output_content_commit": "d17ddef0bb61f9351f901a2ceaf4c5e53d7b135d",
+  "validation_recorded_at": "2026-10-20T14:39:14.781078+00:00",
+  "validation_output_content_commit": "a54c0493c01486534888fe55a56ba54305ffd4a0",
   "technical_validation_scope": "Strenge technische Gesamtprüfung vorhandener 254 Einheiten; inhaltlicher Prüfungsumfang dieses Loses exakt 20 Einheiten, keine Erweiterung durch technischen Prüferfolg.",
   "previous_bounded_validation": {
     "result": {
       "repo": "Komentar-DE-URHG-1965",
       "units": 254,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 379581,
+      "commentary_chars": 403385,
       "errors": [],
       "warnings": [],
       "ok": true
     },
-    "recorded_at": "2026-10-20T14:07:18.006645+00:00",
-    "scope": "Vorheriges Prüflos §§ 101a–112, übernommener dokumentierter Nachweis"
+    "recorded_at": "2026-10-20T14:24:45.501873+00:00",
+    "scope": "Vorheriges Prüflos §§ 113–130, übernommener dokumentierter Nachweis"
   },
   "validation": {
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 403385,
+    "commentary_chars": 426726,
     "errors": [],
     "warnings": [],
     "ok": true
   },
-  "local_links_checked": 439,
+  "local_links_checked": 476,
   "broken_local_links": [],
-  "recorded_technical_validation_at": "2026-10-20T14:26:28.837699+00:00",
+  "recorded_technical_validation_at": "2026-10-20T14:39:14.781078+00:00",
   "validation_result_path": "validation-result.json"
 }
