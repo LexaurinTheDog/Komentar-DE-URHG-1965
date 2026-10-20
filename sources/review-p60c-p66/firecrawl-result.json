@@ -1,0 +1,8 @@
+{
+  "command": "firecrawl scrape 'https://www.gesetze-im-internet.de/urhg/' -o sources/review-p60c-p66/firecrawl-index.md",
+  "attempted_on": "2026-10-20",
+  "exit_code": 1,
+  "result": "Insufficient credits to perform this request",
+  "usable_source": false,
+  "fallback": "Direct official ZIP/HTML/PDF requests; see fetch-results.json"
+}

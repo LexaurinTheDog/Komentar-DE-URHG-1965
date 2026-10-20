@@ -182,5 +182,35 @@
       }
     ],
     "coverage": "Selektive aktuelle Ergänzungen für §§ 57 und 59. Keine abschließende Recherche zu sämtlichen 20 Einheiten oder Folgeentscheidungen."
+  },
+  "bounded_review_p60c_p66": {
+    "verified_at": "2026-10-20T13:04:00.199172+00:00",
+    "searches": [
+      {
+        "tool": "web search",
+        "queries": [
+          "site.bundesgerichtshof.de \"I ZR 69/11\" \"Elektronische Leseplätze\"",
+          "site.gesetze-im-internet.de \"Nicht-verfügbare-Werke-Verordnung\"",
+          "site.rechtsprechung-im-internet.de \"§ 60d\" \"Text\"",
+          "site.recht.bund.de \"2026\" \"Urheberrechtsgesetz\""
+        ],
+        "disposition": "Entdeckung amtlicher Quellen; keine Drittanbieter-Auszüge als Entscheidungsbeleg benutzt. Keine hinreichend geprüfte zusätzliche Mining-Entscheidung ausgewählt."
+      },
+      {
+        "tool": "rg local national RII corpus",
+        "query": "I ZR 69/11 in local *.md; exact docket/date metadata and subsequent BVerfG decision selected",
+        "selected": [
+          "KORE314082015",
+          "KVRE437262001"
+        ],
+        "disposition": "Beide Volltexte neu direkt amtlich abgerufen und mit vollständigem Korpus abgeglichen; 55 und 8 nummerierte Absätze gelesen. Andere Treffer nicht als eigenständig geprüfte Autorität aufgenommen."
+      },
+      {
+        "tool": "Firecrawl CLI",
+        "query": "scrape https://www.gesetze-im-internet.de/urhg/",
+        "disposition": "Insufficient credits; kein verwendbarer Text, keine Einstellungen geändert. Direkte amtliche Quellen erfolgreich."
+      }
+    ],
+    "coverage": "Selektiver Bibliotheks-/Vertragskontext; keine erschöpfende Abdeckung aller 20 Normen oder sämtlicher Folgeentscheidungen."
   }
 }

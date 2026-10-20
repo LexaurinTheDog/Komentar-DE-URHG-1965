@@ -1,0 +1,14 @@
+{
+  "Date": "Tue, 20 Oct 2026 12:55:18 GMT",
+  "Server": "Apache",
+  "Last-Modified": "Tue, 20 Oct 2026 05:30:01 GMT",
+  "ETag": "\"125ca-65e3eec07e7f6\"",
+  "Accept-Ranges": "bytes",
+  "Content-Length": "75210",
+  "Vary": "Accept-Encoding",
+  "X-Content-Type-Options": "nosniff",
+  "X-Frame-Options": "sameorigin",
+  "X-XSS-Protection": "1; mode=block",
+  "Content-Type": "text/html",
+  "Connection": "close"
+}

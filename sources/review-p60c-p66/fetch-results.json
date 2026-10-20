@@ -1,0 +1,140 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+    "accessed_at": "2026-10-20T12:55:17.791951+00:00",
+    "response_received_at": "2026-10-20T12:55:18.304863+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p60c-p66/current.zip",
+    "headers_path": "sources/review-p60c-p66/current.zip.headers.json",
+    "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+    "bytes": 72672,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/urhg/index.html",
+    "final_url": "https://www.gesetze-im-internet.de/urhg/index.html",
+    "accessed_at": "2026-10-20T12:55:17.792324+00:00",
+    "response_received_at": "2026-10-20T12:55:18.103193+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p60c-p66/index.html",
+    "headers_path": "sources/review-p60c-p66/index.html.headers.json",
+    "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+    "bytes": 58665,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+    "final_url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+    "accessed_at": "2026-10-20T12:55:17.792416+00:00",
+    "response_received_at": "2026-10-20T12:55:19.084989+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p60c-p66/full.html",
+    "headers_path": "sources/review-p60c-p66/full.html.headers.json",
+    "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+    "bytes": 464217,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+    "final_url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+    "accessed_at": "2026-10-20T12:55:17.792473+00:00",
+    "response_received_at": "2026-10-20T12:55:19.017783+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p60c-p66/current.pdf",
+    "headers_path": "sources/review-p60c-p66/current.pdf.headers.json",
+    "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+    "bytes": 413416,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T12:55:18.103352+00:00",
+    "response_received_at": "2026-10-20T12:55:19.301778+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p60c-p66/amendment.pdf",
+    "headers_path": "sources/review-p60c-p66/amendment.pdf.headers.json",
+    "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+    "bytes": 336883,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "accessed_at": "2026-10-20T12:55:18.305463+00:00",
+    "response_received_at": "2026-10-20T12:55:18.474956+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p60c-p66/aktuell.html",
+    "headers_path": "sources/review-p60c-p66/aktuell.html.headers.json",
+    "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+    "bytes": 75210,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE314082015.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE314082015.zip",
+    "accessed_at": "2026-10-20T12:55:18.475248+00:00",
+    "response_received_at": "2026-10-20T12:55:19.140704+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p60c-p66/leseplaetze.zip",
+    "headers_path": "sources/review-p60c-p66/leseplaetze.zip.headers.json",
+    "sha256": "8f9ebb6bbe302f06078f00bbc9d334b3c57ff433dbb31890b47c1ce429548176",
+    "bytes": 13133,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE437262001.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE437262001.zip",
+    "accessed_at": "2026-10-20T12:55:19.018310+00:00",
+    "response_received_at": "2026-10-20T12:55:19.139491+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p60c-p66/leseplaetze-bverfg.zip",
+    "headers_path": "sources/review-p60c-p66/leseplaetze-bverfg.zip.headers.json",
+    "sha256": "2adbe943efe6fd1ecda8c644fae70a5300ef54c80d6d34830ca02b15c55001c7",
+    "bytes": 2743,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/vgg/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/vgg/xml.zip",
+    "accessed_at": "2026-10-20T12:55:19.085508+00:00",
+    "response_received_at": "2026-10-20T12:55:19.253111+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p60c-p66/vgg.zip",
+    "headers_path": "sources/review-p60c-p66/vgg.zip.headers.json",
+    "sha256": "94464fad7eb583f74d6b43a6bd85782a1084c460076ceea8d53fbd16de92bec9",
+    "bytes": 36232,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/nvwv/xml.zip",
+    "accessed_at": "2026-10-20T12:55:46.027916+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p60c-p66/nvwv.zip",
+    "headers_path": "sources/review-p60c-p66/nvwv.headers.json",
+    "sha256": "a4cac0afc31be4f9b6c0d1575e4cf447e2e7f565532070dac10a3d8f412cabb5",
+    "bytes": 2950,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T12:59:18.597400+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p60c-p66/vgg-amendment.pdf",
+    "headers_path": "sources/review-p60c-p66/vgg-amendment.pdf.headers.json",
+    "sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a",
+    "bytes": 737586,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2023/65/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T12:59:18.975455+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p60c-p66/nvwv-promulgation.pdf",
+    "headers_path": "sources/review-p60c-p66/nvwv-promulgation.pdf.headers.json",
+    "sha256": "4bfb4a65d928fb11263e5aa65993a0ce708df1cc7eb2d36afac7b1d7ac97e6c0",
+    "bytes": 283942,
+    "expected_format_validated": true
+  }
+]

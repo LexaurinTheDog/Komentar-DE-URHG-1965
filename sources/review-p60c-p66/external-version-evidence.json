@@ -1,0 +1,21 @@
+{
+  "vgg": {
+    "version": "Zuletzt geändert durch Art. 29 G v. 23.10.2024 I Nr. 323",
+    "examined_units": [
+      "§ 51b",
+      "§ 52",
+      "§ 52a",
+      "§ 52b",
+      "§ 52c"
+    ],
+    "effective_evidence": "BGBl. 2024 I Nr. 323, Art. 29 hebt nur § 10 Satz 2 auf; Art. 74 Abs. 1: erster Tag des folgenden Quartals, mithin 1.1.2025 nach Verkündung 29.10.2024. Art. 29 ist in den Ausnahmen Abs. 2–13 nicht genannt. Unveränderte hier relevante Bestandsregeln.",
+    "evidence": "sources/review-p60c-p66/vgg-amendment.txt"
+  },
+  "nvwv": {
+    "version": "NvWV vom 9.3.2023, BGBl. 2023 I Nr. 65; keine Änderung im amtlichen aktuellen Text vermerkt",
+    "examined_units": "Vollständige Verordnung einschließlich Eingangsformel, §§ 1–7 und Fußnote",
+    "effective_from": "2023-06-01",
+    "effective_evidence": "§ 7 im aktuellen XML und amtlichen Verkündungstext; ausgegeben 15.3.2023.",
+    "evidence": "sources/review-p60c-p66/nvwv-promulgation.txt"
+  }
+}
