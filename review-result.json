@@ -382,5 +382,16 @@
     ],
     "previous_review": "sources/review-p32c-p41/previous-review-p20-p32b.json"
   },
-  "technical_validation": "validation-result.json"
+  "technical_validation": "validation-result.json",
+  "technical_validation_result": {
+    "repo": "Komentar-DE-URHG-1965",
+    "units": 254,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 250633,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "validation_recorded_at": "2026-10-20T12:28:54.692453+00:00",
+  "validated_output_content_commit": "b3edcdb"
 }

@@ -1,6 +1,6 @@
 {
   "stage": "bounded_review_complete",
-  "updated_at": "2026-10-20T12:16:06.541236+00:00",
+  "updated_at": "2026-10-20T12:28:54.692453+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -17,15 +17,15 @@
     "statutory_changes_since_intake_detected": false,
     "preflight_verified_at": "2026-10-20T11:54:07.436691+00:00",
     "coverage_report": "completeness-report.json",
-    "source_integrity_checked_responses": 28,
-    "bounded_review_verified_at": "2026-10-20T12:16:06.541236+00:00"
+    "source_integrity_checked_responses": 40,
+    "bounded_review_verified_at": "2026-10-20T12:27:27.313380+00:00"
   },
   "total_units": 254,
   "completed_units": 254,
   "paragraph_units": 253,
   "annex_units": 1,
   "chapters": 12,
-  "commentary_chars": 231957,
+  "commentary_chars": 250633,
   "case_law_sources": [
     {
       "court": "EuGH",
@@ -159,6 +159,36 @@
         "concurrencyLimited": false
       },
       "read_scope": "Vollständiger Text; bei Reha Training HTML und vier fehlende Fragen aus amtlichem PDF."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304122012.zip",
+      "accessed_at": "2026-10-20T12:20:12.565933+00:00",
+      "http_status": 200,
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304122012.zip",
+      "response_path": "sources/review-p32c-p41/take-five.zip",
+      "sha256": "43e01ea26ea6d62fa449cdffa64946010741bb48ba4a7357a4d6eee1ea889214",
+      "bytes": 7131,
+      "expected_format_validated": true,
+      "derived_xml_path": "sources/review-p32c-p41/take-five.xml",
+      "xml_sha256": "d33b1ffe97d8d083fe8a2729e5d130683e328daf26a2e1cbe474871183c19a53",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore304122012.md",
+      "local_intake_sha256": "23bc093a8991f64ffa0e91c54ecf4b6897168df2b308a13d48ecacbd7d558f8d",
+      "read_scope": "Vollständiger amtlicher Text und lokale Aufnahme mit sämtlichen Gründen und Tenor; XML-Blöcke vollständig abgeglichen."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304962021.zip",
+      "accessed_at": "2026-10-20T12:20:12.886253+00:00",
+      "http_status": 200,
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304962021.zip",
+      "response_path": "sources/review-p32c-p41/werknutzer.zip",
+      "sha256": "ac426257e1c28ec8e6ac940e9b210f1ada5c8f9723c06d5ab4f4c901511b10f2",
+      "bytes": 17237,
+      "expected_format_validated": true,
+      "derived_xml_path": "sources/review-p32c-p41/werknutzer.xml",
+      "xml_sha256": "3bf59bde7f42274b198e101b6312ddcf3f04d18e99e42f3d73eaf88b679e12d3",
+      "local_intake_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore304962021.md",
+      "local_intake_sha256": "41633530fab69bb456336a12766c073380390dbc9e16421b036c19cf2cb836ba",
+      "read_scope": "Vollständiger amtlicher Text und lokale Aufnahme mit sämtlichen Gründen und Tenor; XML-Blöcke vollständig abgeglichen."
     }
   ],
   "case_cards": [
@@ -168,13 +198,15 @@
     "cases/mio-usm.md",
     "cases/renckhoff.md",
     "cases/reha-training.md",
-    "cases/kommunikationsdesigner.md"
+    "cases/kommunikationsdesigner.md",
+    "cases/take-five.md",
+    "cases/werknutzer.md"
   ],
   "validation_result": {
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 231957,
+    "commentary_chars": 250633,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -184,12 +216,11 @@
   "independent_second_pass_completed": false,
   "unresolved_blockers": [],
   "remaining_limitations": [
-    "Abgeschlossen ist ausschließlich dieses Prüflos mit genau 20 Kennungen. Die übrigen 234 Einheiten wurden in diesem Arbeitsgang nicht erneut inhaltlich geprüft; das frühere Prüflos §§ 1–19a bleibt dokumentiert. Keine vollständige zweite Buchprüfung.",
-    "Selektive Rechtsprechung: Reha Training und Kommunikationsdesigner im vollständigen Text gelesen. Bei Reha Training fehlen in der HTML-Ausgabe die vier Fragen zu Rn. 19; diese wurden aus der amtlichen PDF-Extraktion ergänzt und gelesen. Keine umfassende Folgeentscheidungsrecherche.",
-    "Das Boot III wurde amtlich beschafft und als Kandidat gesichtet, aber nicht vollständig gelesen; deshalb kein Entscheidungsbeleg und keine daraus abgeleitete heutige Vergütungsquote.",
-    "Kommunikationsdesigner stammt aus 2012; historische gesellschaftsrechtliche Aussagen werden nicht als vollständiger heutiger Rechtsstand ausgegeben. Entscheidung wird nur für die eng bezeichnete Urheber-GbR-Konstellation verwendet.",
-    "Aktuelle amtliche Konsolidierung mit belegtem Inkrafttreten; kein Vollarchiv aller historischen Gesetzesfassungen und keine Garantie gegen noch nicht eingearbeitete Änderungen.",
-    "Keine externe anwaltliche Freigabe. Technische Prüfungen ersetzen keine juristische Einzelprüfung."
+    "Dieses Prüflos erfasst genau 20 Einheiten. Die übrigen 234 Einheiten wurden hier nicht erneut inhaltlich geprüft; frühere Prüflose bleiben erhalten. Keine vollständige zweite Buchprüfung.",
+    "Selektive Rechtsprechungsprüfung: Take Five und Werknutzer im vollständigen amtlichen Text gelesen, keine erschöpfende oder umfassend fortgeschriebene Folgeentscheidungsrecherche. M2Trade wurde nur gesucht, nicht als eigenständig geprüfte Autorität verwendet.",
+    "Historische Sachverhalte und Fassungen in den Entscheidungen sind ausdrücklich abgegrenzt. Frühere §-32a-Schwellen und §-41-Voraussetzungen werden nicht als heutiger Wortlaut übernommen.",
+    "Datierter Nachweis der amtlichen Konsolidierung mit Verkündungs-/Inkrafttretensbeleg; kein vollständiges Archiv aller seit 1965 geltenden Fassungen und keine Garantie gegen noch nicht eingearbeitete Änderungen.",
+    "Keine externe anwaltliche Freigabe. Texttreue, Länge und Ähnlichkeitschecks beweisen keine abschließende juristische Qualität."
   ],
   "publication": false,
   "push": false,
@@ -203,7 +234,7 @@
     "official_identifiers": 254,
     "parsed_units": 254,
     "xml_text_agreement": 1.0,
-    "local_links_checked": 129,
+    "local_links_checked": 159,
     "broken_local_links": [],
     "repeated_long_paragraphs": [],
     "commentary_preservation": "review-result.json: per-unit hashes and baseline commit",
@@ -214,46 +245,46 @@
   },
   "review_result": "review-result.json",
   "reviewed_ids": [
-    "p20",
-    "p20a",
-    "p20b",
-    "p20c",
-    "p20d",
-    "p21",
-    "p22",
-    "p23",
-    "p24",
-    "p25",
-    "p26",
-    "p27",
-    "p28",
-    "p29",
-    "p30",
-    "p31",
-    "p31a",
-    "p32",
-    "p32a",
-    "p32b"
+    "p32c",
+    "p32d",
+    "p32e",
+    "p32f",
+    "p32g",
+    "p33",
+    "p34",
+    "p35",
+    "p35a",
+    "p36",
+    "p36a",
+    "p36b",
+    "p36c",
+    "p36d",
+    "p37",
+    "p38",
+    "p39",
+    "p40",
+    "p40a",
+    "p41"
   ],
   "corrected_ids": [
-    "p20a",
-    "p20b",
-    "p20c",
-    "p20d",
-    "p21",
-    "p22",
-    "p23",
-    "p26",
-    "p27",
-    "p31",
-    "p31a",
-    "p32",
-    "p32a"
+    "p32c",
+    "p32d",
+    "p32e",
+    "p33",
+    "p34",
+    "p35",
+    "p36",
+    "p36a",
+    "p36d",
+    "p38",
+    "p40",
+    "p40a",
+    "p41"
   ],
   "whole_book_review_complete": false,
   "case_law_sources_reviewed_in_this_task": [
-    "cases/reha-training.md",
-    "cases/kommunikationsdesigner.md"
+    "cases/take-five.md",
+    "cases/werknutzer.md"
   ],
   "bounded_review_preservation": "review-result.json",
   "prior_validation": {
@@ -269,7 +300,20 @@
     "recorded_at": "2026-10-20T12:07:18.581826+00:00",
     "output_commit": "cb3b959"
   },
-  "validation_recorded_at": "2026-10-20T12:18:30.646593+00:00",
-  "validation_output_content_commit": "32629a8",
-  "technical_validation_scope": "Gesamter vorhandener technischer Bestand; inhaltliche Einzelprüfung dieses Arbeitsgangs ausschließlich der 20 reviewed_ids."
+  "validation_recorded_at": "2026-10-20T12:28:54.692453+00:00",
+  "validation_output_content_commit": "b3edcdb",
+  "technical_validation_scope": "Gesamter vorhandener technischer Bestand; inhaltliche Einzelprüfung dieses Arbeitsgangs ausschließlich der 20 reviewed_ids.",
+  "previous_bounded_validation": {
+    "result": {
+      "repo": "Komentar-DE-URHG-1965",
+      "units": 254,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 231957,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "recorded_at": "2026-10-20T12:18:30.646593+00:00",
+    "output_content_commit": "32629a8"
+  }
 }
