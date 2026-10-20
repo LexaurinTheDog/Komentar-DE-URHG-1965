@@ -618,6 +618,132 @@
       "expected_format_validated": true,
       "derived_from": "sources/review-p42-p52b/metall-vi.zip",
       "format": "Official XML; expected law abbreviation or case docket/date checked"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T12:44:03.282935+00:00",
+      "response_received_at": "2026-10-20T12:44:03.506645+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/current.zip",
+      "headers_path": "sources/review-p53-p60b/current.zip.headers.json",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "accessed_at": "2026-10-20T12:44:03.283300+00:00",
+      "response_received_at": "2026-10-20T12:44:03.483252+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/index.html",
+      "headers_path": "sources/review-p53-p60b/index.html.headers.json",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "accessed_at": "2026-10-20T12:44:03.283395+00:00",
+      "response_received_at": "2026-10-20T12:44:03.599897+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/full.html",
+      "headers_path": "sources/review-p53-p60b/full.html.headers.json",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "accessed_at": "2026-10-20T12:44:03.283454+00:00",
+      "response_received_at": "2026-10-20T12:44:03.610441+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/current.pdf",
+      "headers_path": "sources/review-p53-p60b/current.pdf.headers.json",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T12:44:03.483369+00:00",
+      "response_received_at": "2026-10-20T12:44:03.695053+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/amendment.pdf",
+      "headers_path": "sources/review-p53-p60b/amendment.pdf.headers.json",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T12:44:03.507161+00:00",
+      "response_received_at": "2026-10-20T12:44:03.669787+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/aktuell.html",
+      "headers_path": "sources/review-p53-p60b/aktuell.html.headers.json",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303392015.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303392015.zip",
+      "accessed_at": "2026-10-20T12:44:03.600163+00:00",
+      "response_received_at": "2026-10-20T12:44:03.803500+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/moebelkatalog.zip",
+      "headers_path": "sources/review-p53-p60b/moebelkatalog.zip.headers.json",
+      "sha256": "fcb44a0a8c37e83d8471c39bea976a1024113d2dbea47fa220c04672126890f7",
+      "bytes": 149090,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310902024.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310902024.zip",
+      "accessed_at": "2026-10-20T12:44:03.610671+00:00",
+      "response_received_at": "2026-10-20T12:44:03.744163+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/drohnen.zip",
+      "headers_path": "sources/review-p53-p60b/drohnen.zip.headers.json",
+      "sha256": "cbc92befa31c3a6b1acb707477525bb1584fca9e3ed639a78988608f4bd4cca4",
+      "bytes": 49591,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T12:44:03.282935+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "expected_format_validated": true,
+      "derived_from": "sources/review-p53-p60b/current.zip",
+      "format": "Official XML: expected abbreviation or court docket/date confirmed"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303392015.zip",
+      "accessed_at": "2026-10-20T12:44:03.600163+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/moebelkatalog.xml",
+      "sha256": "fe3fdb0f752340dd464d8b7c7c60d7e130fb94f8b3cbd6423fe8e6a80172e309",
+      "expected_format_validated": true,
+      "derived_from": "sources/review-p53-p60b/moebelkatalog.zip",
+      "format": "Official XML: expected abbreviation or court docket/date confirmed"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310902024.zip",
+      "accessed_at": "2026-10-20T12:44:03.610671+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p53-p60b/drohnen.xml",
+      "sha256": "585fb9ce4bb03a9f12cd94847eb16748348e2735a8b6087fbab8e4c04a51b483",
+      "expected_format_validated": true,
+      "derived_from": "sources/review-p53-p60b/drohnen.zip",
+      "format": "Official XML: expected abbreviation or court docket/date confirmed"
     }
   ],
   "version": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
@@ -1003,5 +1129,44 @@
       "error": "HTTP Error 404: ",
       "expected_format_validated": false
     }
-  ]
+  ],
+  "bounded_review_p53_p60b": {
+    "verified_at": "2026-10-20T12:50:59.051532+00:00",
+    "reviewed_ids": [
+      "p53",
+      "p53a",
+      "p54",
+      "p54a",
+      "p54b",
+      "p54c",
+      "p54d",
+      "p54e",
+      "p54f",
+      "p54g",
+      "p54h",
+      "p55",
+      "p55a",
+      "p56",
+      "p57",
+      "p58",
+      "p59",
+      "p60",
+      "p60a",
+      "p60b"
+    ],
+    "current_xml_unchanged": true,
+    "effective_from": "2026-05-30",
+    "fetch_log": "sources/review-p53-p60b/fetch-results.json",
+    "version_evidence": {
+      "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
+      "promulgated": "2026-05-29",
+      "effective_from": "2026-05-30",
+      "commencement": "Art. 3: Tag nach der Verkündung",
+      "affected_units": [
+        "p54d",
+        "p87b"
+      ],
+      "evidence": "sources/review-p53-p60b/amendment.pdf"
+    }
+  }
 }

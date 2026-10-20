@@ -1,6 +1,6 @@
 {
   "algorithm": "SHA-256",
-  "generated_at": "2026-10-20T12:41:55.754967+00:00",
+  "generated_at": "2026-10-20T12:51:34.136809+00:00",
   "sources": [
     {
       "path": "sources/aktualitaet.headers",
@@ -1038,9 +1038,169 @@
       "bytes": 13956
     },
     {
+      "path": "sources/review-p53-p60b/aktuell.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/review-p53-p60b/aktuell.html.headers.json",
+      "sha256": "ed95493d4b4461d86708cea841de7a491d4505dae98634ede823ff238b69e407",
+      "bytes": 412
+    },
+    {
+      "path": "sources/review-p53-p60b/amendment.pdf",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883
+    },
+    {
+      "path": "sources/review-p53-p60b/amendment.pdf.headers.json",
+      "sha256": "bb4eae52807a8b9efc1eba956f319f394e02a269a879d4960ce8b07aa3e60dac",
+      "bytes": 1146
+    },
+    {
+      "path": "sources/review-p53-p60b/amendment.txt",
+      "sha256": "330ec58cb454a226cdb04ba26c8da212f4d84f34af5c7c9b5adcb87dcd7dcef7",
+      "bytes": 31271
+    },
+    {
+      "path": "sources/review-p53-p60b/case-local-agreement.json",
+      "sha256": "822a7578e42fbb04c88c6d6f15535ab1f62778486787d1ecc5ba57cde05d7cc9",
+      "bytes": 1920
+    },
+    {
+      "path": "sources/review-p53-p60b/current-pdf.txt",
+      "sha256": "540571a1ae026695c3f587befbe120940e9c7dc0f3b95a807f7c8ad6fdbb51d6",
+      "bytes": 280366
+    },
+    {
+      "path": "sources/review-p53-p60b/current.pdf",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416
+    },
+    {
+      "path": "sources/review-p53-p60b/current.pdf.headers.json",
+      "sha256": "7148da311e34251d4a17fc325c24b4027794cb7daccecc5d6fcdfd072e3a0ede",
+      "bytes": 390
+    },
+    {
+      "path": "sources/review-p53-p60b/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "bytes": 401221
+    },
+    {
+      "path": "sources/review-p53-p60b/current.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672
+    },
+    {
+      "path": "sources/review-p53-p60b/current.zip.headers.json",
+      "sha256": "724b95ae156cdad3b4282987b48b6422ed19ad1866f44043518813def88a0866",
+      "bytes": 389
+    },
+    {
+      "path": "sources/review-p53-p60b/drohnen-intake.md",
+      "sha256": "f7ade5c6fbcc89207534f31978cab1b399bd5a1b1725c5bb328ac22a45f7195e",
+      "bytes": 22961
+    },
+    {
+      "path": "sources/review-p53-p60b/drohnen-official.txt",
+      "sha256": "ac4e066c1fa84e9a7052e6a4790e01ad4b2d12a3c4970b4ee5f8514dcfea69f9",
+      "bytes": 21619
+    },
+    {
+      "path": "sources/review-p53-p60b/drohnen.xml",
+      "sha256": "585fb9ce4bb03a9f12cd94847eb16748348e2735a8b6087fbab8e4c04a51b483",
+      "bytes": 38577
+    },
+    {
+      "path": "sources/review-p53-p60b/drohnen.zip",
+      "sha256": "cbc92befa31c3a6b1acb707477525bb1584fca9e3ed639a78988608f4bd4cca4",
+      "bytes": 49591
+    },
+    {
+      "path": "sources/review-p53-p60b/drohnen.zip.headers.json",
+      "sha256": "a0c4e0aaa33e329347b642b092367a6be0e76b164fd6d3862c8d27fe82477c20",
+      "bytes": 3182
+    },
+    {
+      "path": "sources/review-p53-p60b/fetch-results.json",
+      "sha256": "84f639a0153444338d2c00a5d236e2d7767fa56dd899ce274112a8cf5aba7bec",
+      "bytes": 4701
+    },
+    {
+      "path": "sources/review-p53-p60b/fetch.py",
+      "sha256": "ea08f8de46d51a950be526b54595cec71bbeb0b0ef19b47b5316a83b8bd8dd90",
+      "bytes": 2567
+    },
+    {
+      "path": "sources/review-p53-p60b/full.html",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217
+    },
+    {
+      "path": "sources/review-p53-p60b/full.html.headers.json",
+      "sha256": "d74648ff8466d468432cc20ef53ad575b400717ed7f6111da361aeaf5791cd75",
+      "bytes": 413
+    },
+    {
+      "path": "sources/review-p53-p60b/index.html",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665
+    },
+    {
+      "path": "sources/review-p53-p60b/index.html.headers.json",
+      "sha256": "ac961a647ecead1e40dce5656d84dbf7546856bd1ef71e8c8b66877006ee5fdb",
+      "bytes": 411
+    },
+    {
+      "path": "sources/review-p53-p60b/local-case-search.json",
+      "sha256": "142ca6685b38c27250064169c1dfec6936ac4573c931093895ffd5a0b10ec49b",
+      "bytes": 598
+    },
+    {
+      "path": "sources/review-p53-p60b/moebelkatalog-intake.md",
+      "sha256": "4b3e0fa0482322a90223a7b00cac03ea5d505c9eccba61b0f38509de2daf2de7",
+      "bytes": 26809
+    },
+    {
+      "path": "sources/review-p53-p60b/moebelkatalog-official.txt",
+      "sha256": "4034a83803f79d0aaf9c6b8bbbd5af43594e738e03d8918edb0ed49ab7189924",
+      "bytes": 25673
+    },
+    {
+      "path": "sources/review-p53-p60b/moebelkatalog.xml",
+      "sha256": "fe3fdb0f752340dd464d8b7c7c60d7e130fb94f8b3cbd6423fe8e6a80172e309",
+      "bytes": 41832
+    },
+    {
+      "path": "sources/review-p53-p60b/moebelkatalog.zip",
+      "sha256": "fcb44a0a8c37e83d8471c39bea976a1024113d2dbea47fa220c04672126890f7",
+      "bytes": 149090
+    },
+    {
+      "path": "sources/review-p53-p60b/moebelkatalog.zip.headers.json",
+      "sha256": "e42e6efca663dfd315bdfbc11af11d80f1819efcfbb5845c8c276f470e901735",
+      "bytes": 3182
+    },
+    {
+      "path": "sources/review-p53-p60b/preflight-evidence.json",
+      "sha256": "05583e1189717da8c56bab43876880881fb2d5d83a7aa482db9ece033bacea2b",
+      "bytes": 51501
+    },
+    {
+      "path": "sources/review-p53-p60b/preservation.json",
+      "sha256": "f20e929974693c509ca99a95c489c041389e3e8c3f3d72c8f0240bcc838a90d5",
+      "bytes": 22099
+    },
+    {
+      "path": "sources/review-p53-p60b/previous-review-p42-p52b.json",
+      "sha256": "44ed9d0694befc84cbdcaf6619b2cd07f4ac3fa37e390e0055bb1a776ea43aef",
+      "bytes": 26741
+    },
+    {
       "path": "sources/search-log.json",
-      "sha256": "0f4a7c40de9a7d4f148e978cf688a1ad3f7593b9ad935cc14afc5ccfaa99281f",
-      "bytes": 8385
+      "sha256": "18452c9179aca8bc05e03ae6f46ec2f197b642d5cef09aeb292b2bf4bfda3a43",
+      "bytes": 9745
     },
     {
       "path": "sources/searches/amendment-search.json",
@@ -1114,8 +1274,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "dfc5106a88ef18970bae54f21f98eb73ea3bab9ac4fe25a41c6a538f89aa8b79",
-      "bytes": 45045
+      "sha256": "2ac5ab75ec6d9a91ed777c3a3167fe471bffdaca15082de58a5ec6e13fa3e0b8",
+      "bytes": 52388
     },
     {
       "path": "sources/verify-sources.py",

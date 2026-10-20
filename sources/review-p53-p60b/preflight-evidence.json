@@ -1,0 +1,2155 @@
+{
+  "verified_at": "2026-10-20T12:50:59.051532+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/urhg/",
+  "fetch_log": "sources/review-p53-p60b/fetch-results.json",
+  "source_unchanged": true,
+  "xml_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+  "index_unchanged": true,
+  "full_html_unchanged": true,
+  "pdf_text_unchanged": true,
+  "amendment_unchanged": true,
+  "extracted_assigned_units_agree": true,
+  "reviewed_ids": [
+    "p53",
+    "p53a",
+    "p54",
+    "p54a",
+    "p54b",
+    "p54c",
+    "p54d",
+    "p54e",
+    "p54f",
+    "p54g",
+    "p54h",
+    "p55",
+    "p55a",
+    "p56",
+    "p57",
+    "p58",
+    "p59",
+    "p60",
+    "p60a",
+    "p60b"
+  ],
+  "coverage_recheck": "completeness-report.json",
+  "fresh_xml_classification": {
+    "metadata": 1,
+    "table_of_contents": 1,
+    "structure": 51,
+    "statutory_unit": 253,
+    "annex": 1
+  },
+  "fresh_official_records": [
+    {
+      "id": "p1",
+      "label": "§ 1",
+      "doknr": "BJNR012730965BJNE004101377",
+      "empty_body": false,
+      "title": "Allgemeines"
+    },
+    {
+      "id": "p2",
+      "label": "§ 2",
+      "doknr": "BJNR012730965BJNE004202305",
+      "empty_body": false,
+      "title": "Geschützte Werke"
+    },
+    {
+      "id": "p3",
+      "label": "§ 3",
+      "doknr": "BJNR012730965BJNE004301304",
+      "empty_body": false,
+      "title": "Bearbeitungen"
+    },
+    {
+      "id": "p4",
+      "label": "§ 4",
+      "doknr": "BJNR012730965BJNE004401307",
+      "empty_body": false,
+      "title": "Sammelwerke und Datenbankwerke"
+    },
+    {
+      "id": "p5",
+      "label": "§ 5",
+      "doknr": "BJNR012730965BJNE004501377",
+      "empty_body": false,
+      "title": "Amtliche Werke"
+    },
+    {
+      "id": "p6",
+      "label": "§ 6",
+      "doknr": "BJNR012730965BJNE004600315",
+      "empty_body": false,
+      "title": "Veröffentlichte und erschienene Werke"
+    },
+    {
+      "id": "p7",
+      "label": "§ 7",
+      "doknr": "BJNR012730965BJNE004700315",
+      "empty_body": false,
+      "title": "Urheber"
+    },
+    {
+      "id": "p8",
+      "label": "§ 8",
+      "doknr": "BJNR012730965BJNE004800315",
+      "empty_body": false,
+      "title": "Miturheber"
+    },
+    {
+      "id": "p9",
+      "label": "§ 9",
+      "doknr": "BJNR012730965BJNE004900315",
+      "empty_body": false,
+      "title": "Urheber verbundener Werke"
+    },
+    {
+      "id": "p10",
+      "label": "§ 10",
+      "doknr": "BJNR012730965BJNE005001140",
+      "empty_body": false,
+      "title": "Vermutung der Urheber- oder Rechtsinhaberschaft"
+    },
+    {
+      "id": "p11",
+      "label": "§ 11",
+      "doknr": "BJNR012730965BJNE005102377",
+      "empty_body": false,
+      "title": "Allgemeines"
+    },
+    {
+      "id": "p12",
+      "label": "§ 12",
+      "doknr": "BJNR012730965BJNE005200315",
+      "empty_body": false,
+      "title": "Veröffentlichungsrecht"
+    },
+    {
+      "id": "p13",
+      "label": "§ 13",
+      "doknr": "BJNR012730965BJNE005300315",
+      "empty_body": false,
+      "title": "Anerkennung der Urheberschaft"
+    },
+    {
+      "id": "p14",
+      "label": "§ 14",
+      "doknr": "BJNR012730965BJNE005400315",
+      "empty_body": false,
+      "title": "Entstellung des Werkes"
+    },
+    {
+      "id": "p15",
+      "label": "§ 15",
+      "doknr": "BJNR012730965BJNE005501377",
+      "empty_body": false,
+      "title": "Allgemeines"
+    },
+    {
+      "id": "p16",
+      "label": "§ 16",
+      "doknr": "BJNR012730965BJNE005601377",
+      "empty_body": false,
+      "title": "Vervielfältigungsrecht"
+    },
+    {
+      "id": "p17",
+      "label": "§ 17",
+      "doknr": "BJNR012730965BJNE005701307",
+      "empty_body": false,
+      "title": "Verbreitungsrecht"
+    },
+    {
+      "id": "p18",
+      "label": "§ 18",
+      "doknr": "BJNR012730965BJNE005800315",
+      "empty_body": false,
+      "title": "Ausstellungsrecht"
+    },
+    {
+      "id": "p19",
+      "label": "§ 19",
+      "doknr": "BJNR012730965BJNE005901377",
+      "empty_body": false,
+      "title": "Vortrags-, Aufführungs- und Vorführungsrecht"
+    },
+    {
+      "id": "p19a",
+      "label": "§ 19a",
+      "doknr": "BJNR012730965BJNE022700377",
+      "empty_body": false,
+      "title": "Recht der öffentlichen Zugänglichmachung"
+    },
+    {
+      "id": "p20",
+      "label": "§ 20",
+      "doknr": "BJNR012730965BJNE006001307",
+      "empty_body": false,
+      "title": "Senderecht"
+    },
+    {
+      "id": "p20a",
+      "label": "§ 20a",
+      "doknr": "BJNR012730965BJNE021800307",
+      "empty_body": false,
+      "title": "Europäische Satellitensendung"
+    },
+    {
+      "id": "p20b",
+      "label": "§ 20b",
+      "doknr": "BJNR012730965BJNE021902360",
+      "empty_body": false,
+      "title": "Weitersendung"
+    },
+    {
+      "id": "p20c",
+      "label": "§ 20c",
+      "doknr": "BJNR012730965BJNE027800360",
+      "empty_body": false,
+      "title": "Europäischer ergänzender Online-Dienst"
+    },
+    {
+      "id": "p20d",
+      "label": "§ 20d",
+      "doknr": "BJNR012730965BJNE027900360",
+      "empty_body": false,
+      "title": "Direkteinspeisung"
+    },
+    {
+      "id": "p21",
+      "label": "§ 21",
+      "doknr": "BJNR012730965BJNE006100315",
+      "empty_body": false,
+      "title": "Recht der Wiedergabe durch Bild- oder Tonträger"
+    },
+    {
+      "id": "p22",
+      "label": "§ 22",
+      "doknr": "BJNR012730965BJNE006201377",
+      "empty_body": false,
+      "title": "Recht der Wiedergabe von Funksendungen und von öffentlicher\nZugänglichmachung"
+    },
+    {
+      "id": "p23",
+      "label": "§ 23",
+      "doknr": "BJNR012730965BJNE006303360",
+      "empty_body": false,
+      "title": "Bearbeitungen und Umgestaltungen"
+    },
+    {
+      "id": "p24",
+      "label": "§ 24",
+      "doknr": "BJNR012730965BJNE006401360",
+      "empty_body": true,
+      "title": "(weggefallen)"
+    },
+    {
+      "id": "p25",
+      "label": "§ 25",
+      "doknr": "BJNR012730965BJNE006500315",
+      "empty_body": false,
+      "title": "Zugang zu Werkstücken"
+    },
+    {
+      "id": "p26",
+      "label": "§ 26",
+      "doknr": "BJNR012730965BJNE006603377",
+      "empty_body": false,
+      "title": "Folgerecht"
+    },
+    {
+      "id": "p27",
+      "label": "§ 27",
+      "doknr": "BJNR012730965BJNE006701307",
+      "empty_body": false,
+      "title": "Vergütung für Vermietung und Verleihen"
+    },
+    {
+      "id": "p28",
+      "label": "§ 28",
+      "doknr": "BJNR012730965BJNE006800315",
+      "empty_body": false,
+      "title": "Vererbung des Urheberrechts"
+    },
+    {
+      "id": "p29",
+      "label": "§ 29",
+      "doknr": "BJNR012730965BJNE006901377",
+      "empty_body": false,
+      "title": "Rechtsgeschäfte über das Urheberrecht"
+    },
+    {
+      "id": "p30",
+      "label": "§ 30",
+      "doknr": "BJNR012730965BJNE007000315",
+      "empty_body": false,
+      "title": "Rechtsnachfolger des Urhebers"
+    },
+    {
+      "id": "p31",
+      "label": "§ 31",
+      "doknr": "BJNR012730965BJNE007102377",
+      "empty_body": false,
+      "title": "Einräumung von Nutzungsrechten"
+    },
+    {
+      "id": "p31a",
+      "label": "§ 31a",
+      "doknr": "BJNR012730965BJNE007104125",
+      "empty_body": false,
+      "title": "Verträge über unbekannte Nutzungsarten"
+    },
+    {
+      "id": "p32",
+      "label": "§ 32",
+      "doknr": "BJNR012730965BJNE007203360",
+      "empty_body": false,
+      "title": "Angemessene Vergütung"
+    },
+    {
+      "id": "p32a",
+      "label": "§ 32a",
+      "doknr": "BJNR012730965BJNE022203360",
+      "empty_body": false,
+      "title": "Weitere Beteiligung des Urhebers"
+    },
+    {
+      "id": "p32b",
+      "label": "§ 32b",
+      "doknr": "BJNR012730965BJNE022301360",
+      "empty_body": false,
+      "title": "Zwingende Anwendung"
+    },
+    {
+      "id": "p32c",
+      "label": "§ 32c",
+      "doknr": "BJNR012730965BJNE024000377",
+      "empty_body": false,
+      "title": "Vergütung für später bekannte Nutzungsarten"
+    },
+    {
+      "id": "p32d",
+      "label": "§ 32d",
+      "doknr": "BJNR012730965BJNE025801360",
+      "empty_body": false,
+      "title": "Auskunft und Rechenschaft des Vertragspartners"
+    },
+    {
+      "id": "p32e",
+      "label": "§ 32e",
+      "doknr": "BJNR012730965BJNE025901360",
+      "empty_body": false,
+      "title": "Auskunft und Rechenschaft Dritter in der Lizenzkette"
+    },
+    {
+      "id": "p32f",
+      "label": "§ 32f",
+      "doknr": "BJNR012730965BJNE028000360",
+      "empty_body": false,
+      "title": "Mediation und außergerichtliche Konfliktbeilegung"
+    },
+    {
+      "id": "p32g",
+      "label": "§ 32g",
+      "doknr": "BJNR012730965BJNE028100360",
+      "empty_body": false,
+      "title": "Vertretung durch Vereinigungen"
+    },
+    {
+      "id": "p33",
+      "label": "§ 33",
+      "doknr": "BJNR012730965BJNE007301377",
+      "empty_body": false,
+      "title": "Weiterwirkung von Nutzungsrechten"
+    },
+    {
+      "id": "p34",
+      "label": "§ 34",
+      "doknr": "BJNR012730965BJNE007401377",
+      "empty_body": false,
+      "title": "Übertragung von Nutzungsrechten"
+    },
+    {
+      "id": "p35",
+      "label": "§ 35",
+      "doknr": "BJNR012730965BJNE007501377",
+      "empty_body": false,
+      "title": "Einräumung weiterer Nutzungsrechte"
+    },
+    {
+      "id": "p35a",
+      "label": "§ 35a",
+      "doknr": "BJNR012730965BJNE028200360",
+      "empty_body": false,
+      "title": "Mediation und außergerichtliche Konfliktbeilegung bei Videoabrufdiensten"
+    },
+    {
+      "id": "p36",
+      "label": "§ 36",
+      "doknr": "BJNR012730965BJNE007604360",
+      "empty_body": false,
+      "title": "Gemeinsame Vergütungsregeln"
+    },
+    {
+      "id": "p36a",
+      "label": "§ 36a",
+      "doknr": "BJNR012730965BJNE022403123",
+      "empty_body": false,
+      "title": "Schlichtungsstelle"
+    },
+    {
+      "id": "p36b",
+      "label": "§ 36b",
+      "doknr": "BJNR012730965BJNE026001360",
+      "empty_body": false,
+      "title": "Unterlassungsanspruch bei Verstoß gegen gemeinsame Vergütungsregeln"
+    },
+    {
+      "id": "p36c",
+      "label": "§ 36c",
+      "doknr": "BJNR012730965BJNE026100123",
+      "empty_body": false,
+      "title": "Individualvertragliche Folgen des Verstoßes gegen gemeinsame Vergütungsregeln"
+    },
+    {
+      "id": "p36d",
+      "label": "§ 36d",
+      "doknr": "BJNR012730965BJNE028300360",
+      "empty_body": false,
+      "title": "Unterlassungsanspruch bei Nichterteilung von Auskünften"
+    },
+    {
+      "id": "p37",
+      "label": "§ 37",
+      "doknr": "BJNR012730965BJNE007700315",
+      "empty_body": false,
+      "title": "Verträge über die Einräumung von Nutzungsrechten"
+    },
+    {
+      "id": "p38",
+      "label": "§ 38",
+      "doknr": "BJNR012730965BJNE007801360",
+      "empty_body": false,
+      "title": "Beiträge zu Sammlungen"
+    },
+    {
+      "id": "p39",
+      "label": "§ 39",
+      "doknr": "BJNR012730965BJNE007900315",
+      "empty_body": false,
+      "title": "Änderungen des Werkes"
+    },
+    {
+      "id": "p40",
+      "label": "§ 40",
+      "doknr": "BJNR012730965BJNE008001125",
+      "empty_body": false,
+      "title": "Verträge über künftige Werke"
+    },
+    {
+      "id": "p40a",
+      "label": "§ 40a",
+      "doknr": "BJNR012730965BJNE026200123",
+      "empty_body": false,
+      "title": "Recht zur anderweitigen Verwertung nach zehn Jahren bei pauschaler Vergütung"
+    },
+    {
+      "id": "p41",
+      "label": "§ 41",
+      "doknr": "BJNR012730965BJNE008102360",
+      "empty_body": false,
+      "title": "Rückrufsrecht wegen Nichtausübung"
+    },
+    {
+      "id": "p42",
+      "label": "§ 42",
+      "doknr": "BJNR012730965BJNE008200315",
+      "empty_body": false,
+      "title": "Rückrufsrecht wegen gewandelter Überzeugung"
+    },
+    {
+      "id": "p42a",
+      "label": "§ 42a",
+      "doknr": "BJNR012730965BJNE022802301",
+      "empty_body": false,
+      "title": "Zwangslizenz zur Herstellung von Tonträgern"
+    },
+    {
+      "id": "p43",
+      "label": "§ 43",
+      "doknr": "BJNR012730965BJNE008300315",
+      "empty_body": false,
+      "title": "Urheber in Arbeits- oder Dienstverhältnissen"
+    },
+    {
+      "id": "p44",
+      "label": "§ 44",
+      "doknr": "BJNR012730965BJNE008400315",
+      "empty_body": false,
+      "title": "Veräußerung des Originals des Werkes"
+    },
+    {
+      "id": "p44a",
+      "label": "§ 44a",
+      "doknr": "BJNR012730965BJNE022900377",
+      "empty_body": false,
+      "title": "Vorübergehende Vervielfältigungshandlungen"
+    },
+    {
+      "id": "p44b",
+      "label": "§ 44b",
+      "doknr": "BJNR012730965BJNE028400360",
+      "empty_body": false,
+      "title": "Text und Data Mining"
+    },
+    {
+      "id": "p45",
+      "label": "§ 45",
+      "doknr": "BJNR012730965BJNE008500315",
+      "empty_body": false,
+      "title": "Rechtspflege und öffentliche Sicherheit"
+    },
+    {
+      "id": "p45a",
+      "label": "§ 45a",
+      "doknr": "BJNR012730965BJNE023001360",
+      "empty_body": false,
+      "title": "Menschen mit Behinderungen"
+    },
+    {
+      "id": "p45b",
+      "label": "§ 45b",
+      "doknr": "BJNR012730965BJNE027500360",
+      "empty_body": false,
+      "title": "Menschen mit einer Seh- oder Lesebehinderung"
+    },
+    {
+      "id": "p45c",
+      "label": "§ 45c",
+      "doknr": "BJNR012730965BJNE027601360",
+      "empty_body": false,
+      "title": "Befugte Stellen; Vergütung; Verordnungsermächtigung"
+    },
+    {
+      "id": "p45d",
+      "label": "§ 45d",
+      "doknr": "BJNR012730965BJNE027700360",
+      "empty_body": false,
+      "title": "Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis"
+    },
+    {
+      "id": "p46",
+      "label": "§ 46",
+      "doknr": "BJNR012730965BJNE008603123",
+      "empty_body": false,
+      "title": "Sammlungen für den religiösen Gebrauch"
+    },
+    {
+      "id": "p47",
+      "label": "§ 47",
+      "doknr": "BJNR012730965BJNE008701304",
+      "empty_body": false,
+      "title": "Schulfunksendungen"
+    },
+    {
+      "id": "p48",
+      "label": "§ 48",
+      "doknr": "BJNR012730965BJNE008801377",
+      "empty_body": false,
+      "title": "Öffentliche Reden"
+    },
+    {
+      "id": "p49",
+      "label": "§ 49",
+      "doknr": "BJNR012730965BJNE008902377",
+      "empty_body": false,
+      "title": "Zeitungsartikel und Rundfunkkommentare"
+    },
+    {
+      "id": "p50",
+      "label": "§ 50",
+      "doknr": "BJNR012730965BJNE009001377",
+      "empty_body": false,
+      "title": "Berichterstattung über Tagesereignisse"
+    },
+    {
+      "id": "p51",
+      "label": "§ 51",
+      "doknr": "BJNR012730965BJNE009102123",
+      "empty_body": false,
+      "title": "Zitate"
+    },
+    {
+      "id": "p51a",
+      "label": "§ 51a",
+      "doknr": "BJNR012730965BJNE028500360",
+      "empty_body": false,
+      "title": "Karikatur, Parodie und Pastiche"
+    },
+    {
+      "id": "p52",
+      "label": "§ 52",
+      "doknr": "BJNR012730965BJNE009203123",
+      "empty_body": false,
+      "title": "Öffentliche Wiedergabe"
+    },
+    {
+      "id": "p52a-52b",
+      "label": "(XXXX) §§ 52a und 52b",
+      "doknr": "BJNR012730965BJNE023101123",
+      "empty_body": true,
+      "title": "(weggefallen)"
+    },
+    {
+      "id": "p53",
+      "label": "§ 53",
+      "doknr": "BJNR012730965BJNE009306123",
+      "empty_body": false,
+      "title": "Vervielfältigungen zum privaten und sonstigen eigenen Gebrauch"
+    },
+    {
+      "id": "p53a",
+      "label": "§ 53a",
+      "doknr": "BJNR012730965BJNE024201123",
+      "empty_body": true,
+      "title": "(weggefallen)"
+    },
+    {
+      "id": "p54",
+      "label": "§ 54",
+      "doknr": "BJNR012730965BJNE009405123",
+      "empty_body": false,
+      "title": "Vergütungspflicht"
+    },
+    {
+      "id": "p54a",
+      "label": "§ 54a",
+      "doknr": "BJNR012730965BJNE020002123",
+      "empty_body": false,
+      "title": "Vergütungshöhe"
+    },
+    {
+      "id": "p54b",
+      "label": "§ 54b",
+      "doknr": "BJNR012730965BJNE020102140",
+      "empty_body": false,
+      "title": "Vergütungspflicht des Händlers oder Importeurs"
+    },
+    {
+      "id": "p54c",
+      "label": "§ 54c",
+      "doknr": "BJNR012730965BJNE020202123",
+      "empty_body": false,
+      "title": "Vergütungspflicht des Betreibers von Ablichtungsgeräten"
+    },
+    {
+      "id": "p54d",
+      "label": "§ 54d",
+      "doknr": "BJNR012730965BJNE020302129",
+      "empty_body": false,
+      "title": "Hinweispflicht"
+    },
+    {
+      "id": "p54e",
+      "label": "§ 54e",
+      "doknr": "BJNR012730965BJNE020401377",
+      "empty_body": false,
+      "title": "Meldepflicht"
+    },
+    {
+      "id": "p54f",
+      "label": "§ 54f",
+      "doknr": "BJNR012730965BJNE020502140",
+      "empty_body": false,
+      "title": "Auskunftspflicht"
+    },
+    {
+      "id": "p54g",
+      "label": "§ 54g",
+      "doknr": "BJNR012730965BJNE020601377",
+      "empty_body": false,
+      "title": "Kontrollbesuch"
+    },
+    {
+      "id": "p54h",
+      "label": "§ 54h",
+      "doknr": "BJNR012730965BJNE020702360",
+      "empty_body": false,
+      "title": "Verwertungsgesellschaften; Handhabung der Mitteilungen"
+    },
+    {
+      "id": "p55",
+      "label": "§ 55",
+      "doknr": "BJNR012730965BJNE009500315",
+      "empty_body": false,
+      "title": "Vervielfältigung durch Sendeunternehmen"
+    },
+    {
+      "id": "p55a",
+      "label": "§ 55a",
+      "doknr": "BJNR012730965BJNE021000307",
+      "empty_body": false,
+      "title": "Benutzung eines Datenbankwerkes"
+    },
+    {
+      "id": "p56",
+      "label": "§ 56",
+      "doknr": "BJNR012730965BJNE009601377",
+      "empty_body": false,
+      "title": "Vervielfältigung und öffentliche Wiedergabe in Geschäftsbetrieben"
+    },
+    {
+      "id": "p57",
+      "label": "§ 57",
+      "doknr": "BJNR012730965BJNE009700315",
+      "empty_body": false,
+      "title": "Unwesentliches Beiwerk"
+    },
+    {
+      "id": "p58",
+      "label": "§ 58",
+      "doknr": "BJNR012730965BJNE009802123",
+      "empty_body": false,
+      "title": "Werbung für die Ausstellung und den öffentlichen Verkauf von Werken"
+    },
+    {
+      "id": "p59",
+      "label": "§ 59",
+      "doknr": "BJNR012730965BJNE009900315",
+      "empty_body": false,
+      "title": "Werke an öffentlichen Plätzen"
+    },
+    {
+      "id": "p60",
+      "label": "§ 60",
+      "doknr": "BJNR012730965BJNE010001377",
+      "empty_body": false,
+      "title": "Bildnisse"
+    },
+    {
+      "id": "p60a",
+      "label": "§ 60a",
+      "doknr": "BJNR012730965BJNE026501360",
+      "empty_body": false,
+      "title": "Unterricht und Lehre"
+    },
+    {
+      "id": "p60b",
+      "label": "§ 60b",
+      "doknr": "BJNR012730965BJNE026601360",
+      "empty_body": false,
+      "title": "Unterrichts- und Lehrmedien"
+    },
+    {
+      "id": "p60c",
+      "label": "§ 60c",
+      "doknr": "BJNR012730965BJNE026700123",
+      "empty_body": false,
+      "title": "Wissenschaftliche Forschung"
+    },
+    {
+      "id": "p60d",
+      "label": "§ 60d",
+      "doknr": "BJNR012730965BJNE026801360",
+      "empty_body": false,
+      "title": "Text und Data Mining für Zwecke der wissenschaftlichen Forschung"
+    },
+    {
+      "id": "p60e",
+      "label": "§ 60e",
+      "doknr": "BJNR012730965BJNE026901360",
+      "empty_body": false,
+      "title": "Bibliotheken"
+    },
+    {
+      "id": "p60f",
+      "label": "§ 60f",
+      "doknr": "BJNR012730965BJNE027001360",
+      "empty_body": false,
+      "title": "Archive, Museen und Bildungseinrichtungen"
+    },
+    {
+      "id": "p60g",
+      "label": "§ 60g",
+      "doknr": "BJNR012730965BJNE027100123",
+      "empty_body": false,
+      "title": "Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis"
+    },
+    {
+      "id": "p60h",
+      "label": "§ 60h",
+      "doknr": "BJNR012730965BJNE027201360",
+      "empty_body": false,
+      "title": "Angemessene Vergütung der gesetzlich erlaubten Nutzungen"
+    },
+    {
+      "id": "p61",
+      "label": "§ 61",
+      "doknr": "BJNR012730965BJNE010102360",
+      "empty_body": false,
+      "title": "Verwaiste Werke"
+    },
+    {
+      "id": "p61a",
+      "label": "§ 61a",
+      "doknr": "BJNR012730965BJNE025401123",
+      "empty_body": false,
+      "title": "Sorgfältige Suche und Dokumentationspflichten"
+    },
+    {
+      "id": "p61b",
+      "label": "§ 61b",
+      "doknr": "BJNR012730965BJNE025500360",
+      "empty_body": false,
+      "title": "Beendigung der Nutzung und Vergütungspflicht der nutzenden Institution"
+    },
+    {
+      "id": "p61c",
+      "label": "§ 61c",
+      "doknr": "BJNR012730965BJNE025600360",
+      "empty_body": false,
+      "title": "Nutzung verwaister Werke durch öffentlich-rechtliche Rundfunkanstalten"
+    },
+    {
+      "id": "p61d",
+      "label": "§ 61d",
+      "doknr": "BJNR012730965BJNE028600360",
+      "empty_body": false,
+      "title": "Nicht verfügbare Werke"
+    },
+    {
+      "id": "p61e",
+      "label": "§ 61e",
+      "doknr": "BJNR012730965BJNE028700360",
+      "empty_body": false,
+      "title": "Verordnungsermächtigung"
+    },
+    {
+      "id": "p61f",
+      "label": "§ 61f",
+      "doknr": "BJNR012730965BJNE028800360",
+      "empty_body": false,
+      "title": "Information über nicht verfügbare Werke"
+    },
+    {
+      "id": "p61g",
+      "label": "§ 61g",
+      "doknr": "BJNR012730965BJNE028900360",
+      "empty_body": false,
+      "title": "Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis"
+    },
+    {
+      "id": "p62",
+      "label": "§ 62",
+      "doknr": "BJNR012730965BJNE010204360",
+      "empty_body": false,
+      "title": "Änderungsverbot"
+    },
+    {
+      "id": "p63",
+      "label": "§ 63",
+      "doknr": "BJNR012730965BJNE010306360",
+      "empty_body": false,
+      "title": "Quellenangabe"
+    },
+    {
+      "id": "p63a",
+      "label": "§ 63a",
+      "doknr": "BJNR012730965BJNE022502360",
+      "empty_body": false,
+      "title": "Gesetzliche Vergütungsansprüche"
+    },
+    {
+      "id": "p64",
+      "label": "§ 64",
+      "doknr": "BJNR012730965BJNE010401307",
+      "empty_body": false,
+      "title": "Allgemeines"
+    },
+    {
+      "id": "p65",
+      "label": "§ 65",
+      "doknr": "BJNR012730965BJNE010502360",
+      "empty_body": false,
+      "title": "Miturheber, Filmwerke, Musikkomposition mit Text"
+    },
+    {
+      "id": "p66",
+      "label": "§ 66",
+      "doknr": "BJNR012730965BJNE010602377",
+      "empty_body": false,
+      "title": "Anonyme und pseudonyme Werke"
+    },
+    {
+      "id": "p67",
+      "label": "§ 67",
+      "doknr": "BJNR012730965BJNE010701307",
+      "empty_body": false,
+      "title": "Lieferungswerke"
+    },
+    {
+      "id": "p68",
+      "label": "§ 68",
+      "doknr": "BJNR012730965BJNE010802360",
+      "empty_body": false,
+      "title": "Vervielfältigungen gemeinfreier visueller Werke"
+    },
+    {
+      "id": "p69",
+      "label": "§ 69",
+      "doknr": "BJNR012730965BJNE010900315",
+      "empty_body": false,
+      "title": "Berechnung der Fristen"
+    },
+    {
+      "id": "p69a",
+      "label": "§ 69a",
+      "doknr": "BJNR012730965BJNE019203360",
+      "empty_body": false,
+      "title": "Gegenstand des Schutzes"
+    },
+    {
+      "id": "p69b",
+      "label": "§ 69b",
+      "doknr": "BJNR012730965BJNE019300305",
+      "empty_body": false,
+      "title": "Urheber in Arbeits- und Dienstverhältnissen"
+    },
+    {
+      "id": "p69c",
+      "label": "§ 69c",
+      "doknr": "BJNR012730965BJNE019403377",
+      "empty_body": false,
+      "title": "Zustimmungsbedürftige Handlungen"
+    },
+    {
+      "id": "p69d",
+      "label": "§ 69d",
+      "doknr": "BJNR012730965BJNE019501360",
+      "empty_body": false,
+      "title": "Ausnahmen von den zustimmungsbedürftigen Handlungen"
+    },
+    {
+      "id": "p69e",
+      "label": "§ 69e",
+      "doknr": "BJNR012730965BJNE019600305",
+      "empty_body": false,
+      "title": "Dekompilierung"
+    },
+    {
+      "id": "p69f",
+      "label": "§ 69f",
+      "doknr": "BJNR012730965BJNE019702360",
+      "empty_body": false,
+      "title": "Rechtsverletzungen; ergänzende Schutzbestimmungen"
+    },
+    {
+      "id": "p69g",
+      "label": "§ 69g",
+      "doknr": "BJNR012730965BJNE019802360",
+      "empty_body": false,
+      "title": "Anwendung sonstiger Rechtsvorschriften, Vertragsrecht"
+    },
+    {
+      "id": "p70",
+      "label": "§ 70",
+      "doknr": "BJNR012730965BJNE011002377",
+      "empty_body": false,
+      "title": "Wissenschaftliche Ausgaben"
+    },
+    {
+      "id": "p71",
+      "label": "§ 71",
+      "doknr": "BJNR012730965BJNE011106360",
+      "empty_body": false,
+      "title": "Nachgelassene Werke"
+    },
+    {
+      "id": "p72",
+      "label": "§ 72",
+      "doknr": "BJNR012730965BJNE011203377",
+      "empty_body": false,
+      "title": "Lichtbilder"
+    },
+    {
+      "id": "p73",
+      "label": "§ 73",
+      "doknr": "BJNR012730965BJNE011301377",
+      "empty_body": false,
+      "title": "Ausübender Künstler"
+    },
+    {
+      "id": "p74",
+      "label": "§ 74",
+      "doknr": "BJNR012730965BJNE011402140",
+      "empty_body": false,
+      "title": "Anerkennung als ausübender Künstler"
+    },
+    {
+      "id": "p75",
+      "label": "§ 75",
+      "doknr": "BJNR012730965BJNE011503377",
+      "empty_body": false,
+      "title": "Beeinträchtigungen der Darbietung"
+    },
+    {
+      "id": "p76",
+      "label": "§ 76",
+      "doknr": "BJNR012730965BJNE011602377",
+      "empty_body": false,
+      "title": "Dauer der Persönlichkeitsrechte"
+    },
+    {
+      "id": "p77",
+      "label": "§ 77",
+      "doknr": "BJNR012730965BJNE011701377",
+      "empty_body": false,
+      "title": "Aufnahme, Vervielfältigung und Verbreitung"
+    },
+    {
+      "id": "p78",
+      "label": "§ 78",
+      "doknr": "BJNR012730965BJNE011802377",
+      "empty_body": false,
+      "title": "Öffentliche Wiedergabe"
+    },
+    {
+      "id": "p79",
+      "label": "§ 79",
+      "doknr": "BJNR012730965BJNE011904123",
+      "empty_body": false,
+      "title": "Nutzungsrechte"
+    },
+    {
+      "id": "p79a",
+      "label": "§ 79a",
+      "doknr": "BJNR012730965BJNE025100360",
+      "empty_body": false,
+      "title": "Vergütungsanspruch des ausübenden Künstlers"
+    },
+    {
+      "id": "p79b",
+      "label": "§ 79b",
+      "doknr": "BJNR012730965BJNE026300123",
+      "empty_body": false,
+      "title": "Vergütung des ausübenden Künstlers für später bekannte Nutzungsarten"
+    },
+    {
+      "id": "p80",
+      "label": "§ 80",
+      "doknr": "BJNR012730965BJNE012003360",
+      "empty_body": false,
+      "title": "Gemeinsame Darbietung mehrerer ausübender Künstler"
+    },
+    {
+      "id": "p81",
+      "label": "§ 81",
+      "doknr": "BJNR012730965BJNE012104140",
+      "empty_body": false,
+      "title": "Schutz des Veranstalters"
+    },
+    {
+      "id": "p82",
+      "label": "§ 82",
+      "doknr": "BJNR012730965BJNE012204360",
+      "empty_body": false,
+      "title": "Dauer der Verwertungsrechte"
+    },
+    {
+      "id": "p83",
+      "label": "§ 83",
+      "doknr": "BJNR012730965BJNE012302377",
+      "empty_body": false,
+      "title": "Schranken der Verwertungsrechte"
+    },
+    {
+      "id": "p84",
+      "label": "§ 84",
+      "doknr": "BJNR012730965BJNE012401377",
+      "empty_body": false,
+      "title": "(weggefallen)"
+    },
+    {
+      "id": "p85",
+      "label": "§ 85",
+      "doknr": "BJNR012730965BJNE012507360",
+      "empty_body": false,
+      "title": "Verwertungsrechte"
+    },
+    {
+      "id": "p86",
+      "label": "§ 86",
+      "doknr": "BJNR012730965BJNE012601377",
+      "empty_body": false,
+      "title": "Anspruch auf Beteiligung"
+    },
+    {
+      "id": "p87",
+      "label": "§ 87",
+      "doknr": "BJNR012730965BJNE012708360",
+      "empty_body": false,
+      "title": "Sendeunternehmen"
+    },
+    {
+      "id": "p87a",
+      "label": "§ 87a",
+      "doknr": "BJNR012730965BJNE021100307",
+      "empty_body": false,
+      "title": "Begriffsbestimmungen"
+    },
+    {
+      "id": "p87b",
+      "label": "§ 87b",
+      "doknr": "BJNR012730965BJNE021202129",
+      "empty_body": false,
+      "title": "Rechte des Datenbankherstellers"
+    },
+    {
+      "id": "p87c",
+      "label": "§ 87c",
+      "doknr": "BJNR012730965BJNE021304360",
+      "empty_body": false,
+      "title": "Schranken des Rechts des Datenbankherstellers"
+    },
+    {
+      "id": "p87d",
+      "label": "§ 87d",
+      "doknr": "BJNR012730965BJNE021400307",
+      "empty_body": false,
+      "title": "Dauer der Rechte"
+    },
+    {
+      "id": "p87e",
+      "label": "§ 87e",
+      "doknr": "BJNR012730965BJNE021500307",
+      "empty_body": false,
+      "title": "Verträge über die Benutzung einer Datenbank"
+    },
+    {
+      "id": "p87f",
+      "label": "§ 87f",
+      "doknr": "BJNR012730965BJNE024801360",
+      "empty_body": false,
+      "title": "Begriffsbestimmungen"
+    },
+    {
+      "id": "p87g",
+      "label": "§ 87g",
+      "doknr": "BJNR012730965BJNE024901360",
+      "empty_body": false,
+      "title": "Rechte des Presseverlegers"
+    },
+    {
+      "id": "p87h",
+      "label": "§ 87h",
+      "doknr": "BJNR012730965BJNE025001360",
+      "empty_body": false,
+      "title": "Ausübung der Rechte des Presseverlegers"
+    },
+    {
+      "id": "p87i",
+      "label": "§ 87i",
+      "doknr": "BJNR012730965BJNE029000360",
+      "empty_body": false,
+      "title": "Vermutung der Rechtsinhaberschaft; gesetzlich erlaubte Nutzungen"
+    },
+    {
+      "id": "p87j",
+      "label": "§ 87j",
+      "doknr": "BJNR012730965BJNE029100360",
+      "empty_body": false,
+      "title": "Dauer der Rechte des Presseverlegers"
+    },
+    {
+      "id": "p87k",
+      "label": "§ 87k",
+      "doknr": "BJNR012730965BJNE029200360",
+      "empty_body": false,
+      "title": "Beteiligungsanspruch"
+    },
+    {
+      "id": "p88",
+      "label": "§ 88",
+      "doknr": "BJNR012730965BJNE012804125",
+      "empty_body": false,
+      "title": "Recht zur Verfilmung"
+    },
+    {
+      "id": "p89",
+      "label": "§ 89",
+      "doknr": "BJNR012730965BJNE012903125",
+      "empty_body": false,
+      "title": "Rechte am Filmwerk"
+    },
+    {
+      "id": "p90",
+      "label": "§ 90",
+      "doknr": "BJNR012730965BJNE013002123",
+      "empty_body": false,
+      "title": "Einschränkung der Rechte"
+    },
+    {
+      "id": "p91",
+      "label": "§ 91",
+      "doknr": "BJNR012730965BJNE013101377",
+      "empty_body": false,
+      "title": "(weggefallen)"
+    },
+    {
+      "id": "p92",
+      "label": "§ 92",
+      "doknr": "BJNR012730965BJNE013202377",
+      "empty_body": false,
+      "title": "Ausübende Künstler"
+    },
+    {
+      "id": "p93",
+      "label": "§ 93",
+      "doknr": "BJNR012730965BJNE013301377",
+      "empty_body": false,
+      "title": "Schutz gegen Entstellung; Namensnennung"
+    },
+    {
+      "id": "p94",
+      "label": "§ 94",
+      "doknr": "BJNR012730965BJNE013406140",
+      "empty_body": false,
+      "title": "Schutz des Filmherstellers"
+    },
+    {
+      "id": "p95",
+      "label": "§ 95",
+      "doknr": "BJNR012730965BJNE013502377",
+      "empty_body": false,
+      "title": "Laufbilder"
+    },
+    {
+      "id": "p95a",
+      "label": "§ 95a",
+      "doknr": "BJNR012730965BJNE023201360",
+      "empty_body": false,
+      "title": "Schutz technischer Maßnahmen"
+    },
+    {
+      "id": "p95b",
+      "label": "§ 95b",
+      "doknr": "BJNR012730965BJNE023304360",
+      "empty_body": false,
+      "title": "Durchsetzung von Schrankenbestimmungen"
+    },
+    {
+      "id": "p95c",
+      "label": "§ 95c",
+      "doknr": "BJNR012730965BJNE023400377",
+      "empty_body": false,
+      "title": "Schutz der zur Rechtewahrnehmung erforderlichen Informationen"
+    },
+    {
+      "id": "p95d",
+      "label": "§ 95d",
+      "doknr": "BJNR012730965BJNE023502360",
+      "empty_body": false,
+      "title": "Kennzeichnungspflichten"
+    },
+    {
+      "id": "p96",
+      "label": "§ 96",
+      "doknr": "BJNR012730965BJNE013601377",
+      "empty_body": false,
+      "title": "Verwertungsverbot"
+    },
+    {
+      "id": "p97",
+      "label": "§ 97",
+      "doknr": "BJNR012730965BJNE013702140",
+      "empty_body": false,
+      "title": "Anspruch auf Unterlassung und Schadensersatz"
+    },
+    {
+      "id": "p97a",
+      "label": "§ 97a",
+      "doknr": "BJNR012730965BJNE024402360",
+      "empty_body": false,
+      "title": "Abmahnung"
+    },
+    {
+      "id": "p98",
+      "label": "§ 98",
+      "doknr": "BJNR012730965BJNE013802140",
+      "empty_body": false,
+      "title": "Anspruch auf Vernichtung, Rückruf und Überlassung"
+    },
+    {
+      "id": "p99",
+      "label": "§ 99",
+      "doknr": "BJNR012730965BJNE013902140",
+      "empty_body": false,
+      "title": "Haftung des Inhabers eines Unternehmens"
+    },
+    {
+      "id": "p100",
+      "label": "§ 100",
+      "doknr": "BJNR012730965BJNE014001140",
+      "empty_body": false,
+      "title": "Entschädigung"
+    },
+    {
+      "id": "p101",
+      "label": "§ 101",
+      "doknr": "BJNR012730965BJNE014104360",
+      "empty_body": false,
+      "title": "Anspruch auf Auskunft"
+    },
+    {
+      "id": "p101a",
+      "label": "§ 101a",
+      "doknr": "BJNR012730965BJNE018801140",
+      "empty_body": false,
+      "title": "Anspruch auf Vorlage und Besichtigung"
+    },
+    {
+      "id": "p101b",
+      "label": "§ 101b",
+      "doknr": "BJNR012730965BJNE024500140",
+      "empty_body": false,
+      "title": "Sicherung von Schadensersatzansprüchen"
+    },
+    {
+      "id": "p102",
+      "label": "§ 102",
+      "doknr": "BJNR012730965BJNE014202377",
+      "empty_body": false,
+      "title": "Verjährung"
+    },
+    {
+      "id": "p102a",
+      "label": "§ 102a",
+      "doknr": "BJNR012730965BJNE024600140",
+      "empty_body": false,
+      "title": "Ansprüche aus anderen gesetzlichen Vorschriften"
+    },
+    {
+      "id": "p103",
+      "label": "§ 103",
+      "doknr": "BJNR012730965BJNE014301140",
+      "empty_body": false,
+      "title": "Bekanntmachung des Urteils"
+    },
+    {
+      "id": "p104",
+      "label": "§ 104",
+      "doknr": "BJNR012730965BJNE014400315",
+      "empty_body": false,
+      "title": "Rechtsweg"
+    },
+    {
+      "id": "p104a",
+      "label": "§ 104a",
+      "doknr": "BJNR012730965BJNE025300360",
+      "empty_body": false,
+      "title": "Gerichtsstand"
+    },
+    {
+      "id": "p105",
+      "label": "§ 105",
+      "doknr": "BJNR012730965BJNE014503377",
+      "empty_body": false,
+      "title": "Gerichte für Urheberrechtsstreitsachen"
+    },
+    {
+      "id": "p106",
+      "label": "§ 106",
+      "doknr": "BJNR012730965BJNE014601309",
+      "empty_body": false,
+      "title": "Unerlaubte Verwertung urheberrechtlich geschützter Werke"
+    },
+    {
+      "id": "p107",
+      "label": "§ 107",
+      "doknr": "BJNR012730965BJNE014701309",
+      "empty_body": false,
+      "title": "Unzulässiges Anbringen der Urheberbezeichnung"
+    },
+    {
+      "id": "p108",
+      "label": "§ 108",
+      "doknr": "BJNR012730965BJNE014804377",
+      "empty_body": false,
+      "title": "Unerlaubte Eingriffe in verwandte Schutzrechte"
+    },
+    {
+      "id": "p108a",
+      "label": "§ 108a",
+      "doknr": "BJNR012730965BJNE018501309",
+      "empty_body": false,
+      "title": "Gewerbsmäßige unerlaubte Verwertung"
+    },
+    {
+      "id": "p108b",
+      "label": "§ 108b",
+      "doknr": "BJNR012730965BJNE023600377",
+      "empty_body": false,
+      "title": "Unerlaubte Eingriffe in technische Schutzmaßnahmen und\nzur Rechtewahrnehmung erforderliche Informationen"
+    },
+    {
+      "id": "p109",
+      "label": "§ 109",
+      "doknr": "BJNR012730965BJNE014902377",
+      "empty_body": false,
+      "title": "Strafantrag"
+    },
+    {
+      "id": "p110",
+      "label": "§ 110",
+      "doknr": "BJNR012730965BJNE015005140",
+      "empty_body": false,
+      "title": "Einziehung"
+    },
+    {
+      "id": "p111",
+      "label": "§ 111",
+      "doknr": "BJNR012730965BJNE015102377",
+      "empty_body": false,
+      "title": "Bekanntgabe der Verurteilung"
+    },
+    {
+      "id": "p111a",
+      "label": "§ 111a",
+      "doknr": "BJNR012730965BJNE023702360",
+      "empty_body": false,
+      "title": "Bußgeldvorschriften"
+    },
+    {
+      "id": "p111b",
+      "label": "§ 111b",
+      "doknr": "BJNR012730965BJNE018908123",
+      "empty_body": false,
+      "title": "Verfahren nach deutschem Recht"
+    },
+    {
+      "id": "p111c",
+      "label": "§ 111c",
+      "doknr": "BJNR012730965BJNE024701123",
+      "empty_body": false,
+      "title": "Verfahren nach der Verordnung (EU) Nr. 608/2013"
+    },
+    {
+      "id": "p112",
+      "label": "§ 112",
+      "doknr": "BJNR012730965BJNE015201377",
+      "empty_body": false,
+      "title": "Allgemeines"
+    },
+    {
+      "id": "p113",
+      "label": "§ 113",
+      "doknr": "BJNR012730965BJNE015300315",
+      "empty_body": false,
+      "title": "Urheberrecht"
+    },
+    {
+      "id": "p114",
+      "label": "§ 114",
+      "doknr": "BJNR012730965BJNE015400315",
+      "empty_body": false,
+      "title": "Originale von Werken"
+    },
+    {
+      "id": "p115",
+      "label": "§ 115",
+      "doknr": "BJNR012730965BJNE015500315",
+      "empty_body": false,
+      "title": "Urheberrecht"
+    },
+    {
+      "id": "p116",
+      "label": "§ 116",
+      "doknr": "BJNR012730965BJNE015600315",
+      "empty_body": false,
+      "title": "Originale von Werken"
+    },
+    {
+      "id": "p117",
+      "label": "§ 117",
+      "doknr": "BJNR012730965BJNE015700315",
+      "empty_body": false,
+      "title": "Testamentsvollstrecker"
+    },
+    {
+      "id": "p118",
+      "label": "§ 118",
+      "doknr": "BJNR012730965BJNE015801377",
+      "empty_body": false,
+      "title": "Entsprechende Anwendung"
+    },
+    {
+      "id": "p119",
+      "label": "§ 119",
+      "doknr": "BJNR012730965BJNE015903377",
+      "empty_body": false,
+      "title": "Zwangsvollstreckung in bestimmte Vorrichtungen"
+    },
+    {
+      "id": "p120",
+      "label": "§ 120",
+      "doknr": "BJNR012730965BJNE016001307",
+      "empty_body": false,
+      "title": "Deutsche Staatsangehörige und Staatsangehörige\nanderer EU-Staaten und EWR-Staaten"
+    },
+    {
+      "id": "p121",
+      "label": "§ 121",
+      "doknr": "BJNR012730965BJNE016101301",
+      "empty_body": false,
+      "title": "Ausländische Staatsangehörige"
+    },
+    {
+      "id": "p122",
+      "label": "§ 122",
+      "doknr": "BJNR012730965BJNE016200315",
+      "empty_body": false,
+      "title": "Staatenlose"
+    },
+    {
+      "id": "p123",
+      "label": "§ 123",
+      "doknr": "BJNR012730965BJNE016300315",
+      "empty_body": false,
+      "title": "Ausländische Flüchtlinge"
+    },
+    {
+      "id": "p124",
+      "label": "§ 124",
+      "doknr": "BJNR012730965BJNE016400315",
+      "empty_body": false,
+      "title": "Wissenschaftliche Ausgaben und Lichtbilder"
+    },
+    {
+      "id": "p125",
+      "label": "§ 125",
+      "doknr": "BJNR012730965BJNE016503377",
+      "empty_body": false,
+      "title": "Schutz des ausübenden Künstlers"
+    },
+    {
+      "id": "p126",
+      "label": "§ 126",
+      "doknr": "BJNR012730965BJNE016603377",
+      "empty_body": false,
+      "title": "Schutz des Herstellers von Tonträgern"
+    },
+    {
+      "id": "p127",
+      "label": "§ 127",
+      "doknr": "BJNR012730965BJNE016703377",
+      "empty_body": false,
+      "title": "Schutz des Sendeunternehmens"
+    },
+    {
+      "id": "p127a",
+      "label": "§ 127a",
+      "doknr": "BJNR012730965BJNE021601301",
+      "empty_body": false,
+      "title": "Schutz des Datenbankherstellers"
+    },
+    {
+      "id": "p127b",
+      "label": "§ 127b",
+      "doknr": "BJNR012730965BJNE029300360",
+      "empty_body": false,
+      "title": "Schutz des Presseverlegers"
+    },
+    {
+      "id": "p128",
+      "label": "§ 128",
+      "doknr": "BJNR012730965BJNE016801307",
+      "empty_body": false,
+      "title": "Schutz des Filmherstellers"
+    },
+    {
+      "id": "p129",
+      "label": "§ 129",
+      "doknr": "BJNR012730965BJNE016900315",
+      "empty_body": false,
+      "title": "Werke"
+    },
+    {
+      "id": "p130",
+      "label": "§ 130",
+      "doknr": "BJNR012730965BJNE017000315",
+      "empty_body": false,
+      "title": "Übersetzungen"
+    },
+    {
+      "id": "p131",
+      "label": "§ 131",
+      "doknr": "BJNR012730965BJNE017100315",
+      "empty_body": false,
+      "title": "Vertonte Sprachwerke"
+    },
+    {
+      "id": "p132",
+      "label": "§ 132",
+      "doknr": "BJNR012730965BJNE017205125",
+      "empty_body": false,
+      "title": "Verträge"
+    },
+    {
+      "id": "p133",
+      "label": "§ 133",
+      "doknr": "BJNR012730965BJNE017301360",
+      "empty_body": false,
+      "title": "Übergangsregelung bei der Umsetzung vertragsrechtlicher Bestimmungen der Richtlinie (EU) 2019/790"
+    },
+    {
+      "id": "p134",
+      "label": "§ 134",
+      "doknr": "BJNR012730965BJNE017400315",
+      "empty_body": false,
+      "title": "Urheber"
+    },
+    {
+      "id": "p135",
+      "label": "§ 135",
+      "doknr": "BJNR012730965BJNE017500315",
+      "empty_body": false,
+      "title": "Inhaber verwandter Schutzrechte"
+    },
+    {
+      "id": "p135a",
+      "label": "§ 135a",
+      "doknr": "BJNR012730965BJNE017600315",
+      "empty_body": false,
+      "title": "Berechnung der Schutzfrist"
+    },
+    {
+      "id": "p136",
+      "label": "§ 136",
+      "doknr": "BJNR012730965BJNE017700315",
+      "empty_body": false,
+      "title": "Vervielfältigung und Verbreitung"
+    },
+    {
+      "id": "p137",
+      "label": "§ 137",
+      "doknr": "BJNR012730965BJNE017800315",
+      "empty_body": false,
+      "title": "Übertragung von Rechten"
+    },
+    {
+      "id": "p137a",
+      "label": "§ 137a",
+      "doknr": "BJNR012730965BJNE018600304",
+      "empty_body": false,
+      "title": "Lichtbildwerke"
+    },
+    {
+      "id": "p137b",
+      "label": "§ 137b",
+      "doknr": "BJNR012730965BJNE019000309",
+      "empty_body": false,
+      "title": "Bestimmte Ausgaben"
+    },
+    {
+      "id": "p137c",
+      "label": "§ 137c",
+      "doknr": "BJNR012730965BJNE019100309",
+      "empty_body": false,
+      "title": "Ausübende Künstler"
+    },
+    {
+      "id": "p137d",
+      "label": "§ 137d",
+      "doknr": "BJNR012730965BJNE019902360",
+      "empty_body": false,
+      "title": "Computerprogramme"
+    },
+    {
+      "id": "p137e",
+      "label": "§ 137e",
+      "doknr": "BJNR012730965BJNE020801377",
+      "empty_body": false,
+      "title": "Übergangsregelung bei Umsetzung der Richtlinie 92/100/EWG"
+    },
+    {
+      "id": "p137f",
+      "label": "§ 137f",
+      "doknr": "BJNR012730965BJNE020900307",
+      "empty_body": false,
+      "title": "Übergangsregelung bei Umsetzung der Richtlinie 93/98/EWG"
+    },
+    {
+      "id": "p137g",
+      "label": "§ 137g",
+      "doknr": "BJNR012730965BJNE021703360",
+      "empty_body": false,
+      "title": "Übergangsregelung bei Umsetzung der Richtlinie 96/9/EG"
+    },
+    {
+      "id": "p137h",
+      "label": "§ 137h",
+      "doknr": "BJNR012730965BJNE022000307",
+      "empty_body": false,
+      "title": "Übergangsregelung bei Umsetzung der Richtlinie 93/83/EWG"
+    },
+    {
+      "id": "p137i",
+      "label": "§ 137i",
+      "doknr": "BJNR012730965BJNE022100377",
+      "empty_body": false,
+      "title": "Übergangsregelung zum Gesetz zur Modernisierung des Schuldrechts"
+    },
+    {
+      "id": "p137j",
+      "label": "§ 137j",
+      "doknr": "BJNR012730965BJNE023800377",
+      "empty_body": false,
+      "title": "Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2001/29/EG"
+    },
+    {
+      "id": "p137k",
+      "label": "§ 137k",
+      "doknr": "BJNR012730965BJNE023904360",
+      "empty_body": true,
+      "title": "(weggefallen)"
+    },
+    {
+      "id": "p137l",
+      "label": "§ 137l",
+      "doknr": "BJNR012730965BJNE024300377",
+      "empty_body": false,
+      "title": "Übergangsregelung für neue Nutzungsarten"
+    },
+    {
+      "id": "p137m",
+      "label": "§ 137m",
+      "doknr": "BJNR012730965BJNE025200360",
+      "empty_body": false,
+      "title": "Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2011/77/EU"
+    },
+    {
+      "id": "p137n",
+      "label": "§ 137n",
+      "doknr": "BJNR012730965BJNE025700360",
+      "empty_body": false,
+      "title": "Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2012/28/EU"
+    },
+    {
+      "id": "p137o",
+      "label": "§ 137o",
+      "doknr": "BJNR012730965BJNE027300123",
+      "empty_body": false,
+      "title": "Übergangsregelung zum Urheberrechts-Wissensgesellschafts-Gesetz"
+    },
+    {
+      "id": "p137p",
+      "label": "§ 137p",
+      "doknr": "BJNR012730965BJNE029400360",
+      "empty_body": false,
+      "title": "Übergangsregelung aus Anlass der Umsetzung der Richtlinie (EU) 2019/789"
+    },
+    {
+      "id": "p137q",
+      "label": "§ 137q",
+      "doknr": "BJNR012730965BJNE029500360",
+      "empty_body": false,
+      "title": "Übergangsregelung zur Verlegerbeteiligung"
+    },
+    {
+      "id": "p137r",
+      "label": "§ 137r",
+      "doknr": "BJNR012730965BJNE029600360",
+      "empty_body": false,
+      "title": "Übergangsregelung zum Schutz des Presseverlegers"
+    },
+    {
+      "id": "p138",
+      "label": "§ 138",
+      "doknr": "BJNR012730965BJNE017905301",
+      "empty_body": false,
+      "title": "Register anonymer und pseudonymer Werke"
+    },
+    {
+      "id": "p138a",
+      "label": "§ 138a",
+      "doknr": "BJNR012730965BJNE026400123",
+      "empty_body": false,
+      "title": "Datenschutz"
+    },
+    {
+      "id": "p139",
+      "label": "§ 139",
+      "doknr": "BJNR012730965BJNE018001377",
+      "empty_body": false,
+      "title": "Änderung der Strafprozessordnung"
+    },
+    {
+      "id": "p140",
+      "label": "§ 140",
+      "doknr": "BJNR012730965BJNE018101377",
+      "empty_body": false,
+      "title": "Änderung des Gesetzes über das am 6. September 1952\nunterzeichnete Welturheberrechtsabkommen"
+    },
+    {
+      "id": "p141",
+      "label": "§ 141",
+      "doknr": "BJNR012730965BJNE018201377",
+      "empty_body": false,
+      "title": "Aufgehobene Vorschriften"
+    },
+    {
+      "id": "p142",
+      "label": "§ 142",
+      "doknr": "BJNR012730965BJNE027401360",
+      "empty_body": false,
+      "title": "Evaluierung"
+    },
+    {
+      "id": "p143",
+      "label": "§ 143",
+      "doknr": "BJNR012730965BJNE018400315",
+      "empty_body": false,
+      "title": "Inkrafttreten"
+    },
+    {
+      "id": "anlage",
+      "label": "Anlage (zu § 61a)",
+      "doknr": "BJNR012730965BJNE018706123",
+      "empty_body": false,
+      "title": "Quellen einer sorgfältigen Suche"
+    }
+  ],
+  "independent_html_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8",
+    "p9",
+    "p10",
+    "p11",
+    "p12",
+    "p13",
+    "p14",
+    "p15",
+    "p16",
+    "p17",
+    "p18",
+    "p19",
+    "p19a",
+    "p20",
+    "p20a",
+    "p20b",
+    "p20c",
+    "p20d",
+    "p21",
+    "p22",
+    "p23",
+    "p24",
+    "p25",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p31a",
+    "p32",
+    "p32a",
+    "p32b",
+    "p32c",
+    "p32d",
+    "p32e",
+    "p32f",
+    "p32g",
+    "p33",
+    "p34",
+    "p35",
+    "p35a",
+    "p36",
+    "p36a",
+    "p36b",
+    "p36c",
+    "p36d",
+    "p37",
+    "p38",
+    "p39",
+    "p40",
+    "p40a",
+    "p41",
+    "p42",
+    "p42a",
+    "p43",
+    "p44",
+    "p44a",
+    "p44b",
+    "p45",
+    "p45a",
+    "p45b",
+    "p45c",
+    "p45d",
+    "p46",
+    "p47",
+    "p48",
+    "p49",
+    "p50",
+    "p51",
+    "p51a",
+    "p52",
+    "p52a-52b",
+    "p53",
+    "p53a",
+    "p54",
+    "p54a",
+    "p54b",
+    "p54c",
+    "p54d",
+    "p54e",
+    "p54f",
+    "p54g",
+    "p54h",
+    "p55",
+    "p55a",
+    "p56",
+    "p57",
+    "p58",
+    "p59",
+    "p60",
+    "p60a",
+    "p60b",
+    "p60c",
+    "p60d",
+    "p60e",
+    "p60f",
+    "p60g",
+    "p60h",
+    "p61",
+    "p61a",
+    "p61b",
+    "p61c",
+    "p61d",
+    "p61e",
+    "p61f",
+    "p61g",
+    "p62",
+    "p63",
+    "p63a",
+    "p64",
+    "p65",
+    "p66",
+    "p67",
+    "p68",
+    "p69",
+    "p69a",
+    "p69b",
+    "p69c",
+    "p69d",
+    "p69e",
+    "p69f",
+    "p69g",
+    "p70",
+    "p71",
+    "p72",
+    "p73",
+    "p74",
+    "p75",
+    "p76",
+    "p77",
+    "p78",
+    "p79",
+    "p79a",
+    "p79b",
+    "p80",
+    "p81",
+    "p82",
+    "p83",
+    "p84",
+    "p85",
+    "p86",
+    "p87",
+    "p87a",
+    "p87b",
+    "p87c",
+    "p87d",
+    "p87e",
+    "p87f",
+    "p87g",
+    "p87h",
+    "p87i",
+    "p87j",
+    "p87k",
+    "p88",
+    "p89",
+    "p90",
+    "p91",
+    "p92",
+    "p93",
+    "p94",
+    "p95",
+    "p95a",
+    "p95b",
+    "p95c",
+    "p95d",
+    "p96",
+    "p97",
+    "p97a",
+    "p98",
+    "p99",
+    "p100",
+    "p101",
+    "p101a",
+    "p101b",
+    "p102",
+    "p102a",
+    "p103",
+    "p104",
+    "p104a",
+    "p105",
+    "p106",
+    "p107",
+    "p108",
+    "p108a",
+    "p108b",
+    "p109",
+    "p110",
+    "p111",
+    "p111a",
+    "p111b",
+    "p111c",
+    "p112",
+    "p113",
+    "p114",
+    "p115",
+    "p116",
+    "p117",
+    "p118",
+    "p119",
+    "p120",
+    "p121",
+    "p122",
+    "p123",
+    "p124",
+    "p125",
+    "p126",
+    "p127",
+    "p127a",
+    "p127b",
+    "p128",
+    "p129",
+    "p130",
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p135a",
+    "p136",
+    "p137",
+    "p137a",
+    "p137b",
+    "p137c",
+    "p137d",
+    "p137e",
+    "p137f",
+    "p137g",
+    "p137h",
+    "p137i",
+    "p137j",
+    "p137k",
+    "p137l",
+    "p137m",
+    "p137n",
+    "p137o",
+    "p137p",
+    "p137q",
+    "p137r",
+    "p138",
+    "p138a",
+    "p139",
+    "p140",
+    "p141",
+    "p142",
+    "p143",
+    "anlage"
+  ],
+  "all_builddates": [
+    "20260529215505"
+  ],
+  "duplicate_versions_found": false,
+  "annex_groups": [
+    {
+      "number": "1.",
+      "letters": [
+        "a)",
+        "b)",
+        "c)",
+        "d)",
+        "e)"
+      ]
+    },
+    {
+      "number": "2.",
+      "letters": [
+        "a)",
+        "b)",
+        "c)",
+        "d)",
+        "e)"
+      ]
+    },
+    {
+      "number": "3.",
+      "letters": [
+        "a)",
+        "b)",
+        "c)"
+      ]
+    },
+    {
+      "number": "4.",
+      "letters": [
+        "a)",
+        "b)",
+        "c)",
+        "d)",
+        "e)",
+        "f)",
+        "g)",
+        "h)"
+      ]
+    },
+    {
+      "number": "5.",
+      "letters": [
+        "a)",
+        "b)",
+        "c)",
+        "d)",
+        "e)"
+      ]
+    }
+  ],
+  "annex_letter_count": 26,
+  "eingangsformel": {
+    "xml_record_present": false,
+    "html_heading_present": false,
+    "pdf_label_present": false
+  },
+  "unclassified_operative_records": [],
+  "aktualitaetsdienst_urhg_entry_found": false,
+  "version_evidence": {
+    "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
+    "promulgated": "2026-05-29",
+    "effective_from": "2026-05-30",
+    "commencement": "Art. 3: Tag nach der Verkündung",
+    "affected_units": [
+      "p54d",
+      "p87b"
+    ],
+    "evidence": "sources/review-p53-p60b/amendment.pdf"
+  },
+  "version_limit": "Stichtag 19.10.2026; amtliche Neuabrufe am 20.10.2026 unverändert gegenüber Intake/Kanon und bisheriger Prüfung. Aktueller Konsolidierungsstand und Aktualitätendienst geprüft, kein historisches Vollarchiv und keine Garantie gegen noch nicht eingearbeitete Änderungen."
+}

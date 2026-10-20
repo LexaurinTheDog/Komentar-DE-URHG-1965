@@ -1,0 +1,151 @@
+---
+source: rechtsprechung-im-internet
+country: de
+document_type: decision
+court: BGH
+chamber: 1. Zivilsenat
+ecli: ECLI:DE:BGH:2024:231024UIZR67.23.0
+doknr: KORE310902024
+case_number: I ZR 67/23
+date: '2024-10-23'
+decision_type: Urteil
+norms: § 15 UrhG, § 16 UrhG, § 17 UrhG, § 59 Abs 1 S 1 UrhG, § 97 UrhG, § 97a Abs
+  3 S 1 UrhG, Art 2 EGRL 29/2001, Art 3 EGRL 29/2001, Art 5 Abs 3 Buchst h EGRL 29/2001,
+  Art 5 Abs 5 EGRL 29/2001
+prior_instance: 'vorgehend OLG Hamm, 27. April 2023, Az: I-4 U 247/21, Urteil
+
+
+  vorgehend LG Bochum, 18. November 2021, Az: I-8 O 97/21'
+source_url: https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE310902024
+download_url: https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310902024.zip
+chars: 21280
+license: amtliches Werk (§ 5 UrhG)
+retrieved_at: '2026-10-03T16:21:01Z'
+---
+
+# BGH I ZR 67/23 (2024-10-23)
+
+- **Gericht:** BGH 1. Zivilsenat
+- **Datum:** 2024-10-23
+- **Aktenzeichen:** I ZR 67/23
+- **ECLI:** ECLI:DE:BGH:2024:231024UIZR67.23.0
+- **Dokumenttyp:** Urteil
+- **Normen:** § 15 UrhG, § 16 UrhG, § 17 UrhG, § 59 Abs 1 S 1 UrhG, § 97 UrhG, § 97a Abs 3 S 1 UrhG, Art 2 EGRL 29/2001, Art 3 EGRL 29/2001, Art 5 Abs 3 Buchst h EGRL 29/2001, Art 5 Abs 5 EGRL 29/2001
+
+## Titelzeile
+
+Urheberrechtlicher Schutz von mittels Drohne gefertigter Luftaufnahmen - Über alle Berge
+
+## Leitsatz
+
+Über alle Berge
+
+Die in § 59 Abs. 1 Satz 1 UrhG geregelte Panoramafreiheit bezweckt die Freistellung der Nutzung von Werken, wenn und soweit sie Teil des von der Allgemeinheit wahrnehmbaren Straßen- oder Landschaftsbildes sind. Mit Hilfe einer Drohne angefertigte Luftaufnahmen unterfallen nicht der Panoramafreiheit.
+
+## Tenor
+
+Die Revision gegen das Urteil des 4. Zivilsenats des Oberlandesgerichts Hamm vom 27. April 2023 wird auf Kosten der Beklagten zurückgewiesen.
+
+Von Rechts wegen
+
+## Tatbestand
+
+1 Die Klägerin ist ein rechtsfähiger Verein kraft staatlicher Verleihung, dessen satzungsgemäßer Zweck die treuhänderische Wahrnehmung der Nutzungs- und Einwilligungsrechte sowie der Vergütungsansprüche von Urhebern und Leistungsschutzberechtigten im visuellen Bereich (z.B. von Malern, Bildhauern oder Fotografen) ist.
+
+2 Die Beklagte betreibt einen Buchverlag und veröffentlicht dort vorwiegend Freizeitführer, Sachbücher, Bildbände und Kalender. Im Jahr 2010 veröffentlichte sie das von Wolfgang Berke verfasste Buch "Über alle Berge - Der definitive Haldenführer Ruhrgebiet". Das Buch enthält mittels einer Drohne gefertigte Luftbildaufnahmen der Installationen "Sonnenuhr mit Geokreuz" des Künstlers Jan Bormann, "Nachtzeichen" des Künstlers Klaus Noculak, "Himmelstreppe" des Künstlers Herman Prigann und "Tetraeder" des Künstlers Wolfgang Christ. Im Jahr 2016 veröffentlichte die Beklagte das vom selben Autor verfasste Buch "Über alle Berge - Haldenführer Ruhrgebiet 2.0". Das Buch enthält Luftbildaufnahmen der vorgenannten Installationen sowie darüber hinaus der Installationen "Landmarke Geleucht" des Künstlers Otto Piene und "Spurwerkturm" des Künstlers Jan Bormann, die sämtlich mittels einer Drohne gefertigt wurden.
+
+3 Die Klägerin ist zur Wahrnehmung der urheberrechtlichen Rechte und Ansprüche dieser Künstler an deren Installationen befugt.
+
+4 Die Klägerin ist der Auffassung, die Bildveröffentlichungen seien urheberrechtswidrig. Sie ließ die Beklagte erfolglos anwaltlich abmahnen und zur Abgabe einer Unterlassungsverpflichtungserklärung und Anerkennung der Schadensersatzpflicht dem Grunde nach auffordern.
+
+5 Die Klägerin hat beantragt,
+
+die Beklagte unter Androhung näher bezeichneter Ordnungsmittel zu verurteilen, es ab sofort zu unterlassen, Abbildungen der Arbeiten "Sonnenuhr mit Geokreuz" von Jan Bormann, "Nachtzeichen" von Klaus Noculak, "Himmelstreppe" von Herman Prigann, "Tetraeder" von Wolfgang Christ, "Landmarke Geleucht" von Otto Piene und/oder "Spurwerkturm" von Jan Bormann ohne ihre, der Klägerin, Einwilligung zu vervielfältigen und/oder zu verbreiten bzw. vervielfältigen und/oder verbreiten zu lassen, wenn dies geschieht wie nachfolgend wiedergegeben:
+
+[Im Antrag folgen die Abbildungen der Arbeiten aus den beiden Büchern. Nachfolgend ist beispielhaft abgebildet "Sonnenuhr mit Geokreuz" von Jan Bormann aus dem Buch von Wolfgang Berke, "Über alle Berge. Der definitive Haldenführer Ruhrgebiet", S. 56/57.]
+
+6 Ferner hat die Klägerin die Zahlung von Schadensersatz in Höhe von 2.676 € nebst Zinsen sowie von Abmahnkosten in Höhe von 2.002,41 € nebst Zinsen verlangt. Das Landgericht hat der Klage in vollem Umfang stattgegeben. Auf die im Übrigen erfolglose Berufung der Beklagten hat das Berufungsgericht die Verurteilung zum Schadensersatz auf 967 € vermindert. Mit ihrer vom Berufungsgericht zugelassenen Revision, deren Zurückweisung die Klägerin beantragt, verfolgt die Beklagte ihren Antrag auf vollständige Abweisung der Klage weiter.
+
+## Entscheidungsgründe
+
+7 I. Das Berufungsgericht hat angenommen, die geltend gemachten Unterlassungsansprüche seien vollständig, die Zahlungsansprüche nur teilweise begründet. Hierzu hat es ausgeführt:
+
+8 Die Klägerin sei zur Wahrnehmung der geltend gemachten Urheberrechte berechtigt. Durch die Veröffentlichung der Lichtbildaufnahmen der urheberrechtlich geschützten Werke habe die Beklagte in die Vervielfältigungs- und Verbreitungsrechte der Urheber eingegriffen. Diese Eingriffe seien nicht durch die Schrankenregelung des § 59 Abs. 1 Satz 1 UrhG, der sogenannten Panoramafreiheit, erlaubt.
+
+9 Die Werke befänden sich im Sinne des § 59 Abs. 1 Satz 1 UrhG an öffentlichen Wegen, Straßen oder Plätzen, weil die Bergehalden, auf denen sie errichtet worden seien, öffentlich zugänglich seien und die Werke von öffentlichen Wegen, Straßen oder Plätzen aus, die sich in der Umgebung der Bergehalden befänden, wahrgenommen werden könnten. Dies bedeute aber nicht, dass die Werke aus jedweder Perspektive abgebildet werden dürften. Von der Schrankenregelung seien nur Perspektiven erfasst, die von öffentlichen Wegen, Straßen oder Plätzen aus bestünden. Die mittels Drohnen erschlossene Perspektive aus dem Luftraum zähle nicht hierzu. Erfasst seien nur Orte und Einrichtungen, die einen Teil der Erdoberfläche bildeten oder mit der Erdoberfläche dauerhaft und fest verbunden seien. Deshalb sei ohne Belang, dass die Lichtbilder möglicherweise von einem Menschen aus einem Luftfahrzeug hätten erstellt werden können. Dass die Lichtbilder von öffentlichen Wegen, Straßen oder Plätzen hätten angefertigt werden können, habe die hierfür darlegungsbelastete Beklagte nicht substantiiert dargelegt.
+
+10 Die Beklagte schulde Schadensersatz in Höhe von lediglich 967 €, weil bei der Berechnung zu berücksichtigen sei, dass in mehreren Fällen eine ordnungsgemäße Urheberbenennung erfolgt und deshalb der von der Klägerin berechnete Zuschlag wegen fehlender Urheberbenennung nicht gerechtfertigt sei. Abmahnkostenersatz schulde die Beklagte in geltend gemachter Höhe.
+
+11 II. Die gegen diese Beurteilung gerichtete Revision der Beklagten hat keinen Erfolg, weil das Berufungsgericht der Klägerin die geltend gemachten Ansprüche auf Unterlassung (§ 97 Abs. 1 Satz 1 UrhG), Schadensersatz (§ 97 Abs. 2 UrhG) und Ersatz von Abmahnkosten (§ 97a Abs. 3 Satz 1 UrhG) sowie Zinszahlung (§ 288 Abs. 1 BGB) dem Grunde und der Höhe nach mit Recht zuerkannt hat. Die Klägerin ist zur Geltendmachung der streitgegenständlichen Ansprüche wegen unerlaubter Werknutzung berechtigt (dazu nachfolgend II 1). Die Beklagte hat in das den Urhebern zustehende Recht zur Vervielfältigung und Verbreitung der Werke eingegriffen (dazu nachfolgend II 2). Das Berufungsgericht hat auch mit Recht angenommen, dass es sich bei der Vervielfältigung und Verbreitung der Lichtbilder nicht um nach § 59 Abs. 1 Satz 1 UrhG erlaubte Nutzungen der dargestellten Werke handelt (dazu nachfolgend II 3).
+
+12 1. Die Klägerin ist zur Geltendmachung der erhobenen Ansprüche berechtigt. Urheber haben das ausschließliche Recht zur Verwertung ihres Werks in körperlicher Form, insbesondere das Vervielfältigungsrecht und das Verbreitungsrecht (§ 15 Abs. 1 Nr. 1 und 2 in Verbindung mit §§ 16 und 17 UrhG). Sie können im Falle einer widerrechtlichen Verletzung ihres Rechts Unterlassung nach § 97 Abs. 1 Satz 1 UrhG und - im Falle vorsätzlichen oder fahrlässigen Handelns - Schadensersatz nach § 97 Abs. 2 UrhG sowie Abmahnkostenersatz nach § 97a Abs. 3 Satz 1 UrhG beanspruchen. Gegen die Annahme des Berufungsgerichts, dass die Klägerin diese Ansprüche für die im Streitfall betroffenen bildenden Künstler als Urheber wahrnimmt, wendet sich die Revision zu Recht nicht. Gleichfalls von der Revision unbeanstandet und zu Recht hat das Berufungsgericht angenommen, dass es sich bei den abgebildeten Installationen um Werke der bildenden Künste im Sinne des § 2 Abs. 1 Nr. 4, Abs. 2 UrhG handelt.
+
+13 2. Die Beklagte hat in die den Urhebern gemäß § 15 Abs. 1 Nr. 1 und 2 in Verbindung mit §§ 16 und 17 UrhG zustehenden Rechte zur Vervielfältigung und Verbreitung der Werke eingegriffen.
+
+14 a) In der bildlichen Wiedergabe der Installationen liegt eine Vervielfältigung im Sinne des § 16 Abs. 1 UrhG. Dazu zählt jede körperliche Festlegung eines Werks, die geeignet ist, das Werk den menschlichen Sinnen auf irgendeine Art mittelbar oder unmittelbar wahrnehmbar zu machen, einschließlich der bildhaften Wiedergabe von körperlichen Kunstwerken (BGH, Urteil vom 23. Februar 2017 - I ZR 92/16, GRUR 2017, 793 [juris Rn. 41] = WRP 2017, 956 - Mart-Stam-Stuhl, mwN).
+
+15 b) Die Beklagte hat durch den Vertrieb der Bücher, die Lichtbilder der Installationen enthalten, auch in das Verbreitungsrecht der Urheber gemäß § 17 Abs. 1 UrhG, also in deren Recht, das Original oder Vervielfältigungsstücke des Werks der Öffentlichkeit anzubieten oder in Verkehr zu bringen (vgl. BGH, GRUR 2017, 793 [juris Rn. 20] - Mart-Stam-Stuhl, mwN), eingegriffen.
+
+16 3. Das Berufungsgericht hat mit Recht angenommen, dass es sich bei der Vervielfältigung und Verbreitung der Lichtbilder nicht um nach § 59 Abs. 1 Satz 1 UrhG erlaubte Nutzungen der dargestellten Werke handelt.
+
+17 a) Gemäß § 59 Abs. 1 Satz 1 UrhG ist es zulässig, Werke, die sich bleibend an öffentlichen Wegen, Straßen oder Plätzen befinden, mit Mitteln der Malerei oder Grafik, durch Lichtbild oder durch Film zu vervielfältigen, zu verbreiten und öffentlich wiederzugeben.
+
+18 Diese Regelung beruht auf der Erwägung, die Aufstellung eines Kunstwerks an öffentlichen Orten bringe zum Ausdruck, dass damit das Werk der Allgemeinheit gewidmet werde; aus dieser Zweckbestimmung rechtfertige sich eine Beschränkung des Urheberrechts in der Weise, dass jedermann das Werk abbilden und die Abbildungen verwerten dürfe (vgl. Begründung zum Regierungsentwurf des Urheberrechtsgesetzes, BT-Drucks. IV/270, S. 76 zu § 60 UrhG aF; BGH, Urteil vom 24. Januar 2002 - I ZR 102/99, BGHZ 150, 6 [juris Rn. 15] - Verhüllter Reichstag; Urteil vom 5. Juni 2003 - I ZR 192/00, GRUR 2003, 1035 [juris Rn. 26] = WRP 2003, 1460 - Hundertwasser-Haus).
+
+19 b) Bei der Auslegung des § 59 Abs. 1 Satz 1 UrhG ist zu beachten, dass diese Regelung der Umsetzung von Art. 5 Abs. 3 Buchst. h der Richtlinie 2001/29/EG dient (vgl. BGH, Urteil vom 27. April 2017 - I ZR 247/15, GRUR 2017, 798 [juris Rn. 18] = WRP 2017, 951 - AIDA Kussmund). Danach können die Mitgliedstaaten für die Nutzung von Werken wie Werken der Baukunst oder Plastiken, die dazu angefertigt wurden, sich bleibend an öffentlichen Orten zu befinden, Ausnahmen oder Beschränkungen in Bezug auf das Vervielfältigungsrecht (Art. 2 der Richtlinie 2001/29/EG) und das Recht der öffentlichen Wiedergabe (Art. 3 der Richtlinie 2001/29/EG) vorsehen. Nach Art. 5 Abs. 4 der Richtlinie 2001/29/EG können die Mitgliedstaaten, wenn sie eine Ausnahme oder Beschränkung in Bezug auf das Vervielfältigungsrecht vorsehen können, auch eine Ausnahme oder Beschränkung in Bezug auf das Verbreitungsrecht im Sinne von Art. 4 der Richtlinie 2001/29/EG zulassen, soweit diese Ausnahme durch den Zweck der erlaubten Vervielfältigung gerechtfertigt ist.
+
+20 c) Bei den beanstandeten Fotografien handelt es sich um Lichtbilder im Sinne von § 59 Abs. 1 Satz 1 UrhG. Der Begriff "Lichtbild" im Sinne dieser Vorschrift erfasst sowohl das Lichtbild im Sinne von § 72 Abs. 1 UrhG als auch das Lichtbildwerk im Sinne von § 2 Abs. 1 Nr. 5, Abs. 2 UrhG (vgl. BGH, GRUR 2017, 798 [juris Rn. 20] - AIDA Kussmund).
+
+21 d) Die Installationen befinden sich im Sinne des § 59 Abs. 1 Satz 1 UrhG "an" öffentlichen Wegen, Straßen oder Plätzen. Ein Werk befindet sich "an" öffentlichen Wegen, Straßen oder Plätzen, wenn es von öffentlichen Wegen, Straßen oder Plätzen aus wahrgenommen werden kann, wobei unerheblich ist, ob das Werk selbst für die Öffentlichkeit zugänglich ist (vgl. BGH, GRUR 2017, 798 [juris Rn. 22] - AIDA Kussmund, mwN). Wege, Straßen oder Plätze sind im Sinne von § 59 Abs. 1 Satz 1 UrhG "öffentlich", wenn sie für jedermann frei zugänglich sind (vgl. BGH, GRUR 2017, 798 [juris Rn. 23] - AIDA Kussmund, mwN).
+
+22 Nach den von der Revision nicht angegriffenen Feststellungen des Berufungsgerichts können die Kunstwerke von öffentlichen Wegen, Straßen oder Plätzen aus, die sich in der Umgebung der Bergehalden befinden, wahrgenommen werden.
+
+23 e) Die im Streitfall mit Hilfe von Drohnen aus dem Luftraum gefertigten Lichtbilder sind allerdings von der durch § 59 Abs. 1 Satz 1 UrhG gewährleisteten Panoramafreiheit nicht erfasst.
+
+24 aa) Nach der Rechtsprechung des Bundesgerichtshofs sind durch § 59 Abs. 1 Satz 1 UrhG nur Aufnahmen und Darstellungen eines geschützten Werks privilegiert, die von öffentlichen Wegen, Straßen oder Plätzen aus gemacht worden sind, an denen sich das fragliche Werk befindet, und die den Blick von dem öffentlichen Ort aus wiedergeben, wie er sich dem allgemeinen Publikum bietet.
+
+25 Die Schrankenbestimmung soll es dem Publikum ermöglichen, das, was es von der Straße aus mit eigenen Augen sehen kann, als Gemälde, Zeichnung, Fotografie oder im Film zu betrachten. Von diesem Zweck der gesetzlichen Regelung ist es nicht mehr gedeckt, wenn - etwa mit dem Mittel der Fotografie - der Blick von einem für das allgemeine Publikum unzugänglichen Ort aus fixiert werden soll. Ist beispielsweise ein Bauwerk für die Allgemeinheit lediglich aus einer bestimmten Perspektive zu sehen, besteht nach dem Sinn der gesetzlichen Regelung keine Notwendigkeit, eine Darstellung oder Aufnahme vom urheberrechtlichen Ausschließlichkeitsrecht auszunehmen, die eine ganz andere Perspektive wählt (BGH, GRUR 2003, 1035 [juris Rn. 28] - Hundertwasser-Haus, mwN). Desgleichen sind vom Zweck der Regelung keine Aufnahmen des Werks umfasst, die unter Verwendung besonderer Hilfsmittel (wie einer Leiter) oder nach Beseitigung blickschützender Vorrichtungen (wie einer Hecke) angefertigt worden sind. Solche Ansichten des Werks sind nicht Teil des von der Allgemeinheit wahrnehmbaren Straßenbildes (vgl. BGH, GRUR 2017, 798 [juris Rn. 35] - AIDA Kussmund; Dreier in Dreier/Schulze, UrhG, 7. Aufl., § 59 Rn. 4; Vogel in Schricker/Loewenheim, Urheberrecht, 6. Aufl., § 59 UrhG Rn. 21 f.; Dreyer in Dreyer/Kotthoff/Meckel, Urheberrecht, 4. Aufl., § 59 UrhG Rn. 5; Czychowski in Fromm/Nordemann, Urheberrecht, 12. Aufl., § 59 UrhG Rn. 7). Dies gilt gleichermaßen für die im Streitfall gegebene Zuhilfenahme eines Fluggeräts für Lichtbildaufnahmen aus dem Luftraum (vgl. BeckOK.UrhR/Grübler, 43. Edition [Stand: 1. Mai 2024], § 59 UrhG Rn. 6; Dreier in Dreier/Schulze aaO § 59 Rn. 4; Vogel in Schricker/Loewenheim aaO § 59 UrhG Rn. 22; Lucas-Schloetter, ZUM 2018, 494; Förster, GRUR-Prax 2021, 27; Czychowski, ZUM-RD 2021, 159; Fischer, MMR 2021, 267, 268; Ernst, jurisPR-WettbR 6/2023 Anm. 4).
+
+26 bb) Diese Auslegung des § 59 Abs. 1 Satz 1 UrhG steht mit der Schrankenbestimmung des Art. 5 Abs. 3 Buchst. h der Richtlinie 2001/29/EG in Einklang. Sie schöpft in zulässiger Weise den bei Anwendung des Art. 5 Abs. 3 Buchst. h der Richtlinie 2001/29/EG bestehenden Spielraum aus.
+
+27 (1) Den Mitgliedstaaten steht es frei, ob sie eine in Art. 5 Abs. 2 und 3 der Richtlinie 2001/29/EG vorgesehene Ausnahme oder Beschränkung in das nationale Recht umsetzen. Entscheiden sie sich für eine Umsetzung, so muss diese allerdings sämtliche Voraussetzungen der Schrankenregelung umfassen (vgl. EuGH, Urteil vom 29. Juli 2019 - C-516/17, GRUR 2019, 940 [juris Rn. 31 bis 34] = WRP 2019, 1162 - Spiegel Online, mwN).
+
+28 Der Umfang des Spielraums, über den die Mitgliedstaaten bei der Umsetzung einer in Art. 5 Abs. 2 oder 3 der Richtlinie 2001/29/EG genannten Ausnahme oder Beschränkung verfügen, ist im Einzelfall insbesondere nach Maßgabe des Wortlauts dieser Bestimmung zu beurteilen (vgl. EuGH, GRUR 2019, 940 [juris Rn. 25] - Spiegel Online, mwN). Der Umsetzungsspielraum wird durch den Zweck der jeweiligen Regelung und den gebotenen angemessenen Rechts- und Interessenausgleich zwischen Rechtsinhabern und Nutzern von Schutzgegenständen begrenzt (vgl. EuGH, GRUR 2019, 940 [juris Rn. 35 f.] - Spiegel Online, mwN). Dem Ziel des angemessenen Ausgleichs von Rechten und Interessen einschließlich der verschiedenen durch die Rechtsordnung der Union geschützten Grundrechte trägt Art. 5 Abs. 5 der Richtlinie 2001/29/EG Rechnung (vgl. EuGH, GRUR 2019, 940 [juris Rn. 37 f.] - Spiegel Online, mwN). Danach dürfen die in Art. 5 der Richtlinie 2001/29/EG vorgesehenen Ausnahmen und Beschränkungen nur in bestimmten Sonderfällen angewandt werden, in denen die normale Verwertung des Werks oder des sonstigen Schutzgegenstands nicht beeinträchtigt wird und die berechtigten Interessen des Rechtsinhabers nicht ungebührlich verletzt werden ("Drei-Stufen-Test"). Hierin liegt zum einen eine Gestaltungsanordnung gegenüber dem nationalen Gesetzgeber in Bezug auf die Konkretisierung der Schranken des Urheberrechts, zum anderen ist Art. 5 Abs. 5 der Richtlinie 2001/29/EG aber auch Maßstab für die Rechtsanwendung im Einzelfall (vgl. BGH, Beschluss vom 14. September 2023 - I ZR 74/22, GRUR 2023, 1531 [juris Rn. 47] = WRP 2023, 1358 - Metall auf Metall V, mwN).
+
+29 (2) Nach der Rechtsprechung des Gerichtshofs der Europäischen Union sind die Art. 5 Abs. 2 und 3 der Richtlinie 2001/29/EG eng auszulegen, da sie Ausnahmen zu den in den Art. 2 und 3 dieser Richtlinie vorgesehenen Rechten enthalten (vgl. EuGH, Urteil vom 10. April 2014 - C-435/12, GRUR 2014, 546 [juris Rn. 22 f.] = WRP 2014, 682 - ACI Adam u.a.; Urteil vom 3. September 2014 - C-201/13, GRUR 2014, 972 [juris Rn. 22] = WRP 2014, 1181 - Deckmyn und Vrijheidsfonds, jeweils mwN). Da durch Art. 5 der Richtlinie 2001/29/EG ein angemessener Ausgleich zwischen den Rechten und Interessen der Rechtsinhaber, die ihrerseits weit ausgelegt werden, auf der einen Seite und den Rechten und Interessen der Nutzer von Werken oder anderen Schutzgegenständen auf der anderen Seite gesichert werden, muss es die Auslegung der in Art. 5 der Richtlinie 2001/29/EG vorgesehenen Ausnahmen und Beschränkungen aber auch erlauben, deren praktische Wirksamkeit zu wahren und ihre Zielsetzung zu beachten (vgl. EuGH, GRUR 2019, 940 [juris Rn. 54 f.] - Spiegel Online, mwN).
+
+30 (3) Der Wortlaut des Art. 5 Abs. 3 Buchst. h der Richtlinie 2001/29/EG lässt offen, welche Ausnahmen oder Beschränkungen für die Nutzung der genannten Werke in Bezug auf das Vervielfältigungsrecht und das Verbreitungsrecht vorgesehen werden dürfen. Das spricht für einen erheblichen Umsetzungsspielraum der Mitgliedstaaten. Dafür spricht auch, dass die Panoramafreiheit in den einzelnen Mitgliedstaaten deutlich unterschiedlich ausgestaltet ist (vgl. Dore/Turan, IIC 2024, 37, 51 bis 54).
+
+31 (4) Die bei der Auslegung des § 59 Abs. 1 Satz 1 UrhG vor seinem unionsrechtlichen Hintergrund vorzunehmende Abwägung zwischen der Informations- und Kommunikationsfreiheit der Werknutzer mit dem berechtigten Interesse der Urheber, an der wirtschaftlichen Nutzung ihrer Werke tunlichst angemessen beteiligt zu werden (Beteiligungsgrundsatz; vgl. BGH, GRUR 2017, 798 [juris Rn. 17] - AIDA Kussmund, mwN), geht im Falle der Nutzung von mit Hilfe von Drohnen aus der Luft angefertigten Lichtbildern zugunsten des Interesses der Urheber der fotografierten Werke aus.
+
+32 Der Zweck des § 59 Abs. 1 Satz 1 UrhG, im Interesse der Informations- und Kommunikationsfreiheit und der Handlungsfreiheit den öffentlichen Raum möglichst von Verbietungsrechten freizuhalten (vgl. Uhlenhut, Panoramafreiheit und Eigentumsrecht, 2015, S. 125; Chirco, Die Panoramafreiheit, 2013, S. 87; ter Hazeborg, Die Panoramafreiheit im digitalen Zeitalter, 2021, S. 118 f.; Schack, GRUR 2017, 802), erfordert lediglich die Freistellung der Nutzung von Werken, wenn und soweit sie Teil des von der Allgemeinheit wahrnehmbaren Straßen- oder Landschaftsbildes sind. Das berechtigte Interesse der Urheber, an der wirtschaftlichen Nutzung ihrer Werke angemessen beteiligt zu werden, überwiegt hingegen regelmäßig nicht nur dann, wenn die Nutzung die Überwindung von Schutzmaßnahmen des Urhebers (etwa eines Sichtschutzes) erfordert (vgl. Ettig, WRP 2021, 406, 407; Grisse, ZUM 2023, 611, 613 f.; Stieper, NJW 2023, 3745, 3748 f.), sondern bereits dann, wenn die Nutzung von einer der Allgemeinheit nicht zugänglichen Perspektive aus erfolgt, indem etwa Luftaufnahmen mithilfe einer Drohne angefertigt werden (vgl. Czychowski, ZUM-RD 2021, 155, 160). Der Beteiligungsgrundsatz hat bei der Abwägung besonderes Gewicht, wenn - wie im Streitfall durch die Buchveröffentlichungen der Beklagten - eine wirtschaftliche Nutzung der Werke erfolgt.
+
+33 4. Eine Vorlage an den Gerichtshof der Europäischen Union nach Art. 267 Abs. 3 AEUV ist nicht veranlasst (vgl. EuGH, Urteil vom 6. Oktober 1982 - 283/81, Slg. 1982, 3415 [juris Rn. 21] = NJW 1983, 1257 - Cilfit u.a.; Urteil vom 1. Oktober 2015 - C-452/14, GRUR Int. 2015, 1152 [juris Rn. 43] - Doc Generici; Urteil vom 6. Oktober 2021 - C-561/19, NJW 2021, 3303 [juris Rn. 32 f.] - Consorzio Italian Management und Catania Multiservizi). Es stellt sich keine entscheidungserhebliche Frage zur Auslegung des Unionsrechts, die nicht bereits durch die Rechtsprechung des Gerichtshofs geklärt oder nicht zweifelsfrei zu beantworten ist (dazu vorstehend Rn. 26 bis 32).
+
+34 III. Danach ist die Revision der Beklagten mit der Kostenfolge aus § 97 Abs.1 ZPO zurückzuweisen.
+
+Koch
+
+Schwonke
+
+Feddersen
+
+Schmaltz
+
+Odörfer
+
+## Sonstiger Langtext
+
+Berichtigungsbeschluss vom 4. November 2024
+
+Das Urteil vom 23. Oktober 2024 wird wegen offenbarer Unrichtigkeit gemäß § 319 Abs. 1 ZPO dahingehend berichtigt, dass in der Randnummer 6 im dritten Satz sowie in Randnummer 10 im ersten Satz jeweils "967 €" durch "1.824 €" ersetzt wird.
+
+Koch
+
+Pohl
+
+Schmaltz
+
+Odörfer
+
+Wille

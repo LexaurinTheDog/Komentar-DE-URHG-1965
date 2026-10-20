@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "rii-kore303392015",
+    "source": "rii",
+    "doknr": "KORE303392015",
+    "ecli": null,
+    "court": "BGH",
+    "date": "2014-11-17",
+    "case_number": "I ZR 177/13",
+    "chars": 25213,
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore303392015.md"
+  },
+  {
+    "slug": "rii-kore310902024",
+    "source": "rii",
+    "doknr": "KORE310902024",
+    "ecli": "ECLI:DE:BGH:2024:231024UIZR67.23.0",
+    "court": "BGH",
+    "date": "2024-10-23",
+    "case_number": "I ZR 67/23",
+    "chars": 21280,
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore310902024.md"
+  }
+]

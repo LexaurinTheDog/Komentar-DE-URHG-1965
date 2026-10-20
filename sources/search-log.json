@@ -152,5 +152,35 @@
       }
     ],
     "coverage": "Selektive Ergänzung für §§ 50/51 und § 51a. Für andere Einheiten keine zusätzliche hinreichend spezifische volltextgeprüfte Entscheidung ausgewählt; keine erschöpfende Rechtsprechungsabdeckung."
+  },
+  "bounded_review_p53_p60b": {
+    "verified_at": "2026-10-20T12:50:59.051532+00:00",
+    "searches": [
+      {
+        "tool": "web search",
+        "queries": [
+          "site.rechtsprechung-im-internet.de \"I ZR 177/13\"",
+          "site.rechtsprechung-im-internet.de \"I ZR 67/23\"",
+          "site.rechtsprechung-im-internet.de \"I ZR 30/15\""
+        ],
+        "disposition": "Entdeckung; Drittanbieterauszüge nicht als Quellen benutzt. I ZR 30/15 betrifft Maklerrecht und wurde verworfen."
+      },
+      {
+        "tool": "local national RII manifest",
+        "query": "Exact docket I ZR 177/13 or I ZR 67/23; title Gesamtvertrag PCs",
+        "evidence": "sources/review-p53-p60b/local-case-search.json",
+        "selected": [
+          "KORE303392015",
+          "KORE310902024"
+        ],
+        "disposition": "Beide amtlichen vollständigen XML-Texte neu abgerufen und mit den vollständigen Korpusaufnahmen abgeglichen; sämtliche Absätze gelesen."
+      },
+      {
+        "tool": "Firecrawl CLI",
+        "query": "scrape official UrhG § 59",
+        "disposition": "Insufficient credits; keine Einstellungen geändert, direkter amtlicher Abruf erfolgreich."
+      }
+    ],
+    "coverage": "Selektive aktuelle Ergänzungen für §§ 57 und 59. Keine abschließende Recherche zu sämtlichen 20 Einheiten oder Folgeentscheidungen."
   }
 }
