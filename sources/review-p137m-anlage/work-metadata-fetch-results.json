@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T14:48:18.095075+00:00",
+    "expected_format": "rdf",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1/rdf/object/full",
+    "response_path": "sources/review-p137m-anlage/gdpr-work.rdf",
+    "headers_path": "sources/review-p137m-anlage/gdpr-work.rdf.headers",
+    "bytes": 62783853,
+    "sha256": "9afc85a45c4f525d82b61980ad94bdcc41723a6bcc5f81415210ca2f0a265ca8",
+    "expected_format_validated": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/celex/62021CJ0154",
+    "accessed_at": "2026-10-20T14:42:25.303294+00:00",
+    "expected_format": "pdf",
+    "http_status": 200,
+    "final_url": "http://publications.europa.eu/resource/cellar/5fbe0370-925f-11ed-b508-01aa75ed71a1.0001.04/DOC_1",
+    "response_path": "sources/review-p137m-anlage/empfaengerauskunft.pdf",
+    "headers_path": "sources/review-p137m-anlage/empfaengerauskunft.pdf.headers",
+    "bytes": 371305,
+    "sha256": "76784702b609f543a016816475eaf6fe03afe43f3ccdee42f823c8a2143bdc53",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/32016R0679/rdf/object/full",
+    "accessed_at": "2026-10-20T14:42:25.303664+00:00",
+    "expected_format": "rdf",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  }
+]

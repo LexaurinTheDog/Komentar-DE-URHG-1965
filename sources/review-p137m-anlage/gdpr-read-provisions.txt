@@ -1,0 +1,220 @@
+# Artikel 15
+                                    Artikel 15
+                    Auskunftsrecht der betroffenen Person
+
+     (1)   Die betroffene Person hat das Recht, von dem Verantwortlichen
+     eine Bestätigung darüber zu verlangen, ob sie betreffende personenbe­
+     zogene Daten verarbeitet werden; ist dies der Fall, so hat sie ein Recht
+     auf Auskunft über diese personenbezogenen Daten und auf folgende
+     Informationen:
+
+     a) die Verarbeitungszwecke;
+
+     b) die Kategorien personenbezogener Daten, die verarbeitet werden;
+
+     c) die Empfänger oder Kategorien von Empfängern, gegenüber denen
+        die personenbezogenen Daten offengelegt worden sind oder noch
+        offengelegt werden, insbesondere bei Empfängern in Drittländern
+        oder bei internationalen Organisationen;
+
+                                                            02016R0679 — DE — 04.05.2016 — 000.003 — 17
+
+▼B
+      d) falls möglich die geplante Dauer, für die die personenbezogenen
+         Daten gespeichert werden, oder, falls dies nicht möglich ist, die
+         Kriterien für die Festlegung dieser Dauer;
+      e) das Bestehen eines Rechts auf Berichtigung oder Löschung der sie
+         betreffenden personenbezogenen Daten oder auf Einschränkung der
+         Verarbeitung durch den Verantwortlichen oder eines Widerspruchs­
+         rechts gegen diese Verarbeitung;
+      f) das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde;
+      g) wenn die personenbezogenen Daten nicht bei der betroffenen Person
+         erhoben werden, alle verfügbaren Informationen über die Herkunft
+         der Daten;
+      h) das Bestehen einer automatisierten Entscheidungsfindung einschließ­
+         lich Profiling gemäß Artikel 22 Absätze 1 und 4 und — zumindest
+         in diesen Fällen — aussagekräftige Informationen über die invol­
+         vierte Logik sowie die Tragweite und die angestrebten Auswirkun­
+         gen einer derartigen Verarbeitung für die betroffene Person.
+      (2)    Werden personenbezogene Daten an ein Drittland oder an eine
+      internationale Organisation übermittelt, so hat die betroffene Person das
+      Recht, über die geeigneten Garantien gemäß Artikel 46 im Zusammen­
+      hang mit der Übermittlung unterrichtet zu werden.
+      (3)    Der Verantwortliche stellt eine Kopie der personenbezogenen
+      Daten, die Gegenstand der Verarbeitung sind, zur Verfügung. Für alle
+      weiteren Kopien, die die betroffene Person beantragt, kann der Verant­
+      wortliche ein angemessenes Entgelt auf der Grundlage der Verwaltungs­
+      kosten verlangen. Stellt die betroffene Person den Antrag elektronisch,
+      so sind die Informationen in einem gängigen elektronischen Format zur
+      Verfügung zu stellen, sofern sie nichts anderes angibt.
+▼C2
+      (4)   Das Recht auf Erhalt einer Kopie gemäß Absatz 3 darf die Rechte
+      und Freiheiten anderer Personen nicht beeinträchtigen.
+▼B
+
+                                  Abschnitt 3
+                     Berichtigung und Löschung
+
+
+# Artikel 16
+                                     Artikel 16
+                             Recht auf Berichtigung
+
+      Die betroffene Person hat das Recht, von dem Verantwortlichen unver­
+      züglich die Berichtigung sie betreffender unrichtiger personenbezogener
+      Daten zu verlangen. Unter Berücksichtigung der Zwecke der Verarbei­
+      tung hat die betroffene Person das Recht, die Vervollständigung unvoll­
+      ständiger personenbezogener Daten — auch mittels einer ergänzenden
+      Erklärung — zu verlangen.
+
+
+# Artikel 19
+                                   Artikel 19
+     Mitteilungspflicht im Zusammenhang mit der Berichtigung oder
+     Löschung personenbezogener Daten oder der Einschränkung der
+                               Verarbeitung
+
+     Der Verantwortliche teilt allen Empfängern, denen personenbezogenen
+     Daten offengelegt wurden, jede Berichtigung oder Löschung der per­
+     sonenbezogenen Daten oder eine Einschränkung der Verarbeitung nach
+     Artikel 16, Artikel 17 Absatz 1 und Artikel 18 mit, es sei denn, dies
+     erweist sich als unmöglich oder ist mit einem unverhältnismäßigen Auf­
+     wand verbunden. Der Verantwortliche unterrichtet die betroffene Person
+     über diese Empfänger, wenn die betroffene Person dies verlangt.
+
+
+# Artikel 21
+                                   Artikel 21
+                              Widerspruchsrecht
+
+     (1)    Die betroffene Person hat das Recht, aus Gründen, die sich aus
+     ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung sie
+     betreffender personenbezogener Daten, die aufgrund von Artikel 6 Ab­
+     satz 1 Buchstaben e oder f erfolgt, Widerspruch einzulegen; dies gilt
+     auch für ein auf diese Bestimmungen gestütztes Profiling. Der Verant­
+     wortliche verarbeitet die personenbezogenen Daten nicht mehr, es sei
+     denn, er kann zwingende schutzwürdige Gründe für die Verarbeitung
+     nachweisen, die die Interessen, Rechte und Freiheiten der betroffenen
+     Person überwiegen, oder die Verarbeitung dient der Geltendmachung,
+     Ausübung oder Verteidigung von Rechtsansprüchen.
+
+
+     (2)    Werden personenbezogene Daten verarbeitet, um Direktwerbung
+     zu betreiben, so hat die betroffene Person das Recht, jederzeit Wider­
+     spruch gegen die Verarbeitung sie betreffender personenbezogener Da­
+     ten zum Zwecke derartiger Werbung einzulegen; dies gilt auch für das
+     Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.
+
+
+     (3)    Widerspricht die betroffene Person der Verarbeitung für Zwecke
+     der Direktwerbung, so werden die personenbezogenen Daten nicht mehr
+     für diese Zwecke verarbeitet.
+
+
+     (4)    Die betroffene Person muss spätestens zum Zeitpunkt der ersten
+     Kommunikation mit ihr ausdrücklich auf das in den Absätzen 1 und
+     2 genannte Recht hingewiesen werden; dieser Hinweis hat in einer ver­
+     ständlichen und von anderen Informationen getrennten Form zu
+     erfolgen.
+
+
+     (5)    Im Zusammenhang mit der Nutzung von Diensten der Informa­
+     tionsgesellschaft kann die betroffene Person ungeachtet der Richtlinie
+     2002/58/EG ihr Widerspruchsrecht mittels automatisierter Verfahren
+     ausüben, bei denen technische Spezifikationen verwendet werden.
+
+
+     (6)    Die betroffene Person hat das Recht, aus Gründen, die sich aus
+     ihrer besonderen Situation ergeben, gegen die sie betreffende Verarbei­
+     tung sie betreffender personenbezogener Daten, die zu wissenschaftli­
+     chen oder historischen Forschungszwecken oder zu statistischen Zwe­
+     cken gemäß Artikel 89 Absatz 1 erfolgt, Widerspruch einzulegen, es sei
+     denn, die Verarbeitung ist zur Erfüllung einer im öffentlichen Interesse
+     liegenden Aufgabe erforderlich.
+
+                                                           02016R0679 — DE — 04.05.2016 — 000.003 — 21
+
+▼B
+# Artikel 23
+                                      Artikel 23
+                                  Beschränkungen
+
+     (1)    Durch Rechtsvorschriften der Union oder der Mitgliedstaaten,
+     denen der Verantwortliche oder der Auftragsverarbeiter unterliegt, kön­
+     nen die Pflichten und Rechte gemäß den Artikeln 12 bis 22 und Ar­
+     tikel 34 sowie Artikel 5, insofern dessen Bestimmungen den in den
+     Artikeln 12 bis 22 vorgesehenen Rechten und Pflichten entsprechen,
+     im Wege von Gesetzgebungsmaßnahmen beschränkt werden, sofern
+     eine solche Beschränkung den Wesensgehalt der Grundrechte und
+     Grundfreiheiten achtet und in einer demokratischen Gesellschaft eine
+     notwendige und verhältnismäßige Maßnahme darstellt, die Folgendes
+     sicherstellt:
+
+     a) die nationale Sicherheit;
+
+     b) die Landesverteidigung;
+
+     c) die öffentliche Sicherheit;
+
+     d) die Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straf­
+        taten oder die Strafvollstreckung, einschließlich des Schutzes vor und
+        der Abwehr von Gefahren für die öffentliche Sicherheit;
+
+                                                          02016R0679 — DE — 04.05.2016 — 000.003 — 22
+
+▼B
+     e) den Schutz sonstiger wichtiger Ziele des allgemeinen öffentlichen
+        Interesses der Union oder eines Mitgliedstaats, insbesondere eines
+        wichtigen wirtschaftlichen oder finanziellen Interesses der Union
+        oder eines Mitgliedstaats, etwa im Währungs-, Haushalts- und Steu­
+        erbereich sowie im Bereich der öffentlichen Gesundheit und der
+        sozialen Sicherheit;
+     f) den Schutz der Unabhängigkeit der Justiz und den Schutz von Ge­
+        richtsverfahren;
+     g) die Verhütung, Aufdeckung, Ermittlung und Verfolgung von Ver­
+        stößen gegen die berufsständischen Regeln reglementierter Berufe;
+     h) Kontroll-, Überwachungs- und Ordnungsfunktionen, die dauernd
+        oder zeitweise mit der Ausübung öffentlicher Gewalt für die unter
+        den Buchstaben a bis e und g genannten Zwecke verbunden sind;
+     i) den Schutz der betroffenen Person oder der Rechte und Freiheiten
+        anderer Personen;
+     j) die Durchsetzung zivilrechtlicher Ansprüche.
+     (2)    Jede Gesetzgebungsmaßnahme im Sinne des Absatzes 1 muss
+     insbesondere gegebenenfalls spezifische Vorschriften enthalten zumin­
+     dest in Bezug auf
+     a) die Zwecke der Verarbeitung oder die Verarbeitungskategorien,
+     b) die Kategorien personenbezogener Daten,
+     c) den Umfang der vorgenommenen Beschränkungen,
+     d) die Garantien gegen Missbrauch oder unrechtmäßigen Zugang oder
+        unrechtmäßige Übermittlung;
+     e) die Angaben zu dem Verantwortlichen oder den Kategorien von
+        Verantwortlichen,
+     f) die jeweiligen Speicherfristen sowie die geltenden Garantien unter
+        Berücksichtigung von Art, Umfang und Zwecken der Verarbeitung
+        oder der Verarbeitungskategorien,
+     g) die Risiken für die Rechte und Freiheiten der betroffenen Personen
+        und
+     h) das Recht der betroffenen Personen auf Unterrichtung über die Be­
+        schränkung, sofern dies nicht dem Zweck der Beschränkung abträg­
+        lich ist.
+
+
+                                  KAPITEL IV
+
+                   Verantwortlicher und Auftragsverarbeiter
+
+
+                                Abschnitt 1
+                         Allgemeine Pflichten
+
+
+# Artikel 99
+                                    Artikel 99
+                         Inkrafttreten und Anwendung
+
+     (1)   Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffent­
+     lichung im Amtsblatt der Europäischen Union in Kraft.
+     (2)   Sie gilt ab dem 25. Mai 2018.
+     Diese Verordnung ist in allen ihren Teilen verbindlich und gilt unmittel­
+     bar in jedem Mitgliedstaat.
+

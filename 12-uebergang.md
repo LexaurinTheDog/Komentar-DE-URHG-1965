@@ -392,9 +392,15 @@ Prüfliste für neue Nutzungsarten: Altvertragszeitraum und wesentliche Exklusiv
 >
 > (3) Ist vor dem 1. November 2013 ein Übertragungsvertrag zwischen einem ausübenden Künstler und einem Tonträgerhersteller abgeschlossen worden, so erstreckt sich im Fall der Verlängerung der Schutzdauer die Übertragung auch auf diesen Zeitraum, wenn keine eindeutigen vertraglichen Hinweise auf das Gegenteil vorliegen.
 
-Absatz 1 bindet die verlängerten Tonaufnahmefristen und ergänzenden Künstleransprüche an den Schutzbestand am 1. November 2013 beziehungsweise spätere Entstehung. Absatz 2 behandelt eigens verbundene Musik und Texte mit unionsweitem Schutzanknüpfungspunkt, möglichem Wiederaufleben, begrenzter Nutzungsfortsetzung und Vergütung. Absatz 3 erstreckt ältere Künstlerübertragungen auf die Verlängerungszeit, sofern keine eindeutigen gegenteiligen Vertragsindizien bestehen. Schutzverlängerung und Lizenzverlängerung sind also getrennt geregelt.
+§ 137m trennt die Verlängerung von Tonaufnahmerechten, die Schutzdauer textierter Musik und die Reichweite alter Künstlerverträge. Nach Absatz 1 werden die heutigen §§ 82, 85 Abs. 3, 79 Abs. 3 und 79a auf Aufzeichnungen und Tonträger erstreckt, deren Schutz für Künstler und Hersteller am 1. November 2013 nach der bis 6. Juli 2013 geltenden Gesetzesfassung noch bestand, sowie auf nach dem 1. November 2013 entstehende Aufzeichnungen und Tonträger. Der Prüfungsstichtag und die ausdrücklich bezeichnete ältere Berechnungsgrundlage sind auseinanderzuhalten. Eine bereits vorher erloschene Position lebt nicht allein wegen der nunmehr längeren Tonträgerfrist nach Absatz 1 wieder auf. Für einen konkreten Altbestand muss die damalige Fassung mit den Veröffentlichungs- und Wiedergabedaten beschafft werden; das Alter des Bandes allein genügt nicht.
 
-Beispiel: Eine Plattenfirma verwertet eine alte Aufnahme nach 2013 weiter. Sie muss die damalige Schutzlage und den Künstlervertrag untersuchen; zusätzliche Ansprüche nach § 79a können neben der fortbestehenden Übertragung relevant sein.
+Die Verweisung erfasst mehr als die Fristlänge: Das Kündigungsrecht des § 79 Abs. 3 und die Ansprüche des § 79a bleiben nach ihren eigenen Voraussetzungen zu prüfen. Insbesondere begründet der Übergangsstichtag noch keinen sofortigen zusätzlichen Vergütungsanspruch für jede Aufnahme. § 79a unterscheidet Einmalzahlung und wiederkehrende Vergütung und knüpft die besonderen Folgen an den dort bezeichneten Ablauf von fünfzig Jahren. Künstlerrecht und Herstellerrecht behalten ihre verschiedenen Fristregeln.
+
+Absatz 2 betrifft dagegen § 65 Abs. 3. Bei bereits vorhandener Musik mit Text genügt der Schutz der Komposition oder des Textes in mindestens einem EU-Mitgliedstaat am 1. November 2013; später entstehende Musikkompositionen mit Text werden ebenfalls erfasst. Die sachliche Voraussetzung des § 65 Abs. 3, dass beide Beiträge eigens für die betreffende Verbindung geschaffen wurden, wird nicht aufgehoben. Anders als Absatz 1 regelt Absatz 2 ausdrücklich ein mögliches Wiederaufleben und weist die Rechte dem Urheber zu. Eine vor dem Stichtag begonnene Nutzung darf nur im vorgesehenen Rahmen weitergeführt werden; ab dem Stichtag ist sie angemessen zu vergüten. Diese Fortsetzungsbefugnis ist keine Erlaubnis, beliebige neue Nutzungen hinzuzufügen.
+
+Absatz 3 lässt eine vor dem 1. November 2013 zwischen Künstler und Tonträgerhersteller vereinbarte Übertragung im Verlängerungsfall grundsätzlich auch die zusätzliche Schutzzeit erfassen. Eindeutige gegenteilige Vertragshinweise schließen diese Erstreckung aus. Die Regel ersetzt weder den Nachweis des ursprünglichen Übertragungsumfangs noch die besonderen Künstleransprüche. Sie betrifft auch nicht den in Absatz 2 bezeichneten Wiederauflebensfall des Komponisten oder Textautors.
+
+Beispiel: Ein Label will eine ältere Aufnahme weiter vermarkten und ein Archiv eine zuvor begonnene Edition eines Liedes fortsetzen. Das Label prüft gesondert den damaligen Schutzbestand der Aufnahme, den Künstlervertrag und die zeitlichen Voraussetzungen des § 79a. Das Archiv untersucht für Komposition und Text die EU-Schutzlage, ihre gezielte Verbindung und den bisherigen Editionsumfang. Eine Fortsetzung kann erlaubt und zugleich vergütungspflichtig sein.
 
 ### § 137n — Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2012/28/EU
 
@@ -402,9 +408,11 @@ Beispiel: Eine Plattenfirma verwertet eine alte Aufnahme nach 2013 weiter. Sie m
 
 > § 61 Absatz 4 ist nur anzuwenden auf Bestandsinhalte, die der nutzenden Institution vor dem 29. Oktober 2014 überlassen wurden.
 
-Die besondere Erlaubnis des § 61 Abs. 4 für noch nicht erschienene oder gesendete Bestände gilt nur bei Überlassung an die nutzende Institution vor dem 29. Oktober 2014. Nicht allein Alter oder Herstellungsdatum des Werks entscheiden. Auch die übrigen Voraussetzungen des § 61 bleiben erforderlich.
+§ 137n begrenzt ausschließlich den Sonderfall des § 61 Abs. 4: Bestandsinhalte, die nicht erschienen sind oder nicht gesendet wurden, müssen der nutzenden Institution vor dem 29. Oktober 2014 überlassen worden sein. Die Übergabe an gerade diese Einrichtung ist entscheidend; Herstellungsjahr, Eigentum an einem Werkstück oder ein früherer Besitz einer anderen Einrichtung ersetzen den Überlassungsnachweis nicht. Eine Überlassung erst am Stichtag liegt ebenfalls außerhalb des Wortlauts.
 
-Beispiel: Ein Museum erhält 2020 einen alten unveröffentlichten Film. Sein hohes Alter erfüllt den Überlassungsstichtag nicht. Eine Nutzung muss gegebenenfalls auf einer anderen gesetzlichen Grundlage oder auf einer Lizenz beruhen.
+Der frühe Zugang macht den Inhalt noch nicht zum frei nutzbaren verwaisten Werk. Nach § 61 Abs. 4 muss die Institution ihn bereits mit Erlaubnis des Rechtsinhabers der Öffentlichkeit zugänglich gemacht haben; außerdem muss eine Einwilligung in die nunmehrige Nutzung nach Treu und Glauben anzunehmen sein. Die sorgfältige Suche nach § 61a samt Anlage und die weiteren institutionellen und gemeinwohlbezogenen Grenzen des § 61 bleiben maßgeblich. Der Stichtag gilt nicht unterschiedslos für alle bereits veröffentlichten Bestände des § 61 Abs. 2. Das Sonderrecht ist von anderen gesetzlichen Nutzungserlaubnissen oder einer wirklichen Lizenz zu unterscheiden.
+
+Beispiel: Ein Museum erhält 2020 eine Filmrolle von 1930, die weder erschienen noch gesendet wurde. Ihr Alter erfüllt § 137n nicht. Eine seit 2010 dort verwahrte andere Rolle kann die zeitliche Voraussetzung erfüllen, benötigt aber weiterhin die Erlaubnis zur früheren öffentlichen Zugänglichmachung und eine dokumentierte Prüfung der übrigen Voraussetzungen. Der bloße Zugang vor 2014 erlaubt keinen allgemeinen Archiv-Upload.
 
 ### § 137o — Übergangsregelung zum Urheberrechts-Wissensgesellschafts-Gesetz
 
@@ -412,9 +420,11 @@ Beispiel: Ein Museum erhält 2020 einen alten unveröffentlichten Film. Sein hoh
 
 > § 60g gilt nicht für Verträge, die vor dem 1. März 2018 geschlossen wurden.
 
-Der Ausschluss des § 60g für vor dem 1. März 2018 geschlossene Verträge ist bei Bildungs- und Institutionsnutzungen zentral. Er beseitigt nicht die gesetzlichen Erlaubnisse als solche, verhindert aber die unbesehene Anwendung ihres heutigen Vertragsvorrangs auf diese Altverträge. Vertragsinhalt und sonstige zwingende Vorschriften sind gesondert zu prüfen.
+§ 137o nimmt Verträge, die vor dem 1. März 2018 geschlossen wurden, von § 60g insgesamt aus. Bei ihnen entfällt damit der dort geregelte besondere Vorrang gesetzlich erlaubter Nutzungen gegenüber nachteiligen Vereinbarungen; zugleich wird auch die Sonderregel des § 60g Abs. 2 nicht über diese Vorschrift auf den Altvertrag angewendet. Für einen am 1. März 2018 geschlossenen Vertrag greift die Ausnahme ihrem Wortlaut nach nicht.
 
-Beispiel: Eine Bibliothek nutzt eine Datenbank auf Grundlage eines Vertrags von 2016. Sie kann eine einschränkende Klausel nicht allein mit § 60g überspielen. Bei einem späteren Änderungsvertrag muss dessen rechtliche Einordnung eigenständig geklärt werden.
+Die Norm setzt die gesetzlichen Erlaubnisse der §§ 60a bis 60f nicht außer Kraft. Zu trennen sind die urheberrechtliche Zulässigkeit der konkreten Handlung und die Frage, ob eine Vertragsbindung entgegengehalten werden kann. Welche Folgen eine alte Klausel tatsächlich hat, erfordert Vertragsauslegung und gegebenenfalls die Prüfung weiterer zwingender Vorschriften; § 137o erklärt nicht jede Beschränkung für wirksam. Bei einem Vertrag, auf den § 60g anwendbar ist, muss zudem dessen Absatz 2 für die dort ausschließlich geregelten Terminal- und Einzelbestellungsvereinbarungen beachtet werden.
+
+Beispiel: Eine Bibliothek hat 2016 einen elektronischen Bestand lizenziert. Eine einschränkende Klausel kann sie nicht allein unter Berufung auf § 60g Abs. 1 zurückweisen. Wird 2020 eine Vereinbarung getroffen, muss ermittelt werden, ob ein neuer Vertrag, eine bloße Laufzeitfortsetzung oder eine begrenzte Änderung des alten Vertrags vorliegt und welche Leistung betroffen ist. Die Jahreszahl einer späteren Rechnung beantwortet diese Einordnung nicht.
 
 ### § 137p — Übergangsregelung aus Anlass der Umsetzung der Richtlinie (EU) 2019/789
 
@@ -426,9 +436,13 @@ Beispiel: Eine Bibliothek nutzt eine Datenbank auf Grundlage eines Vertrags von 
 >
 > (3) § 20d ist auf Verträge über die Direkteinspeisung, die vor dem 7. Juni 2021 geschlossen wurden, ab dem 7. Juni 2025 anzuwenden.
 
-Absatz 1 beschränkt die neue Weitersendungsregel für andere als Kabel- oder Mikrowellenverträge auf Abschlüsse ab 7. Juni 2021. Absatz 2 lässt die ergänzenden Online-Dienste bei Altverträgen ab 7. Juni 2023 erfassen; Absatz 3 die Direkteinspeisung ab 7. Juni 2025. Bei dem hier maßgeblichen Stand 2026 sind diese Aufschubdaten bereits überschritten. Eine bleibende Altvertragsausnahme darf daraus nicht konstruiert werden.
+Die drei Absätze verfolgen unterschiedliche Übergangsmodelle. Absatz 1 begrenzt die Anwendung des § 20b bei Verträgen über Weitersendungen außerhalb von Kabel- oder Mikrowellensystemen auf Verträge, die ab dem 7. Juni 2021 geschlossen wurden. Für die hier bezeichneten früher geschlossenen Verträge enthält Absatz 1 kein späteres Ablaufdatum der Ausnahme. Er darf deshalb nicht mit den befristeten Aufschüben der folgenden Absätze gleichgesetzt werden. Kabel- und Mikrowellenverträge gehören nicht zum besonderen Altvertragsausschluss des Absatzes 1; die Vorschrift ist auch keine allgemeine Freigabe der Weitersendung ohne Rechteklärung.
 
-Beispiel: Ein Sender beruft sich für eine 2026 fortgesetzte Direkteinspeisung auf einen Vertrag von 2020. Der frühere Vertragsschluss verhindert die Anwendung des § 20d nach Ablauf des gesetzlichen Aufschubs nicht allein.
+Absatz 2 lässt § 20c auf vor dem 7. Juni 2021 geschlossene Verträge über ergänzende Online-Dienste erst ab dem 7. Juni 2023 einwirken. Absatz 3 verschiebt die Anwendung des § 20d auf entsprechende alte Direkteinspeisungsverträge bis zum 7. Juni 2025. Beide Termine liegen vor dem Bearbeitungsstichtag 19. Oktober 2026. Der alte Vertragsschluss allein vermittelt insoweit keinen fortdauernden Aufschub. Die sachlichen Voraussetzungen der ergänzenden Online-Dienste beziehungsweise der Direkteinspeisung sind weiterhin erforderlich; insbesondere wird aus einer beliebigen Online-Bereitstellung kein Dienst nach § 20c.
+
+Die zeitliche Anwendbarkeit ersetzt weder die Prüfung des vereinbarten Rechteumfangs noch die Einordnung der tatsächlichen Signalübertragung. § 20c enthält eine örtliche Zuordnung bestimmter Nutzungshandlungen, § 20d behandelt Sender und Signalverteiler als Beteiligte einer einzigen öffentlichen Wiedergabe. Ob eine spätere Vertragsänderung einen neuen Vertrag begründet, muss anhand der Vereinbarung ermittelt werden; das technische Auslieferungsdatum genügt nicht.
+
+Beispiel: Ein Sender betreibt 2026 aufgrund eines Vertrags von 2020 eine Direkteinspeisung. Absatz 3 schützt ihn nicht mehr vor der Anwendung des § 20d. Ein ebenfalls 2020 geschlossener Vertrag über eine nicht per Kabel oder Mikrowelle erfolgende Weitersendung muss dagegen gesondert nach Absatz 1 eingeordnet werden: Dessen Vertragsschlussgrenze wird nicht durch den Termin 7. Juni 2025 beseitigt. Aus beiden Ergebnissen folgt noch keine kostenlose Nutzung fremder Rechte.
 
 ### § 137q — Übergangsregelung zur Verlegerbeteiligung
 
@@ -436,9 +450,11 @@ Beispiel: Ein Sender beruft sich für eine 2026 fortgesetzte Direkteinspeisung a
 
 > § 63a Absatz 2 und 3 gilt für Einnahmen, die Verwertungsgesellschaften ab dem 7. Juni 2021 erhalten.
 
-Für die besondere Verlegerbeteiligung nach § 63a Abs. 2 und 3 entscheidet der Eingang der Einnahmen bei der Verwertungsgesellschaft ab 7. Juni 2021. Die Norm knüpft weder ausschließlich an das Veröffentlichungsdatum des Werkes noch an den Tag der späteren Ausschüttung an. Die sonstigen Beteiligungsvoraussetzungen bleiben bestehen.
+§ 137q bestimmt den zeitlichen Anwendungsbereich der Verlegerbeteiligung nach § 63a Abs. 2 und 3 anhand des Einnahmeneingangs bei der Verwertungsgesellschaft. Erfasst sind Einnahmen, welche die Gesellschaft ab dem 7. Juni 2021 erhält. Weder das Datum der späteren Auszahlung an Berechtigte noch allein das Erscheinungsjahr des Werkes oder der Zeitraum der vergüteten Nutzung ist der gesetzliche Anknüpfungspunkt. Gerade bei Nachzahlungen und periodenübergreifenden Abrechnungen muss der tatsächliche Eingang nachweisbar sein.
 
-Beispiel: Eine Gesellschaft erhält nach dem Stichtag Vergütungen für ältere Nutzungen. Bei der Übergangszuordnung ist der Einnahmeneingang zu dokumentieren. Das alte Werkdatum allein schließt die besondere Beteiligungsregel nicht aus.
+Die Übergangsvorschrift schafft keinen voraussetzungslosen Anteil jedes Verlags an jeder Einnahme. § 63a Abs. 2 setzt die Einräumung eines Rechts durch den Urheber an den Verleger und eine angemessene Beteiligung in Bezug auf dieses Recht voraus; die gesetzliche kollektive Geltendmachung bleibt zu beachten. Absatz 3 erstreckt diese Regel entsprechend auf den Vergütungsanspruch nach § 27 Abs. 2. Für zuvor erhaltene Einnahmen kann § 137q diese Regelung nicht allein dadurch eröffnen, dass die Gesellschaft erst nach dem Stichtag ausschüttet. Ob eine andere Grundlage für eine Beteiligung besteht, wird damit nicht abschließend entschieden.
+
+Beispiel: Eine Gesellschaft erhält am 8. Juni 2021 eine Nachzahlung für frühere Bibliotheksnutzungen und zahlt sie 2022 aus. Der Eingang liegt im Anwendungsbereich des § 137q; die sachliche Beteiligungsgrundlage ist zusätzlich zu prüfen. Ein bereits am 4. Juni 2021 eingegangener Betrag fällt nicht wegen derselben späteren Ausschüttungsrunde unter diese Übergangsnorm.
 
 ### § 137r — Übergangsregelung zum Schutz des Presseverlegers
 
@@ -446,9 +462,11 @@ Beispiel: Eine Gesellschaft erhält nach dem Stichtag Vergütungen für ältere 
 
 > Die Vorschriften dieses Gesetzes über den Schutz des Presseverlegers (§§ 87f bis 87k und § 127b) finden keine Anwendung auf Presseveröffentlichungen, deren erstmalige Veröffentlichung vor dem 6. Juni 2019 erfolgte.
 
-Die neuen Presseverlegerregeln einschließlich persönlichem Anwendungsbereich gelten nicht für Presseveröffentlichungen, deren erstmalige Veröffentlichung vor dem 6. Juni 2019 liegt. Maßgeblich ist die konkrete Veröffentlichung, nicht bloß die seit langem bestehende Zeitung als Marke. Urheberrechte an einzelnen Beiträgen bleiben eigenständig.
+§ 137r grenzt das gegenwärtige Presseverlegerrecht zeitlich nach der erstmaligen Veröffentlichung der konkreten Presseveröffentlichung ab. Liegt sie vor dem 6. Juni 2019, finden §§ 87f bis 87k und § 127b auf diese Veröffentlichung keine Anwendung. Der Ausschluss umfasst also auch die besonderen Durchsetzungs- und persönlichen Anwendungsregeln des benannten Normenpakets. Er betrifft nicht schon deshalb jede spätere Ausgabe, weil die Zeitung als Unternehmen oder Marke früher gegründet wurde.
 
-Beispiel: Ein Verlag digitalisiert eine Ausgabe aus dem Jahr 2010. Die Digitalisierung macht die ursprüngliche Presseveröffentlichung nicht ohne weitere Prüfung zu einer erstmals nach dem Stichtag veröffentlichten Ausgabe. Die Rechte der Artikelautoren sind dennoch zu beachten.
+Der 6. Juni 2019 selbst ist nicht vom Ausschluss für eine Veröffentlichung „vor“ diesem Tag erfasst. Daraus folgt jedoch weder ein rückwirkender Beginn sämtlicher Ansprüche noch Schutz bis zum Bearbeitungsstichtag: Inkrafttreten des geltenden Schutzsystems, Schutzvoraussetzungen und die Frist nach § 87j sind eigenständig zu prüfen. Eine nachträgliche Digitalisierung oder erneute Bereitstellung derselben alten Veröffentlichung verschiebt deren erstmalige Veröffentlichung nicht allein wegen des neuen Dateiformats. Bei tatsächlich neuen Ausgaben oder Zusammenstellungen muss dagegen der beanspruchte Gegenstand genau bestimmt werden.
+
+Beispiel: Ein Verlag stellt 2026 eine Ausgabe von 2010 als PDF bereit. Das neue Upload-Datum hebt den Ausschluss für diese alte Presseveröffentlichung nicht auf. Ein aktueller Artikel oder eine neue Ausgabe verlangt eine eigene Prüfung. Die gesonderten Urheberrechte an Beiträgen und Bildern werden durch den Ausschluss des Presseverlegerrechts nicht freigegeben; aus der alten Paragraphennummer eines früheren Presseverlegerrechts lässt sich auch dessen Fortgeltung nicht ableiten.
 
 #### Abschnitt 3 — Schlussbestimmungen
 
@@ -472,9 +490,15 @@ Beispiel: Ein Verlag digitalisiert eine Ausgabe aus dem Jahr 2010. Die Digitalis
 >
 > (6) Eintragungen, die nach § 56 des Gesetzes betreffend das Urheberrecht an Werken der Literatur und der Tonkunst vom 19. Juni 1901 beim Stadtrat in Leipzig vorgenommen worden sind, bleiben wirksam.
 
-Absatz 1 ordnet das Register dem Patentamt zu und schließt eine behördliche Prüfung von Berechtigung und Tatsachenrichtigkeit ausdrücklich aus. Eine Eintragung ist deshalb kein abschließender Urhebernachweis. Absatz 2 eröffnet bei Ablehnung gerichtliche Entscheidung nach dem bezeichneten Verfahren. Absätze 3 und 4 regeln Bekanntmachung, Vorschuss, öffentliche Einsicht und Auszüge. Absatz 5 ermächtigt zu Form-, Führungs- und Kostenregeln; Absatz 6 bewahrt historische Leipziger Eintragungen. Die schutzdauerbezogene Wirkung folgt aus § 66.
+Das Register dient der schutzdauerbezogenen Anmeldung des wahren Namens bei anonymen oder pseudonymen Werken nach § 66 Abs. 2 Satz 2. Es begründet das Urheberrecht nicht erst und ist keine allgemeine Voraussetzung für Werksschutz. Für den Wechsel zur Berechnung nach §§ 64 und 65 kommt es nach § 66 auf die rechtzeitige Anmeldung innerhalb der dort bezeichneten Frist an; der Zeitpunkt der späteren Eintragung ist damit nicht gleichzusetzen. Auch die Berechtigung zu dieser Handlung richtet sich nach § 66 Abs. 3.
 
-Beispiel: Eine Person meldet den wahren Namen für ein pseudonymes Werk an. Ein Dritter darf den Registerauszug nicht als Ergebnis einer amtlichen Prüfung der Schöpferstellung darstellen. Für Schutzdauer und Berechtigung sind die jeweiligen Voraussetzungen getrennt zu belegen.
+Absatz 1 weist die Registerführung dem Patentamt zu und schließt die Prüfung der Antragsberechtigung und Tatsachenrichtigkeit ausdrücklich aus. Ein Auszug beweist daher, was eingetragen wurde, nicht abschließend die wahre Schöpferstellung. Die registerrechtliche Handlung und ein materieller Streit über Urheberschaft oder Rechtsnachfolge sind getrennt zu beurteilen.
+
+Absatz 2 eröffnet gegen die Ablehnung der Eintragung einen schriftlichen Antrag auf gerichtliche Entscheidung beim für den Sitz des Patentamts zuständigen Oberlandesgericht. Dieses entscheidet durch begründeten, nach dem Wortlaut endgültigen Beschluss; im Übrigen gelten die bezeichneten Vorschriften des FamFG entsprechend. Das ist ein besonderer Weg gegen die Registerablehnung, keine Entscheidungsvorgabe für sämtliche urheberrechtlichen Streitigkeiten. Eine Antragsfrist oder konkrete Gebührenhöhe wird in § 138 nicht genannt und hier nicht hinzuerfunden.
+
+Absatz 3 verlangt öffentliche Bekanntmachung im Bundesanzeiger und Vorauszahlung ihrer Kosten durch den Antragsteller. Nach Absatz 4 darf jeder Einsicht nehmen; Auszüge werden auf Antrag erteilt. Absatz 5 ermächtigt zu Verordnungsregeln über Antragsform, Registerführung und die aufgezählten Kostenfragen, setzt aber nicht selbst einen bestimmten Eurobetrag fest. Absatz 6 erhält die Wirksamkeit der dort bezeichneten alten Leipziger Eintragungen. Daraus entsteht keine allgemeine Anerkennung jeder privaten historischen Werkliste. Die Datenschutzabweichungen sind gesondert in § 138a begrenzt.
+
+Beispiel: Die Rechtsnachfolgerin eines pseudonym veröffentlichten Autors meldet seinen wahren Namen an. Für die Schutzdauer klärt sie ihre Berechtigung und den Zeitpunkt der Anmeldung nach § 66. Ein Konkurrent kann die Personenzuordnung weiterhin sachlich bestreiten; der Registerauszug ersetzt angesichts der fehlenden materiellen Amtsprüfung keinen Nachweis der Autorschaft.
 
 ### § 138a — Datenschutz
 
@@ -490,9 +514,13 @@ Beispiel: Eine Person meldet den wahren Namen für ein pseudonymes Werk an. Ein 
 >
 > Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 2016/679 wird dadurch erfüllt, dass die betroffene Person Einsicht in das Register anonymer und pseudonymer Werke des Deutschen Patent- und Markenamtes nehmen kann.
 
-Die registerbezogenen Datenschutzabweichungen sind gezielt auf die genannten Rechte und Pflichten beschränkt. Der Wortlaut nimmt nicht die gesamte Datenschutz-Grundverordnung außer Anwendung. Das Kopierecht wird durch Einsichtsmöglichkeit in das Register erfüllt. Zweck ist die Funktionsfähigkeit eines öffentlich einsehbaren Rechte- und Schutzdauerregisters; andere Datenverarbeitungen außerhalb dieses Registers sind nicht ohne Weiteres umfasst.
+§ 138a betrifft nur personenbezogene Daten, soweit sie im Register anonymer und pseudonymer Werke enthalten sind. Satz 1 nimmt drei genau bezeichnete Positionen aus: die Empfängerauskunft nach Art. 15 Abs. 1 Buchst. c DSGVO, die Mitteilung an die betroffene Person über Empfänger nach Art. 19 Satz 2 und den Widerspruch nach Art. 21 Abs. 1. Andere Bestandteile der Auskunft oder andere Verarbeitungen werden durch diese Aufzählung nicht pauschal beseitigt. Insbesondere ist die in Nummer 2 genannte Mitteilung an die betroffene Person von der in Art. 19 Satz 1 geregelten Unterrichtung der Empfänger über Berichtigung, Löschung oder Einschränkung zu unterscheiden.
 
-Beispiel: Eine eingetragene Person verlangt Empfängerinformationen in dem ausdrücklich ausgenommenen Umfang. Die besondere Regel ist zu prüfen. Ein Betreiber einer privaten Zusatzdatenbank kann seine eigene Verarbeitung dagegen nicht allein durch Verweis auf § 138a von sämtlichen Datenschutzanforderungen lösen.
+Satz 2 ordnet für das Kopierecht nach Art. 15 Abs. 3 eine besondere Erfüllungsweise an: Die betroffene Person kann in das Register Einsicht nehmen. Dies ergänzt dessen öffentliche Zugänglichkeit nach § 138 Abs. 4; es ist kein allgemeiner Ersatz für Kopien bei beliebigen Datenbeständen des Patentamts. Die Norm beseitigt weder alle Datenschutzpflichten noch erklärt sie die sachliche Richtigkeit sämtlicher Registerdaten für überprüft. Ein Anspruch wegen unrichtiger Daten ist daher nicht schon mit dem Hinweis auf die drei Ausnahmen beantwortet.
+
+Der [EuGH vom 12. Januar 2023 – C-154/21, Österreichische Post](cases/empfaengerauskunft.md), Rn. 36–43 und 47–51, erläutert den allgemeinen Maßstab: Bei einer Offenlegung ist grundsätzlich die Identität der konkreten Empfänger mitzuteilen; bei Unmöglichkeit der Identifizierung oder nachgewiesen offenkundig unbegründeten beziehungsweise exzessiven Anträgen gelten die im Urteil erläuterten Grenzen. Rn. 40–41 unterscheiden die Mitteilung an Empfänger von deren Benennung gegenüber der betroffenen Person. Das Urteil betrifft keine Eintragung nach § 138 UrhG und entscheidet nicht über die unionsrechtliche Zulässigkeit der deutschen Ausnahmen. Es hilft, deren Regelungsgegenstand abzugrenzen; eine Bestätigung oder Verwerfung des § 138a lässt sich ihm nicht entnehmen.
+
+Beispiel: Eine eingetragene Autorin verlangt Auskunft darüber, wer ihre Registerdaten eingesehen hat, und zugleich die Berichtigung einer falschen Angabe. Die Empfängerauskunft ist von der speziellen Ausnahme betroffen; daraus folgt keine automatische Ablehnung jedes weiteren Begehrens. Ein privater Anbieter, der Registerangaben in seine eigene Kundendatenbank übernimmt, kann deren gesamte Verarbeitung nicht durch Verweis auf § 138a von der DSGVO lösen.
 
 ### § 139 — Änderung der Strafprozessordnung
 
@@ -500,9 +528,9 @@ Beispiel: Eine eingetragene Person verlangt Empfängerinformationen in dem ausdr
 
 > -
 
-Die konsolidierte amtliche Fassung enthält für die frühere Änderung der Strafprozessordnung nur einen Strich. Es wird deshalb kein historischer Änderungsbefehl als gegenwärtiger UrhG-Tatbestand ausgegeben. Für heutige strafprozessuale Fragen ist das tatsächlich geltende Verfahrensrecht maßgeblich.
+Die amtliche Konsolidierung enthält unter der Überschrift zur Änderung der Strafprozessordnung ausschließlich einen Strich. Dieser wird als eigener amtlicher Platz erhalten; ein früherer Änderungsbefehl wird nicht als gegenwärtiger Tatbestand des UrhG rekonstruiert. Der fehlende historische Änderungswortlaut bedeutet zugleich nicht, dass sämtliche durch einen damaligen Änderungsakt bewirkten Folgen rückgängig gemacht worden wären.
 
-Beispiel: Eine alte Fundstelle nennt § 139 als Änderungsvorschrift. Der heutige Leerbefund erlaubt keine Aussage über den damaligen Änderungsinhalt; hierfür ist die ursprüngliche Verkündung heranzuziehen.
+Beispiel: Eine alte Strafakte verweist auf § 139 UrhG. Wer die damalige Rechtslage feststellen will, benötigt die ursprüngliche Verkündung und die für den Vorgang geltende Fassung des geänderten Verfahrensrechts. Für ein heutiges Verfahren liefert der Strich weder eine besondere Ermittlungsbefugnis noch eine Ausnahme von den geltenden Verfahrensregeln.
 
 ### § 140 — Änderung des Gesetzes über das am 6. September 1952 unterzeichnete Welturheberrechtsabkommen
 
@@ -510,9 +538,9 @@ Beispiel: Eine alte Fundstelle nennt § 139 als Änderungsvorschrift. Der heutig
 
 > -
 
-Der Strich dokumentiert eine historische Änderungsvorschrift zum Gesetz über das Welturheberrechtsabkommen ohne aktuellen materiellen Text an dieser Stelle. Daraus lässt sich weder der heutige Vertragsstatus noch eine allgemeine internationale Schutzregel ableiten. Für Auslandsfälle sind insbesondere §§ 120 ff. und die konkret einschlägige verifizierte Vertragsgrundlage maßgeblich.
+§ 140 erscheint in der amtlichen Fassung als Änderungsvorschrift zum Gesetz über das am 6. September 1952 unterzeichnete Welturheberrechtsabkommen, hat hier aber nur den Text „-“. Die Nummer ist deshalb vollständig erfasst, ohne den früheren Änderungsbefehl aus Erinnerung nachzubilden. Der Konsolidierungsbefund besagt weder, dass das Abkommen heute überall anwendbar sei, noch, dass alle historischen Wirkungen des damaligen Änderungsgesetzes entfallen seien.
 
-Beispiel: Ein Verwerter beruft sich pauschal auf § 140 für eine ausländische Lizenz. Die Stelle ersetzt keinen Nachweis, welches Abkommen und welche zeitliche Fassung den konkreten Schutz tatsächlich tragen.
+Beispiel: Für eine ausländische Buchausgabe soll Schutz in Deutschland festgestellt werden. Der bloße Verweis auf § 140 ersetzt weder die Prüfung der §§ 120 ff. noch die Beschaffung des konkret einschlägigen Abkommenstextes samt zeitlichem und persönlichem Geltungsbereich. Dieser Kommentar trifft aus der leeren Stelle keine Aussage über den heutigen Vertragsstatus eines bestimmten Staates.
 
 ### § 141 — Aufgehobene Vorschriften
 
@@ -520,9 +548,9 @@ Beispiel: Ein Verwerter beruft sich pauschal auf § 140 für eine ausländische 
 
 > -
 
-Die amtliche Konsolidierung bewahrt die Überschrift „Aufgehobene Vorschriften“, enthält aber nur einen Strich. Eine historische Aufhebungsliste wird hier nicht aus Erinnerung ergänzt. Der Befund ist als Leerstelle vollständig erfasst; er schafft keine selbständige heutige Rechte- oder Anspruchsgrundlage.
+Die Überschrift „Aufgehobene Vorschriften“ bleibt in der amtlichen Konsolidierung erhalten, der Normkörper enthält jedoch nur einen Strich. Er ist kein aktueller, inhaltlich unbegrenzter Aufhebungsbefehl. Die frühere Liste wird hier nicht ergänzt, weil ihre genaue historische Fassung erst aus der damaligen Verkündung zu gewinnen wäre. Die bloße Leerstelle erlaubt auch nicht den Umkehrschluss, sämtliche Vorgängerregelungen seien damals unverändert in Kraft geblieben.
 
-Beispiel: Bei einer historischen Vertragsprüfung soll festgestellt werden, ob eine Vorgängernorm 1966 entfiel. Das erfordert die damalige Verkündung und gegebenenfalls weitere Übergangsvorschriften. Der bloße heutige Strich beantwortet diese historische Frage nicht.
+Beispiel: Eine Vertragsakte von 1964 nennt eine frühere urheberrechtliche Vorschrift. Ob und mit welchen Übergangsfolgen diese 1966 außer Kraft trat, erfordert die damalige Aufhebungsregel zusammen mit den passenden Übergangsbestimmungen. Ein heutiger Anspruch kann nicht unmittelbar auf den Strich gestützt werden; eine historische Rechtswirkung wird durch dessen redaktionelle Kürze aber auch nicht widerlegt.
 
 ### § 142 — Evaluierung
 
@@ -530,9 +558,11 @@ Beispiel: Bei einer historischen Vertragsprüfung soll festgestellt werden, ob e
 
 > Die Bundesregierung erstattet vier Jahre nach Inkrafttreten des Urheberrechts-Wissensgesellschafts-Gesetzes dem Deutschen Bundestag Bericht über die Auswirkungen des Teils 1 Abschnitt 6 Unterabschnitt 4.
 
-Die Evaluierungspflicht richtet sich an die Bundesregierung und betrifft einen Bericht an den Bundestag über die bezeichneten Bildungs- und Wissenschaftsschranken. Sie ist keine Befristung ihrer Geltung und macht die Wirksamkeit einzelner Nutzungen nicht von einer positiven Berichtsbewertung abhängig. Aus der im Gesetz genannten Frist folgt auch kein Nachweis, ob und mit welchem Inhalt der Bericht tatsächlich vorgelegt wurde.
+§ 142 verpflichtet die Bundesregierung zu einem Bericht an den Deutschen Bundestag über die Auswirkungen der Bildungs- und Wissenschaftsschranken in Teil 1 Abschnitt 6 Unterabschnitt 4. Die gesetzliche Zeitangabe lautet vier Jahre nach Inkrafttreten des Urheberrechts-Wissensgesellschafts-Gesetzes. Sie ist eine Berichtsvorgabe an ein Staatsorgan, keine vierjährige Befristung der dort geregelten Nutzungserlaubnisse und keine individuelle Wartefrist für Bibliotheken oder Forschende.
 
-Beispiel: Eine Bibliothek will § 60e anwenden. Sie muss dessen Voraussetzungen prüfen, aber nicht aus § 142 eine zusätzliche individuelle Genehmigung ableiten. Aussagen über Ergebnisse der Evaluation bedürfen eines gesondert beschafften Berichts.
+Aus der Berichtspflicht folgen weder eine automatische Gesetzesänderung noch eine Genehmigungsvoraussetzung für einzelne Nutzungen. Ob ein Bericht tatsächlich abgegeben wurde und zu welchen empirischen oder rechtspolitischen Ergebnissen er kommt, muss anhand des gesonderten Berichts belegt werden; sein Vorliegen und Inhalt werden hier nicht allein aus § 142 abgeleitet. Für die konkrete Nutzung entscheiden weiterhin die jeweiligen Tatbestände, etwa § 60e für Bibliotheken und gegebenenfalls das Vertragsübergangsrecht des § 137o.
+
+Beispiel: Eine Bibliothek möchte 2026 eine nach § 60e zu prüfende Vervielfältigung vornehmen. Sie muss die dortigen Voraussetzungen einhalten, aber keine positive Einzelbewertung in einem Evaluierungsbericht nachweisen. Ein möglicher Verstoß gegen die Berichtspflicht würde die gesetzliche Erlaubnis nicht schon nach dem Wortlaut des § 142 auslaufen lassen.
 
 ### § 143 — Inkrafttreten
 
@@ -542,9 +572,11 @@ Beispiel: Eine Bibliothek will § 60e anwenden. Sie muss dessen Voraussetzungen 
 >
 > (2) Im übrigen tritt dieses Gesetz am 1. Januar 1966 in Kraft.
 
-Absatz 1 lässt die ausdrücklich genannten Fristen-, Zuständigkeits- und Registerermächtigungsregeln früher, am Tag nach der damaligen Verkündung, in Kraft treten. Absatz 2 setzt das übrige ursprüngliche Gesetz zum 1. Januar 1966 in Kraft. Diese historische Inkrafttretensnorm bestimmt nicht die Wirksamkeitsdaten sämtlicher späterer Änderungen. Für die hier berücksichtigte Änderung von 2026 ist deren eigener Art. 3 maßgeblich.
+§ 143 betrifft das ursprüngliche Inkrafttreten des Gesetzes von 1965. Absatz 1 nimmt die ausdrücklich aufgeführten §§ 64 bis 67, 69, 105 Abs. 1 bis 3 und § 138 Abs. 5 aus dem allgemeinen Termin heraus und lässt sie am Tag nach der damaligen Verkündung in Kraft treten. Absatz 2 bestimmt für das ursprüngliche übrige Gesetz den 1. Januar 1966. Diese Aufteilung ist bei der Auslegung alter Verweisungen auf das Inkrafttreten zu beachten; die bloße Jahreszahl im heutigen Gesetzestitel entscheidet den Einzelfall nicht.
 
-Beispiel: Ein Leser sieht den 1. Januar 1966 unter § 143 und hält deshalb einen 2026 eingefügten Absatz für seit 1966 gültig. Das wäre eine unzulässige Rückprojektion. Änderungsgesetz, Verkündungsdatum und eigene Inkrafttretensregel müssen zusammen dokumentiert werden.
+Die historischen Paragraphenverweise sind nicht ohne Weiteres durch heutige Inhalte gleicher Nummer zu ersetzen. Ebenso wenig legt § 143 fest, wann später eingefügte oder geänderte Vorschriften wirksam wurden. Dafür ist das jeweilige Änderungsgesetz mit seiner eigenen Inkrafttretens- und gegebenenfalls Übergangsregel heranzuziehen. Die für diese Ausgabe geprüfte Änderung von 2026 wurde am 29. Mai 2026 verkündet und trat nach ihrem Art. 3 am folgenden Tag in Kraft; § 143 verschiebt sie nicht auf 1966 zurück. Der [amtliche Verkündungsbeleg](sources/review-p137m-anlage/amendment.pdf) bleibt hierfür erhalten.
+
+Beispiel: Ein Nutzer will einen erst später eingefügten Absatz auf eine Nutzung von 1967 anwenden, weil unter § 143 der 1. Januar 1966 steht. Er muss zunächst beschaffen, ob und mit welchem Inhalt die einschlägige Sachnorm 1967 bereits galt. Heutige Konsolidierung und ursprüngliche Inkrafttretensnorm zusammen ersetzen diese historische Prüfung nicht.
 
 ### Anlage (zu § 61a) — Quellen einer sorgfältigen Suche
 
@@ -614,8 +646,20 @@ Beispiel: Ein Leser sieht den 1. Januar 1966 unter § 143 und hält deshalb eine
 
 *Amtlicher bzw. dokumentierter Quellenhinweis:* (Fundstelle: BGBl. I 2013, 3731 - 3732)
 
-Die Anlage ist verbindlicher Mindestkatalog für die sorgfältige Suche nach § 61a, keine bloße Literaturauswahl. Gruppe 1 betrifft Bücher mit Bibliotheks-, Verbands-, Identifikations- und Rechteverzeichnissen. Gruppe 2 ergänzt periodikenspezifische Quellen und Pflichtexemplare. Gruppe 3 verweist für eingebettete visuelle Werke zusätzlich auf Bildrechtegesellschaften und Agenturen. Gruppe 4 verlangt bei Film und Ton insbesondere Produzenten-, Förder-, Archiv-, Kennungs- und Mitwirkendeninformationen. Gruppe 5 erfasst nicht erschienene oder gesendete Bestände über Eigentümer, Nachlässe, Archive, Museen und Auskunftsdateien. Die Buchstabenquellen sind werkbezogen zu dokumentieren. Ein veralteter Name oder technisch nicht erreichbares Angebot darf nicht stillschweigend aus der Suchakte verschwinden; Zugriff, Hindernis und geeignete Folgerecherche sind festzuhalten. Hinweise auf andere Staaten lösen nach § 61a weitere Recherche aus.
+Die Anlage konkretisiert den verbindlichen Mindestumfang der sorgfältigen Suche nach § 61a Abs. 1. Sie umfasst fünf Quellengruppen mit insgesamt 26 Buchstabenpunkten. Es genügt weder, irgendeine dieser Datenbanken erfolglos abzufragen, noch muss für jeden Bestandsinhalt unterschiedslos der gesamte Katalog abgearbeitet werden: Die einschlägigen Gruppen und die darin bestimmten Quellen sind nach dem Schutzgegenstand zuzuordnen. Für im Bestand enthaltene weitere Schutzgegenstände ist die Suche ebenfalls erforderlich. Ein Titel ohne auffindbaren Verlagskontakt belegt deshalb noch nicht die Verwaisung aller darin enthaltenen Bilder.
 
-Beispiel: Ein Archiv digitalisiert eine unveröffentlichte Filmrolle mit Musik und beiliegenden Fotos. Es muss die passende Film- und Tonrecherche, zusätzliche Bildrechte sowie die für unveröffentlichte Bestände einschlägigen Eigentümer- und Nachlassquellen berücksichtigen. Ein erfolgloser Blick in nur einen Bibliothekskatalog reicht nicht.
+Gruppe 1 nennt für veröffentlichte Bücher fünf Quellenbereiche: Nationalbibliothek und weitere Bibliothekskataloge beziehungsweise Schlagwortlisten (a), Verleger- und Autorenverbände einschließlich VLB (b), Datenbanken und Verzeichnisse einschließlich WATCH und ISBN (c), Verwertungsgesellschaften einschließlich VG Wort (d) sowie zusammenführende Quellen wie GND, VIAF und ARROW (e). Eine ISBN ist eine Recherchekennung, keine eigenständige Lizenz oder Gewähr für die aktuelle Rechtsinhaberschaft.
 
-**Praxisprüfung Übergangsrecht und Suche:** Vertrag, Schöpfung, Aufnahme, Erscheinen, Nutzung und Einnahmeneingang datieren; passende Übergangsschicht und ihre Ausnahmen bestimmen; heutige Konsolidierung nicht als historische Fassung behandeln; bei Verwaisung alle fünf Anlagengruppen zuordnen und jede einschlägige Quelle dokumentieren.
+Gruppe 2 unterscheidet bei Zeitungen, Zeitschriften, Fachzeitschriften und Periodika das deutsche ISSN-Zentrum (a), Bibliotheksbestände einschließlich Nationalbibliothek und ZDB (b), Pflichtexemplardepots (c), Verleger-, Autoren- und Journalistenverbände mit den ausdrücklich genannten Verzeichnissen (d) sowie die entsprechenden Verwertungsgesellschaften (e). Die Bestimmung einer Ausgabe über ISSN und Kataloge ersetzt nicht die Zuordnung einzelner Beitragsrechte.
+
+Gruppe 3 betrifft die bezeichneten visuellen Werke und sonstigen derartigen Schutzgegenstände, die in anderen Werken enthalten sind. Sie bezieht die Quellen der Gruppen 1 und 2 ein (a) und ergänzt die einschlägigen Verwertungsgesellschaften, insbesondere VG BildKunst (b), sowie Bildagenturen (c). Ein Fotograf kann somit über eine andere Stelle als der Herausgeber des Buches zu ermitteln sein. Der begrenzte Anwendungsbereich des § 61 wird durch die Aufnahme visueller Werke in den Suchkatalog nicht zu einer allgemeinen Nutzungserlaubnis für jedes freistehende Bild erweitert.
+
+Gruppe 4 erfasst Filmwerke, die dort bezeichneten Filmaufzeichnungen und Tonträger. Ihre acht Punkte sind eigenständig zu prüfen: Pflichtexemplardepots (a), Produzentenverbände (b), Filmförderung (c), Film- und Tonerbeeinrichtungen sowie nationale Bibliotheken mit den genannten Archiven und Katalogen (d), Werk- und Aufnahmekennungen ISAN, ISWC und ISRC (e), Verwertungsgesellschaften für Autoren, Künstler und Hersteller (f), Mitwirkendenangaben auf Verpackung sowie Vor- und Abspann (g) und weitere Verbände der jeweiligen Rechtsinhaberkategorie (h). Gerade der Abspann ist eine gesetzlich benannte Quelle; ein Datenbanklauf ersetzt seine Auswertung nicht.
+
+Gruppe 5 ergänzt für nicht erschienene oder nicht gesendete Bestände die aktuellen und ursprünglichen Werkstückeigentümer (a), die Nachlassverzeichnisse Zentrale Datenbank Nachlässe und Kalliope (b), nationale Archivfindbücher (c), Museumsbestandsverzeichnisse (d) und Auskunftsdateien beziehungsweise Telefonbücher (e). Das Eigentum am Träger begründet keine Gleichsetzung mit dem Urheberrecht, kann aber die Suche nach dem Rechtsinhaber weiterführen. Der Überlassungsstichtag des § 137n und die weiteren Voraussetzungen des § 61 Abs. 4 bleiben erforderlich.
+
+Der Fall bereits in der bezeichneten amtlichen Datenbank als verwaist erfasster Bestandsinhalte ist in § 61a Abs. 5 gesondert von der Suchpflicht ausgenommen. Die Anlage ist im Übrigen kein abschließender Freibrief: § 61a bestimmt den jeweiligen Suchstaat, weitere verfügbare Quellen in anderen Staaten bei entsprechenden Hinweisen und die Dokumentation. Bei Film und unveröffentlichten Beständen gelten die besonderen Anknüpfungen seiner Absätze 2 und 3. Ein veralteter Name oder technisch nicht erreichbares Angebot darf nicht stillschweigend gestrichen werden. Zugriff, Ergebnis, Hindernis und sachgerechte Folgerecherche sind festzuhalten; hier wird nicht behauptet, alle namentlich genannten Angebote seien am Bearbeitungsstichtag technisch erreichbar. Der amtliche Fundstellenhinweis hinter der Anlage ist eine Quellenangabe, keine sechste Suchgruppe. Die [unabhängige XML-Abdeckung](sources/review-p137m-anlage/annex-coverage.json) weist alle 26 Punkte nach.
+
+Beispiel: Ein Archiv bearbeitet eine Filmrolle mit eigens komponierter Musik und einen dazugehörigen Katalog mit Fotografien. Es prüft beim Film auch Abspann, Produzenten- und Aufnahmeinformationen, bei den eingebetteten Fotos zusätzlich die Bildquellen. War ein Bestand weder erschienen noch gesendet, treten die passenden Eigentümer-, Nachlass- und Archivquellen hinzu. Ein Treffer zu einem Mitwirkenden verlangt weitere Rechteklärung; ein erfolgloser Blick in einen einzigen Bibliothekskatalog reicht für die übrigen Beteiligten nicht.
+
+Praxisprüfung für Übergang und Suche: Vertragsschluss, Entstehung, Veröffentlichung, Überlassung und Einnahmeneingang jeweils dem richtigen Tatbestand zuordnen; einen dauerhaften Altvertragsausschluss von bloßem Aufschub trennen; historische Fassungen für konkrete Altfälle beschaffen; jeden selbständigen Schutzgegenstand und die einschlägigen Anlagengruppen festlegen; Quellen, Suchstaaten, Suchbegriffe, Datum und Ergebnisse dokumentieren; bekannte Berechtigte um Erlaubnis ersuchen und bei späterem Auffinden § 61b beachten.

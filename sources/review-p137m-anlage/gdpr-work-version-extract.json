@@ -1,0 +1,237 @@
+[
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date",
+    "value": "2020-05-25"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date_end-of-validity",
+    "value": "9999-12-31"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "resource_legal_date_deadline",
+    "value": "2020-05-25"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date_entry-into-force",
+    "value": "2018-05-25"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "resource_legal_date_entry-into-force",
+    "value": "2018-05-25"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date",
+    "value": "2016-05-24"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date_document",
+    "value": "2016-04-27"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "number_natural_celex",
+    "value": "0679"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "resource_legal_date_entry-into-force",
+    "value": "2016-05-24"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "resource_legal_number_natural_celex",
+    "value": "0679"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "work_date_document",
+    "value": "2016-04-27"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "resource_legal_date_end-of-validity",
+    "value": "9999-12-31"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "resource_legal_date_signature",
+    "value": "2016-04-27"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date_signature",
+    "value": "2016-04-27"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date",
+    "value": "2016-05-04"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date",
+    "value": "2018-05-25"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date",
+    "value": "2016-04-27"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date_creation_legacy",
+    "value": "2016-05-04"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date_deadline",
+    "value": "2020-05-25"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date_entry-into-force",
+    "value": "2016-05-24"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "date",
+    "value": "9999-12-31"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001",
+    "property": "work_date_creation_legacy",
+    "value": "2016-05-04"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "consolidated_by",
+    "value": "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504_0000010"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_consolidated_by_act_consolidated",
+    "value": "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "amendment_proposed_by",
+    "value": "http://publications.europa.eu/resource/comnat/COM_2025_0837_FIN"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "consolidated_by",
+    "value": "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "amendment_proposed_by",
+    "value": "http://publications.europa.eu/resource/comnat/COM_2025_0501_FIN"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_basis_for_act_consolidated",
+    "value": "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504_0000010"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_consolidated_by_act_consolidated",
+    "value": "http://publications.europa.eu/resource/celex/01995L0046-20180525"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_consolidated_by_act_consolidated",
+    "value": "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504_0000020"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "id_celex",
+    "value": "32016R0679"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_amendment_proposed_by_resource_legal",
+    "value": "http://publications.europa.eu/resource/comnat/COM_2025_0501_FIN"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_id_celex",
+    "value": "32016R0679"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_consolidated_by_act_consolidated",
+    "value": "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504_0000030"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "consolidated_by",
+    "value": "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504_0000020"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "consolidated_by",
+    "value": "http://publications.europa.eu/resource/consolidation/1995L0046%2F20180525_0020010"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_consolidated_by_act_consolidated",
+    "value": "http://publications.europa.eu/resource/consolidation/1995L0046%2F20180525_0020010"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_basis_for_act_consolidated",
+    "value": "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504_0000030"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_amendment_proposed_by_resource_legal",
+    "value": "http://publications.europa.eu/resource/comnat/COM_2025_0837_FIN"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "consolidated_by",
+    "value": "http://publications.europa.eu/resource/celex/01995L0046-20180525"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_basis_for_act_consolidated",
+    "value": "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504_0000020"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "consolidated_by",
+    "value": "http://publications.europa.eu/resource/celex/02016R0679-20160504"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "consolidated_by",
+    "value": "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504_0000030"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_consolidated_by_act_consolidated",
+    "value": "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504_0000010"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_basis_for_act_consolidated",
+    "value": "http://publications.europa.eu/resource/celex/02016R0679-20160504"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_consolidated_by_act_consolidated",
+    "value": "http://publications.europa.eu/resource/celex/02016R0679-20160504"
+  },
+  {
+    "subject": "http://publications.europa.eu/resource/celex/32016R0679",
+    "property": "resource_legal_basis_for_act_consolidated",
+    "value": "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504"
+  }
+]

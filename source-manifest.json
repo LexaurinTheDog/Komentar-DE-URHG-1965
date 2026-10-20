@@ -1,6 +1,6 @@
 {
   "algorithm": "SHA-256",
-  "generated_at": "2026-10-20T14:39:48.160377+00:00",
+  "generated_at": "2026-10-20T14:52:24.015704+00:00",
   "sources": [
     {
       "path": "sources/aktualitaet.headers",
@@ -1521,6 +1521,386 @@
       "path": "sources/review-p131-p137l/tontraeger-ii.pdf.txt",
       "sha256": "081a737ae39437840a7e69f27d1838c1628706b6204441e80acc0627f4b84cfb",
       "bytes": 11391
+    },
+    {
+      "path": "sources/review-p137m-anlage/aktuell.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/review-p137m-anlage/aktuell.html.headers",
+      "sha256": "3ff42ea6706be995708781678746956026f9d4fe1a358e94e6f8b1e57e6ef2db",
+      "bytes": 324
+    },
+    {
+      "path": "sources/review-p137m-anlage/amendment.pdf",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883
+    },
+    {
+      "path": "sources/review-p137m-anlage/amendment.pdf.headers",
+      "sha256": "e1a4213977d5854c1e85f43b4d66a199b6a64d0a55f7d855e50f8c5b81a5f0fe",
+      "bytes": 1018
+    },
+    {
+      "path": "sources/review-p137m-anlage/amendment.txt",
+      "sha256": "330ec58cb454a226cdb04ba26c8da212f4d84f34af5c7c9b5adcb87dcd7dcef7",
+      "bytes": 31271
+    },
+    {
+      "path": "sources/review-p137m-anlage/anlage.xml",
+      "sha256": "f91a8dc6558abdb9bd356794ae0a4c399438a8206a4b17538568dd349527bea4",
+      "bytes": 6938
+    },
+    {
+      "path": "sources/review-p137m-anlage/annex-coverage.json",
+      "sha256": "f1fedc23d821324cd644c33375d571ebb15b33b343fd54ea2283a2d52fd05e2b",
+      "bytes": 8298
+    },
+    {
+      "path": "sources/review-p137m-anlage/baseline-commit.txt",
+      "sha256": "75c871232bad693f6d337c7370c47bc0aed1cbcbe127cd7e4f445751bd8cb3be",
+      "bytes": 41
+    },
+    {
+      "path": "sources/review-p137m-anlage/case-paragraphs.json",
+      "sha256": "e94c9be35b4fe954648ee974fc6c96a9e3fd4857d08d02be3d3677440e08c04e",
+      "bytes": 777
+    },
+    {
+      "path": "sources/review-p137m-anlage/corpus-hits.txt",
+      "sha256": "30a4535d9e88a6ab1def7862602d3bc41eed6f3f7d14620c5e101c617ca0a0b9",
+      "bytes": 627
+    },
+    {
+      "path": "sources/review-p137m-anlage/corpus-search-snippets.json",
+      "sha256": "6755e82a2c58b5d35a14487fa9fbac8ec5706cc8a6bbe35602b747b94b6c6f96",
+      "bytes": 12754
+    },
+    {
+      "path": "sources/review-p137m-anlage/current-version-fetch-results.json",
+      "sha256": "b0273ff1172162ba5c9bdedb31e974330e8a59add52325b71f6e8d807befb744",
+      "bytes": 1292
+    },
+    {
+      "path": "sources/review-p137m-anlage/current.pdf",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416
+    },
+    {
+      "path": "sources/review-p137m-anlage/current.pdf.headers",
+      "sha256": "f39e11e453f7197374c35c492dac721ec29cef0bdc49e4b301b16bf8ada45d7c",
+      "bytes": 309
+    },
+    {
+      "path": "sources/review-p137m-anlage/current.txt",
+      "sha256": "540571a1ae026695c3f587befbe120940e9c7dc0f3b95a807f7c8ad6fdbb51d6",
+      "bytes": 280366
+    },
+    {
+      "path": "sources/review-p137m-anlage/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "bytes": 401221
+    },
+    {
+      "path": "sources/review-p137m-anlage/current.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672
+    },
+    {
+      "path": "sources/review-p137m-anlage/current.zip.headers",
+      "sha256": "ddde2dd36a4a931ffa87e66b529c94b2b7019c8c4f80c109850ac9c61a63af4a",
+      "bytes": 308
+    },
+    {
+      "path": "sources/review-p137m-anlage/empfaengerauskunft.html",
+      "sha256": "fa54e6ffe894aa3e4f5d6d973511320c3ac715202216304c778f1ad87665d6a0",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p137m-anlage/empfaengerauskunft.html.headers",
+      "sha256": "2a0bf5bf2a795d64efb886dff7d770cb59dce876085edfd0f5c18be25f92b539",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p137m-anlage/empfaengerauskunft.pdf",
+      "sha256": "76784702b609f543a016816475eaf6fe03afe43f3ccdee42f823c8a2143bdc53",
+      "bytes": 371305
+    },
+    {
+      "path": "sources/review-p137m-anlage/empfaengerauskunft.pdf.headers",
+      "sha256": "106d3fecffa863ef00ae09934194a64ce6d7404f43471353dd9325393e2e0cfb",
+      "bytes": 288
+    },
+    {
+      "path": "sources/review-p137m-anlage/empfaengerauskunft.txt",
+      "sha256": "d83aad7254bcac9621074d194a405c0be9f7a52b2778d904131ed79b33a3c94d",
+      "bytes": 46680
+    },
+    {
+      "path": "sources/review-p137m-anlage/external-fetch-results.json",
+      "sha256": "475b7592a912a15408b244c47d074e3da2811c6215f7c69c7756e05d94f9d9d5",
+      "bytes": 2416
+    },
+    {
+      "path": "sources/review-p137m-anlage/external-version-evidence.json",
+      "sha256": "862e6a8d229141533bb5ead2928245a3390583bfa85480eb07a6454decca09fe",
+      "bytes": 2922
+    },
+    {
+      "path": "sources/review-p137m-anlage/fetch-results.json",
+      "sha256": "5b4807497996d56dd5be935515a65d42a36893c90570a1b4f4af7302065889f1",
+      "bytes": 3261
+    },
+    {
+      "path": "sources/review-p137m-anlage/firecrawl-status.txt",
+      "sha256": "dcbed30d98e74c74144804e8e3a89cec5d74c503a2917f61ab7082ac7f0efe7d",
+      "bytes": 361
+    },
+    {
+      "path": "sources/review-p137m-anlage/full.html",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217
+    },
+    {
+      "path": "sources/review-p137m-anlage/full.html.headers",
+      "sha256": "3eb673b1bc9defaa083036e0d4bcbfb770c7aacad18aba46d0c51feb89c75ca1",
+      "bytes": 325
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-all-en.html",
+      "sha256": "d6742dac9bf7a365340adc112c6f9de81c274f8c09c105d7430e87696c3c51cf",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-all-en.html.headers",
+      "sha256": "47c68dfa85849f16e96992bfa98aa035664b544cb265af778a3f90907a990b9c",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-consolidated-metadata.rdf",
+      "sha256": "eabb2360d99213f4a72d395bb9bef97c1dc26eb5867dc9069049bf2849d6be8b",
+      "bytes": 28120
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-consolidated-metadata.rdf.headers",
+      "sha256": "9c0e37a54f6168b1a28c2a76e2d174e0d5eca2f7bbc1bbca4cace13611d926cd",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-consolidated.html",
+      "sha256": "60f9d65048ec178fa865bfa1c5c0d11aa49885feefe199f46f62c4469dda2591",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-consolidated.html.headers",
+      "sha256": "647b9ec5d122e9aa18da9d95ebfb9a63a40d2c033109a8ddad5e18a1bcfc3415",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-consolidated.pdf",
+      "sha256": "46ec5902f6b8e59d7d4f27d9b6d194a943a673dc1d9bcf087f0f1969992d2c68",
+      "bytes": 785551
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-consolidated.pdf.headers",
+      "sha256": "b62d35a85b85b5af955e2f395abe30e038f1e9366eb0ac0d8295a6c67538c93e",
+      "bytes": 288
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-consolidated.txt",
+      "sha256": "21316e27e81cb436f1c59aa4f8326fe93cb0e1c98e0af7a81206a2a6429d104e",
+      "bytes": 265352
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-current.html",
+      "sha256": "5717748c1677ab1d4d881342ecb1fc4b53b2116d8b8a845121a2cb448fdcfdfb",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-current.html.headers",
+      "sha256": "db0f26dfeded0579fd683b8e3bc8857c89c57ac4c5b5f10ac691d82ffa854cca",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-eli.html",
+      "sha256": "ce1c539a6bc4a316d6a4bfed45f953172d2421f05be69fc027d959c82e852325",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-eli.html.headers",
+      "sha256": "9974575b2f8c91385ca0e189035973aa930abfb3b8ba046df50f9716c61d8ede",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-multilingual.html",
+      "sha256": "e44368b01058580f9ef02d57b403617e767add7ed25827b0f6a0fd9f217e315e",
+      "bytes": 2035
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-multilingual.html.headers",
+      "sha256": "3be9b7aa68925a5860b817ebf553238d63d9e3c6aa2132d070ecc8c67c87bcad",
+      "bytes": 549
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-original-metadata.rdf",
+      "sha256": "9064bfbc5aa8df23eccf126d86866a8dbf91bcb10c005092f9fbcae2a401bd4d",
+      "bytes": 3864
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-original-metadata.rdf.headers",
+      "sha256": "e35bb7fb502e480ac8a3839f33100f4824fdd39de0901157bff9d2190857508c",
+      "bytes": 301
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-original-version-extract.txt",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "bytes": 1
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-read-provisions.txt",
+      "sha256": "cf80c57b132c21895c47a5548b75bfa893fee2d41a14173fded19f96ee90d91d",
+      "bytes": 10864
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-version-extract.txt",
+      "sha256": "a9651aa45193a8a514f8b0f50cc1427927346bb249397a8cbd17f2bd6b956bb9",
+      "bytes": 11698
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-work-version-extract.json",
+      "sha256": "a6dfaa923dfc9d74cad04918c59acab30e5ad032f27b62bd4987ccf5ab8ad06e",
+      "bytes": 8860
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-work.rdf",
+      "sha256": "9afc85a45c4f525d82b61980ad94bdcc41723a6bcc5f81415210ca2f0a265ca8",
+      "bytes": 62783853
+    },
+    {
+      "path": "sources/review-p137m-anlage/gdpr-work.rdf.headers",
+      "sha256": "f1308935fb3ceb157f6a912da192c0f1ebc11f48b8e2fc0c0f68b20aefab9297",
+      "bytes": 293
+    },
+    {
+      "path": "sources/review-p137m-anlage/index.html",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665
+    },
+    {
+      "path": "sources/review-p137m-anlage/index.html.headers",
+      "sha256": "d6e29efc609b2c4a9ba51c46fc220d215a63ac9e7d165699b355f7e141571d65",
+      "bytes": 323
+    },
+    {
+      "path": "sources/review-p137m-anlage/metadata-fetch-results.json",
+      "sha256": "cc1e70495686335decd4cf56482cdfa9439b973ee54a0b326bd650bbc6bd8076",
+      "bytes": 1414
+    },
+    {
+      "path": "sources/review-p137m-anlage/original-version-fetch-results.json",
+      "sha256": "e6ee857b2cacac7af4c2502c6676a50a5041bdb2a664abc052490be9101c8af3",
+      "bytes": 857
+    },
+    {
+      "path": "sources/review-p137m-anlage/p137m.xml",
+      "sha256": "ca93c239131478ee7b7598404935cfbb9d46c005357cbeefcb108bc484554619",
+      "bytes": 1934
+    },
+    {
+      "path": "sources/review-p137m-anlage/p137n.xml",
+      "sha256": "c89bb7e228e50c6e62e796f89b64d5edbf4adf8fe07a91a4c0a04c1eb58d411f",
+      "bytes": 561
+    },
+    {
+      "path": "sources/review-p137m-anlage/p137o.xml",
+      "sha256": "4df06f6258717a7cfa20750bea51502af9c074278552ffec47067c64dd69826f",
+      "bytes": 506
+    },
+    {
+      "path": "sources/review-p137m-anlage/p137p.xml",
+      "sha256": "bc55e636964666566ded8729bce4bc8ad211717489c72e55ecf7c38f5f783a8b",
+      "bytes": 928
+    },
+    {
+      "path": "sources/review-p137m-anlage/p137q.xml",
+      "sha256": "2fab07d10cedb3ab891e0f59b3d423a11f0df87fa80abe75f13e6f36152337d5",
+      "bytes": 507
+    },
+    {
+      "path": "sources/review-p137m-anlage/p137r.xml",
+      "sha256": "b0f49e3c63bccecd72e13b857e69a39b818670432304401d7c80e8d1d9671710",
+      "bytes": 632
+    },
+    {
+      "path": "sources/review-p137m-anlage/p138.xml",
+      "sha256": "41ce5481ea85c5ee6d7b7f254d988c7deae705600d812011f775d866280ed5ad",
+      "bytes": 2579
+    },
+    {
+      "path": "sources/review-p137m-anlage/p138a.xml",
+      "sha256": "99eb599b2f8fa1a4f49f4d27ac1f5696d803f78625a905dadbb74b29da4f5d1f",
+      "bytes": 1483
+    },
+    {
+      "path": "sources/review-p137m-anlage/p139.xml",
+      "sha256": "ea638f600586f23d2465fc71481896e4d949c4c6c952ed10e4b9d71b5c3ada9e",
+      "bytes": 398
+    },
+    {
+      "path": "sources/review-p137m-anlage/p140.xml",
+      "sha256": "194e36da201e080cdadc55202226aac146c1ab171170df25f771484404fdc037",
+      "bytes": 459
+    },
+    {
+      "path": "sources/review-p137m-anlage/p141.xml",
+      "sha256": "dabc9dafb4a43ac692859db2140f8c59ea4a4da807c37b09c39c07153d11f19d",
+      "bytes": 389
+    },
+    {
+      "path": "sources/review-p137m-anlage/p142.xml",
+      "sha256": "49d3060b8a0777031b225b9e78a680f7c19b78084981f40fbb695e215c060ba6",
+      "bytes": 577
+    },
+    {
+      "path": "sources/review-p137m-anlage/p143.xml",
+      "sha256": "39cddf466bb3e91de25e1e74f37b3c1b2a3a69aebdcc52ec87cad23929429e59",
+      "bytes": 527
+    },
+    {
+      "path": "sources/review-p137m-anlage/preflight-evidence.json",
+      "sha256": "5d85ace5168fb9371d5af710a6f42f0481f692d3057a3fe87e6e8030e2a67b30",
+      "bytes": 5704
+    },
+    {
+      "path": "sources/review-p137m-anlage/preservation.json",
+      "sha256": "42c1cbfeea25aad3c038fbc23c4c78dded1fc5983477fbfa135e4255cb47ff78",
+      "bytes": 57487
+    },
+    {
+      "path": "sources/review-p137m-anlage/previous-review-p131-p137l.json",
+      "sha256": "70ea2f627227e56c6a25dafad47dfe715d491808207ec8d573d4b97f61a0e0ef",
+      "bytes": 25675
+    },
+    {
+      "path": "sources/review-p137m-anlage/quality-run.json",
+      "sha256": "51ab3f0bc878928efaf3c332ea3c6c588e34a526916632960ddfcf8ec97cc74e",
+      "bytes": 854
+    },
+    {
+      "path": "sources/review-p137m-anlage/search-log.json",
+      "sha256": "b055c49922a1e0f4aa18dd9d36c78e7cf3787037db77a8594cbfcf3c246091d9",
+      "bytes": 1884
+    },
+    {
+      "path": "sources/review-p137m-anlage/supplemental-fetch-results.json",
+      "sha256": "037f5eee652bd49ea0bdd5db9bcbf48c2cb139efdd7fc4878b04e1374758bdcd",
+      "bytes": 861
+    },
+    {
+      "path": "sources/review-p137m-anlage/work-metadata-fetch-results.json",
+      "sha256": "c5076004255db9a3b8b9e77651c1903b50424c018aa0518b41638a671c25f517",
+      "bytes": 637
     },
     {
       "path": "sources/review-p20-p32b/amendment.pdf",
@@ -3534,8 +3914,8 @@
     },
     {
       "path": "sources/search-log.json",
-      "sha256": "ebffeb03c944386880976c9390ad565c1b7342d02e126dfb944403171769cdb4",
-      "bytes": 17780
+      "sha256": "efbbaf3a11365daa526721a4e3e1a0292b637a1553a5f3d2570b758956962950",
+      "bytes": 19752
     },
     {
       "path": "sources/searches/amendment-search.json",
@@ -3609,8 +3989,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "ee930b23cae5091114ef7720d886945322c77eab36ef8871b6b727a1c5c1790f",
-      "bytes": 181341
+      "sha256": "3462844bd2c0c52e744cabcc28afb9f525e7660ebe7cabd3e7933e1682e7dd3c",
+      "bytes": 195231
     },
     {
       "path": "sources/verify-sources.py",

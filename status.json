@@ -1,6 +1,6 @@
 {
   "stage": "bounded_review_complete",
-  "updated_at": "2026-10-20T14:38:29.565841+00:00",
+  "updated_at": "2026-10-20T14:51:48.783528+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -15,10 +15,10 @@
     "original_preserved": true,
     "change_map": "sources/change-map.json",
     "statutory_changes_since_intake_detected": false,
-    "preflight_verified_at": "2026-10-20T14:38:29.565841+00:00",
+    "preflight_verified_at": "2026-10-20T14:51:48.783528+00:00",
     "coverage_report": "completeness-report.json",
     "source_integrity_checked_responses": 188,
-    "bounded_review_verified_at": "2026-10-20T14:38:29.565841+00:00",
+    "bounded_review_verified_at": "2026-10-20T14:51:48.783528+00:00",
     "source_integrity_mismatches": []
   },
   "total_units": 254,
@@ -26,7 +26,7 @@
   "paragraph_units": 253,
   "annex_units": 1,
   "chapters": 12,
-  "commentary_chars": 426726,
+  "commentary_chars": 443871,
   "case_law_sources": [
     {
       "court": "EuGH",
@@ -395,6 +395,19 @@
       "expected_format_validated": false,
       "validation_note": "Prüfung des Entscheidungscontainers statt empfindlichem Literalvergleich über HTML-Zeilenumbrüche; vollständige Entscheidung mit 76 Randnummern.",
       "read_scope": "Vollständiger Entscheidungscontainer mit Rn. 1–76, Rubrum und Tenor. Keine materielle Vollbestätigung aus Nichtannahme abgeleitet."
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/62021CJ0154",
+      "accessed_at": "2026-10-20T14:42:25.303294+00:00",
+      "expected_format": "pdf",
+      "http_status": 200,
+      "final_url": "http://publications.europa.eu/resource/cellar/5fbe0370-925f-11ed-b508-01aa75ed71a1.0001.04/DOC_1",
+      "response_path": "sources/review-p137m-anlage/empfaengerauskunft.pdf",
+      "headers_path": "sources/review-p137m-anlage/empfaengerauskunft.pdf.headers",
+      "bytes": 371305,
+      "sha256": "76784702b609f543a016816475eaf6fe03afe43f3ccdee42f823c8a2143bdc53",
+      "expected_format_validated": true,
+      "read_scope": "Vollständiger deutscher Volltext, 14 Seiten, Rn. 1–52, Rubrum, Tenor und Unterschriften; keine Sachentscheidung über § 138a UrhG."
     }
   ],
   "case_cards": [
@@ -422,7 +435,8 @@
     "cases/elektronischer-pressespiegel-ii.md",
     "cases/tarzan.md",
     "cases/kwantum.md",
-    "cases/neue-nutzungsarten-verfassungsbeschwerde.md"
+    "cases/neue-nutzungsarten-verfassungsbeschwerde.md",
+    "cases/empfaengerauskunft.md"
   ],
   "validation_result": {
     "repo": "Komentar-DE-URHG-1965",
@@ -451,17 +465,17 @@
   "independent_second_pass_completed": false,
   "unresolved_blockers": [],
   "remaining_limitations": [
-    "Genau die 20 zugewiesenen Einheiten vollständig geprüft, 234 andere Kommentare in diesem Arbeitsgang unverändert. Elf frühere Lose bewahrt; zusammen 240 verschiedene Einheiten dokumentiert und 14 für den zweiten Durchgang offen.",
-    "Selektive Rechtsprechung: BVerfG 1 BvR 213/08 Rn. 1–76 und BGH Tarzan Rn. 1–70 vollständig gelesen. Keine erschöpfende Folgeentscheidungsrecherche. Weitere Kandidaten und in Entscheidungen zitierte Urteile nicht als selbständig volltextgeprüft ausgegeben.",
-    "Aktueller amtlicher Konsolidierungsstand und letzte Änderung/Wirksamkeit geprüft; kein vollständiges historisches Fassungsarchiv oder Garantie gegen noch nicht eingearbeitete Änderungen. Die historischen Sachnormen für konkrete Altfälle sind zusätzlich zu ermitteln; keine Berechnung eines konkreten Altanspruchs.",
-    "Keine ganze zweite Buchprüfung, keine externe anwaltliche Freigabe. Technische Texttreue, Länge und Ähnlichkeitsprüfung ersetzen keine abschließende juristische Prüfung."
+    "Genau 14 zugewiesene Einheiten inhaltlich geprüft; die anderen 240 Kommentare in diesem Arbeitsgang unverändert. Keine Gesamtfreigabe oder externe anwaltliche Begutachtung.",
+    "Selektive Rechtsprechung, keine erschöpfende Folgeentscheidungsrecherche; EuGH-Urteil entscheidet nicht über § 138a UrhG.",
+    "Kein vollständiges historisches Fassungsarchiv; Anwendung auf konkrete Altfälle benötigt gesonderte historische Quellen. Amtlicher Konsolidierungsstand/letzte Änderungswirksamkeit belegt, keine Garantie gegen noch nicht eingearbeitete Änderungen.",
+    "Direkte EUR-Lex-HTML-Abrufe durch HTTP-202-Sperrseiten begrenzt; amtliche PDF-/Cellar-Quellen erfolgreich erhalten und gelesen. Kein umfassendes DSGVO- oder EU-Änderungsarchivaudit."
   ],
   "publication": false,
   "push": false,
-  "task_kind": "review",
+  "task_kind": "bounded_review",
   "prior_stage": "drafted_technical_validation",
   "authored_units_in_this_task": 0,
-  "manuscript_units_content_reviewed_in_this_task": 20,
+  "manuscript_units_content_reviewed_in_this_task": 14,
   "preflight_result": "preflight-result.json",
   "commentary_preservation": "commentary-preservation.json",
   "checks": {
@@ -472,64 +486,63 @@
     "broken_local_links": [],
     "repeated_long_paragraphs": [],
     "commentary_preservation": "review-result.json: per-unit hashes and baseline commit",
-    "bounded_reviewed_units": 20,
-    "bounded_corrected_units": 20,
-    "unassigned_commentary_units_preserved": 234,
+    "bounded_reviewed_units": 14,
+    "bounded_corrected_units": 14,
+    "unassigned_commentary_units_preserved": 240,
     "all_commented_units": 254,
-    "total_unique_units_with_recorded_bounded_reviews": 240,
-    "units_remaining_for_second_pass": 14
+    "total_unique_units_with_recorded_bounded_reviews": 254,
+    "units_remaining_for_second_pass": 0
   },
   "review_result": "review-result.json",
   "reviewed_ids": [
-    "p131",
-    "p132",
-    "p133",
-    "p134",
-    "p135",
-    "p135a",
-    "p136",
-    "p137",
-    "p137a",
-    "p137b",
-    "p137c",
-    "p137d",
-    "p137e",
-    "p137f",
-    "p137g",
-    "p137h",
-    "p137i",
-    "p137j",
-    "p137k",
-    "p137l"
+    "p137m",
+    "p137n",
+    "p137o",
+    "p137p",
+    "p137q",
+    "p137r",
+    "p138",
+    "p138a",
+    "p139",
+    "p140",
+    "p141",
+    "p142",
+    "p143",
+    "anlage"
   ],
   "corrected_ids": [
-    "p131",
-    "p132",
-    "p133",
-    "p134",
-    "p135",
-    "p135a",
-    "p136",
-    "p137",
-    "p137a",
-    "p137b",
-    "p137c",
-    "p137d",
-    "p137e",
-    "p137f",
-    "p137g",
-    "p137h",
-    "p137i",
-    "p137j",
-    "p137k",
-    "p137l"
+    "p137m",
+    "p137n",
+    "p137o",
+    "p137p",
+    "p137q",
+    "p137r",
+    "p138",
+    "p138a",
+    "p139",
+    "p140",
+    "p141",
+    "p142",
+    "p143",
+    "anlage"
   ],
   "whole_book_review_complete": false,
   "case_law_sources_reviewed_in_this_task": [
-    "cases/tarzan.md",
-    "cases/neue-nutzungsarten-verfassungsbeschwerde.md"
+    {
+      "url": "https://publications.europa.eu/resource/celex/62021CJ0154",
+      "accessed_at": "2026-10-20T14:42:25.303294+00:00",
+      "expected_format": "pdf",
+      "http_status": 200,
+      "final_url": "http://publications.europa.eu/resource/cellar/5fbe0370-925f-11ed-b508-01aa75ed71a1.0001.04/DOC_1",
+      "response_path": "sources/review-p137m-anlage/empfaengerauskunft.pdf",
+      "headers_path": "sources/review-p137m-anlage/empfaengerauskunft.pdf.headers",
+      "bytes": 371305,
+      "sha256": "76784702b609f543a016816475eaf6fe03afe43f3ccdee42f823c8a2143bdc53",
+      "expected_format_validated": true,
+      "read_scope": "Vollständiger deutscher Volltext, 14 Seiten, Rn. 1–52, Rubrum, Tenor und Unterschriften; keine Sachentscheidung über § 138a UrhG."
+    }
   ],
-  "bounded_review_preservation": "sources/review-p131-p137l/preservation.json",
+  "bounded_review_preservation": "sources/review-p137m-anlage/preservation.json",
   "prior_validation": {
     "result": {
       "repo": "Komentar-DE-URHG-1965",
@@ -545,7 +558,7 @@
   },
   "validation_recorded_at": "2026-10-20T14:39:14.781078+00:00",
   "validation_output_content_commit": "a54c0493c01486534888fe55a56ba54305ffd4a0",
-  "technical_validation_scope": "Strenge technische Gesamtprüfung vorhandener 254 Einheiten; inhaltlicher Prüfungsumfang dieses Loses exakt 20 Einheiten, keine Erweiterung durch technischen Prüferfolg.",
+  "technical_validation_scope": "Strenge technische Gesamtprüfung der vorhandenen 254 Einheiten; inhaltliche Prüfung dieses Loses exakt 14 Einheiten. Frühere Lose bleiben archivierte eigene Nachweise, keine Gesamtfreigabe.",
   "previous_bounded_validation": {
     "result": {
       "repo": "Komentar-DE-URHG-1965",

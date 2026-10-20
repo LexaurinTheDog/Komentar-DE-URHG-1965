@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/celex/32016R0679",
+    "accessed_at": "2026-10-20T14:47:43.052799+00:00",
+    "expected_format": "rdf",
+    "http_status": 200,
+    "final_url": "http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0004/rdf/object/full",
+    "response_path": "sources/review-p137m-anlage/gdpr-original-metadata.rdf",
+    "headers_path": "sources/review-p137m-anlage/gdpr-original-metadata.rdf.headers",
+    "bytes": 3864,
+    "sha256": "9064bfbc5aa8df23eccf126d86866a8dbf91bcb10c005092f9fbcae2a401bd4d",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/32016R0679",
+    "accessed_at": "2026-10-20T14:47:43.053149+00:00",
+    "expected_format": "pdf",
+    "error": "HTTP Error 404: ",
+    "expected_format_validated": false
+  }
+]

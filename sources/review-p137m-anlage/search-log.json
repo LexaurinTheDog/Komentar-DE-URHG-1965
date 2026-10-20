@@ -1,0 +1,28 @@
+{
+  "verified_at": "2026-10-20T14:51:48.783528+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de UrhG \"137m\"",
+    "site.rechtsprechung-im-internet.de UrhG \"137o\"",
+    "site.bundesgerichtshof.de UrhG \"137q\"",
+    "site.rechtsprechung-im-internet.de \"Register anonymer\"",
+    "site.rechtsprechung-im-internet.de \"137p\" UrhG",
+    "site.rechtsprechung-im-internet.de \"137r\" UrhG",
+    "site.rechtsprechung-im-internet.de \"138a\" UrhG",
+    "site.curia.europa.eu \"C-154/21\" \"Empfänger\" \"Urteil\""
+  ],
+  "method": "Selektive Webentdeckung und Volltextsuche im lokalen nationalen RII-Korpus; materielle Aussage nur aus tatsächlich vollständig gelesenem amtlichem EuGH-PDF.",
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_pattern": "§ ?137[m-r]|§ ?138a|Register anonymer|Register anonymer und pseudonymer",
+  "local_search_result": "11 Texttreffer; sämtlich sachfremder Verteidigerausschluss nach § 138a StPO. Keine passende UrhG-Entscheidung daraus übernommen.",
+  "local_evidence": [
+    "sources/review-p137m-anlage/corpus-hits.txt",
+    "sources/review-p137m-anlage/corpus-search-snippets.json"
+  ],
+  "accepted": [
+    "EuGH 12.1.2023 C-154/21, ECLI:EU:C:2023:3, Rn. 1–52"
+  ],
+  "accepted_scope": "Nur allgemeiner Maßstab Art. 15 Abs. 1 Buchst. c und Art. 19 DSGVO als Abgrenzung bei § 138a; kein Urteil über dessen unionsrechtliche Wirksamkeit.",
+  "firecrawl": "Status tatsächlich geprüft: 0 Credits; keine erfolgreiche Firecrawl-Extraktion behauptet. Direkte amtliche Antwortkörper verwendet.",
+  "firecrawl_evidence": "sources/review-p137m-anlage/firecrawl-status.txt",
+  "limits": "Keine erschöpfende Rechtsprechungs- oder Folgeentscheidungsabdeckung. Für die anderen 13 Einheiten keine hinreichend relevante neue Volltextentscheidung ausgewählt; keine Behauptung, hierzu existiere keine Rechtsprechung."
+}

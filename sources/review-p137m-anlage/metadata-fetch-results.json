@@ -1,0 +1,33 @@
+[
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/En/ALL/?uri=CELEX%3A32016R0679",
+    "accessed_at": "2026-10-20T14:45:58.741823+00:00",
+    "expected_format": "metadata",
+    "http_status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/En/ALL/?uri=CELEX%3A32016R0679",
+    "response_path": "sources/review-p137m-anlage/gdpr-all-en.html",
+    "headers_path": "sources/review-p137m-anlage/gdpr-all-en.html.headers",
+    "bytes": 2035,
+    "sha256": "d6742dac9bf7a365340adc112c6f9de81c274f8c09c105d7430e87696c3c51cf",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng",
+    "accessed_at": "2026-10-20T14:45:58.742215+00:00",
+    "expected_format": "metadata",
+    "http_status": 202,
+    "final_url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng",
+    "response_path": "sources/review-p137m-anlage/gdpr-eli.html",
+    "headers_path": "sources/review-p137m-anlage/gdpr-eli.html.headers",
+    "bytes": 2035,
+    "sha256": "ce1c539a6bc4a316d6a4bfed45f953172d2421f05be69fc027d959c82e852325",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/32016R0679",
+    "accessed_at": "2026-10-20T14:45:58.742305+00:00",
+    "expected_format": "pdf",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "expected_format_validated": false
+  }
+]

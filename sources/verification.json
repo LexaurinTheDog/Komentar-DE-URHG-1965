@@ -2160,6 +2160,148 @@
       "expected_format_validated": true,
       "format": "Official XML with statute identifier check",
       "derived_from": "sources/review-p131-p137l/egbgb.xml.zip"
+    },
+    {
+      "url": "https://publications.europa.eu/resource/cellar/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1/rdf/object/full",
+      "accessed_at": "2026-10-20T14:47:18.046193+00:00",
+      "expected_format": "rdf",
+      "http_status": 200,
+      "final_url": "https://publications.europa.eu/resource/cellar/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1/rdf/object/full",
+      "response_path": "sources/review-p137m-anlage/gdpr-consolidated-metadata.rdf",
+      "headers_path": "sources/review-p137m-anlage/gdpr-consolidated-metadata.rdf.headers",
+      "bytes": 28120,
+      "sha256": "eabb2360d99213f4a72d395bb9bef97c1dc26eb5867dc9069049bf2849d6be8b",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/02016R0679-20160504",
+      "accessed_at": "2026-10-20T14:41:57.202390+00:00",
+      "expected_format": "pdf",
+      "http_status": 200,
+      "final_url": "http://publications.europa.eu/resource/cellar/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1.0001.04/DOC_1",
+      "response_path": "sources/review-p137m-anlage/gdpr-consolidated.pdf",
+      "headers_path": "sources/review-p137m-anlage/gdpr-consolidated.pdf.headers",
+      "bytes": 785551,
+      "sha256": "46ec5902f6b8e59d7d4f27d9b6d194a943a673dc1d9bcf087f0f1969992d2c68",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T14:40:49.247601+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p137m-anlage/current.zip",
+      "headers_path": "sources/review-p137m-anlage/current.zip.headers",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672,
+      "expected_format": "zip",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "accessed_at": "2026-10-20T14:40:49.248094+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p137m-anlage/index.html",
+      "headers_path": "sources/review-p137m-anlage/index.html.headers",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665,
+      "expected_format": "html",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "accessed_at": "2026-10-20T14:40:49.248187+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p137m-anlage/full.html",
+      "headers_path": "sources/review-p137m-anlage/full.html.headers",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217,
+      "expected_format": "html",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "accessed_at": "2026-10-20T14:40:49.248247+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p137m-anlage/current.pdf",
+      "headers_path": "sources/review-p137m-anlage/current.pdf.headers",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416,
+      "expected_format": "pdf",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T14:40:49.248299+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p137m-anlage/amendment.pdf",
+      "headers_path": "sources/review-p137m-anlage/amendment.pdf.headers",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883,
+      "expected_format": "pdf",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T14:40:49.248346+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p137m-anlage/aktuell.html",
+      "headers_path": "sources/review-p137m-anlage/aktuell.html.headers",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210,
+      "expected_format": "html",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/32016R0679",
+      "accessed_at": "2026-10-20T14:47:43.052799+00:00",
+      "expected_format": "rdf",
+      "http_status": 200,
+      "final_url": "http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0004/rdf/object/full",
+      "response_path": "sources/review-p137m-anlage/gdpr-original-metadata.rdf",
+      "headers_path": "sources/review-p137m-anlage/gdpr-original-metadata.rdf.headers",
+      "bytes": 3864,
+      "sha256": "9064bfbc5aa8df23eccf126d86866a8dbf91bcb10c005092f9fbcae2a401bd4d",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/62021CJ0154",
+      "accessed_at": "2026-10-20T14:42:25.303294+00:00",
+      "expected_format": "pdf",
+      "http_status": 200,
+      "final_url": "http://publications.europa.eu/resource/cellar/5fbe0370-925f-11ed-b508-01aa75ed71a1.0001.04/DOC_1",
+      "response_path": "sources/review-p137m-anlage/empfaengerauskunft.pdf",
+      "headers_path": "sources/review-p137m-anlage/empfaengerauskunft.pdf.headers",
+      "bytes": 371305,
+      "sha256": "76784702b609f543a016816475eaf6fe03afe43f3ccdee42f823c8a2143bdc53",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1/rdf/object/full",
+      "accessed_at": "2026-10-20T14:48:18.095075+00:00",
+      "expected_format": "rdf",
+      "http_status": 200,
+      "final_url": "https://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1/rdf/object/full",
+      "response_path": "sources/review-p137m-anlage/gdpr-work.rdf",
+      "headers_path": "sources/review-p137m-anlage/gdpr-work.rdf.headers",
+      "bytes": 62783853,
+      "sha256": "9afc85a45c4f525d82b61980ad94bdcc41723a6bcc5f81415210ca2f0a265ca8",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T14:40:49.247601+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p137m-anlage/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "expected_format_validated": true,
+      "format": "XML dokumente; jurabk UrhG; original doknr",
+      "derived_from": "sources/review-p137m-anlage/current.zip"
     }
   ],
   "version": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
@@ -3520,6 +3662,117 @@
       "validation_note": "Prüfung des Entscheidungscontainers statt empfindlichem Literalvergleich über HTML-Zeilenumbrüche; vollständige Entscheidung mit 76 Randnummern.",
       "used_as_substantive_authority": false,
       "response_body_preserved": true
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN-IT-DE/ALL/?from=EN&uri=CELEX%3A32016R0679",
+      "accessed_at": "2026-10-20T14:47:18.046558+00:00",
+      "expected_format": "metadata",
+      "http_status": 202,
+      "final_url": "https://eur-lex.europa.eu/legal-content/EN-IT-DE/ALL/?from=EN&uri=CELEX%3A32016R0679",
+      "response_path": "sources/review-p137m-anlage/gdpr-multilingual.html",
+      "headers_path": "sources/review-p137m-anlage/gdpr-multilingual.html.headers",
+      "bytes": 2035,
+      "sha256": "e44368b01058580f9ef02d57b403617e767add7ed25827b0f6a0fd9f217e315e",
+      "expected_format_validated": false,
+      "used_as_substantive_authority": false,
+      "response_body_preserved": true
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0154&print=true",
+      "accessed_at": "2026-10-20T14:41:57.201824+00:00",
+      "expected_format": "case",
+      "http_status": 202,
+      "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0154&print=true",
+      "response_path": "sources/review-p137m-anlage/empfaengerauskunft.html",
+      "headers_path": "sources/review-p137m-anlage/empfaengerauskunft.html.headers",
+      "bytes": 2035,
+      "sha256": "fa54e6ffe894aa3e4f5d6d973511320c3ac715202216304c778f1ad87665d6a0",
+      "expected_format_validated": false,
+      "used_as_substantive_authority": false,
+      "response_body_preserved": true
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:32016R0679",
+      "accessed_at": "2026-10-20T14:41:57.202217+00:00",
+      "expected_format": "metadata",
+      "http_status": 202,
+      "final_url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:32016R0679",
+      "response_path": "sources/review-p137m-anlage/gdpr-current.html",
+      "headers_path": "sources/review-p137m-anlage/gdpr-current.html.headers",
+      "bytes": 2035,
+      "sha256": "5717748c1677ab1d4d881342ecb1fc4b53b2116d8b8a845121a2cb448fdcfdfb",
+      "expected_format_validated": false,
+      "used_as_substantive_authority": false,
+      "response_body_preserved": true
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02016R0679-20160504",
+      "accessed_at": "2026-10-20T14:41:57.202316+00:00",
+      "expected_format": "gdpr",
+      "http_status": 202,
+      "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02016R0679-20160504",
+      "response_path": "sources/review-p137m-anlage/gdpr-consolidated.html",
+      "headers_path": "sources/review-p137m-anlage/gdpr-consolidated.html.headers",
+      "bytes": 2035,
+      "sha256": "60f9d65048ec178fa865bfa1c5c0d11aa49885feefe199f46f62c4469dda2591",
+      "expected_format_validated": false,
+      "used_as_substantive_authority": false,
+      "response_body_preserved": true
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/En/ALL/?uri=CELEX%3A32016R0679",
+      "accessed_at": "2026-10-20T14:45:58.741823+00:00",
+      "expected_format": "metadata",
+      "http_status": 202,
+      "final_url": "https://eur-lex.europa.eu/legal-content/En/ALL/?uri=CELEX%3A32016R0679",
+      "response_path": "sources/review-p137m-anlage/gdpr-all-en.html",
+      "headers_path": "sources/review-p137m-anlage/gdpr-all-en.html.headers",
+      "bytes": 2035,
+      "sha256": "d6742dac9bf7a365340adc112c6f9de81c274f8c09c105d7430e87696c3c51cf",
+      "expected_format_validated": false,
+      "used_as_substantive_authority": false,
+      "response_body_preserved": true
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng",
+      "accessed_at": "2026-10-20T14:45:58.742215+00:00",
+      "expected_format": "metadata",
+      "http_status": 202,
+      "final_url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng",
+      "response_path": "sources/review-p137m-anlage/gdpr-eli.html",
+      "headers_path": "sources/review-p137m-anlage/gdpr-eli.html.headers",
+      "bytes": 2035,
+      "sha256": "ce1c539a6bc4a316d6a4bfed45f953172d2421f05be69fc027d959c82e852325",
+      "expected_format_validated": false,
+      "used_as_substantive_authority": false,
+      "response_body_preserved": true
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/32016R0679",
+      "accessed_at": "2026-10-20T14:45:58.742305+00:00",
+      "expected_format": "pdf",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "expected_format_validated": false,
+      "used_as_substantive_authority": false,
+      "response_body_preserved": false
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/32016R0679",
+      "accessed_at": "2026-10-20T14:47:43.053149+00:00",
+      "expected_format": "pdf",
+      "error": "HTTP Error 404: ",
+      "expected_format_validated": false,
+      "used_as_substantive_authority": false,
+      "response_body_preserved": false
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/32016R0679/rdf/object/full",
+      "accessed_at": "2026-10-20T14:42:25.303664+00:00",
+      "expected_format": "rdf",
+      "error": "HTTP Error 404: ",
+      "expected_format_validated": false,
+      "used_as_substantive_authority": false,
+      "response_body_preserved": false
     }
   ],
   "bounded_review_p53_p60b": {
@@ -3878,5 +4131,41 @@
     "fetch_log": "sources/review-p131-p137l/fetch-results.json",
     "case_checks": "sources/review-p131-p137l/case-local-agreement.json",
     "external_version": "sources/review-p131-p137l/external-version-evidence.json"
+  },
+  "bounded_review_p137m_anlage": {
+    "verified_at": "2026-10-20T14:51:48.783528+00:00",
+    "reviewed_ids": [
+      "p137m",
+      "p137n",
+      "p137o",
+      "p137p",
+      "p137q",
+      "p137r",
+      "p138",
+      "p138a",
+      "p139",
+      "p140",
+      "p141",
+      "p142",
+      "p143",
+      "anlage"
+    ],
+    "current_xml_unchanged": true,
+    "version_evidence": {
+      "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
+      "promulgated": "2026-05-29",
+      "effective_from": "2026-05-30",
+      "commencement_article": "Art. 3: Tag nach der Verkündung",
+      "affected_units": [
+        "p54d",
+        "p87b"
+      ],
+      "assigned_units_affected_by_latest_amendment": [],
+      "evidence": "sources/review-p137m-anlage/amendment.pdf",
+      "evidence_sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "check_scope": "Bearbeitungsbeginn dieses Titels 19.10.2026. Frische amtliche XML-, Index-, Voll-HTML-, PDF- und Änderungsverkündungsabrufe am 20.10.2026 stimmen mit den gesicherten Quellen überein; keine Änderung seit Aufnahme festgestellt. Aktualitätendienst ohne weiteren UrhG-Eintrag. Wirksamkeit aus Verkündung/Art. 3, nicht aus Abrufdatum abgeleitet. Keine Garantie gegen noch nicht eingearbeitete Änderungen."
+    },
+    "fetch_log": "sources/review-p137m-anlage/fetch-results.json",
+    "external_version": "sources/review-p137m-anlage/external-version-evidence.json"
   }
 }

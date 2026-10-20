@@ -1,0 +1,38 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://publications.europa.eu/ontology/cdm#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.1="http://www.w3.org/2004/02/skos/core#"
+    xmlns:j.2="http://publications.europa.eu/ontology/cdm/cmr#" > 
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001.DEU">
+    <j.0:expression_belongs_to_work rdf:resource="http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001"/>
+    <j.0:expression_manifested_by_manifestation rdf:resource="http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001.DEU.fmx4"/>
+    <j.0:expression_title>Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (Text von Bedeutung für den EWR)</j.0:expression_title>
+    <j.0:title>Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (Text von Bedeutung für den EWR)</j.0:title>
+    <j.0:expression_uses_language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <j.0:belongs_to rdf:resource="http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#expression"/>
+    <j.0:expression_manifested_by_manifestation rdf:resource="http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001.DEU.xhtml"/>
+    <j.0:expression_manifested_by_manifestation rdf:resource="http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001.DEU.pdfa1a"/>
+    <j.0:uses rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/language/DEU">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#language"/>
+    <j.1:inScheme rdf:resource="http://publications.europa.eu/resource/authority/language"/>
+    <j.0:language_used_by_expression rdf:resource="http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001.DEU"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0004">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/uriserv/OJ.L_.2016.119.01.0001.01.DEU"/>
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/celex/32016R0679.DEU"/>
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001.DEU"/>
+    <j.2:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#language">de</j.2:lang>
+    <j.2:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#language">deu</j.2:lang>
+    <j.2:lastModificationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-02-05T16:25:55.606+01:00</j.2:lastModificationDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/celex/32016R0679.DEU">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#expression"/>
+    <j.0:expression_title_short rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Datenschutz Grundverordnung, DSGVO, GDPR, datenschutzgrundverordnung, Schutz personenbezogener Daten</j.0:expression_title_short>
+    <j.0:title_short rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Datenschutz Grundverordnung, DSGVO, GDPR, datenschutzgrundverordnung, Schutz personenbezogener Daten</j.0:title_short>
+  </rdf:Description>
+</rdf:RDF>

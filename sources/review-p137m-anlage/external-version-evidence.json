@@ -1,0 +1,44 @@
+{
+  "verified_at": "2026-10-20T14:51:48.783528+00:00",
+  "decisive_date": "2026-10-19",
+  "official_url": "https://publications.europa.eu/resource/celex/02016R0679-20160504",
+  "raw_evidence": "sources/review-p137m-anlage/gdpr-consolidated.pdf",
+  "raw_sha256": "46ec5902f6b8e59d7d4f27d9b6d194a943a673dc1d9bcf087f0f1969992d2c68",
+  "consolidation_identifier": "02016R0679 – DE – 04.05.2016 – 000.003",
+  "corrigenda_in_pdf": [
+    "ABl. L 314 vom 22.11.2016, S. 72",
+    "ABl. L 127 vom 23.5.2018, S. 2",
+    "ABl. L 74 vom 4.3.2021, S. 35"
+  ],
+  "provisions_read": [
+    "Art. 15",
+    "Art. 16",
+    "Art. 19",
+    "Art. 21",
+    "Art. 23",
+    "Art. 99"
+  ],
+  "read_extract": "sources/review-p137m-anlage/gdpr-read-provisions.txt",
+  "entry_into_force": "Art. 99 Abs. 1: zwanzigster Tag nach Amtsblattveröffentlichung am 4.5.2016, also 24.5.2016; Anwendung ab 25.5.2018 nach Abs. 2.",
+  "metadata_evidence": "sources/review-p137m-anlage/gdpr-consolidated-metadata.rdf",
+  "metadata_sha256": "eabb2360d99213f4a72d395bb9bef97c1dc26eb5867dc9069049bf2849d6be8b",
+  "currency_corroboration": "Frischer amtlicher Cellar-Work-RDF-Abruf: Nur zum DSGVO-Ursprungsakt gehörende Subjekte ausgewertet, nicht die zahlreichen mitgelieferten verknüpften Rechtsakte. Die DSGVO-eigenen konsolidierten Fassungen tragen sämtlich den 4.5.2016 mit drei Berichtigungsständen; keine eigene Änderungsrelation. Beziehungen zu COM-Vorschlägen sind keine verkündete Änderung. Wirksamkeit aus Art. 99 und zugeordneten Datumsfeldern geprüft. EUR-Lex-Suchindex bestätigt denselben aktuellen Konsolidierungsstand; direkte HTML-Antworten blieben verworfene Sperrseiten.",
+  "limits": [
+    "Nur die bezeichneten Verweisungsnormen und der Urteilskontext geprüft; keine vollständige DSGVO-Kommentierung oder erschöpfende EU-Änderungsarchivrecherche.",
+    "Der aktuelle deutsche Ausnahmetext ist unabhängig davon durch den erfolgreichen frischen UrhG-XML-Abruf nachgewiesen. Keine unionsrechtliche Wirksamkeitsbescheinigung für § 138a."
+  ],
+  "work_metadata_evidence": "sources/review-p137m-anlage/gdpr-work.rdf",
+  "work_metadata_sha256": "9afc85a45c4f525d82b61980ad94bdcc41723a6bcc5f81415210ca2f0a265ca8",
+  "work_metadata_subjects_checked": [
+    "http://publications.europa.eu/resource/celex/32016R0679",
+    "http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1",
+    "http://publications.europa.eu/resource/oj/JOL_2016_119_R_0001"
+  ],
+  "current_consolidations": [
+    "http://publications.europa.eu/resource/celex/02016R0679-20160504",
+    "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504",
+    "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504_0000010",
+    "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504_0000020",
+    "http://publications.europa.eu/resource/consolidation/2016R0679%2F20160504_0000030"
+  ]
+}

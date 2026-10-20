@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/cellar/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1/rdf/object/full",
+    "accessed_at": "2026-10-20T14:47:18.046193+00:00",
+    "expected_format": "rdf",
+    "http_status": 200,
+    "final_url": "https://publications.europa.eu/resource/cellar/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1/rdf/object/full",
+    "response_path": "sources/review-p137m-anlage/gdpr-consolidated-metadata.rdf",
+    "headers_path": "sources/review-p137m-anlage/gdpr-consolidated-metadata.rdf.headers",
+    "bytes": 28120,
+    "sha256": "eabb2360d99213f4a72d395bb9bef97c1dc26eb5867dc9069049bf2849d6be8b",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN-IT-DE/ALL/?from=EN&uri=CELEX%3A32016R0679",
+    "accessed_at": "2026-10-20T14:47:18.046558+00:00",
+    "expected_format": "metadata",
+    "http_status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN-IT-DE/ALL/?from=EN&uri=CELEX%3A32016R0679",
+    "response_path": "sources/review-p137m-anlage/gdpr-multilingual.html",
+    "headers_path": "sources/review-p137m-anlage/gdpr-multilingual.html.headers",
+    "bytes": 2035,
+    "sha256": "e44368b01058580f9ef02d57b403617e767add7ed25827b0f6a0fd9f217e315e",
+    "expected_format_validated": false
+  }
+]

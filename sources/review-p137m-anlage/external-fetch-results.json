@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0154&print=true",
+    "accessed_at": "2026-10-20T14:41:57.201824+00:00",
+    "expected_format": "case",
+    "http_status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0154&print=true",
+    "response_path": "sources/review-p137m-anlage/empfaengerauskunft.html",
+    "headers_path": "sources/review-p137m-anlage/empfaengerauskunft.html.headers",
+    "bytes": 2035,
+    "sha256": "fa54e6ffe894aa3e4f5d6d973511320c3ac715202216304c778f1ad87665d6a0",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:32016R0679",
+    "accessed_at": "2026-10-20T14:41:57.202217+00:00",
+    "expected_format": "metadata",
+    "http_status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:32016R0679",
+    "response_path": "sources/review-p137m-anlage/gdpr-current.html",
+    "headers_path": "sources/review-p137m-anlage/gdpr-current.html.headers",
+    "bytes": 2035,
+    "sha256": "5717748c1677ab1d4d881342ecb1fc4b53b2116d8b8a845121a2cb448fdcfdfb",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02016R0679-20160504",
+    "accessed_at": "2026-10-20T14:41:57.202316+00:00",
+    "expected_format": "gdpr",
+    "http_status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02016R0679-20160504",
+    "response_path": "sources/review-p137m-anlage/gdpr-consolidated.html",
+    "headers_path": "sources/review-p137m-anlage/gdpr-consolidated.html.headers",
+    "bytes": 2035,
+    "sha256": "60f9d65048ec178fa865bfa1c5c0d11aa49885feefe199f46f62c4469dda2591",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/02016R0679-20160504",
+    "accessed_at": "2026-10-20T14:41:57.202390+00:00",
+    "expected_format": "pdf",
+    "http_status": 200,
+    "final_url": "http://publications.europa.eu/resource/cellar/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1.0001.04/DOC_1",
+    "response_path": "sources/review-p137m-anlage/gdpr-consolidated.pdf",
+    "headers_path": "sources/review-p137m-anlage/gdpr-consolidated.pdf.headers",
+    "bytes": 785551,
+    "sha256": "46ec5902f6b8e59d7d4f27d9b6d194a943a673dc1d9bcf087f0f1969992d2c68",
+    "expected_format_validated": true
+  }
+]
