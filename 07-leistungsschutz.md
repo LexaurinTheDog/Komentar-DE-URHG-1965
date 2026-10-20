@@ -14,9 +14,11 @@
 >
 > (3) Das Recht erlischt fünfundzwanzig Jahre nach dem Erscheinen der Ausgabe, jedoch bereits fünfundzwanzig Jahre nach der Herstellung, wenn die Ausgabe innerhalb dieser Frist nicht erschienen ist. Die Frist ist nach § 69 zu berechnen.
 
-Wissenschaftliche Ausgaben erhalten ein eigenes Recht, wenn wissenschaftlich sichtende Tätigkeit vorliegt und die Ausgabe wesentlich von bekannten Ausgaben abweicht. Bloßer Neudruck oder neues Layout eines gemeinfreien Textes genügt nicht. Absatz 2 weist das Recht dem Verfasser der Ausgabe zu. Absatz 3 bestimmt eine 25-jährige Erscheinensfrist, begrenzt durch die Herstellung bei ausbleibendem Erscheinen, und verweist auf die Jahresendberechnung. Das gemeinfreie Ausgangswerk wird dadurch nicht in jeder beliebigen Fassung erneut geschützt.
+Absatz 1 schützt die wissenschaftliche Erschließungsleistung an urheberrechtlich nicht geschützten Werken oder Texten. Kumulativ erforderlich sind wissenschaftlich sichtende Tätigkeit und ein wesentlicher Unterschied gegenüber bisher bekannten Ausgaben. Weder die bloße Behauptung wissenschaftlicher Sorgfalt noch ein Neudruck, neues Layout oder eine bloße Digitalisierung genügt. Zu benennen sind etwa die ausgewerteten Überlieferungen, die editorischen Entscheidungen und der daraus folgende Unterschied der Ausgabe. Die entsprechende Anwendung von Teil 1 liefert den rechtlichen Rahmen; die gemeinfreie Vorlage wird dadurch nicht in jeder denkbaren Fassung neu monopolisiert. Für Vervielfältigungen gemeinfreier visueller Werke ist § 68 mitzulesen.
 
-Beispiel: Eine Philologin erstellt anhand verstreuter Handschriften eine wesentlich neue kritische Textfassung. Deren Übernahme ist anders zu beurteilen als die unabhängige Nutzung einer alten gemeinfreien Ausgabe. Die wissenschaftlichen Editionsleistungen sind für den Anspruch konkret zu benennen.
+Nach Absatz 2 steht das Recht dem Verfasser der Ausgabe zu, nicht schon kraft Finanzierung dem Verlag. Die Schutzfrist nach Absatz 3 beträgt 25 Jahre nach dem Erscheinen. Bleibt dieses innerhalb von 25 Jahren nach Herstellung aus, endet das Recht bereits nach der Herstellungsfrist. Rechtzeitiges Erscheinen ist daher vom Ausbleiben des Erscheinens zu unterscheiden; die Herstellungsfrist ist keine absolute Höchstgrenze jeder erschienenen Ausgabe. § 69 ordnet die Jahresendberechnung an. Bei älteren Ausgaben kann § 137b entscheidend sein.
+
+Beispiel: Eine Philologin erarbeitet durch Vergleich verstreuter Handschriften eine wissenschaftlich begründete, wesentlich neue Textfassung. Deren Übernahme ist von einer unabhängigen Nutzung einer alten gemeinfreien Ausgabe zu unterscheiden. Eine 2020 hergestellte und 2024 erschienene qualifizierte Ausgabe wäre nach der heutigen Fristenregel bis Ende 2049 geschützt, nicht nur bis Ende 2045.
 
 ### § 71 — Nachgelassene Werke
 
@@ -28,9 +30,15 @@ Beispiel: Eine Philologin erstellt anhand verstreuter Handschriften eine wesentl
 >
 > (3) Das Recht erlischt fünfundzwanzig Jahre nach dem Erscheinen des Werkes oder, wenn seine erste öffentliche Wiedergabe früher erfolgt ist, nach dieser. Die Frist ist nach § 69 zu berechnen.
 
-Absatz 1 belohnt das erlaubte erste Erscheinenlassen oder die erste öffentliche Wiedergabe eines bislang nicht erschienenen Werkes nach Schutzende. Auch bestimmte im Inland nie geschützte Werke sind einbezogen. „Erlaubterweise“ verhindert einen Rechtserwerb durch unberechtigte Offenlegung; die ausdrücklich übernommenen Werk- und Schrankenregeln begrenzen das neue Recht. Absatz 2 lässt seine Übertragung zu. Absatz 3 gewährt 25 Jahre ab dem maßgeblichen ersten Erscheinens- oder früheren Wiedergabeereignis mit Berechnung nach § 69.
+Absatz 1 schafft ein eigenständiges Verwertungsrecht für die erlaubte erste Herausgabe eines noch nicht erschienenen Werkes nach Erlöschen des Urheberrechts. Anknüpfung ist entweder erstmaliges Erscheinenlassen oder erstmalige öffentliche Wiedergabe. Erscheinen im Sinne des § 6 und öffentliche Wiedergabe sind verschiedene Vorgänge; ein rechtmäßiger erster Onlineabruf kann deshalb auch ohne Auflagendruck bedeutsam sein. Das bloße Auffinden oder Besitzen eines Manuskripts genügt nicht. Ebenso wenig begründet die erneute Digitalisierung eines schon erschienenen Werkes eine neue Erstveröffentlichungsposition.
 
-Beispiel: Ein Archiv veröffentlicht rechtmäßig einen bislang nicht erschienenen gemeinfreien Briefbestand. Für die konkrete erstmalige Veröffentlichung ist § 71 zu prüfen. Bei bereits früher erschienenen Briefen entsteht durch erneutes Auffinden und Digitalisieren kein gleichartiges Erstveröffentlichungsrecht.
+„Erlaubterweise“ verlangt eine rechtmäßige Nutzung; aus der Gemeinfreiheit allein folgt nicht die Befugnis zu jedem Zugriff auf ein fremdes Manuskript. Satz 2 bezieht nicht erschienene Werke ein, die im Geltungsbereich nie geschützt waren, sofern ihr Urheber schon länger als 70 Jahre tot ist. Das ist eine eigene Voraussetzung neben dem fehlenden früheren Erscheinen. Die Verweisung übernimmt insbesondere § 5, die Berechtigungsvermutung des § 10 Absatz 1, die bezeichneten Verwertungsrechte und Schranken sinngemäß. Sie schafft kein neues Urheberpersönlichkeitsrecht nach §§ 12–14 und ersetzt keine Prüfung weiterer Schutzgegenstände.
+
+Absatz 2 lässt die Übertragung dieses verwandten Rechts zu. Nach Absatz 3 läuft die 25-jährige Frist ab Erscheinen oder, wenn früher erfolgt, ab der ersten öffentlichen Wiedergabe; § 69 gilt. Ein späterer Druck setzt die durch eine frühere qualifizierte Wiedergabe ausgelöste Frist nicht erneut in Gang. Bei alten Ausgaben ist § 137b zu beachten.
+
+Beispiel: Ein Archiv macht 2026 mit allen erforderlichen Befugnissen einen bislang nicht erschienenen gemeinfreien Brief erstmals öffentlich online zugänglich und druckt ihn 2029. Die frühere öffentliche Wiedergabe ist für die 25-jährige Frist maßgeblich; sie endet nach dem heutigen Berechnungsmodell Ende 2051. Waren dieselben Briefe bereits früher erschienen, begründet ihr Wiederauffinden kein entsprechendes neues Recht.
+
+**Praxisprüfung besonderer Ausgaben (§§ 70–71):** Gemeinfreiheit und genaue Vorlage feststellen; wissenschaftliche Sichtung mit wesentlicher Abweichung von der erstmaligen erlaubten Herausgabe trennen; bisheriges Erscheinen und öffentliche Wiedergaben recherchieren; Berechtigten, maßgebliches Ereignis, Jahresende und gegebenenfalls § 137b dokumentieren.
 
 #### Abschnitt 2 — Schutz der Lichtbilder
 
@@ -44,9 +52,11 @@ Beispiel: Ein Archiv veröffentlicht rechtmäßig einen bislang nicht erschienen
 >
 > (3) Das Recht nach Absatz 1 erlischt fünfzig Jahre nach dem Erscheinen des Lichtbildes oder, wenn seine erste erlaubte öffentliche Wiedergabe früher erfolgt ist, nach dieser, jedoch bereits fünfzig Jahre nach der Herstellung, wenn das Lichtbild innerhalb dieser Frist nicht erschienen oder erlaubterweise öffentlich wiedergegeben worden ist. Die Frist ist nach § 69 zu berechnen.
 
-Der Lichtbildschutz erfasst auch Fotos, die nicht die Werkqualität des § 2 erreichen, und verweist auf das Lichtbildwerkrecht. Absatz 2 weist das Recht dem Lichtbildner zu. Absatz 3 bestimmt grundsätzlich fünfzig Jahre ab Erscheinen oder früherer erlaubter öffentlicher Wiedergabe und begrenzt den ungenutzten Schutz ab Herstellung; § 69 ist mitzulesen. Die Sonderregel des § 68 für bloße Reproduktionen gemeinfreier visueller Werke bleibt zu beachten. Ein im Internet gefundenes einfaches Produktfoto ist daher nicht allein wegen geringer Originalität frei.
+Absatz 1 gewährt für Lichtbilder und ähnlich hergestellte Erzeugnisse Schutz in entsprechender Anwendung des Lichtbildwerkrechts, ohne die eigene geistige Schöpfung eines Lichtbildwerks nach § 2 vorauszusetzen. Das macht jedoch nicht jeden technischen Kopiervorgang zu einem neuen Lichtbild. Der BGH verlangt in [Museumsfotos](cases/museumsfotos.md), Rn. 23–26, eine originäre Aufnahme mit einem Mindestmaß persönlicher geistiger Leistung und grenzt die bloße Reproduktion eines anderen Lichtbilds ab. Die dortige zusätzliche Bejahung des Schutzes von Reproduktionen gemeinfreier Gemälde ist wegen des heutigen § 68 gesondert historisch einzuordnen. Ein allgemeiner neuer Reproduktionsschutz darf daraus nicht hergeleitet werden.
 
-Beispiel: Eine Händlerin fotografiert ihre Produkte sachlich vor neutralem Hintergrund. Selbst wenn Werkqualität fehlt, kann Lichtbildschutz bestehen. Wer diese Bilder für seinen eigenen Shop kopiert, muss deshalb Rechte und mögliche Erlaubnisse prüfen.
+Absatz 2 weist das Recht dem Lichtbildner zu; Eigentum an Kamera oder Bilddatei ist nicht schon die gesetzliche Anspruchsgrundlage. Eine Einräumung von Nutzungsrechten bleibt gesondert festzustellen. Absatz 3 bestimmt 50 Jahre nach Erscheinen oder, wenn früher, nach erster erlaubter öffentlicher Wiedergabe. Fehlt beides während der Herstellungsfrist, endet der Schutz bereits 50 Jahre nach Herstellung. Ein innerhalb dieser Frist eintretendes qualifiziertes Ereignis ist daher von dauerhaftem Unveröffentlichtbleiben zu unterscheiden. § 69 vereinheitlicht die Jahresendberechnung. Die Werkqualität eines Fotos kann zusätzlich die längere urheberrechtliche Schutzdauer nach §§ 64 ff. eröffnen; für alte Bestände sind die Übergangsregeln mitzuprüfen.
+
+Beispiel: Eine Händlerin fertigt 2020 eigene einfache Produktaufnahmen und veröffentlicht sie 2024 erstmals in ihrem Shop. Auch ohne Werkqualität können sie als Lichtbilder bis Ende 2074 geschützt sein. Ein Dritter erwirbt durch unverändertes Herunterladen und erneutes Abspeichern derselben Aufnahme kein neues eigenes Lichtbildrecht.
 
 #### Abschnitt 3 — Schutz des ausübenden Künstlers
 
@@ -70,9 +80,13 @@ Beispiel: Eine Sängerin interpretiert ein gemeinfreies Lied. Dass die Kompositi
 >
 > (3) § 10 Abs. 1 gilt entsprechend.
 
-Absatz 1 schützt Anerkennung und Entscheidung über die Namensnennung bei der Darbietung. Absatz 2 erlaubt bei unverhältnismäßigem Aufwand die Gruppenbezeichnung und ordnet die Vertretung durch Vorstand, Leiter oder gewählten Vertreter. Ein besonderes individuelles Interesse an persönlicher Nennung bleibt erhalten. Absatz 3 übernimmt die Vermutungsregel des § 10 Abs. 1 entsprechend. Die wirtschaftliche Rechteübertragung nach § 79 beantwortet die Frage der Künstlernennung nicht automatisch.
+Absatz 1 schützt die Anerkennung als ausübender Künstler bezogen auf die eigene Darbietung. Dazu gehört die Entscheidung, ob und unter welchem Namen eine Nennung erfolgt. Werkurheber, Künstler und Tonträgerhersteller können verschiedene Personen sein; die Nennung des Komponisten ersetzt deshalb nicht die Künstlernennung. Die Einräumung wirtschaftlicher Rechte nach § 79 entscheidet die persönliche Nennungsfrage nicht automatisch.
 
-Beispiel: Bei einer großen Orchesteraufnahme kann eine Gruppenbezeichnung unter den gesetzlichen Voraussetzungen genügen. Eine hervorgehobene Solistin kann ein besonderes Interesse an persönlicher Nennung haben. Der Produzent darf die organisatorische Erleichterung deshalb nicht ohne Prüfung auf sämtliche Beteiligten übertragen.
+Absatz 2 setzt eine gemeinsame Darbietung mehrerer Künstler und einen unverhältnismäßigen Aufwand für die Nennung jedes Einzelnen voraus. Erst dann beschränkt sich der Anspruch grundsätzlich auf die Künstlergruppe. Organisatorische Bequemlichkeit allein genügt nicht. Gegenüber Dritten vertritt ein gewählter Vorstand die Gruppe ausschließlich; fehlt er, kann das Recht nur durch den Leiter oder, wenn auch dieser fehlt, einen von der Gruppe zu wählenden Vertreter geltend gemacht werden. Diese Vertretungsregel betrifft das hier behandelte Anerkennungsrecht und ist keine allgemeine Vollmacht zur Übertragung sämtlicher Aufnahmerechte. Bei besonderem Interesse bleibt der persönliche Nennungsanspruch eines beteiligten Künstlers bestehen.
+
+Absatz 3 übernimmt die Vermutung des § 10 Absatz 1 entsprechend. Die normgemäße Künstlerbezeichnung kann die Beweisführung erleichtern, entscheidet aber weder unwiderleglich über die Mitwirkung noch über jede wirtschaftliche Rechtekette.
+
+Beispiel: Bei einer großen Orchesteraufnahme kann unter den gesetzlichen Voraussetzungen die Gruppenbezeichnung genügen. Eine hervorgehobene Solistin kann daneben ein besonderes Interesse an persönlicher Nennung haben. Die hierfür bestehende Gruppenvertretung erlaubt dem Vorstand nicht schon kraft § 74, alle Verwertungsrechte der Solistin zu übertragen.
 
 ### § 75 — Beeinträchtigungen der Darbietung
 
@@ -102,9 +116,11 @@ Beispiel: Eine Sängerin stirbt kurz nach einer Aufnahme. Der Integritätsschutz
 >
 > (2) Der ausübende Künstler hat das ausschließliche Recht, den Bild- oder Tonträger, auf den seine Darbietung aufgenommen worden ist, zu vervielfältigen und zu verbreiten. § 27 ist entsprechend anzuwenden.
 
-Absatz 1 schützt bereits die Aufnahme der Darbietung auf Bild- oder Tonträger. Absatz 2 schützt anschließend Vervielfältigung und Verbreitung des aufgenommenen Trägers und übernimmt die Vergütungsregel des § 27 entsprechend. Die Zustimmung zur Liveveranstaltung ist deshalb nicht ohne Weiteres Zustimmung zum Mitschnitt oder zu dessen Verkauf. Daneben bestehen gegebenenfalls Werkrechte, Veranstalterrechte und Herstellerrechte, die eine mehrstufige Rechteklärung verlangen.
+Absatz 1 ordnet bereits das Fixieren einer Darbietung auf Bild- oder Tonträger dem ausübenden Künstler zu. Weder Gemeinfreiheit des dargebotenen Werks noch die Zustimmung zur Liveveranstaltung ersetzt diese Aufnahmebefugnis. Eine Tonaufnahme und ein Bildmitschnitt sind anhand der tatsächlichen Fixierung und ihrer Erlaubnis zu prüfen.
 
-Beispiel: Ein Konzertbesucher zeichnet den Auftritt einer Musikerin auf und verkauft Kopien. Selbst bei gemeinfreier Musik sind Aufnahme- und Verbreitungsrechte der Musikerin zu prüfen. Eine vom Veranstalter erlaubte Eintrittskarte vermittelt keine allgemeine Erlaubnis zum kommerziellen Mitschnitt.
+Absatz 2 schützt anschließend das Vervielfältigen und Verbreiten des Trägers mit der aufgenommenen Darbietung. Zustimmung zum ersten Mitschnitt bedeutet deshalb nicht ohne Weiteres Zustimmung zur Herstellung weiterer Exemplare oder zu ihrem Vertrieb. Für Vermietung und Verleih ist § 27 entsprechend anzuwenden, einschließlich seiner besonderen Vergütungs- und Wahrnehmungsregeln. Individueller Onlineabruf und weitere öffentliche Wiedergaben sind gesondert nach § 78 zu beurteilen; der Kauf einer Aufnahme erledigt diese Fragen nicht. Gesetzliche Nutzungserlaubnisse können über § 83 eingreifen. Werk-, Veranstalter- und Herstellerrechte können daneben bestehen, so dass die Freigabe einer einzigen Ebene nicht stets ausreicht.
+
+Beispiel: Eine Musikerin gestattet die Tonaufzeichnung ihres Konzerts für eine bestimmte Archivnutzung. Der Veranstalter möchte daraus später verkäufliche CDs herstellen. Auch bei ausschließlich gemeinfreier Musik muss er klären, ob Kopie und Vertrieb der konkreten Darbietung von der eingeräumten Befugnis erfasst sind. Eine Veröffentlichung als Onlineabruf verlangt zusätzlich die Prüfung des § 78.
 
 ### § 78 — Öffentliche Wiedergabe
 
@@ -130,9 +146,13 @@ Beispiel: Ein Konzertbesucher zeichnet den Auftritt einer Musikerin auf und verk
 >
 > (4) § 20b gilt entsprechend.
 
-Absatz 1 unterscheidet exklusiven Abruf, Sendung mit der dortigen Ausnahme für qualifiziert veröffentlichte Aufnahmen und technische Außenübertragung. Absatz 2 gewährt in den bezeichneten Fällen stattdessen beziehungsweise zusätzlich angemessene Vergütung für erlaubte Sendung und öffentliche Wiedergaben von Aufnahmen oder übertragenen Darbietungen. Absatz 3 schützt diese Vergütungsansprüche vor Vorausverzicht und begrenzt Vorausabtretungen. Absatz 4 übernimmt die Weitersendungsregel des § 20b. Erlaubnis- und Vergütungsrechte dürfen daher nicht pauschal gleichbehandelt werden.
+Absatz 1 trennt drei Ausschließlichkeitsrechte: individuellen öffentlichen Abruf nach Nummer 1, Sendung nach Nummer 2 und technische Wiedergabe außerhalb des Darbietungsraums nach Nummer 3. Die Sendung ist ausgenommen, wenn die Darbietung erlaubterweise aufgezeichnet wurde und die Bild- oder Tonträger erschienen oder erlaubterweise öffentlich zugänglich gemacht worden sind. Eine bloß interne erlaubte Aufnahme reicht für die Ausnahme nicht. Sie gilt auch nicht als allgemeine Freigabe des Onlineabrufs; dessen Erlaubnis bleibt eigenständig zu prüfen.
 
-Beispiel: Ein Gastronom spielt eine rechtmäßig erschienene Musikaufnahme öffentlich ab. Die Rechte an der konkreten Darbietung bleiben relevant, obwohl die Aufnahme legal erworben wurde. Eine neue Onlineabrufbereitstellung ist anhand des ausschließlichen Rechts eigenständig zu prüfen.
+Absatz 2 knüpft an drei andere Nutzungssituationen einen Anspruch auf angemessene Vergütung: die erlaubte Sendung im Fall des Absatzes 1 Nummer 2, das öffentliche Wahrnehmbarmachen mittels Bild- oder Tonträger sowie die öffentliche Wiedergabe einer Sendung oder einer auf öffentlicher Zugänglichmachung beruhenden Darbietungswiedergabe. Liveübertragung in einen Außenraum und das Abspielen einer bereits vorhandenen Aufnahme dürfen daher nicht unterschiedslos behandelt werden. Der Vergütungsanspruch ist keine Erlaubnis, eine sonst unzulässige Aufnahme herzustellen oder einen rechtswidrigen Abruf anzubieten. Weitere Rechte am aufgeführten Werk oder am Träger sind gesondert zu beachten; gesetzliche Schranken vermittelt § 83.
+
+Absatz 3 schließt den Vorausverzicht aus und erlaubt Vorausabtretung nur an eine Verwertungsgesellschaft. Eine Pauschalklausel zugunsten eines Produzenten kann diese Bindung nicht umgehen. Absatz 4 übernimmt § 20b mit seinen Voraussetzungen für Weitersendung und kollektive Wahrnehmung; die Verweisung betrifft nicht pauschal jede Internetnutzung.
+
+Beispiel: Ein Gastronom spielt eine rechtmäßig erschienene Musikaufnahme öffentlich ab. Der rechtmäßige Erwerb der Datei beseitigt den Vergütungsanspruch für die Darbietung nicht. Will er die Aufnahme zusätzlich auf seiner Internetseite zum individuellen Abruf anbieten, ist hierfür das ausschließliche Recht aus Absatz 1 Nummer 1 gesondert zu klären.
 
 ### § 79 — Nutzungsrechte
 
@@ -152,9 +172,15 @@ Beispiel: Ein Gastronom spielt eine rechtmäßig erschienene Musikaufnahme öffe
 >
 > Ist der Übertragungsvertrag gekündigt, so erlöschen die Rechte des Tonträgerherstellers am Tonträger. Auf das Kündigungsrecht kann der ausübende Künstler nicht verzichten.
 
-Absatz 1 erlaubt anders als beim originären Urheberrecht die Übertragung der wirtschaftlichen Künstlerrechte, wahrt aber besondere Vergütungsgarantien. Absatz 2 ermöglicht Nutzungsrechte; Absatz 2a übernimmt genau bezeichnete urhebervertragliche Regeln. Absatz 3 schützt ältere Tonaufnahmen vor unzureichender Auswertung: Nach der fünfzigjährigen Schwelle und einjähriger Abhilfephase kann die qualifizierte Kündigung greifen, wenn der Hersteller nicht beide genannten Nutzungen durchführt. Die wirksame Kündigung lässt Herstellerrechte am Tonträger erlöschen; Vorausverzicht ist ausgeschlossen.
+Absatz 1 erlaubt die Übertragung der Rechte und Ansprüche aus §§ 77 und 78. Diese wirtschaftlichen Künstlerrechte sind damit anders als das Urheberrecht selbst verkehrsfähig. Die besonderen Grenzen des § 78 Absatz 3 und 4 bleiben erhalten. Absatz 2 gestattet daneben die Einräumung von Nutzungsrechten für einzelne oder alle vorbehaltenen Nutzungsarten. Eine vollständige Übertragung und eine begrenzte Lizenz sind deshalb im Vertrag auseinanderzuhalten; die persönlichen Rechte aus §§ 74 und 75 werden durch Absatz 1 nicht übertragen.
 
-Beispiel: Ein Label hält eine alte Aufnahme weder ausreichend im Verkauf noch online verfügbar. Die Sängerin muss Fristbeginn, Mitteilung und Abhilfejahresfrist belegen. Eine bloße kurzfristige Meinungsverschiedenheit über Werbung begründet nicht dieselbe Kündigungsfolge.
+Absatz 2a verweist für beide Vertragsformen auf §§ 31, 32–32b, 32d–40, 41–43. Der genaue Katalog ist maßgeblich: Er enthält etwa nicht § 32c, aber ausdrücklich die Vergütungs-, Transparenz- und weiteren dort benannten Schutzregeln. Die entsprechende Anwendung muss an die Darbietung und den jeweiligen Vertrag angepasst werden; eine bloße Verwertungsklausel erledigt die gesetzlichen Ansprüche nicht.
+
+Absatz 3 betrifft Verträge mit Tonträgerherstellern nach einer besonders langen Auswertungszeit. Anlass ist, dass der Hersteller entweder nicht genügend Kopien zum Verkauf anbietet oder den Träger nicht öffentlich zugänglich macht; bereits das Fehlen einer dieser beiden Auswertungsformen ist relevant. Kündigen darf der Künstler erst nach Ablauf von 50 Jahren seit Erscheinen oder, wenn kein Erscheinen erfolgte, seit erster erlaubter Benutzung des Trägers zur öffentlichen Wiedergabe. Hinzukommen muss eine Mitteilung der Kündigungsabsicht. Innerhalb des folgenden Jahres muss der Hersteller beide Nutzungshandlungen ausführen, um die gesetzliche Kündigungsvoraussetzung auszuräumen. Eine einseitige Abhilfe genügt nicht. Mitteilung, Nachfristablauf und Kündigung sind getrennte Schritte; der Vertrag endet nicht bereits automatisch mit der Mitteilung.
+
+Nach wirksamer Kündigung erlöschen die Rechte des Tonträgerherstellers am Tonträger. Dies ist eine besondere gesetzliche Folge, keine allgemeine Vernichtung aller Rechte anderer Beteiligter. Auf das Kündigungsrecht kann der Künstler nicht verzichten. Die Übergangsregel des § 137m Absatz 1 ist bei alten Aufnahmen zusätzlich zu prüfen.
+
+Beispiel: Nach Ablauf der maßgeblichen 50 Jahre ist eine Aufnahme noch per Streaming abrufbar, aber nicht in ausreichender Menge zum Verkauf angeboten. Die Sängerin teilt dem Label ihre Kündigungsabsicht mit. Stellt es innerhalb eines Jahres nicht auch den ausreichenden Verkauf sicher, kann die weitere Kündigungsvoraussetzung vorliegen. Die bloße Fortführung des Streamingabrufs ersetzt die zweite Nutzungsform nicht.
 
 ### § 79a — Vergütungsanspruch des ausübenden Künstlers
 

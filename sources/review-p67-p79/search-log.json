@@ -1,0 +1,44 @@
+{
+  "verified_at": "2026-10-20T13:16:17.649120+00:00",
+  "searches": [
+    {
+      "tool": "web search",
+      "queries": [
+        "site.rechtsprechung-im-internet.de \"I ZR 25/15\"",
+        "site.rechtsprechung-im-internet.de \"I ZR 104/17\"",
+        "site.curia.europa.eu \"C-13/20\" Fehler",
+        "site.gesetze-im-internet.de urhg 2026 \"157\""
+      ],
+      "disposition": "Nur Entdeckung; keine Drittanbieterauszüge als Rechtsbeleg benutzt."
+    },
+    {
+      "tool": "rg and local national corpus metadata",
+      "evidence": "sources/review-p67-p79/local-case-search.json",
+      "selected": [
+        "KORE303792019"
+      ],
+      "rejected": [
+        "KORE300542018: VIII ZR 104/17, Mietrecht",
+        "KORE314312016: II ZR 25/15, Vereinsrecht"
+      ],
+      "disposition": "Museumsfotos amtlich vollständig gelesen und mit Korpus abgeglichen. Warcraft I (KORE307582017) amtlich geladen, nur Eingang/Metadaten gesichtet; Hinweis auf nachfolgenden BVerfG-Vollstreckungsbeschluss 1 BvR 1021/17 erkannt. Nicht vollständig vertieft und hier nicht als Autorität verwendet; kein neuer Kommentarbeleg daraus."
+    },
+    {
+      "tool": "existing official full text",
+      "query": "UsedSoft C-128/11, including nested HTML tables",
+      "disposition": "Alle 89 Randnummern und Tenor gelesen. Vorhandene Amtssnapshots beibehalten; kein behaupteter frischer erfolgreicher Abruf.",
+      "evidence": "sources/review-p67-p79/usedsoft-reread.json"
+    },
+    {
+      "tool": "official EUR-Lex retrieval",
+      "query": "C-13/20",
+      "evidence": "sources/review-p67-p79/rejected-fetch.json",
+      "disposition": "Webzugriff zeigte Robot-Prüfung; Direktabruf HTTP 202 mit leerem Körper. Kein Volltextbeleg und keine inhaltliche Entscheidungsaussage übernommen."
+    },
+    {
+      "tool": "Firecrawl CLI status",
+      "disposition": "0 von 1000 Credits verfügbar; keine Quellenextraktion, keine Einstellungen geändert. Amtliche Gesetzes- und BGH-Quellen direkt beschafft."
+    }
+  ],
+  "coverage": "Selektiv: Softwareerschöpfung/Benutzung und Lichtbild-/Reproduktionsgrenze. Keine erschöpfende Software-, Künstler- oder Folgeentscheidungsrecherche; kein Beleg aus Suchauszügen."
+}

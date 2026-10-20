@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303792019.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303792019.zip",
+    "accessed_at": "2026-10-20T13:07:54.764973+00:00",
+    "response_received_at": "2026-10-20T13:07:55.040124+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p67-p79/museumsfotos.zip",
+    "headers_path": "sources/review-p67-p79/museumsfotos.zip.headers.json",
+    "sha256": "5cfc1f1a9cd2260823edf34e8f011f3e7182f28417a197acd0036b3c2ab7cea9",
+    "bytes": 17728,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307582017.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307582017.zip",
+    "accessed_at": "2026-10-20T13:07:54.765312+00:00",
+    "response_received_at": "2026-10-20T13:07:55.043768+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p67-p79/warcraft.zip",
+    "headers_path": "sources/review-p67-p79/warcraft.zip.headers.json",
+    "sha256": "ab560b01556dd2f1ab90388396ea52c603916f159f08ac3f8b91a12f193393cc",
+    "bytes": 20839,
+    "expected_format_validated": true
+  }
+]

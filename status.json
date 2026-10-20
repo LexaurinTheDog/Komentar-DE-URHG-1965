@@ -1,6 +1,6 @@
 {
   "stage": "bounded_review_complete",
-  "updated_at": "2026-10-20T13:06:01.122874+00:00",
+  "updated_at": "2026-10-20T13:16:17.649120+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -17,8 +17,8 @@
     "statutory_changes_since_intake_detected": false,
     "preflight_verified_at": "2026-10-20T11:54:07.436691+00:00",
     "coverage_report": "completeness-report.json",
-    "source_integrity_checked_responses": 83,
-    "bounded_review_verified_at": "2026-10-20T13:04:00.199172+00:00",
+    "source_integrity_checked_responses": 94,
+    "bounded_review_verified_at": "2026-10-20T13:16:17.649120+00:00",
     "source_integrity_mismatches": []
   },
   "total_units": 254,
@@ -26,7 +26,7 @@
   "paragraph_units": 253,
   "annex_units": 1,
   "chapters": 12,
-  "commentary_chars": 295813,
+  "commentary_chars": 311477,
   "case_law_sources": [
     {
       "court": "EuGH",
@@ -265,6 +265,19 @@
       "bytes": 2743,
       "expected_format_validated": true,
       "read_scope": "Full official judgment/decision and complete local national corpus text."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303792019.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303792019.zip",
+      "accessed_at": "2026-10-20T13:07:54.764973+00:00",
+      "response_received_at": "2026-10-20T13:07:55.040124+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p67-p79/museumsfotos.zip",
+      "headers_path": "sources/review-p67-p79/museumsfotos.zip.headers.json",
+      "sha256": "5cfc1f1a9cd2260823edf34e8f011f3e7182f28417a197acd0036b3c2ab7cea9",
+      "bytes": 17728,
+      "expected_format_validated": true,
+      "read_scope": "Full 76 paragraphs, tenor and context; national corpus comparison."
     }
   ],
   "case_cards": [
@@ -282,7 +295,8 @@
     "cases/moebelkatalog.md",
     "cases/ueber-alle-berge.md",
     "cases/elektronische-leseplaetze-ii.md",
-    "cases/leseplaetze-verfassungsbeschwerde.md"
+    "cases/leseplaetze-verfassungsbeschwerde.md",
+    "cases/museumsfotos.md"
   ],
   "validation_result": {
     "repo": "Komentar-DE-URHG-1965",
@@ -311,11 +325,11 @@
   "independent_second_pass_completed": false,
   "unresolved_blockers": [],
   "remaining_limitations": [
-    "Genau 20 zugewiesene Einheiten geprüft; 234 andere Kommentare gegenüber dem Ausgangscommit vollständig erhalten und nicht erneut geprüft. Keine zweite Gesamtprüfung. Mit fünf früheren bewahrten Losen sind 120 unterschiedliche Einheiten dokumentiert; 134 weitere bleiben im zweiten Durchgang offen.",
-    "Selektive Rechtsprechungsrecherche: BGH I ZR 69/11 vom 16.4.2015 und BVerfG 1 BvR 273/16 vollständig mit lokalen nationalen Korpusfassungen gelesen. Historische §§ 52a/52b/53 nicht als heutiger Text behandelt. Keine erschöpfende Folgeentscheidungs- oder Mining-Rechtsprechungsübersicht.",
-    "Firecrawl mangels Guthaben nicht verfügbar; amtliche ZIP-/HTML-/PDF-Quellen direkt erfolgreich beschafft. Drittanbieter-Suchauszüge nicht als Autorität verwendet.",
-    "Aktueller amtlicher Konsolidierungsstand und Inkrafttreten aus Verkündung geprüft. Keine historischen Doppelkennungen im aktuellen XML; kein Vollarchiv früherer Fassungen und keine Garantie gegen noch nicht eingearbeitete Änderungen.",
-    "Relevante VGG-Vorschriften und vollständige NvWV mitgeprüft, keine vollständige Parallelkommentierung sämtlicher externer oder historischer Regelwerke. Keine externe anwaltliche Freigabe. Technische Prüfungen beweisen keine juristische Qualität."
+    "Genau 20 zugewiesene Einheiten vollständig geprüft; alle 234 anderen Kommentare gegenüber dem Ausgangscommit unverändert erhalten. Keine erneute inhaltliche Prüfung früherer Lose und keine ganze zweite Buchprüfung. Mit sechs bewahrten früheren Losen sind 140 Einheiten dokumentiert; 114 weitere bleiben im zweiten Durchgang offen.",
+    "Selektive Rechtsprechung: Museumsfotos mit allen 76 Randnummern und dem nationalen Korpus gelesen; UsedSoft mit allen 89 Randnummern, verschachtelten Normzitaten/Fragen und Tenor erneut aus bewahrtem amtlichem Rohtext gelesen. Keine erschöpfende Software-/Künstler- oder Folgeentscheidungsübersicht.",
+    "Museumsfotos betrifft hinsichtlich Gemäldereproduktionen vor § 68 liegendes Recht. Vertrags-/Eigentumsfragen aus dem Urteil nicht pauschal auf heutiges Recht übertragen. Weitere dortige Fundstellen nicht als selbständig geprüft ausgegeben.",
+    "Firecrawl ohne Credits; amtliches Gesetz und BGH-Entscheidung direkt beschafft. Top-System-Direktabruf HTTP 202/leer und Web-Robotprüfung verworfen. Warcraft-Kandidat nur gesichtet, nicht als Autorität verwendet.",
+    "Aktuelle Konsolidierung, Inkrafttreten der letzten Änderung, historische Mehrfachkennungen und Anlage geprüft; kein vollständiges historisches Fassungsarchiv. Interne Verweisungsnormen geprüft, keine umfassende Kommentierung fremder Regelwerke. Technische Prüfungen beweisen keine juristische Qualität und keine externe anwaltliche Freigabe."
   ],
   "publication": false,
   "push": false,
@@ -342,49 +356,49 @@
   },
   "review_result": "review-result.json",
   "reviewed_ids": [
-    "p60c",
-    "p60d",
-    "p60e",
-    "p60f",
-    "p60g",
-    "p60h",
-    "p61",
-    "p61a",
-    "p61b",
-    "p61c",
-    "p61d",
-    "p61e",
-    "p61f",
-    "p61g",
-    "p62",
-    "p63",
-    "p63a",
-    "p64",
-    "p65",
-    "p66"
+    "p67",
+    "p68",
+    "p69",
+    "p69a",
+    "p69b",
+    "p69c",
+    "p69d",
+    "p69e",
+    "p69f",
+    "p69g",
+    "p70",
+    "p71",
+    "p72",
+    "p73",
+    "p74",
+    "p75",
+    "p76",
+    "p77",
+    "p78",
+    "p79"
   ],
   "corrected_ids": [
-    "p60c",
-    "p60d",
-    "p60e",
-    "p60f",
-    "p60g",
-    "p60h",
-    "p61",
-    "p61a",
-    "p61d",
-    "p61e",
-    "p62",
-    "p63",
-    "p65",
-    "p66"
+    "p68",
+    "p69a",
+    "p69c",
+    "p69d",
+    "p69e",
+    "p69f",
+    "p69g",
+    "p70",
+    "p71",
+    "p72",
+    "p74",
+    "p77",
+    "p78",
+    "p79"
   ],
   "whole_book_review_complete": false,
   "case_law_sources_reviewed_in_this_task": [
-    "cases/elektronische-leseplaetze-ii.md",
-    "cases/leseplaetze-verfassungsbeschwerde.md"
+    "cases/museumsfotos.md",
+    "cases/usedsoft.md"
   ],
-  "bounded_review_preservation": "sources/review-p53-p60b/preservation.json",
+  "bounded_review_preservation": "sources/review-p67-p79/preservation.json",
   "prior_validation": {
     "result": {
       "repo": "Komentar-DE-URHG-1965",

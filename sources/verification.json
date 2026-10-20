@@ -932,6 +932,132 @@
       "expected_format_validated": true,
       "derived_from": "sources/review-p60c-p66/nvwv.zip",
       "format": "Official XML; root and abbreviation/docket confirmed"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T13:07:10.641956+00:00",
+      "response_received_at": "2026-10-20T13:07:11.029490+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p67-p79/current.zip",
+      "headers_path": "sources/review-p67-p79/current.zip.headers.json",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "accessed_at": "2026-10-20T13:07:10.642352+00:00",
+      "response_received_at": "2026-10-20T13:07:10.911332+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p67-p79/index.html",
+      "headers_path": "sources/review-p67-p79/index.html.headers.json",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "accessed_at": "2026-10-20T13:07:10.642443+00:00",
+      "response_received_at": "2026-10-20T13:07:11.056446+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p67-p79/full.html",
+      "headers_path": "sources/review-p67-p79/full.html.headers.json",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "accessed_at": "2026-10-20T13:07:10.642500+00:00",
+      "response_received_at": "2026-10-20T13:07:11.051019+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p67-p79/current.pdf",
+      "headers_path": "sources/review-p67-p79/current.pdf.headers.json",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T13:07:10.911642+00:00",
+      "response_received_at": "2026-10-20T13:07:11.313005+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p67-p79/amendment.pdf",
+      "headers_path": "sources/review-p67-p79/amendment.pdf.headers.json",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T13:07:11.031385+00:00",
+      "response_received_at": "2026-10-20T13:07:11.214936+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p67-p79/aktuell.html",
+      "headers_path": "sources/review-p67-p79/aktuell.html.headers.json",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303792019.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303792019.zip",
+      "accessed_at": "2026-10-20T13:07:54.764973+00:00",
+      "response_received_at": "2026-10-20T13:07:55.040124+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p67-p79/museumsfotos.zip",
+      "headers_path": "sources/review-p67-p79/museumsfotos.zip.headers.json",
+      "sha256": "5cfc1f1a9cd2260823edf34e8f011f3e7182f28417a197acd0036b3c2ab7cea9",
+      "bytes": 17728,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307582017.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307582017.zip",
+      "accessed_at": "2026-10-20T13:07:54.765312+00:00",
+      "response_received_at": "2026-10-20T13:07:55.043768+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p67-p79/warcraft.zip",
+      "headers_path": "sources/review-p67-p79/warcraft.zip.headers.json",
+      "sha256": "ab560b01556dd2f1ab90388396ea52c603916f159f08ac3f8b91a12f193393cc",
+      "bytes": 20839,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T13:07:10.641956+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p67-p79/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "expected_format_validated": true,
+      "derived_from": "sources/review-p67-p79/current.zip",
+      "format": "ZIP-Inhalt als XML geparst; UrhG beziehungsweise genaues Aktenzeichen bestätigt."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303792019.zip",
+      "accessed_at": "2026-10-20T13:07:54.764973+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p67-p79/museumsfotos.xml",
+      "sha256": "11ce6ac652f5f1b937214ac575e26cc76c1392775aba5316806f811fcb954109",
+      "expected_format_validated": true,
+      "derived_from": "sources/review-p67-p79/museumsfotos.zip",
+      "format": "ZIP-Inhalt als XML geparst; UrhG beziehungsweise genaues Aktenzeichen bestätigt."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307582017.zip",
+      "accessed_at": "2026-10-20T13:07:54.765312+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p67-p79/warcraft.xml",
+      "sha256": "5b1e7dc283d0c6a5489b76ca688660c7485dad3078eac82a84088c71f866ed44",
+      "expected_format_validated": true,
+      "derived_from": "sources/review-p67-p79/warcraft.zip",
+      "format": "ZIP-Inhalt als XML geparst; UrhG beziehungsweise genaues Aktenzeichen bestätigt."
     }
   ],
   "version": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
@@ -1416,5 +1542,47 @@
         "evidence": "sources/review-p60c-p66/nvwv-promulgation.txt"
       }
     }
+  },
+  "bounded_review_p67_p79": {
+    "verified_at": "2026-10-20T13:16:17.649120+00:00",
+    "reviewed_ids": [
+      "p67",
+      "p68",
+      "p69",
+      "p69a",
+      "p69b",
+      "p69c",
+      "p69d",
+      "p69e",
+      "p69f",
+      "p69g",
+      "p70",
+      "p71",
+      "p72",
+      "p73",
+      "p74",
+      "p75",
+      "p76",
+      "p77",
+      "p78",
+      "p79"
+    ],
+    "current_xml_unchanged": true,
+    "version_evidence": {
+      "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
+      "promulgated": "2026-05-29",
+      "effective_from": "2026-05-30",
+      "commencement_article": "Art. 3: Tag nach der Verkündung",
+      "affected_units": [
+        "p54d",
+        "p87b"
+      ],
+      "evidence": "sources/review-p67-p79/amendment.pdf",
+      "evidence_sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "assigned_units_affected_by_latest_amendment": false,
+      "check_scope": "Bearbeitungsbeginn 19.10.2026; erneuter amtlicher Abruf am 20.10.2026. Aktuelle Konsolidierung, Aktualitätendienst und Verkündung geprüft. Kein Vollarchiv und keine Garantie gegen noch nicht eingearbeitete Änderungen."
+    },
+    "fetch_log": "sources/review-p67-p79/fetch-results.json",
+    "rejected_candidates": "sources/review-p67-p79/search-log.json"
   }
 }
