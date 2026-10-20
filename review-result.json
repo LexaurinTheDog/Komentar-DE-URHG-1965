@@ -272,5 +272,30 @@
     "external_version": "sources/review-p137m-anlage/external-version-evidence.json",
     "previous_review": "sources/review-p137m-anlage/previous-review-p131-p137l.json"
   },
-  "technical_validation": "Nach tatsächlichem Build und strengem Prüfaufruf in technical_checks ergänzt."
+  "technical_validation": {
+    "repo": "Komentar-DE-URHG-1965",
+    "units": 254,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 443871,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "technical_checks": {
+    "strict_validation": {
+      "repo": "Komentar-DE-URHG-1965",
+      "units": 254,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 443871,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "completeness_ok": true,
+    "local_links_checked": 502,
+    "broken_local_links": [],
+    "source_responses_hash_checked": 200,
+    "source_hash_mismatches": [],
+    "limitations": "Diese Prüfungen belegen Text-/Strukturtreue und den dokumentierten Umfang; keine vollständige zweite Buchprüfung oder externe Freigabe."
+  }
 }
