@@ -386,5 +386,17 @@
     "previous_review": "sources/review-p79a-p87j/previous-review-p67-p79.json",
     "format_integrity": "sources/review-p79a-p87j/format-integrity.json"
   },
-  "technical_validation": "validation-result.json"
+  "technical_validation": "validation-result.json",
+  "validation_result": {
+    "repo": "Komentar-DE-URHG-1965",
+    "units": 254,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 328638,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "validation_recorded_at": "2026-10-20T13:39:04.771354+00:00",
+  "validation_output_content_commit": "4d1f6a522f161b0d2958026e3c72754ce81f0dcd",
+  "review_work_content_commit": "e910d7dd6ffdc87ce4628f1de7409352e41a5bd0"
 }

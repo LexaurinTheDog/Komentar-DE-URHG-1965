@@ -315,7 +315,7 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 311477,
+    "commentary_chars": 328638,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -356,7 +356,7 @@
     "official_identifiers": 254,
     "parsed_units": 254,
     "xml_text_agreement": 1.0,
-    "local_links_checked": 289,
+    "local_links_checked": 321,
     "broken_local_links": [],
     "repeated_long_paragraphs": [],
     "commentary_preservation": "review-result.json: per-unit hashes and baseline commit",
@@ -426,9 +426,9 @@
     "recorded_at": "2026-10-20T12:07:18.581826+00:00",
     "output_commit": "cb3b959"
   },
-  "validation_recorded_at": "2026-10-20T13:18:22.275027+00:00",
-  "validation_output_content_commit": "f4bc31c8d7eb5438e6a2fc3e09a0a1e67facbdbc",
-  "technical_validation_scope": "Gesamtbestand technisch geprüft; inhaltliche zweite Prüfung dieses Arbeitsgangs ausschließlich exakt 20 zugewiesene Einheiten.",
+  "validation_recorded_at": "2026-10-20T13:39:04.771354+00:00",
+  "validation_output_content_commit": "4d1f6a522f161b0d2958026e3c72754ce81f0dcd",
+  "technical_validation_scope": "Strenge technische Gesamtprüfung vorhandener 254 Einheiten; inhaltlicher Prüfungsumfang dieses Loses exakt 20 Einheiten, keine Erweiterung durch technischen Prüferfolg.",
   "previous_bounded_validation": {
     "result": {
       "repo": "Komentar-DE-URHG-1965",
@@ -446,12 +446,12 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 311477,
+    "commentary_chars": 328638,
     "errors": [],
     "warnings": [],
     "ok": true
   },
-  "local_links_checked": 289,
+  "local_links_checked": 321,
   "broken_local_links": [],
-  "recorded_technical_validation_at": "2026-10-20T13:18:22.275027+00:00"
+  "recorded_technical_validation_at": "2026-10-20T13:39:04.771354+00:00"
 }
