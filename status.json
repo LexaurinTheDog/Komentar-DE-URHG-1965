@@ -1,6 +1,6 @@
 {
   "stage": "bounded_review_complete",
-  "updated_at": "2026-10-20T13:18:22.275027+00:00",
+  "updated_at": "2026-10-20T13:18:51.706318+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -343,7 +343,7 @@
     "official_identifiers": 254,
     "parsed_units": 254,
     "xml_text_agreement": 1.0,
-    "local_links_checked": 287,
+    "local_links_checked": 289,
     "broken_local_links": [],
     "repeated_long_paragraphs": [],
     "commentary_preservation": "review-result.json: per-unit hashes and baseline commit",
@@ -437,7 +437,7 @@
     "warnings": [],
     "ok": true
   },
-  "local_links_checked": 287,
+  "local_links_checked": 289,
   "broken_local_links": [],
   "recorded_technical_validation_at": "2026-10-20T13:18:22.275027+00:00"
 }
