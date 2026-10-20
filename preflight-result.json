@@ -263,6 +263,15 @@
     ],
     "coverage_recheck": "completeness-report.json",
     "historical_duplicate_check": "Alle 307 XML-Datensätze erneut klassifiziert, nur ein Buildstand und keine doppelten Kennungen.",
-    "annexes_and_formula": "Eine Anlage mit fünf Gruppen und 26 Buchstabenpunkten; keine unklassifizierte operative Norm oder Eingangsformel. Aktuelle XML identisch zu den bereits abgeglichenen amtlichen HTML-/PDF-Belegen."
+    "annexes_and_formula": "Eine Anlage mit fünf Gruppen und 26 Buchstabenpunkten; keine unklassifizierte operative Norm oder Eingangsformel. Aktuelle XML identisch zu den bereits abgeglichenen amtlichen HTML-/PDF-Belegen.",
+    "technical_validation": {
+      "repo": "Komentar-DE-URHG-1965",
+      "units": 254,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 231957,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   }
 }

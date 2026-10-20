@@ -381,5 +381,27 @@
     ],
     "previous_review": "sources/review-p20-p32b/previous-review-p1-p19a.json"
   },
-  "technical_validation": "validation-result.json"
+  "technical_validation": "validation-result.json",
+  "validation_result": {
+    "repo": "Komentar-DE-URHG-1965",
+    "units": 254,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 231957,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "additional_checks": {
+    "coverage_report": "completeness-report.json",
+    "expected_units": 254,
+    "parsed_units": 254,
+    "missing": [],
+    "duplicates": [],
+    "all_commented_units": 254,
+    "local_links_checked": 129,
+    "broken_local_links": [],
+    "identical_paragraphs_over_100_chars": [],
+    "source_manifest_hashes_checked": 127,
+    "mismatched_source_hashes": []
+  }
 }

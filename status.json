@@ -174,7 +174,7 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 220253,
+    "commentary_chars": 231957,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -209,7 +209,8 @@
     "commentary_preservation": "review-result.json: per-unit hashes and baseline commit",
     "bounded_reviewed_units": 20,
     "bounded_corrected_units": 13,
-    "unassigned_commentary_units_preserved": 234
+    "unassigned_commentary_units_preserved": 234,
+    "all_commented_units": 254
   },
   "review_result": "review-result.json",
   "reviewed_ids": [
@@ -256,8 +257,19 @@
   ],
   "bounded_review_preservation": "review-result.json",
   "prior_validation": {
-    "result": null,
+    "result": {
+      "repo": "Komentar-DE-URHG-1965",
+      "units": 254,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 220253,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
     "recorded_at": "2026-10-20T12:07:18.581826+00:00",
     "output_commit": "cb3b959"
-  }
+  },
+  "validation_recorded_at": "2026-10-20T12:18:30.646593+00:00",
+  "validation_output_content_commit": "32629a8",
+  "technical_validation_scope": "Gesamter vorhandener technischer Bestand; inhaltliche Einzelprüfung dieses Arbeitsgangs ausschließlich der 20 reviewed_ids."
 }
