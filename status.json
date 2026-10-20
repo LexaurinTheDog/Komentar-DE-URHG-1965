@@ -1,7 +1,7 @@
 {
   "stage": "drafted_technical_validation",
   "task_kind": "finalize",
-  "updated_at": "2026-10-20T15:00:57.758874+00:00",
+  "updated_at": "2026-10-20T15:01:56.203117+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -490,8 +490,8 @@
   "publication": false,
   "push": false,
   "case_card_count": 26,
-  "validation_recorded_at": "2026-10-20T15:00:57.759131+00:00",
-  "validation_output_content_commit": "09c460cf49cd8424516146639b2af5d88a90f07d",
+  "validation_recorded_at": "2026-10-20T15:01:56.203287+00:00",
+  "validation_output_content_commit": "1086cf2e5d54d7e9e356837990e4b0c3fadc61cb",
   "validation_scope": "Technical finalization only; 254 existing ledger-reviewed units, no new independent whole-book review.",
   "quality_result": {
     "ok": true,
@@ -500,6 +500,21 @@
     "repeated_long_paragraphs": [],
     "similar_unit_pairs": []
   },
-  "source_manifest_files": 825,
-  "source_manifest_hash_mismatches": []
+  "source_manifest_files": 826,
+  "source_manifest_hash_mismatches": [],
+  "document_links": {
+    "checked_at": "2026-10-20T15:01:55.095944+00:00",
+    "scope": "Root manuscript documents and case cards; historical/raw source HTML navigation excluded.",
+    "results": {
+      "WORK": {
+        "checked_local_document_links": 316,
+        "broken_links": []
+      },
+      "OUTPUT": {
+        "checked_local_document_links": 364,
+        "broken_links": []
+      }
+    },
+    "ok": true
+  }
 }
