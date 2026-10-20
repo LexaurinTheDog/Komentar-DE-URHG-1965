@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/226/regelungstext.pdf?__blob=publicationFile&v=1",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/226/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T13:56:52.133475+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/bgb-amendment.pdf",
+    "headers_path": "sources/review-p101a-p112/bgb-amendment.pdf.headers",
+    "sha256": "e24d08e69485cfaf53c114b62e2a6000f7236dd0fbde9e5fe2408676cfffb6df",
+    "bytes": 636817,
+    "expected_format": "pdf",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/95/regelungstext.pdf?__blob=publicationFile&v=1",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/95/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T13:56:52.133831+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/stgb-amendment.pdf",
+    "headers_path": "sources/review-p101a-p112/stgb-amendment.pdf.headers",
+    "sha256": "832e1e85243651a1e84be477fa20281eb619a63b15c181054055366d9657f44f",
+    "bytes": 339622,
+    "expected_format": "pdf",
+    "expected_format_validated": true
+  }
+]

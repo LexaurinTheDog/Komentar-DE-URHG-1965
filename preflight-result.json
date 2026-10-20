@@ -3,7 +3,7 @@
   "complete": true,
   "decisive_date": "2026-10-19",
   "official_url": "https://www.gesetze-im-internet.de/urhg/",
-  "verified_at": "2026-10-20T13:50:05.909269+00:00",
+  "verified_at": "2026-10-20T14:07:18.006645+00:00",
   "version_evidence": {
     "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
     "promulgated": "2026-05-29",
@@ -14,9 +14,9 @@
       "p87b"
     ],
     "assigned_units_affected_by_latest_amendment": [],
-    "evidence": "sources/review-p87k-p101/amendment.pdf",
+    "evidence": "sources/review-p101a-p112/amendment.pdf",
     "evidence_sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
-    "check_scope": "Gesetzesstichtag ist der ursprüngliche Bearbeitungsbeginn 19.10.2026. Erneuter Abruf amtlicher XML-, HTML- und PDF-Fassung, Inhaltsverzeichnis, Aktualitätendienst und letzter Verkündung am 20.10.2026. Inkrafttreten aus Art. 3 und Ausgabedatum, nicht aus Abrufzeit oder Konsolidierungslabel abgeleitet. Kein historisches Vollarchiv und keine Garantie gegen noch nicht eingearbeitete Änderungen."
+    "check_scope": "Ursprünglicher Bearbeitungsbeginn 19.10.2026; amtliches XML, Voll-HTML, PDF, Inhaltsverzeichnis, Aktualitätendienst und letzte Verkündung am 20.10.2026 erneut geprüft. Keine Änderung gegenüber kanonischer Quelle oder Aufnahme festgestellt. Inkrafttreten aus Ausgabedatum und Art. 3 abgeleitet. Kein historisches Vollarchiv und keine Garantie gegen noch nicht eingearbeitete Änderungen."
   },
   "historical_versions_checked": {
     "all_builddates": [
@@ -134,8 +134,8 @@
     "disposition": "Keine Eingangsformel im amtlichen konsolidierten XML, im vollständigen HTML oder im GII-PDF ausgewiesen. Der einzige unbenannte XML-Datensatz enthält ausschließlich Metadaten und Fußnoten, keinen Normkörper. Keine historische Formel aus Erinnerung ergänzt.",
     "evidence_paths": [
       "sources/urhg.xml",
-      "sources/review-p87k-p101/full.html",
-      "sources/review-p87k-p101/current.txt"
+      "sources/review-p101a-p112/full.html",
+      "sources/review-p101a-p112/current.txt"
     ]
   },
   "coverage": {
@@ -10790,5 +10790,193 @@
       "warnings": [],
       "ok": true
     }
+  },
+  "bounded_review_p101a_p112_confirmation": {
+    "kind": "preflight",
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/urhg/",
+    "verified_at": "2026-10-20T14:07:18.006645+00:00",
+    "version_evidence": {
+      "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
+      "promulgated": "2026-05-29",
+      "effective_from": "2026-05-30",
+      "commencement_article": "Art. 3: Tag nach der Verkündung",
+      "affected_units": [
+        "p54d",
+        "p87b"
+      ],
+      "assigned_units_affected_by_latest_amendment": [],
+      "evidence": "sources/review-p101a-p112/amendment.pdf",
+      "evidence_sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "check_scope": "Ursprünglicher Bearbeitungsbeginn 19.10.2026; amtliches XML, Voll-HTML, PDF, Inhaltsverzeichnis, Aktualitätendienst und letzte Verkündung am 20.10.2026 erneut geprüft. Keine Änderung gegenüber kanonischer Quelle oder Aufnahme festgestellt. Inkrafttreten aus Ausgabedatum und Art. 3 abgeleitet. Kein historisches Vollarchiv und keine Garantie gegen noch nicht eingearbeitete Änderungen."
+    },
+    "historical_versions_checked": {
+      "all_builddates": [
+        "20260529215505"
+      ],
+      "duplicate_versions_found": false,
+      "scope": "Aktuelle konsolidierte amtliche XML-Datei vollständig auf Mehrfachkennungen und unklassifizierte Normkörper geprüft; historische Datumsangaben in Übergangsrecht und Fußnoten sind keine daneben geltenden Fassungsdatensätze. Kein Vollarchiv aller seit 1965 geltenden Fassungen."
+    },
+    "annexes_checked": [
+      {
+        "id": "anlage",
+        "label": "Anlage (zu § 61a)",
+        "doknr": "BJNR012730965BJNE018706123",
+        "included": true,
+        "evidence_path": "sources/urhg.xml",
+        "evidence_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+        "groups": [
+          {
+            "number": "1.",
+            "child_ids": [
+              "anlage/1/a",
+              "anlage/1/b",
+              "anlage/1/c",
+              "anlage/1/d",
+              "anlage/1/e"
+            ],
+            "letter_labels": [
+              "a)",
+              "b)",
+              "c)",
+              "d)",
+              "e)"
+            ]
+          },
+          {
+            "number": "2.",
+            "child_ids": [
+              "anlage/2/a",
+              "anlage/2/b",
+              "anlage/2/c",
+              "anlage/2/d",
+              "anlage/2/e"
+            ],
+            "letter_labels": [
+              "a)",
+              "b)",
+              "c)",
+              "d)",
+              "e)"
+            ]
+          },
+          {
+            "number": "3.",
+            "child_ids": [
+              "anlage/3/a",
+              "anlage/3/b",
+              "anlage/3/c"
+            ],
+            "letter_labels": [
+              "a)",
+              "b)",
+              "c)"
+            ]
+          },
+          {
+            "number": "4.",
+            "child_ids": [
+              "anlage/4/a",
+              "anlage/4/b",
+              "anlage/4/c",
+              "anlage/4/d",
+              "anlage/4/e",
+              "anlage/4/f",
+              "anlage/4/g",
+              "anlage/4/h"
+            ],
+            "letter_labels": [
+              "a)",
+              "b)",
+              "c)",
+              "d)",
+              "e)",
+              "f)",
+              "g)",
+              "h)"
+            ]
+          },
+          {
+            "number": "5.",
+            "child_ids": [
+              "anlage/5/a",
+              "anlage/5/b",
+              "anlage/5/c",
+              "anlage/5/d",
+              "anlage/5/e"
+            ],
+            "letter_labels": [
+              "a)",
+              "b)",
+              "c)",
+              "d)",
+              "e)"
+            ]
+          }
+        ],
+        "description": "Eine operative Anlage: fünf Quellengruppen; Buchstaben a–e, a–e, a–c, a–h und a–e. Fundstellenkommentar ist redaktioneller Hinweis, kein Tatbestand.",
+        "full_xml_text_agrees": true
+      }
+    ],
+    "eingangsformel_checked": {
+      "xml_record_present": false,
+      "html_heading_present": false,
+      "pdf_label_present": false,
+      "unclassified_operative_xml_records": [],
+      "disposition": "Keine Eingangsformel im amtlichen konsolidierten XML, im vollständigen HTML oder im GII-PDF ausgewiesen. Der einzige unbenannte XML-Datensatz enthält ausschließlich Metadaten und Fußnoten, keinen Normkörper. Keine historische Formel aus Erinnerung ergänzt.",
+      "evidence_paths": [
+        "sources/urhg.xml",
+        "sources/review-p101a-p112/full.html",
+        "sources/review-p101a-p112/current.txt"
+      ]
+    },
+    "fresh_xml_classification": {
+      "law_metadata_and_editorial_notes": 1,
+      "table_of_contents": 1,
+      "structure": 51,
+      "statutory_unit": 253,
+      "annex": 1
+    },
+    "coverage": {
+      "expected_count": 254,
+      "parsed_count": 254,
+      "missing": [],
+      "duplicates": [],
+      "unexpected": [],
+      "independent_xml_text_agreement": true,
+      "report": "completeness-report.json"
+    },
+    "source_unchanged": true,
+    "xml_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+    "extracted_assigned_units_agree": true,
+    "reviewed_ids": [
+      "p101a",
+      "p101b",
+      "p102",
+      "p102a",
+      "p103",
+      "p104",
+      "p104a",
+      "p105",
+      "p106",
+      "p107",
+      "p108",
+      "p108a",
+      "p108b",
+      "p109",
+      "p110",
+      "p111",
+      "p111a",
+      "p111b",
+      "p111c",
+      "p112"
+    ],
+    "fetch_log": "sources/review-p101a-p112/fetch-results.json",
+    "external_version_evidence": "sources/review-p101a-p112/external-version-evidence.json",
+    "unresolved_blockers": [],
+    "limitations": [
+      "Vollständiger Quellen-/Parser-Preflight; inhaltlicher zweiter Durchgang nur für die 20 zugewiesenen Einheiten. Keine vollständige historische Archivprüfung."
+    ]
   }
 }

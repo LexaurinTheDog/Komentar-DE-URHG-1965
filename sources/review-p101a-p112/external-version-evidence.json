@@ -1,0 +1,74 @@
+{
+  "verified_at": "2026-10-20T14:07:18.006645+00:00",
+  "decisive_date": "2026-10-19",
+  "statutes": {
+    "bgb": {
+      "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "xml": "sources/review-p101a-p112/bgb.xml",
+      "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "version": [
+        "Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+        "zuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+      ],
+      "examined_provisions": [
+        {
+          "label": "§ 195",
+          "doknr": "BJNR001950896BJNE018702377",
+          "text": "Die regelmäßige Verjährungsfrist beträgt drei Jahre.",
+          "text_sha256": "b124d671d9c94f510ea1391e4f058d9bbe44213a09e7084f514fc0ee617bd046"
+        },
+        {
+          "label": "§ 199",
+          "doknr": "BJNR001950896BJNE019103140",
+          "text": "(1) Die regelmäßige Verjährungsfrist beginnt, soweit nicht ein anderer Verjährungsbeginn bestimmt ist, mit dem Schluss des Jahres, in dem 1. der Anspruch entstanden ist und 2. der Gläubiger von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste. (2) Schadensersatzansprüche, die auf der Verletzung des Lebens, des Körpers, der Gesundheit oder der Freiheit beruhen, verjähren ohne Rücksicht auf ihre Entstehung und die Kenntnis oder grob fahrlässige Unkenntnis in 30 Jahren von der Begehung der Handlung, der Pflichtverletzung oder dem sonstigen, den Schaden auslösenden Ereignis an. (3) Sonstige Schadensersatzansprüche verjähren 1. ohne Rücksicht auf die Kenntnis oder grob fahrlässige Unkenntnis in zehn Jahren von ihrer Entstehung an und 2. ohne Rücksicht auf ihre Entstehung und die Kenntnis oder grob fahrlässige Unkenntnis in 30 Jahren von der Begehung der Handlung, der Pflichtverletzung oder dem sonstigen, den Schaden auslösenden Ereignis an. Maßgeblich ist die früher endende Frist. (3a) Ansprüche, die auf einem Erbfall beruhen oder deren Geltendmachung die Kenntnis einer Verfügung von Todes wegen voraussetzt, verjähren ohne Rücksicht auf die Kenntnis oder grob fahrlässige Unkenntnis in 30 Jahren von der Entstehung des Anspruchs an. (4) Andere Ansprüche als die nach den Absätzen 2 bis 3a verjähren ohne Rücksicht auf die Kenntnis oder grob fahrlässige Unkenntnis in zehn Jahren von ihrer Entstehung an. (5) Geht der Anspruch auf ein Unterlassen, so tritt an die Stelle der Entstehung die Zuwiderhandlung.",
+          "text_sha256": "4030bd33beb38213da52b8e3e92646ff5ec832369c39e9c5eef92516571bae72"
+        },
+        {
+          "label": "§ 811",
+          "doknr": "BJNR001950896BJNE084002377",
+          "text": "(1) Die Vorlegung hat in den Fällen der §§ 809, 810 an dem Orte zu erfolgen, an welchem sich die vorzulegende Sache befindet. Jeder Teil kann die Vorlegung an einem anderen Orte verlangen, wenn ein wichtiger Grund vorliegt. (2) Die Gefahr und die Kosten hat derjenige zu tragen, welcher die Vorlegung verlangt. Der Besitzer kann die Vorlegung verweigern, bis ihm der andere Teil die Kosten vorschießt und wegen der Gefahr Sicherheit leistet.",
+          "text_sha256": "9ad0fed4d7ab9f361467c20357a4580139fe00d9368498720c691e470eee05a6"
+        },
+        {
+          "label": "§ 852",
+          "doknr": "BJNR001950896BJNE088102377",
+          "text": "Hat der Ersatzpflichtige durch eine unerlaubte Handlung auf Kosten des Verletzten etwas erlangt, so ist er auch nach Eintritt der Verjährung des Anspruchs auf Ersatz des aus einer unerlaubten Handlung entstandenen Schadens zur Herausgabe nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung verpflichtet. Dieser Anspruch verjährt in zehn Jahren von seiner Entstehung an, ohne Rücksicht auf die Entstehung in 30 Jahren von der Begehung der Verletzungshandlung oder dem sonstigen, den Schaden auslösenden Ereignis an.",
+          "text_sha256": "7af956220da028579b21caa031a221c2bf9842cb0ad04a87dafe58c49f218f08"
+        }
+      ],
+      "latest_amendment_effective_from": "2026-07-29",
+      "commencement_evidence": "BGBl. 2026 I Nr. 226, Art. 6 betrifft §§ 555b, 559e und neuen § 559f, keine der hier erläuterten Vorschriften. Art. 9 Abs. 1: Tag nach Verkündung 28.7.2026; Ausnahmen Abs. 2–4 betreffen Art. 2, 7, 3 und 4, nicht Art. 6.",
+      "gazette": "sources/review-p101a-p112/bgb-amendment.pdf",
+      "gazette_sha256": "e24d08e69485cfaf53c114b62e2a6000f7236dd0fbde9e5fe2408676cfffb6df",
+      "limits": "Aktuelle Einzelregeln und letzte Änderungsverkündung geprüft, keine vollständige historische Kommentierung dieser Gesetze. § 74 separat abgerufen, aber nicht als eigenständige Kommentarnorm verwendet."
+    },
+    "stgb": {
+      "url": "https://www.gesetze-im-internet.de/stgb/xml.zip",
+      "xml": "sources/review-p101a-p112/stgb.xml",
+      "xml_sha256": "2762d32c5254858eafdaa537d715d36e0cafe2803921b3fa6d39f6ad44d9b6c9",
+      "version": [
+        "Neugefasst durch Bek. v. 13.11.1998 I 3322;",
+        "zuletzt geändert durch Art. 1 G v. 20.3.2026 I Nr. 95"
+      ],
+      "examined_provisions": [
+        {
+          "label": "§ 15",
+          "doknr": "BJNR001270871BJNE008202307",
+          "text": "Strafbar ist nur vorsätzliches Handeln, wenn nicht das Gesetz fahrlässiges Handeln ausdrücklich mit Strafe bedroht.",
+          "text_sha256": "6a5ac316fab56c968880ca185854144e63d0c03a92ee8a1b593dac847ad409cb"
+        },
+        {
+          "label": "§ 74a",
+          "doknr": "BJNR001270871BJNE017703123",
+          "text": "Verweist ein Gesetz auf diese Vorschrift, können Gegenstände abweichend von § 74 Absatz 3 auch dann eingezogen werden, wenn derjenige, dem sie zur Zeit der Entscheidung gehören oder zustehen, 1. mindestens leichtfertig dazu beigetragen hat, dass sie als Tatmittel verwendet worden oder Tatobjekt gewesen sind, oder 2. sie in Kenntnis der Umstände, welche die Einziehung zugelassen hätten, in verwerflicher Weise erworben hat.",
+          "text_sha256": "96ac75c31a5a543b8962393c7ea0a0cbcbc129f8cf045888e9e644d0b59042da"
+        }
+      ],
+      "latest_amendment_effective_from": "2026-04-02",
+      "commencement_evidence": "BGBl. 2026 I Nr. 95, Art. 1: Katalog der zwölf Änderungen betrifft weder § 15 noch § 74a; Art. 4 Tag nach Verkündung vom 1.4.2026.",
+      "gazette": "sources/review-p101a-p112/stgb-amendment.pdf",
+      "gazette_sha256": "832e1e85243651a1e84be477fa20281eb619a63b15c181054055366d9657f44f",
+      "limits": "Aktuelle Einzelregeln und letzte Änderungsverkündung geprüft, keine vollständige historische Kommentierung dieser Gesetze. § 74 separat abgerufen, aber nicht als eigenständige Kommentarnorm verwendet."
+    }
+  }
+}

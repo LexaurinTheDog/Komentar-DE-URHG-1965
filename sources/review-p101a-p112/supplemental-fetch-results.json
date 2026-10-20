@@ -1,0 +1,40 @@
+[
+  {
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2004&Gericht=bgh&Sort=258&file=dokument.pdf&linked=urt&nr=28709",
+    "final_url": "https://www.bundesgerichtshof.de/DE/Presse/Pressemitteilungen/pressemitteilungen_node.html",
+    "accessed_at": "2026-10-20T13:56:28.306689+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/cdrom.pdf",
+    "headers_path": "sources/review-p101a-p112/cdrom.pdf.headers",
+    "sha256": "9fb1c0b072bddad5f3631ba7d8ec5d8de9cc5770e52ae985dde21412ddd6fdd3",
+    "bytes": 38163,
+    "expected_format": "pdf",
+    "expected_format_validated": false,
+    "actual_format": "HTML response from BGH site, not a PDF judgment",
+    "used_as_substantive_authority": false
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+    "accessed_at": "2026-10-20T13:56:28.307054+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/bgb.zip",
+    "headers_path": "sources/review-p101a-p112/bgb.zip.headers",
+    "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+    "bytes": 467286,
+    "expected_format": "zip",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/stgb/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/stgb/xml.zip",
+    "accessed_at": "2026-10-20T13:56:28.307169+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/stgb.zip",
+    "headers_path": "sources/review-p101a-p112/stgb.zip.headers",
+    "sha256": "43e12baef8aed20424b3358a88921a68fb5589079344226ea54a798395d0ec11",
+    "bytes": 143364,
+    "expected_format": "zip",
+    "expected_format_validated": true
+  }
+]

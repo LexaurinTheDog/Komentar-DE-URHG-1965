@@ -1,21 +1,21 @@
 {
-  "checked_at": "2026-10-20T13:51:24.163006+00:00",
+  "checked_at": "2026-10-20T14:07:21.088196+00:00",
   "units": 254,
   "commented_units": 254,
-  "commentary_chars": 356119,
+  "commentary_chars": 379581,
   "duplicate_commentary_ids": [],
   "missing_commentary_ids": [],
   "extra_commentary_ids": [],
   "independent_xml_stream_mismatches": [],
   "identical_paragraphs_over_100_chars": [],
   "similar_unit_pairs_shingle_jaccard_over_012": [],
-  "local_links_checked": 364,
+  "local_links_checked": 402,
   "broken_local_links": [],
   "unresolved_internal_references": [],
   "short_commentaries": [],
   "ordinary_length_distribution": {
-    "under_700": 29,
-    "at_least_700": 225
+    "under_700": 28,
+    "at_least_700": 226
   },
   "limitations": [
     "Ähnlichkeit ist nur ein maschineller Hinweis; keine Zertifizierung juristischer Originalität oder Richtigkeit.",

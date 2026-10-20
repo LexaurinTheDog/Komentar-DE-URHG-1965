@@ -14,9 +14,13 @@
 >
 > (2) Der Versuch ist strafbar.
 
-Absatz 1 erfasst die genannten unerlaubten Verwertungen eines Werkes einschließlich Bearbeitungen und Umgestaltungen. Gesetzliche Erlaubnisse und wirksame Einwilligungen sind deshalb bereits bei der tatbestandlichen Rechteprüfung zu berücksichtigen. Die Strafdrohung beträgt bis zu drei Jahre Freiheitsstrafe oder Geldstrafe; Absatz 2 erfasst den Versuch. Zivilrechtliche Rechtswidrigkeit allein ersetzt nicht die vollständige strafrechtliche Prüfung. Der gewerbsmäßige Fall und die Verfolgungsvoraussetzungen stehen in §§ 108a und 109.
+Absatz 1 schützt Werke einschließlich ihrer Bearbeitungen und Umgestaltungen vor den ausdrücklich bezeichneten unerlaubten Verwertungen: Vervielfältigung, Verbreitung und öffentliche Wiedergabe. Die Begriffe sind mit den jeweiligen Verwertungsrechten des UrhG zu verbinden. Nicht jede wirtschaftlich nachteilige Behandlung eines Werks und nicht jede Vertragsverletzung wird dadurch zur Straftat. Insbesondere ist die Herstellung einer Bearbeitung von deren anschließender tatbestandsmäßiger Verwertung zu unterscheiden.
 
-Beispiel: Ein Händler kopiert und verkauft geschützte Romane ohne Rechte. Werk, Schutzdauer, fehlende Erlaubnis, konkrete Handlung und persönliche Verantwortlichkeit müssen festgestellt werden. Ein bloßer Streit über die Höhe einer bereits vereinbarten Vergütung ist nicht automatisch dieselbe unerlaubte Werkverwertung.
+Werkqualität, fortbestehender Schutz, die konkrete Handlung sowie fehlende Einwilligung und fehlende gesetzliche Erlaubnis müssen feststehen. Das Strafrecht senkt diese Anforderungen nicht. Nach § 15 StGB ist ohne ausdrücklich abweichende Strafdrohung vorsätzliches Handeln erforderlich; die für zivilrechtlichen Schadensersatz nach § 97 Abs. 2 genügende Fahrlässigkeit reicht deshalb nicht schon für § 106. Persönliche Tatbeteiligung und die subjektiven Voraussetzungen sind auch bei Vorgängen in einem Unternehmen für den jeweils Beschuldigten festzustellen.
+
+Die Grundstrafe reicht bis zu drei Jahren Freiheitsstrafe oder Geldstrafe. Absatz 2 erklärt den Versuch ausdrücklich für strafbar; ob bereits ein strafbarer Versuch und nicht erst eine Vorbereitung vorliegt, ist gesondert zu beurteilen. Gewerbsmäßige Begehung und Verfolgungsvoraussetzungen regeln §§ 108a und 109. Eine erlaubte Privatkopie erfüllt den Tatbestand nicht; der private Zweck allein erlaubt aber insbesondere keine beliebige öffentliche Weiterverbreitung.
+
+Beispiel: Ein Händler fertigt wissentlich unlizenzierte Kopien geschützter Romane und verkauft sie. Werk, Berechtigung, einzelne Verwertungshandlungen und Vorsatz sind zu prüfen. Ein anderer Händler, der lediglich eine vereinbarte Lizenzvergütung verspätet bezahlt, begeht dadurch noch nicht ohne Weiteres dieselbe unerlaubte Werkverwertung.
 
 ### § 107 — Unzulässiges Anbringen der Urheberbezeichnung
 
@@ -32,9 +36,13 @@ Beispiel: Ein Händler kopiert und verkauft geschützte Romane ohne Rechte. Werk
 >
 > (2) Der Versuch ist strafbar.
 
-Die Vorschrift schützt die Authentizität der Urheberbezeichnung im Kunstverkehr. Absatz 1 Nr. 1 betrifft unbefugtes Bezeichnen eines Originals und dessen Verbreitung; Nummer 2 das Erzeugen eines Originalanscheins bei Kopien oder Umgestaltungen und deren Verbreitung. Die Strafdrohung ist subsidiär gegenüber schwereren Tatbeständen. Absatz 2 erklärt den Versuch für strafbar. Nicht jede fehlerhafte Quellenangabe erfüllt diese besonderen Voraussetzungen; Werkart, Trägertyp und täuschender Originalbezug sind genau zu bestimmen.
+Die Vorschrift sichert die Zuordnung von Originalen und Reproduktionen im Bereich der bildenden Künste. Ihr Gegenstand ist nicht jede falsche Quellenangabe bei beliebigen Werkarten. Absatz 1 Nummer 1 erfasst das Anbringen der Urheberbezeichnung auf einem Original ohne Einwilligung des Urhebers sowie die Verbreitung eines derart bezeichneten Originals. Hier verlangt der Wortlaut keinen zusätzlich erzeugten Anschein, eine Kopie sei ein Original: Es geht gerade um ein tatsächliches Original und den fehlenden Willen des Urhebers zur Bezeichnung.
 
-Beispiel: Ein Händler versieht eine Reproduktion so mit einer Signatur, dass sie als Original erscheint, und bietet sie an. Dies ist anders zu prüfen als ein erkennbar als Nachdruck beschriftetes Poster. Auch zusätzliche Straftatbestände können betroffen sein, ohne dass § 107 diese selbst abschließend regelt.
+Nummer 2 betrifft dagegen ein Vervielfältigungsstück, eine Bearbeitung oder Umgestaltung. Strafbar ist das Anbringen der Bezeichnung in einer Weise, die den Anschein eines Originals vermittelt, sowie die Verbreitung des so bezeichneten Gegenstands. Der täuschende Originalbezug ist damit das besondere Abgrenzungsmerkmal dieser Nummer. Eine als Reproduktion erkennbare Wiedergabe mit zutreffender Urheberangabe ist nicht allein wegen der Namensnennung gleichzustellen. Der Verweis auf § 10 Abs. 1 bestimmt den Bezug zur Urheberbezeichnung; deren bloße Existenz ersetzt nicht die übrigen Tatbestandsmerkmale.
+
+Die Strafdrohung beträgt bis zu drei Jahre Freiheitsstrafe oder Geldstrafe und tritt zurück, wenn andere Vorschriften die Tat mit schwererer Strafe bedrohen. Absatz 2 erfasst den Versuch. Vorsatz ist gesondert festzustellen; eine bloße fahrlässige Falschzuordnung begründet diese Strafbarkeit nicht. Die Einschränkung des § 110 auf Absatz 1 Nummer 2 ist bei einer möglichen Einziehung mitzulesen.
+
+Beispiel: Ein Händler versieht eine Reproduktion mit einer nachgeahmten Künstlersignatur, um sie als Original zu verkaufen. Nummer 2 verlangt die Prüfung dieses Originalanscheins. Davon unterscheidet sich der Fall, dass jemand ohne Zustimmung des Urhebers dessen Bezeichnung auf einem bisher unbezeichneten tatsächlichen Original anbringt.
 
 ### § 108 — Unerlaubte Eingriffe in verwandte Schutzrechte
 
@@ -62,9 +70,15 @@ Beispiel: Ein Händler versieht eine Reproduktion so mit einer Signatur, dass si
 >
 > (2) Der Versuch ist strafbar.
 
-Absatz 1 enthält einen konkret bestimmten Katalog verwandter Schutzrechte und zugehöriger Eingriffshandlungen. Erfasst sind unter anderem wissenschaftliche Ausgaben, nachgelassene Werke, Lichtbilder, Darbietungen, Tonträger, Sendungen, Filmträger und Datenbanken. Die entsprechende gesetzliche Erlaubnis oder Einwilligung ist jeweils mitzuberücksichtigen. Nicht jedes zivilrechtlich bestehende Leistungsschutzrecht darf durch Analogie in diesen Strafkatalog aufgenommen werden. Absatz 2 erfasst den Versuch; die Grundstrafdrohung entspricht der des § 106.
+§ 108 überträgt den strafrechtlichen Schutz auf den abschließenden Handlungskatalog verwandter Schutzrechte. Absatz 1 setzt jeweils voraus, dass die Handlung weder gesetzlich zugelassen noch vom Berechtigten erlaubt ist. Bei den einzelnen Nummern sind nicht nur Schutzgegenstand und Inhaberschaft, sondern die jeweils verwiesene Befugnis und Schutzdauer zu prüfen. Ein zivilrechtlich geschütztes Interesse lässt sich nicht durch Analogie zu einem zusätzlichen Strafkatalogpunkt erweitern.
 
-Beispiel: Ein Anbieter verkauft unbefugte Kopien einfacher Produktfotos. Fehlende Werkqualität schließt die Prüfung nicht aus, weil Lichtbilder ausdrücklich genannt sind. Schutzentstehung, Frist und die tatsächlich verletzte Befugnis nach § 72 müssen dennoch belegt werden.
+Nummer 1 schützt wissenschaftliche Ausgaben nach § 70 einschließlich Bearbeitungen und Umgestaltungen gegen Vervielfältigung, Verbreitung und öffentliche Wiedergabe. Nummer 2 erfasst die Verwertung nachgelassener Werke entgegen § 71. Nummer 3 nennt Lichtbilder nach § 72 sowie ihre Bearbeitungen und Umgestaltungen und dieselben drei Verwertungsgruppen wie Nummer 1. Fehlende Werkqualität eines Fotos schließt die Strafprüfung daher nicht schon aus.
+
+Nummer 4 verweist bei Darbietungen gezielt auf § 77 Abs. 1 und Abs. 2 Satz 1 sowie § 78 Abs. 1. Bloße Ansprüche auf Vergütung sind mit diesen ausschließlichen Befugnissen nicht gleichzusetzen. Nummern 5 und 6 betreffen die Verwertung von Tonträgern entgegen § 85 und Funksendungen entgegen § 87. Nummer 7 erfasst Bildträger und Bild- und Tonträger nach § 94 sowie nach § 95 in Verbindung mit § 94. Nummer 8 beschränkt den Datenbankbezug auf § 87b Abs. 1; insbesondere muss die konkrete Entnahme oder Wiederverwendung die dortigen Voraussetzungen erfüllen. Der Katalog nennt etwa das Presseverlegerrecht nicht als selbständigen neunten Fall.
+
+Die Grundstrafe beträgt bis zu drei Jahre Freiheitsstrafe oder Geldstrafe; Absatz 2 erklärt den Versuch für strafbar. Wie bei § 106 genügt die zivilrechtliche Fahrlässigkeit nicht schon für die nach § 15 StGB grundsätzlich erforderliche vorsätzliche Begehung. Gewerbsmäßigkeit, Strafantrag und Einziehung sind anhand der jeweiligen Verweise in §§ 108a, 109 und 110 zu prüfen.
+
+Beispiel: Ein Anbieter verkauft wissentlich unbefugte Kopien einfacher Produktfotos. Auch ohne schöpferische Werkqualität kommt Nummer 3 in Betracht. Der Nachweis einer bloßen offenen Rechnung des Fotografen genügt dagegen nicht: Es muss eine unerlaubte tatbestandsmäßige Verwertung des noch geschützten Lichtbildes feststehen.
 
 ### § 108a — Gewerbsmäßige unerlaubte Verwertung
 
@@ -74,9 +88,11 @@ Beispiel: Ein Anbieter verkauft unbefugte Kopien einfacher Produktfotos. Fehlend
 >
 > (2) Der Versuch ist strafbar.
 
-Die Qualifikation setzt einen Fall der §§ 106 bis 108 und zusätzlich gewerbsmäßiges Handeln voraus. Sie hebt den Strafrahmen auf bis zu fünf Jahre Freiheitsstrafe oder Geldstrafe; Absatz 2 erfasst den Versuch. Die zusätzliche Voraussetzung darf nicht allein aus dem gewerblichen Status eines Unternehmens oder aus jeder einzelnen entgeltlichen Handlung abgeleitet werden. Sie ist von dem anders verwendeten „gewerblichen Ausmaß“ des Auskunftsrechts zu unterscheiden. Der konkrete Tatplan und die Verwertungspraxis sind zu ermitteln.
+Die Qualifikation setzt einen tatbestandsmäßigen Fall der §§ 106 bis 108 und zusätzlich gewerbsmäßiges Handeln des Täters voraus. Der Strafrahmen steigt auf bis zu fünf Jahre Freiheitsstrafe oder Geldstrafe; Absatz 2 erklärt den Versuch für strafbar. Die Norm erweitert den Kreis der geschützten Gegenstände oder der erfassten Verwertungshandlungen nicht. § 108b ist nicht Teil der Verweisung und enthält in seinem Absatz 3 eine eigene, anders begrenzte Gewerbsmäßigkeitsregel.
 
-Beispiel: Ein Betreiber organisiert fortlaufend den Verkauf unberechtigter Werkkopien als Einnahmequelle. Die Qualifikation ist anhand der belegten Umstände zu prüfen. Ein einmaliger Vorgang wird nicht allein deshalb gleichgestellt, weil der Betroffene daneben einen legalen Gewerbebetrieb führt.
+Der allgemeine Gewerbestatus eines Betriebs oder die Entgeltlichkeit eines einzelnen Vorgangs beweist das zusätzliche Merkmal nicht. Zu untersuchen ist der auf Einnahmen aus wiederholten Rechtsverletzungen gerichtete Tatplan anhand tatsächlicher Organisation, Wiederholungsabsicht und wirtschaftlicher Bedeutung. Umgekehrt kann schon eine erste nachgewiesene Handlung Teil eines solchen auf Fortsetzung gerichteten Plans sein. Die Formel „einmalig“ erledigt die Prüfung daher nicht allein. Der strafrechtliche Begriff ist auch nicht mit dem gewerblichen Ausmaß bei den zivilrechtlichen Auskunfts- und Vorlageansprüchen gleichzusetzen. § 109 nennt diese Qualifikation nicht in seinem Strafantragskatalog.
+
+Beispiel: Ein Betreiber baut einen fortlaufenden Verkauf unberechtigter Werkkopien als Einnahmequelle auf. Auch wenn zunächst nur die erste Lieferung nachweisbar ist, sind weitere Verkaufsplanung und persönliche Einnahmeabsicht zu prüfen. Bei einem sonst legalen Gewerbebetrieb lässt sich diese Qualifikation dagegen nicht allein aus dessen Existenz ableiten.
 
 ### § 108b — Unerlaubte Eingriffe in technische Schutzmaßnahmen und zur Rechtewahrnehmung erforderliche Informationen
 
@@ -100,9 +116,17 @@ Beispiel: Ein Betreiber organisiert fortlaufend den Verkauf unberechtigter Werkk
 >
 > (3) Handelt der Täter in den Fällen des Absatzes 1 gewerbsmäßig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-Absatz 1 bestraft näher bestimmte Schutzumgehungen und Informationsmanipulationen mit besonderen subjektiven Voraussetzungen. Die dortige Privatgebrauchsausnahme betrifft die Strafbarkeit dieses Absatzes, nicht eine allgemeine zivilrechtliche Umgehungserlaubnis. Absatz 2 erfasst bestimmte gewerblichen Zwecken dienende Umgehungsmittelhandlungen durch Verweisung auf § 95a Abs. 3. Absatz 3 erhöht bei gewerbsmäßigen Fällen des Absatzes 1 den Strafrahmen. Die Unterschiede zwischen § 95a, § 95c, Strafrecht und den Bußgeldfällen des § 111a sind genau zu beachten.
+Die Vorschrift unterscheidet drei Ebenen: bestimmte Umgehungs- und Informationshandlungen in Absatz 1, bestimmte gewerblichen Zwecken dienende Umgehungsmittelhandlungen in Absatz 2 und die qualifizierte Begehung nur der Fälle des Absatzes 1 in Absatz 3. Die Tatbestände übernehmen nicht unterschiedslos sämtliche zivilrechtlichen Verbote der §§ 95a und 95c.
 
-Beispiel: Ein Dienstleister entfernt gezielt Rechteinformationen zur Verschleierung rechtswidriger Weiterverwertung. Es sind Kenntnis, Unbefugtheit und Verletzungszusammenhang zu prüfen. Die strafrechtliche Ausnahme eines anderen privaten Falls würde dessen zivilrechtliche Zulässigkeit nicht automatisch bestätigen.
+Absatz 1 Nummer 1 verlangt die Umgehung einer wirksamen technischen Maßnahme ohne Zustimmung des Rechtsinhabers in der Absicht, sich oder einem Dritten Zugang zu dem geschützten Gegenstand oder dessen Nutzung zu ermöglichen. Wirksamkeit und Schutzgegenstand sind anhand des technischen Maßnahmenschutzes zu bestimmen; ein bloßes Hindernis ohne die gesetzlichen Schutzmerkmale genügt nicht. Die besondere Zugangs- oder Nutzungsabsicht darf nicht durch die bloße technische Möglichkeit ersetzt werden.
+
+Nummer 2 Buchstabe a betrifft wissentlich unbefugtes Entfernen oder Verändern einer vom Rechtsinhaber stammenden Rechtewahrnehmungsinformation am Vervielfältigungsstück oder im Zusammenhang mit öffentlicher Wiedergabe. Buchstabe b erfasst die wissentlich unbefugte Weiterverwertung eines Gegenstands mit entsprechend manipulierter Information: Verbreiten, Einführen zur Verbreitung, Senden, öffentliche Wiedergabe oder Zugänglichmachung. Hinzutreten muss die wenigstens leichtfertige Veranlassung, Ermöglichung, Erleichterung oder Verschleierung einer Rechtsverletzung durch diese Handlung. Zufälliger Verlust beliebiger Dateimetadaten erfüllt diese Anforderungen nicht automatisch; der Informationsbegriff aus § 95c bleibt maßgeblich.
+
+Absatz 1 nimmt Taten aus, die ausschließlich dem eigenen privaten Gebrauch oder dem Gebrauch persönlich verbundener Personen dienen oder sich darauf beziehen. Diese Ausnahme begrenzt die Strafbarkeit dieses Absatzes und schafft keine allgemeine zivilrechtliche Umgehungserlaubnis. Außerhalb der Ausnahme beträgt die Strafe bis zu einem Jahr Freiheitsstrafe oder Geldstrafe.
+
+Absatz 2 erfasst entgegen § 95a Abs. 3 erfolgende Herstellung, Einfuhr, Verbreitung, Verkauf oder Vermietung der genannten Mittel zu gewerblichen Zwecken. Der bloße Besitz, Werbung und Dienstleistungen sind nicht als zusätzliche Verben in diesen Strafkatalog hineinzulesen; § 111a enthält einen eigenen Bußgeldkatalog. Absatz 3 hebt die Strafdrohung bei gewerbsmäßigen Fällen des Absatzes 1 auf bis zu drei Jahre Freiheitsstrafe oder Geldstrafe an. Er bezieht sich gerade nicht auf sämtliche Fälle des Absatzes 2. Anders als §§ 106 bis 108 enthält § 108b keine ausdrückliche Versuchsklausel.
+
+Beispiel: Ein Dienstleister entfernt wissentlich elektronische Rechteinformationen, um eine unerlaubte Weiterverwertung fremder Aufnahmen zu verschleiern. Bei Nummer 2 sind Herkunft und Funktion der Informationen, Unbefugtheit und der qualifizierte Verletzungszusammenhang zu belegen. Die reine Feststellung, dass eine Datei keine Metadaten mehr enthält, würde diese Prüfung nicht tragen.
 
 ### § 109 — Strafantrag
 
@@ -110,9 +134,11 @@ Beispiel: Ein Dienstleister entfernt gezielt Rechteinformationen zur Verschleier
 
 > In den Fällen der §§ 106 bis 108 und des § 108b wird die Tat nur auf Antrag verfolgt, es sei denn, daß die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.
 
-Die genannten Grundtatbestände und § 108b werden grundsätzlich nur auf Strafantrag verfolgt. Die Strafverfolgungsbehörde kann bei besonderem öffentlichem Interesse von Amts wegen einschreiten. Der Katalog nennt § 108a nicht; diese Abgrenzung ist bei qualifizierten Fällen zu beachten. Ein Strafantrag und eine zivilrechtliche Abmahnung sind unterschiedliche Handlungen. Die Norm selbst regelt keine vollständige Berechnung der Antragsfrist oder sämtliche Anforderungen an eine wirksame Erklärung.
+Die Vorschrift macht die Verfolgung der ausdrücklich genannten Taten grundsätzlich von einem Strafantrag abhängig. Sie erfasst §§ 106 bis 108 und § 108b. Eine Verfolgung von Amts wegen bleibt möglich, wenn die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses ein Einschreiten für geboten hält. Nicht jedes individuelle Verfolgungsinteresse des Verletzten ist schon dieses besondere öffentliche Interesse; die Entscheidung liegt bei der Behörde.
 
-Beispiel: Eine Fotografin möchte eine unbefugte Verwertung auch strafrechtlich verfolgen lassen. Ihre bloße Zahlungsaufforderung an den Nutzer ist nicht schon eine an die zuständige Stelle gerichtete Verfolgungserklärung. Die konkrete strafprozessuale Vorgehensweise muss gesondert geprüft werden.
+§ 108a ist im Katalog nicht genannt. Die gewerbsmäßige Qualifikation dieser Norm darf deshalb nicht ohne Prüfung wie ein antragsabhängiger Grundfall behandelt werden. Dagegen verweist § 109 auf § 108b insgesamt und beschränkt sich dort nicht ausdrücklich auf dessen Absatz 1. Strafantrag, bloße Anzeige eines Sachverhalts und zivilrechtliche Abmahnung sind auseinanderzuhalten. Antragsberechtigung, Form und Frist ergeben sich ergänzend aus den allgemeinen Regeln; § 109 enthält selbst keine vollständige Fristberechnung.
+
+Beispiel: Eine Fotografin fordert vom Nutzer ihres Bildes Schadensersatz und möchte eine Strafverfolgung erreichen. Das an den Nutzer gerichtete Zahlungsschreiben ersetzt keine gegenüber der zuständigen Stelle abgegebene Verfolgungserklärung. Sie muss außerdem unterscheiden, ob ein Grundtatbestand oder die Qualifikation des § 108a verfolgt werden soll.
 
 ### § 110 — Einziehung
 
@@ -120,9 +146,13 @@ Beispiel: Eine Fotografin möchte eine unbefugte Verwertung auch strafrechtlich 
 
 > Gegenstände, auf die sich eine Straftat nach den §§ 106, 107 Abs. 1 Nr. 2, §§ 108 bis 108b bezieht, können eingezogen werden. § 74a des Strafgesetzbuches ist anzuwenden. Soweit den in § 98 bezeichneten Ansprüchen im Verfahren nach den Vorschriften der Strafprozeßordnung über die Entschädigung des Verletzten (§§ 403 bis 406c) stattgegeben wird, sind die Vorschriften über die Einziehung nicht anzuwenden.
 
-Die Einziehung betrifft Gegenstände der ausdrücklich genannten Straftaten; die Bezugnahme auf § 107 ist auf Absatz 1 Nr. 2 beschränkt. Ergänzend wird § 74a StGB angewandt. Die Schlussregel koordiniert Einziehung mit den im Strafverfahren erfüllten Ansprüchen nach § 98 und vermeidet konkurrierende unvereinbare Maßnahmen. Die Vorschrift selbst begründet keinen Eigentumsübergang an jeden geschädigten Berechtigten.
+Satz 1 ermöglicht die Einziehung der Gegenstände, auf die sich eine Straftat nach den ausdrücklich bezeichneten Vorschriften bezieht. Erfasst sind § 106, § 107 Abs. 1 Nummer 2 sowie §§ 108 bis 108b. Der Fall des § 107 Abs. 1 Nummer 1 ist damit nicht in diese besondere Verweisung einbezogen. Die Formulierung „können“ verlangt eine Entscheidung über die Maßnahme; sie ordnet keinen automatischen Eigentumsverlust schon aufgrund eines Vorwurfs oder einer Sicherstellung an.
 
-Beispiel: Im Verfahren werden rechtsverletzende Kopien sichergestellt. Ob Einziehung oder eine auf § 98 beruhende Entscheidung über die Gegenstände erfolgt, muss anhand des konkreten Verfahrens geprüft werden. Ein Berechtigter darf die Stücke nicht allein wegen des Verletzungsvorwurfs eigenmächtig an sich nehmen.
+Satz 2 verweist auf § 74a StGB. Danach kann unter den dortigen zusätzlichen Voraussetzungen auch ein Gegenstand betroffen sein, der einem anderen gehört oder zusteht, etwa bei dessen mindestens leichtfertigem Beitrag zur Verwendung als Tatmittel oder Tatobjekt. Das Eigentum eines Dritten ist also weder stets ein Hindernis noch generell unbeachtlich.
+
+Satz 3 koordiniert die Maßnahme mit den Ansprüchen nach § 98 im strafprozessualen Entschädigungsverfahren. Soweit diesen Ansprüchen dort stattgegeben wird, sind die Einziehungsvorschriften nicht anzuwenden. Maßgeblich ist das gerichtliche Stattgeben, nicht erst die tatsächliche Erfüllung des Anspruchs. Die Begrenzung „soweit“ verlangt eine gegenstands- und anspruchsbezogene Abgrenzung und sperrt nicht jede Einziehung im gesamten Verfahren.
+
+Beispiel: Rechtsverletzende Kopien werden im Strafverfahren sichergestellt. Wird dem Berechtigten für bestimmte Stücke im bezeichneten Verfahren ein Anspruch aus § 98 zugesprochen, muss die Einziehung dazu abgestimmt werden. Weder die Sicherstellung noch die Verletztenstellung berechtigt den Geschädigten schon zur eigenmächtigen Wegnahme.
 
 ### § 111 — Bekanntgabe der Verurteilung
 
@@ -130,9 +160,11 @@ Beispiel: Im Verfahren werden rechtsverletzende Kopien sichergestellt. Ob Einzie
 
 > Wird in den Fällen der §§ 106 bis 108b auf Strafe erkannt, so ist, wenn der Verletzte es beantragt und ein berechtigtes Interesse daran dartut, anzuordnen, daß die Verurteilung auf Verlangen öffentlich bekanntgemacht wird. Die Art der Bekanntmachung ist im Urteil zu bestimmen.
 
-Die Bekanntgabe setzt eine Verurteilung in den bezeichneten Fällen, einen Antrag des Verletzten und dessen berechtigtes Interesse voraus. Die Art der Veröffentlichung muss im Urteil bestimmt werden. Die strafrechtliche Regel ist von der zivilrechtlichen Bekanntmachung nach § 103 zu unterscheiden; deren Voraussetzungen und Fristen dürfen nicht ungeprüft übertragen werden. Eine Veröffentlichung über den angeordneten Inhalt oder das bestimmte Medium hinaus benötigt eine eigene Grundlage.
+Die strafrechtliche Bekanntgabe setzt voraus, dass wegen einer Tat nach §§ 106 bis 108b auf Strafe erkannt wird. Erforderlich sind außerdem der Antrag des Verletzten und die Darlegung eines berechtigten Interesses. Sind diese Voraussetzungen erfüllt, sieht das Gesetz die Anordnung vor; es räumt nicht schon allein wegen irgendeines Ermittlungsverfahrens eine Veröffentlichungsbefugnis ein. Eine Einstellung oder ein bloßer Verdacht ist kein Erkennen auf Strafe.
 
-Beispiel: Nach einer rechtskräftig festgestellten gewerblichen Kopierpraxis möchte der geschädigte Verlag die Verurteilung bekannt machen. Er muss sein Interesse darlegen und den gerichtlichen Ausspruch abwarten. Die Norm legitimiert keine selbst entworfene öffentliche Beschuldigungskampagne.
+Die Verurteilung soll auf Verlangen öffentlich bekannt gemacht werden; die Art der Bekanntmachung ist im Urteil festzulegen. Der konkrete Veröffentlichungsausspruch und das spätere Verlangen dürfen deshalb nicht mit einer schrankenlosen Befugnis zu öffentlichen Beschuldigungen gleichgesetzt werden. Die zivilrechtliche Regel des § 103 knüpft dagegen an das Obsiegen in einem auf das UrhG gestützten Prozess an und kann auch der beklagten Partei zugutekommen. Ihre Dreimonatsfrist wird in § 111 nicht ausdrücklich übernommen.
+
+Beispiel: Nach einer strafgerichtlichen Verurteilung wegen organisierter unerlaubter Kopienverkäufe beantragt ein geschädigter Verlag die Bekanntgabe und erläutert ein konkretes Interesse an der Information seines Kundenkreises. Inhalt und Medium müssen sich nach der gerichtlichen Anordnung richten; eine eigene Kampagne mit zusätzlichen, nicht festgestellten Vorwürfen wird dadurch nicht gedeckt.
 
 ### § 111a — Bußgeldvorschriften
 
@@ -152,9 +184,15 @@ Beispiel: Nach einer rechtskräftig festgestellten gewerblichen Kopierpraxis mö
 >
 > (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 und 2 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-Absatz 1 erfasst bestimmte Verstöße im Umgang mit Umgehungsmitteln, das Nichtbereitstellen notwendiger Schrankenmittel und fehlende oder unvollständige Kennzeichnung nach § 95d Abs. 2. Die Handlungskataloge unterscheiden sich vom Strafrecht und sind genau zu lesen. Absatz 2 erlaubt bis zu 50.000 Euro für die Fälle der Nummern 1 und 2 und bis zu 10.000 Euro für die übrigen Fälle. Es handelt sich um Obergrenzen, nicht um feste Regelbußen oder einen zivilrechtlichen Zahlungsanspruch des Nutzers.
+Der Bußgeldkatalog ergänzt die Strafvorschriften durch gezielt bezeichnete Handlungen. Absatz 1 Nummer 1 setzt einen Verstoß gegen § 95a Abs. 3 voraus; nicht jedes technisch verwendbare Gerät fällt darunter. Buchstabe a nennt Verkauf, Vermietung und Verbreitung über den Kreis persönlich verbundener Personen hinaus. Buchstabe b verlangt gewerbliche Zwecke für Besitz, Werbung für Verkauf oder Vermietung sowie Dienstleistungen. Der gewerbliche Zweck ist damit nicht pauschal als zusätzliche Voraussetzung auch aller Fälle des Buchstaben a zu lesen.
 
-Beispiel: Ein Rechteinhaber verweigert trotz bestehender Pflicht die für eine gesetzliche Nutzung notwendigen Mittel. Neben dem individuellen Anspruch aus § 95b kann der Bußgeldtatbestand zu prüfen sein. Die erforderlichen Voraussetzungen der zugrunde liegenden Schranke bleiben bestehen.
+Nummer 2 betrifft das Nichtbereitstellen notwendiger Mittel entgegen § 95b Abs. 1 Satz 1. Dazu müssen die dortigen Voraussetzungen, insbesondere die konkrete gesetzlich begünstigte Nutzung und der rechtmäßige Zugang, tatsächlich vorliegen. Die bloße Unzufriedenheit eines Nutzers mit einer technischen Beschränkung genügt nicht. Nummer 3 bezieht sich nur auf die fehlende oder unvollständige Kennzeichnung nach § 95d Abs. 2, also Name oder Firma und zustellungsfähige Anschrift. Die Eigenschaftenkennzeichnung nach § 95d Abs. 1 ist in dieser Nummer gerade nicht genannt.
+
+Absatz 2 bestimmt Obergrenzen: bis zu 50.000 Euro bei Nummern 1 und 2, bis zu 10.000 Euro bei Nummer 3. Das sind weder feste Regelbußen noch an den betroffenen Nutzer auszuzahlende Entschädigungen. Ob im selben Lebenssachverhalt eine Straftat nach § 108b vorliegt und wie die Verfahren zueinander stehen, ist gesondert zu prüfen; die Kataloge dürfen nicht unterschiedslos zusammengeführt werden.
+
+Beispiel: Ein Anbieter kennzeichnet technisch geschützte Aufnahmen mit den Schutzeigenschaften, lässt jedoch die zustellungsfähige Anschrift weg. Die Erfüllung von § 95d Abs. 1 erledigt den gesonderten Kennzeichnungstatbestand nach Nummer 3 nicht. Dessen Bußgeldobergrenze beträgt 10.000 Euro.
+
+**Praxisprüfung Sanktionen:** Geschützten Gegenstand, konkrete Handlung und Erlaubnislage bestimmen; Vorsatz und besondere Absichten gesondert feststellen; Gewerbsmäßigkeit nicht mit gewerblichem Ausmaß gleichsetzen; Strafantrag, Einziehungsgegenstände und beantragte Bekanntgabe getrennt prüfen; bei technischen Maßnahmen die unterschiedlichen Straf- und Bußgeldkataloge abgleichen.
 
 #### Unterabschnitt 3 — Vorschriften über Maßnahmen der Zollbehörde
 
@@ -184,9 +222,17 @@ Beispiel: Ein Rechteinhaber verweigert trotz bestehender Pflicht die für eine g
 >
 > (8) (weggefallen)
 
-Absatz 1 regelt die subsidiäre nationale Zollbeschlagnahme bei offensichtlicher Verletzung auf Antrag und gegen Sicherheit, soweit das unionsrechtliche Verfahren nicht vorgeht. Absatz 2 ordnet Benachrichtigung, Daten und begrenzte Besichtigung an. Absatz 3 verknüpft fehlenden Widerspruch binnen zwei Wochen mit Einziehung. Absatz 4 verlangt nach Widerspruch unverzügliche Reaktion und grundsätzlich binnen zwei Wochen eine vollziehbare Gerichtsentscheidung, mit begrenzter Verlängerung bei beantragter Entscheidung. Absatz 5 regelt Haftung bei anfänglich ungerechtfertigter Beschlagnahme und qualifiziertem Aufrechterhalten. Absatz 6 bestimmt Antrag bei der Generalzolldirektion, grundsätzlich Jahreswirkung und Kosten; Absatz 7 die Rechtsmittel, Absatz 8 ist weggefallen.
+Die nationale Zollmaßnahme ist gegenüber der Verordnung (EU) Nr. 608/2013 subsidiär: Zuerst ist nach Absatz 1 das anwendbare Verfahrensregime zu bestimmen. Die Herstellung oder Verbreitung der Vervielfältigungsstücke muss ein nach dem UrhG geschütztes Recht offensichtlich verletzen. Antrag und Sicherheitsleistung des Rechtsinhabers sind erforderlich. Für den Verkehr mit anderen EU-Mitgliedstaaten und EWR-Vertragsstaaten greift diese Regel nur, soweit tatsächlich Zollkontrollen stattfinden; die Vorschrift schafft keine allgemeinen Grenzkontrollen im Binnenverkehr.
 
-Beispiel: Ein Verlag beantragt Maßnahmen gegen eine Lieferung erkennbarer Raubdrucke. Nach Widerspruch muss er rechtzeitig gerichtliche Sicherung betreiben. Untätigkeit kann Aufhebung und bei den gesetzlichen Voraussetzungen Schadensersatz auslösen.
+Absatz 2 verlangt nach Beschlagnahme unverzügliche Benachrichtigung von Verfügungsberechtigtem und Antragsteller. Herkunft, Menge, Lagerort sowie Name und Anschrift des Verfügungsberechtigten sind dem Antragsteller mitzuteilen; insoweit wird das Brief- und Postgeheimnis eingeschränkt. Eine Besichtigung ist zu ermöglichen, soweit Geschäfts- oder Betriebsgeheimnisse nicht verletzt werden. Die Informationsbefugnis ist damit zweckgebunden und keine schrankenlose Offenlegung aller Begleitunterlagen.
+
+Absatz 3 betrifft das Ausbleiben eines rechtzeitigen Widerspruchs: Nach Ablauf von zwei Wochen ab Zustellung der Mitteilung nach Absatz 2 Satz 1 ordnet die Zollbehörde die Einziehung an, wenn nicht widersprochen wurde. Das ist von der Frist nach einem tatsächlich erhobenen Widerspruch zu trennen. Nach Absatz 4 unterrichtet die Behörde dann unverzüglich den Antragsteller; dieser muss unverzüglich erklären, ob er den Antrag für die betroffenen Stücke aufrechterhält. Rücknahme führt zur unverzüglichen Aufhebung. Bei Aufrechterhaltung und Vorlage einer vollziehbaren gerichtlichen Verwahrungs- oder Verfügungsbeschränkungsentscheidung trifft die Behörde die erforderlichen Maßnahmen.
+
+Liegt keiner dieser beiden Fälle vor, endet die Beschlagnahme grundsätzlich zwei Wochen nach Zustellung der Widerspruchsmitteilung an den Antragsteller. Weist er nach, die Gerichtsentscheidung beantragt, aber noch nicht erhalten zu haben, wird die Maßnahme längstens zwei weitere Wochen aufrechterhalten. Die bloße Absicht, später einen Antrag zu stellen, reicht für diese Verlängerung nicht. Die beiden Zustellungsereignisse und ihre Adressaten müssen deshalb getrennt dokumentiert werden.
+
+Absatz 5 begründet eine Ersatzpflicht, wenn die Beschlagnahme von Anfang an ungerechtfertigt war und der Antragsteller den Antrag aufrechterhielt oder sich nicht unverzüglich erklärte. Nicht jede spätere Aufhebung erfüllt diese kumulativen Voraussetzungen. Absatz 6 bestimmt die Generalzolldirektion als Antragsstelle, grundsätzlich ein Jahr Wirkung, die Möglichkeit einer kürzeren Beantragung oder Wiederholung und die Kostenerhebung nach dem bezeichneten Abgabenordnungsrecht. Absatz 7 eröffnet die für solche Beschlagnahme und Einziehung im Bußgeldverfahren vorgesehenen Rechtsmittel, verlangt die Anhörung des Antragstellers und lässt gegen die Entscheidung des Amtsgerichts die sofortige Beschwerde zum Oberlandesgericht zu. Absatz 8 ist weggefallen.
+
+Beispiel: Ein Verlag beantragt gegen Sicherheitsleistung die Beschlagnahme offensichtlich rechtsverletzender Raubdrucke im nationalen Verfahren. Nach Widerspruch des Verfügungsberechtigten hält er den Antrag aufrecht. Er muss nun den Eingang der Widerspruchsmitteilung, seine unverzügliche Erklärung und den Stand des gerichtlichen Sicherungsantrags gesondert nachhalten. Die Sicherheitsleistung ersetzt weder die notwendige Gerichtsentscheidung noch schließt sie eine Ersatzpflicht nach Absatz 5 aus.
 
 ### § 111c — Verfahren nach der Verordnung (EU) Nr. 608/2013
 
@@ -194,9 +240,13 @@ Beispiel: Ein Verlag beantragt Maßnahmen gegen eine Lieferung erkennbarer Raubd
 
 > Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt § 111b Absatz 5 und 6 entsprechend, soweit die Verordnung keine Bestimmungen enthält, die dem entgegenstehen.
 
-Die Verweisung betrifft nur § 111b Abs. 5 und 6 und steht unter dem Vorrang entgegenstehender Bestimmungen der Verordnung (EU) Nr. 608/2013. Sie überträgt nicht das gesamte nationale Zollverfahren auf den unionsrechtlichen Anwendungsbereich. Zuerst sind daher Verfahrensregime und konkrete Regelungslücke zu bestimmen, anschließend die entsprechende nationale Ergänzung. Insbesondere dürfen die nationalen Widerspruchsfristen nicht allein aus dieser Vorschrift in das Unionsverfahren übernommen werden.
+Die Vorschrift ergänzt das unionsrechtliche Zollverfahren nur punktuell. Sie erklärt § 111b Abs. 5 und 6 für entsprechend anwendbar und stellt dies unter den Vorbehalt, dass die Verordnung (EU) Nr. 608/2013 keine entgegenstehenden Bestimmungen enthält. Erfasst sind damit die dortige Ersatzpflicht bei anfänglich ungerechtfertigter Beschlagnahme und qualifiziertem Aufrechterhalten beziehungsweise Untätigkeit sowie die nationalen Antrags-, Wirkungs- und Kostenregeln, jeweils angepasst an das Unionsverfahren und nur innerhalb des Vorbehalts.
 
-Beispiel: Eine Einfuhr wird nach dem unionsrechtlichen Grenzbeschlagnahmeverfahren behandelt. Der Antragsteller muss dortige Fristen und Voraussetzungen klären. Für ergänzende Fragen zu Haftung oder Antrag kann § 111c relevant sein, soweit kein Widerspruch zur Verordnung besteht.
+Das übrige nationale Verfahren wird nicht übernommen. Insbesondere begründet § 111c für sich weder die Übertragung der Zweiwochenfristen aus § 111b Abs. 3 und 4 noch seiner Rechtsmittelregel aus Absatz 7 auf das Unionsverfahren. Zuerst sind daher die unmittelbar anwendbaren unionsrechtlichen Vorgaben und erst anschließend eine etwaige nationale Ergänzung zu bestimmen. Der Kommentar ersetzt keine vollständige Prüfung dieser Verordnung in einem konkreten Zollfall.
+
+Beispiel: Eine Wareneinfuhr wird im Verfahren nach der Verordnung behandelt. Für eine Haftungs- oder Kostenfrage prüft der Antragsteller, ob die entsprechende nationale Regel ergänzend eingreift. Er darf die ihm aus dem nationalen Verfahren bekannte Widerspruchsfrist nicht allein wegen § 111c als maßgebliche unionsrechtliche Frist behandeln.
+
+**Praxisprüfung Zoll:** Verfahrensregime vor Antragstellung bestimmen; offensichtliche Verletzung und Sicherheit im nationalen Verfahren belegen; Mitteilungen und Widersprüche mit Adressat und Zustellung dokumentieren; Gerichtsantrag und vollziehbare Entscheidung unterscheiden; Ersatzrisiko, Kosten und jeweils zulässigen Rechtsbehelf prüfen.
 
 #### Abschnitt 3 — Zwangsvollstreckung
 
@@ -208,9 +258,11 @@ Beispiel: Eine Einfuhr wird nach dem unionsrechtlichen Grenzbeschlagnahmeverfahr
 
 > Die Zulässigkeit der Zwangsvollstreckung in ein nach diesem Gesetz geschütztes Recht richtet sich nach den allgemeinen Vorschriften, soweit sich aus den §§ 113 bis 119 nichts anderes ergibt.
 
-Die Vorschrift eröffnet die Anwendung des allgemeinen Vollstreckungsrechts, stellt aber die Sonderregeln der §§ 113 bis 119 voran. Deshalb sind Geldforderung, Vollstreckungsgegenstand und Person des Schuldners vor der Pfändung auseinanderzuhalten. Das Werkrecht, ein Nutzungsrecht, das körperliche Original und eine technische Vorrichtung sind keine austauschbaren Vermögensgegenstände.
+§ 112 eröffnet für die Vollstreckung in nach dem UrhG geschützte Rechte die allgemeinen Vorschriften, stellt ihnen aber die Sonderregeln der §§ 113 bis 119 voran. Ein Zahlungstitel gegen einen Rechtsinhaber entscheidet deshalb noch nicht, in welcher Weise seine urheberrechtlichen Vermögenspositionen verwertet werden dürfen. Die Vorschrift schafft selbst weder einen Titel noch ein Nutzungsrecht des Gläubigers.
 
-Beispiel: Ein Gläubiger besitzt einen Zahlungstitel gegen einen Autor. Daraus folgt nicht ohne weitere Prüfung die Befugnis, dessen unveröffentlichtes Manuskript zur Verwertung zu pfänden. Zunächst sind die besonderen persönlichen Zustimmungserfordernisse und die Art des Gegenstands zu bestimmen.
+Zu unterscheiden sind insbesondere das Urheberrecht, ein eingeräumtes Nutzungsrecht, Forderungen auf Vergütung, das Eigentum am körperlichen Original und technische Vorrichtungen. Bei den Sonderregeln kommt es außerdem darauf an, ob der Urheber selbst oder sein Rechtsnachfolger Schuldner ist und ob etwa persönliche Einwilligung, Veröffentlichung oder Erscheinen für den konkreten Zugriff verlangt werden. Die Geldvollstreckung gegen den lebenden Urheber in sein Recht nach § 113 ist daher nicht mit der Verwertung eines Originals nach § 114 gleichzusetzen. Auch ein körperlicher Gegenstand verschafft seinem Erwerber nicht schon die Befugnis zur weiteren Werkverwertung.
+
+Beispiel: Ein Gläubiger besitzt einen Zahlungstitel gegen einen Autor und möchte dessen unveröffentlichtes Manuskript verwerten. Er muss zunächst den beabsichtigten Vollstreckungsgegenstand bestimmen und die besonderen Zustimmungsvoraussetzungen prüfen. Aus einer möglichen Pfändung anderer Forderungen folgt weder die Pfändbarkeit jedes Originals noch die Befugnis, den Roman zu veröffentlichen.
 
 #### Unterabschnitt 2 — Zwangsvollstreckung wegen Geldforderungen gegen den Urheber
 

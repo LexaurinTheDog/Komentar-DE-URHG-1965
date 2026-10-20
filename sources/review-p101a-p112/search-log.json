@@ -1,0 +1,42 @@
+{
+  "verified_at": "2026-10-20T14:07:18.006645+00:00",
+  "method": "Selektive amtliche Websuche, lokale RII-Manifestsuche und vollständiger Textvergleich; direkte amtliche ZIP/XML-Abrufe.",
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"I ZR 48/15\"",
+    "site.rechtsprechung-im-internet.de \"101a\" \"UrhG\" \"Besichtigung\"",
+    "site.bundesgerichtshof.de \"2022\" \"Besichtigung\" \"101a\"",
+    "site.rechtsprechung-im-internet.de \"UrhG\" \"Gewerbsmäßigkeit\" \"Einnahmequelle\"",
+    "site.bundesgerichtshof.de \"UrhG\" \"gewerbsmäßig\" \"Strafsenat\""
+  ],
+  "local_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+  "local_case_queries": [
+    "I ZR 48/15",
+    "I ZR 141/20",
+    "I ZB 32/23",
+    "2 StR 109/03"
+  ],
+  "accepted": [
+    {
+      "card": "cases/everytime-we-touch.md",
+      "docket": "I ZR 48/15",
+      "full_text_paragraphs": 104
+    },
+    {
+      "card": "cases/elektronischer-pressespiegel-ii.md",
+      "docket": "I ZR 141/20",
+      "full_text_paragraphs": 142
+    }
+  ],
+  "rejected_or_not_used": [
+    {
+      "candidate": "BGH 3.3.2004, 2 StR 109/03",
+      "reason": "Kein Treffer im lokalen RII-Manifest; amtlicher historischer PDF-Link lieferte HTML statt PDF. Antwort und Hash erhalten, Formatprüfung fehlgeschlagen; keine Fallkarte, kein Entscheidungszitat und keine Behauptung einer Volltextlektüre."
+    },
+    {
+      "candidate": "BGH I ZB 32/23 und weitere Suchtreffer",
+      "reason": "Nur als Kandidaten ermittelt, in diesem begrenzten Los nicht vollständig gelesen und nicht als eigenständige Autoritäten verwendet."
+    }
+  ],
+  "firecrawl": "CLI-Status geprüft: 0 verfügbare Credits. Keine Installation, Authentifizierung oder Einstellungsänderung; amtliche Direktabrufe genutzt.",
+  "limits": "Keine erschöpfende Rechtsprechungsrecherche. Für die übrigen 18 Einheiten keine zusätzliche spezifische Entscheidung als hinreichend verifizierten Volltextbeleg ausgewählt; keine Aussage über das Fehlen einschlägiger Entscheidungen."
+}

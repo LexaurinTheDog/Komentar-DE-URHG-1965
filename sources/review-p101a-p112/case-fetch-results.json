@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE314342016.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE314342016.zip",
+    "accessed_at": "2026-10-20T13:54:04.822071+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/everytime.zip",
+    "headers_path": "sources/review-p101a-p112/everytime.zip.headers",
+    "sha256": "d497ddc456fd6e6b7b32da4b32e0095df8994b4e29eaf3f4aaded1545d4fa387",
+    "bytes": 23466,
+    "expected_format": "zip",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301912022.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301912022.zip",
+    "accessed_at": "2026-10-20T13:54:04.822536+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/pressespiegel.zip",
+    "headers_path": "sources/review-p101a-p112/pressespiegel.zip.headers",
+    "sha256": "0edea4e73758a3a1e4b841f0f00248b1803ba5111542130aa3ec01d79212b063",
+    "bytes": 34890,
+    "expected_format": "zip",
+    "expected_format_validated": true
+  }
+]

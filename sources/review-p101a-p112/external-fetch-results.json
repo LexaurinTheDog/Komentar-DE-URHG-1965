@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__195.html",
+    "final_url": "https://www.gesetze-im-internet.de/bgb/__195.html",
+    "accessed_at": "2026-10-20T13:55:59.864566+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/bgb-195.html",
+    "headers_path": "sources/review-p101a-p112/bgb-195.html.headers",
+    "sha256": "db542b2a124f440ebcfad22129b7323809692e96cd4efd638dadfa6a23474ca1",
+    "bytes": 3454,
+    "expected_format": "html",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__199.html",
+    "final_url": "https://www.gesetze-im-internet.de/bgb/__199.html",
+    "accessed_at": "2026-10-20T13:55:59.864916+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/bgb-199.html",
+    "headers_path": "sources/review-p101a-p112/bgb-199.html.headers",
+    "sha256": "1fad808afadae9631d82aa6b04ceae5bdd5bfa431b4d27470bc4b982a208c349",
+    "bytes": 5875,
+    "expected_format": "html",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__811.html",
+    "final_url": "https://www.gesetze-im-internet.de/bgb/__811.html",
+    "accessed_at": "2026-10-20T13:55:59.865012+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/bgb-811.html",
+    "headers_path": "sources/review-p101a-p112/bgb-811.html.headers",
+    "sha256": "4829fd4bd0688de182c18aafeeb6fc2fe79e0a14aa7b38035ed9abaaa391286e",
+    "bytes": 3860,
+    "expected_format": "html",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__852.html",
+    "final_url": "https://www.gesetze-im-internet.de/bgb/__852.html",
+    "accessed_at": "2026-10-20T13:55:59.865072+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/bgb-852.html",
+    "headers_path": "sources/review-p101a-p112/bgb-852.html.headers",
+    "sha256": "40c116353ee3261f0804e788e7287b0953c1fed4bc27ea7e27b6d3ca88db59bb",
+    "bytes": 3958,
+    "expected_format": "html",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/stgb/__15.html",
+    "final_url": "https://www.gesetze-im-internet.de/stgb/__15.html",
+    "accessed_at": "2026-10-20T13:55:59.865126+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/stgb-15.html",
+    "headers_path": "sources/review-p101a-p112/stgb-15.html.headers",
+    "sha256": "9ec87c2bf0f83260a9ec0bfe7e7ea08b2dff14e71780617fe9ce17067185d10a",
+    "bytes": 3507,
+    "expected_format": "html",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/stgb/__74.html",
+    "final_url": "https://www.gesetze-im-internet.de/stgb/__74.html",
+    "accessed_at": "2026-10-20T13:56:00.073825+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/stgb-74.html",
+    "headers_path": "sources/review-p101a-p112/stgb-74.html.headers",
+    "sha256": "78deea009b381bb3821346730fc9a60e1be293dbfee9e0a1122ca743ec7cb970",
+    "bytes": 4125,
+    "expected_format": "html",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/index.html",
+    "final_url": "https://www.gesetze-im-internet.de/bgb/index.html",
+    "accessed_at": "2026-10-20T13:56:00.074400+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/bgb-index.html",
+    "headers_path": "sources/review-p101a-p112/bgb-index.html.headers",
+    "sha256": "9df07aaded7e8d559337f147f6d3fe9908ae88dd207d701e0dfda5691e4a71ef",
+    "bytes": 485938,
+    "expected_format": "html",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/stgb/index.html",
+    "final_url": "https://www.gesetze-im-internet.de/stgb/index.html",
+    "accessed_at": "2026-10-20T13:56:00.075060+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p101a-p112/stgb-index.html",
+    "headers_path": "sources/review-p101a-p112/stgb-index.html.headers",
+    "sha256": "b31c355407e9bd1738b27b1f02bcd929e4e8e7b27b450463b1e2ca23944d5b1b",
+    "bytes": 110504,
+    "expected_format": "html",
+    "expected_format_validated": true
+  }
+]
