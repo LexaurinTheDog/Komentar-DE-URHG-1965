@@ -1,0 +1,320 @@
+URTEIL DES GERICHTSHOFS (Zweite Kammer)
+7. August 2018 (
+*1
+)
+„Vorlage zur Vorabentscheidung – Urheberrecht und verwandte Schutzrechte – Richtlinie 2001/29/EG – Informationsgesellschaft – Harmonisierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte – Art. 3 Abs. 1 – Öffentliche Wiedergabe – Begriff – Einstellung einer Fotografie ohne die Zustimmung des Urheberrechtsinhabers auf eine Website, nachdem die Fotografie zuvor ohne beschränkende Maßnahme und mit der Zustimmung des Urheberrechtsinhabers veröffentlicht worden war – Neues Publikum“
+In der Rechtssache C‑161/17
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Bundesgerichtshof (Deutschland) mit Entscheidung vom 23. Februar 2017, beim Gerichtshof eingegangen am 31. März 2017, in dem Verfahren
+Land Nordrhein-Westfalen
+gegen
+Dirk Renckhoff
+erlässt
+DER GERICHTSHOF (Zweite Kammer)
+unter Mitwirkung des Kammerpräsidenten M. Ilešič (Berichterstatter), des Richters A. Rosas, der Richterinnen C. Toader und A. Prechal sowie des Richters E. Jarašiūnas,
+Generalanwalt: M. Campos Sánchez-Bordona,
+Kanzler: R. Șereș, Verwaltungsrätin,
+unter Berücksichtigung der Erklärungen
+–
+des Landes Nordrhein-Westfalen, vertreten durch Rechtsanwalt M. Rümenapp,
+–
+von Herrn Renckhoff, vertreten durch Rechtsanwalt S. Rengshausen,
+–
+der französischen Regierung, vertreten durch D. Segoin als Bevollmächtigten,
+–
+der italienischen Regierung, vertreten durch G. Palmieri als Bevollmächtigte im Beistand von F. De Luca, avvocato dello Stato,
+–
+der Europäischen Kommission, vertreten durch J. Samnadda und T. Scharf als Bevollmächtigte,
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 7. Februar 2018,
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 25. April 2018
+folgendes
+Urteil
+1
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 3 Abs. 1 der Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. Mai 2001 zur Harmonisierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in der Informationsgesellschaft (
+ABl. 2001, L 167, S. 10
+).
+2
+Es ergeht in einem Rechtsstreit zwischen dem Land Nordrhein-Westfalen (Deutschland) und Herrn Dirk Renckhoff, einem Fotografen, darüber, dass eine Schülerin einer im Zuständigkeitsbereich dieses Landes gelegenen Schule eine von Herrn Renckhoff angefertigte und auf einer Website öffentlich zugängliche Fotografie ohne Zustimmung genutzt hatte, um ein Schülerreferat zu illustrieren, das von dieser Schule auf einer anderen Website veröffentlicht worden ist.
+Rechtlicher Rahmen
+3
+In den Erwägungsgründen 3, 4, 9, 10, 23 und 31 der Richtlinie 2001/29 heißt es:
+„(3)
+Die vorgeschlagene Harmonisierung trägt zur Verwirklichung der vier Freiheiten des Binnenmarkts bei und steht im Zusammenhang mit der Beachtung der tragenden Grundsätze des Rechts, insbesondere des Eigentums einschließlich des geistigen Eigentums, der freien Meinungsäußerung und des Gemeinwohls.
+(4)
+Ein harmonisierter Rechtsrahmen zum Schutz des Urheberrechts und der verwandten Schutzrechte wird durch erhöhte Rechtssicherheit und durch die Wahrung eines hohen Schutzniveaus im Bereich des geistigen Eigentums substantielle Investitionen in Kreativität und Innovation einschließlich der Netzinfrastruktur fördern und somit zu Wachstum und erhöhter Wettbewerbsfähigkeit der europäischen Industrie beitragen, und zwar sowohl bei den Inhalten und der Informationstechnologie als auch allgemeiner in weiten Teilen der Industrie und des Kultursektors. Auf diese Weise können Arbeitsplätze erhalten und neue Arbeitsplätze geschaffen werden.
+…
+(9)
+Jede Harmonisierung des Urheberrechts und der verwandten Schutzrechte muss von einem hohen Schutzniveau ausgehen, da diese Rechte für das geistige Schaffen wesentlich sind. Ihr Schutz trägt dazu bei, die Erhaltung und Entwicklung kreativer Tätigkeit im Interesse der Urheber, ausübenden Künstler, Hersteller, Verbraucher, von Kultur und Wirtschaft sowie der breiten Öffentlichkeit sicherzustellen. Das geistige Eigentum ist daher als Bestandteil des Eigentums anerkannt worden.
+(10)
+Wenn Urheber und ausübende Künstler weiter schöpferisch und künstlerisch tätig sein sollen, müssen sie für die Nutzung ihrer Werke eine angemessene Vergütung erhalten, was ebenso für die Produzenten gilt, damit diese die Werke finanzieren können. Um Produkte wie Tonträger, Filme oder Multimediaprodukte herstellen und Dienstleistungen, z. B. Dienste auf Abruf, anbieten zu können, sind beträchtliche Investitionen erforderlich. Nur wenn die Rechte des geistigen Eigentums angemessen geschützt werden, kann eine angemessene Vergütung der Rechtsinhaber gewährleistet und ein zufrieden stellender Ertrag dieser Investitionen sichergestellt werden.
+…
+(23)
+Mit dieser Richtlinie sollte das für die öffentliche Wiedergabe geltende Urheberrecht weiter harmonisiert werden. Dieses Recht sollte im weiten Sinne verstanden werden, nämlich dahin gehend, dass es jegliche Wiedergabe an die Öffentlichkeit umfasst, die an dem Ort, an dem die Wiedergabe ihren Ursprung nimmt, nicht anwesend ist. Dieses Recht sollte jegliche entsprechende drahtgebundene oder drahtlose öffentliche Übertragung oder Weiterverbreitung eines Werks, einschließlich der Rundfunkübertragung, umfassen. Dieses Recht sollte für keine weiteren Handlungen gelten.
+…
+(31)
+Es muss ein angemessener Rechts- und Interessenausgleich zwischen den verschiedenen Kategorien von Rechtsinhabern sowie zwischen den verschiedenen Kategorien von Rechtsinhabern und Nutzern von Schutzgegenständen gesichert werden. …“
+4
+Art. 3 („Recht der öffentlichen Wiedergabe von Werken und Recht der öffentlichen Zugänglichmachung sonstiger Schutzgegenstände“) der Richtlinie 2001/29 bestimmt in seinen Abs. 1 und 3:
+„(1)   Die Mitgliedstaaten sehen vor, dass den Urhebern das ausschließliche Recht zusteht, die drahtgebundene oder drahtlose öffentliche Wiedergabe ihrer Werke einschließlich der öffentlichen Zugänglichmachung der Werke in der Weise, dass sie Mitgliedern der Öffentlichkeit von Orten und zu Zeiten ihrer Wahl zugänglich sind, zu erlauben oder zu verbieten.
+…
+(3)   Die in den Absätzen 1 und 2 bezeichneten Rechte erschöpfen sich nicht mit den in diesem Artikel genannten Handlungen der öffentlichen Wiedergabe oder der Zugänglichmachung für die Öffentlichkeit.“
+5
+Art. 5 („Ausnahmen und Beschränkungen“) der Richtlinie 2001/29 sieht in seinem Abs. 3 Buchst. a vor:
+„Die Mitgliedstaaten können in den folgenden Fällen Ausnahmen oder Beschränkungen in Bezug auf die in den Artikeln 2 und 3 vorgesehenen Rechte vorsehen:
+a)
+für die Nutzung ausschließlich zur Veranschaulichung im Unterricht oder für Zwecke der wissenschaftlichen Forschung, sofern – außer in Fällen, in denen sich dies als unmöglich erweist – die Quelle, einschließlich des Namens des Urhebers, wann immer dies möglich ist, angegeben wird und soweit dies zur Verfolgung nicht kommerzieller Zwecke gerechtfertigt ist“.
+Ausgangsrechtsstreit und Vorlagefrage
+6
+Herr Renckhoff, der vor dem Landgericht Hamburg (Deutschland) Klage erhoben hatte, ist Fotograf. Die Stadt Waltrop (Deutschland), die ursprünglich Beklagte im ersten Rechtszug war, aber am Ausgangsverfahren nicht mehr beteiligt ist, ist Trägerin der Gesamtschule Waltrop (im Folgenden: Schule). Das Land Nordrhein-Westfalen (Deutschland), das ebenfalls Beklagter im ersten Rechtszug war, übt die Aufsicht über die Schule aus und ist Dienstherr bzw. Arbeitgeber der dort beschäftigten Lehrkräfte.
+7
+Seit dem 25. März 2009 war auf der Website der Schule ein Referat abrufbar, das eine ihrer Schülerinnen im Rahmen einer von der Schule angebotenen Spracharbeitsgemeinschaft erstellt hatte und als Illustration eine von Herrn Renckhoff angefertigte Fotografie (im Folgenden: Fotografie) enthielt, die die Schülerin von der Website eines Reisemagazin-Portals (im Folgenden: Reisewebsite) heruntergeladen hatte. Die Fotografie war auf der Reisewebsite ohne beschränkende Maßnahme, die ihr Herunterladen verhinderte, eingestellt. Unter der Fotografie hatte die Schülerin einen Hinweis auf die Reisewebsite angebracht.
+8
+Herr Renckhoff macht geltend, nur den Betreibern der Reisewebsite ein Nutzungsrecht eingeräumt zu haben, und sieht die Einstellung der Fotografie auf die Website der Schule als Verletzung seines Urheberrechts. Er beantragte beim im ersten Rechtszug zuständigen Gericht, dem Land Nordrhein-Westfalen unter Androhung von Ordnungsmitteln zu verbieten, die Fotografie zu vervielfältigen oder vervielfältigen zu lassen und/oder öffentlich zugänglich zu machen oder machen zu lassen, hilfsweise, Schülerinnen und Schülern zu ermöglichen, die Fotografie zum Zwecke des Einstellens ins Internet zu vervielfältigen. Er verlangte vom Land außerdem einen Betrag von 400 Euro als Schadensersatz.
+9
+Der Klage von Herrn Renckhoff wurde teilweise stattgegeben und das Land Nordrhein-Westfalen dazu verurteilt, die Fotografie von der Website der Schule zu nehmen und einen Betrag von 300 Euro zuzüglich Zinsen zu zahlen.
+10
+Beide Parteien legten gegen dieses Urteil Berufung beim Oberlandesgericht Hamburg (Deutschland) ein, das u. a. davon ausging, dass die Fotografie vom Urheberrecht geschützt sei und ihre Einstellung auf die Website der Schule das Vervielfältigungsrecht und das Recht der öffentlichen Zugänglichmachung, deren Inhaber Herr Renckhoff sei, verletzt habe. Dass die Fotografie vor den streitigen Handlungen bereits uneingeschränkt für jedermann im Internet zugänglich gewesen sei, sei ohne Bedeutung; durch die Vervielfältigung der Fotografie auf dem Server und die anschließende öffentliche Zugänglichmachung auf der Website der Schule sei es zu einer „Entkoppelung“ von der ursprünglichen Veröffentlichung auf der Reisewebsite gekommen.
+11
+Das im Wege der Revision angerufene vorlegende Gericht ist der Auffassung, dass die Entscheidung über diese Revision davon abhänge, wie Art. 3 Abs. 1 der Richtlinie 2001/29 auszulegen sei. Es hat insbesondere Zweifel, ob das von der Rechtsprechung aufgestellte Kriterium erfüllt ist, wonach die betreffende öffentliche Wiedergabe gegenüber einem „neuen“ Publikum erfolgen muss.
+12
+Unter diesen Umständen hat der Bundesgerichtshof (Deutschland) das Verfahren ausgesetzt und dem Gerichtshof folgende Frage zur Vorabentscheidung vorgelegt:
+Stellt die Einfügung eines auf einer fremden Internetseite mit Erlaubnis des Urheberrechtsinhabers für alle Internetnutzer frei zugänglichen Werkes in eine eigene öffentlich zugängliche Internetseite ein öffentliches Zugänglichmachen im Sinne des Art. 3 Abs. 1 der Richtlinie 2001/29 dar, wenn das Werk zunächst auf einen Server kopiert und von dort auf die eigene Internetseite hochgeladen wird?
+Zur Vorlagefrage
+13
+Mit seiner Frage möchte das vorlegende Gericht wissen, ob der Begriff „öffentliche Wiedergabe“ im Sinne von Art. 3 Abs. 1 der Richtlinie 2001/29 dahin auszulegen ist, dass er die Einstellung einer Fotografie auf eine Website erfasst, wenn die Fotografie zuvor ohne beschränkende Maßnahme und mit Zustimmung des Urheberrechtsinhabers auf einer anderen Website veröffentlicht worden ist.
+14
+Zunächst ist daran zu erinnern, dass eine Fotografie urheberrechtlich geschützt sein kann, sofern sie, was das nationale Gericht im Einzelfall zu prüfen hat, die eigene geistige Schöpfung des Urhebers darstellt, in der dessen Persönlichkeit zum Ausdruck kommt und die sich in dessen bei ihrer Herstellung getroffenen freien kreativen Entscheidungen ausdrückt (vgl.in diesem Sinne Urteil vom 1. Dezember 2011, Painer,
+C‑145/10
+,
+EU:C:2011:798
+, Rn.
+94
+).
+15
+Was die Frage betrifft, ob die Einstellung einer Fotografie auf eine Website eine „öffentliche Wiedergabe“ im Sinne von Art. 3 Abs. 1 der Richtlinie 2001/29 darstellt, wenn die Fotografie zuvor ohne beschränkende Maßnahme und mit Zustimmung des Urheberrechtsinhabers auf einer anderen Website veröffentlicht worden ist, ist darauf hinzuweisen, dass diese Vorschrift vorsieht, dass die Mitgliedstaaten den Urhebern das ausschließliche Recht erteilen, die öffentliche Wiedergabe ihrer Werke zu erlauben oder zu verbieten.
+16
+Folglich verletzt vorbehaltlich der in Art. 5 der Richtlinie 2001/29 erschöpfend aufgeführten Ausnahmen und Beschränkungen jede Nutzung eines Werks durch einen Dritten ohne eine solche vorherige Zustimmung die Rechte des Urhebers dieses Werks (Urteil vom 16. November 2016, Soulier und Doke,
+C‑301/15
+,
+EU:C:2016:878
+, Rn.
+34
+und die dort angeführte Rechtsprechung).
+17
+Da in Art. 3 Abs. 1 der Richtlinie 2001/29 der Begriff „öffentliche Wiedergabe“ nicht erläutert wird, sind Sinn und Tragweite dieses Begriffs mit Blick auf die Ziele, die mit dieser Richtlinie verfolgt werden, und den Zusammenhang, in den sich die auszulegende Vorschrift einfügt, zu bestimmen (Urteil vom 14. Juni 2017, Stichting Brein,
+C‑610/15
+,
+EU:C:2017:456
+, Rn.
+21
+und die dort angeführte Rechtsprechung).
+18
+Insoweit ergibt sich aus den Erwägungsgründen 4, 9 und 10 der Richtlinie 2001/29, dass deren Hauptziel darin besteht, ein hohes Schutzniveau für die Urheber zu erreichen und diesen damit die Möglichkeit zu geben, für die Nutzung ihrer Werke u. a. bei einer öffentlichen Wiedergabe eine angemessene Vergütung zu erhalten. Daher ist der Begriff „öffentliche Wiedergabe“ weit zu verstehen, wie dies im Übrigen auch ausdrücklich aus dem 23. Erwägungsgrund dieser Richtlinie hervorgeht (Urteil vom 14. Juni 2017, Stichting Brein,
+C‑610/15
+,
+EU:C:2017:456
+, Rn.
+22
+und die dort angeführte Rechtsprechung).
+19
+Wie der Gerichtshof wiederholt entschieden hat, ergibt sich aus Art. 3 Abs. 1 der Richtlinie 2001/29, dass der Begriff „öffentliche Wiedergabe“ zwei kumulative Tatbestandsmerkmale vereint, nämlich eine „Handlung der Wiedergabe“ eines Werks und dessen „öffentliche“ Wiedergabe (Urteil vom 16. März 2017, AKM,
+C‑138/16
+,
+EU:C:2017:218
+, Rn.
+22
+, und vom 14. Juni 2017, Stichting Brein,
+C‑610/15
+,
+EU:C:2017:456
+, Rn.
+24
+und die dort angeführte Rechtsprechung).
+20
+Was das erste Tatbestandsmerkmal – nämlich das Vorliegen einer „Handlung der Wiedergabe“ – angeht, reicht es für eine solche Handlung, wie sich aus Art. 3 Abs. 1 der Richtlinie 2001/29 ergibt, insbesondere aus, wenn ein Werk einer Öffentlichkeit in der Weise zugänglich gemacht wird, dass deren Mitglieder dazu Zugang haben, ohne dass es darauf ankommt, ob sie diese Möglichkeit nutzen oder nicht (Urteil vom 13. Februar 2014, Svensson u. a.,
+C‑466/12
+,
+EU:C:2014:76
+, Rn.
+19
+, und vom 14. Juni 2017, Stichting Brein,
+C‑610/15
+,
+EU:C:2017:456
+, Rn.
+31
+sowie die dort angeführte Rechtsprechung).
+21
+Im vorliegenden Fall ist es als „Zugänglichmachung“ und folglich als „Handlung der Wiedergabe“ im Sinne von Art. 3 Abs. 1 der Richtlinie 2001/29 einzustufen, wenn auf eine Website eine zuvor auf einer anderen Website veröffentlichte Fotografie eingestellt wird, nachdem sie zuvor auf einen privaten Server kopiert worden war. Denn durch ein solches Einstellen wird den Besuchern der Website, auf der die Einstellung erfolgt ist, der Zugang zu der betreffenden Fotografie auf dieser Website ermöglicht.
+22
+Hinsichtlich des zweiten der vorgenannten Tatbestandsmerkmale, nämlich, dass das geschützte Werk tatsächlich „öffentlich“ wiedergegeben wird, ergibt sich aus der Rechtsprechung des Gerichtshofs, dass „Öffentlichkeit“ begrifflich eine unbestimmte Zahl potenzieller Adressaten bedeutet und ferner aus einer ziemlich großen Zahl von Personen bestehen muss (Urteile vom 13. Februar 2014, Svensson u. a.,
+C‑466/12
+,
+EU:C:2014:76
+, Rn.
+21
+, und vom 14. Juni 2017, Stichting Brein,
+C‑610/15
+,
+EU:C:2017:456
+, Rn.
+27
+und die dort angeführte Rechtsprechung).
+23
+Im vorliegenden Fall richtet sich eine Wiedergabehandlung wie die in Rn. 21 des vorliegenden Urteils genannte an sämtliche potenziellen Nutzer der Website, auf der die betreffende Einstellung erfolgt ist, also an eine unbestimmte und ziemliche große Zahl von Adressaten, und ist unter diesen Bedingungen als „öffentlich“ im Sinne der vorstehend angeführten Rechtsprechung anzusehen.
+24
+Allerdings ist, wie sich ebenfalls aus ständiger Rechtsprechung ergibt, für eine Einstufung als „öffentliche Wiedergabe“ außerdem erforderlich, dass die Wiedergabe des geschützten Werks unter Verwendung eines technischen Verfahrens, das sich von dem bisher verwendeten unterscheidet, oder ansonsten für ein „neues Publikum“ erfolgt, d. h. für ein Publikum, an das der Inhaber des Urheberrechts nicht gedacht hatte, als er die ursprüngliche öffentliche Wiedergabe seines Werks erlaubte (Urteile vom 13. Februar 2014, Svensson u. a.,
+C‑466/12
+,
+EU:C:2014:76
+, Rn.
+24
+, vom 8. September 2016, GS Media,
+C‑160/15
+,
+EU:C:2016:644
+, Rn.
+37
+, und vom 14. Juni 2017, Stichting Brein,
+C‑610/15
+,
+EU:C:2017:456
+, Rn.
+28
+).
+25
+Im vorliegenden Fall ist sowohl die ursprüngliche Wiedergabe des Werks auf einer Website als auch dessen spätere Wiedergabe auf einer anderen Website unter Verwendung des gleichen technischen Verfahrens erfolgt.
+26
+Die Parteien des Ausgangsverfahrens und die in Art. 23 der Satzung des Gerichtshofs der Europäischen Union bezeichneten Beteiligten, die schriftliche Erklärungen eingereicht haben, sind sich allerdings nicht darüber einig, ob die Fotografie gegenüber einem „neuen Publikum“ wiedergegeben wurde.
+27
+Das Land Nordrhein-Westfalen und die italienische Regierung machen nämlich insbesondere unter Berufung auf das Urteil vom 13. Februar 2014, Svensson u. a. (
+C‑466/12
+,
+EU:C:2014:76
+), geltend, dass zwischen der Wiedergabe eines Werks durch seine Einstellung auf eine Website einerseits und der Wiedergabe dieses Werks durch die Einfügung eines Hyperlinks auf einer Website, der auf eine andere Website verweise, auf der das betreffende Werk ursprünglich ohne beschränkende Maßnahme und mit Zustimmung des Urheberrechtsinhabers wiedergegeben worden sei, andererseits keine Unterscheidung gemacht werden dürfe. Unter Umständen wie denen des Ausgangsverfahrens sei das Werk somit nicht gegenüber einem neuen Publikum wiedergegeben worden.
+28
+Hingegen haben Herr Renckhoff und die französische Regierung in der mündlichen Verhandlung ebenso wie die Kommission in ihren schriftlichen Erklärungen sinngemäß die Auffassung vertreten, dass die in der vorstehenden Randnummer angeführte Rechtsprechung unter Umständen wie denen des Ausgangsverfahrens nicht anwendbar sei. Insbesondere müsse die Wiedergabe eines Werkes nicht mittels eines Hyperlinks, sondern mittels seiner neuen Einstellung auf eine andere Website als die, auf der das Werk bereits mit Zustimmung des Urheberrechtsinhabers wiedergegeben worden sei, als „neue öffentliche Wiedergabe“ eingestuft werden, weil u. a. der Urheberrechtsinhaber infolge dieser neuen Zugänglichmachung nicht mehr in der Lage sei, die Kontrolle über die ursprüngliche Wiedergabe des betreffenden Werks auszuüben.
+29
+Insoweit ist erstens auf die ständige Rechtsprechung des Gerichtshofs hinzuweisen, wonach vorbehaltlich der in Art. 5 der Richtlinie 2001/29 vorgesehenen Ausnahmen und Beschränkungen jede Handlung der Vervielfältigung oder der öffentlichen Wiedergabe eines Werks durch einen Dritten der vorherigen Zustimmung seines Urhebers bedarf und die Urheber nach Art. 3 Abs. 1 der Richtlinie 2001/29 über ein Recht vorbeugender Art verfügen, das es ihnen erlaubt, sich bei Nutzern ihrer Werke vor der öffentlichen Wiedergabe, die diese Nutzer durchzuführen beabsichtigen, einzuschalten, und zwar, um diese zu verbieten (vgl. in diesem Sinne Urteile vom 31. Mai 2016, Reha Training,
+C‑117/15
+,
+EU:C:2016:379
+, Rn.
+30
+, vom 16. November 2016, Soulier und Doke,
+C‑301/15
+,
+EU:C:2016:878
+, Rn.
+33
+, und vom 14. Juni 2017, Stichting Brein,
+C‑610/15
+,
+EU:C:2017:456
+, Rn.
+20
+sowie die dort angeführte Rechtsprechung).
+30
+Einem solchen Recht vorbeugender Art würde aber die Wirksamkeit genommen, falls es nicht als Wiedergabe an ein neues Publikum gewertet würde, wenn auf eine Website ein Werk eingestellt wird, das zuvor auf einer anderen Website und mit Zustimmung des Urheberrechtsinhabers veröffentlicht worden ist. Denn ein solches Einstellen auf eine andere Website als die, auf der die ursprüngliche Wiedergabe erfolgte, könnte sich dahin auswirken, dass es dem Urheberrechtsinhaber unmöglich oder zumindest erheblich erschwert wird, sein Recht vorbeugender Art auszuüben und zu verlangen, dass die Wiedergabe des Werks beendet wird, gegebenenfalls indem dieses von der Website genommen wird, auf der es mit seiner Zustimmung wiedergegeben worden ist, oder indem die einem Dritten zuvor erteilte Zustimmung widerrufen wird.
+31
+Im Ergebnis wäre somit das Werk des Urheberrechtsinhabers, selbst wenn er beschlösse, es nicht mehr auf der Website wiederzugeben, auf der es ursprünglich mit seiner Zustimmung wiedergegeben worden ist, weiterhin auf der Website zugänglich, auf der die neue Einstellung erfolgt ist. Der Gerichtshof hat aber bereits betont, dass der Urheber eines Werks die Möglichkeit haben muss, die Ausübung seiner Rechte zu dessen Nutzung in digitaler Form durch einen Dritten zu beenden und dem Dritten dadurch jede künftige Nutzung dieses Werks in digitaler Form zu untersagen, ohne zuvor andere Förmlichkeiten beachten zu müssen (vgl. entsprechend Urteil vom 16. November 2016, Soulier und Doke,
+C‑301/15
+,
+EU:C:2016:878
+, Rn.
+51
+).
+32
+Zweitens sieht Art. 3 Abs. 3 der Richtlinie 2001/29 ausdrücklich vor, dass sich das Recht der öffentlichen Wiedergabe nach Art. 3 Abs. 1 dieser Richtlinie nicht mit den in dieser Vorschrift genannten Handlungen der öffentlichen Wiedergabe oder der Zugänglichmachung für die Öffentlichkeit erschöpft.
+33
+Ginge man aber davon aus, dass, wenn auf einer Website ein Werk eingestellt wird, das zuvor auf einer anderen Website mit der Zustimmung des Urheberrechtsinhabers wiedergegeben worden ist, dieses Werk keinem neuen Publikum zugänglich gemacht wird, liefe dies darauf hinaus, eine Regel über die Erschöpfung des Rechts der Wiedergabe aufzustellen.
+34
+Eine solche Regel widerspräche nicht nur dem Wortlaut von Art. 3 Abs. 3 der Richtlinie 2001/29, sondern nähme dem Urheberrechtsinhaber die im zehnten Erwägungsgrund der Richtlinie genannte Möglichkeit, eine angemessene Vergütung für die Nutzung seines Werkes zu verlangen, obwohl, wie der Gerichtshof ausgeführt hat, der spezifische Gegenstand des geistigen Eigentums insbesondere den Inhabern der betreffenden Rechte den Schutz der Befugnis gewährleisten soll, das Inverkehrbringen oder die Zugänglichmachung der Schutzgegenstände dadurch kommerziell zu nutzen, dass gegen Zahlung einer Vergütung Lizenzen erteilt werden (vgl. in diesem Sinne Urteil vom 4. Oktober 2011, Football Association Premier League u. a.,
+C‑403/08 und C‑429/08
+,
+EU:C:2011:631
+, Rn.
+107
+und
+108
+).
+35
+Unter Berücksichtigung dieser Gesichtspunkte ist in Anbetracht der in Rn. 24 des vorliegenden Urteils angeführten Rechtsprechung davon auszugehen, dass die Einstellung eines urheberrechtlich geschützten Werks auf eine andere Website als die, auf der die ursprüngliche Wiedergabe mit der Zustimmung des Urheberrechtsinhabers erfolgt ist, unter Umständen wie denen des Ausgangsverfahrens als Zugänglichmachung eines solchen Werks für ein neues Publikum einzustufen ist. Denn unter solchen Umständen besteht das Publikum, an das der Urheberrechtsinhaber gedacht hatte, als er der Wiedergabe seines Werks auf der Website zugestimmt hatte, auf der es ursprünglich veröffentlicht wurde, nur aus den Nutzern dieser Website und nicht aus den Nutzern der Website, auf der das Werk später ohne Zustimmung des Urheberrechtsinhabers eingestellt worden ist, oder sonstigen Internetnutzern.
+36
+Die Tatsache, dass, wie im Ausgangsverfahren, der Urheberrechtsinhaber die Möglichkeiten der Internetnutzer zur Nutzung der Fotografie nicht eingeschränkt hat, hat keine Auswirkungen auf die in den Rn. 29 bis 35 des vorliegenden Urteils wiedergegebenen objektiven Erwägungen. Denn der Gerichtshof hatte bereits Gelegenheit, darauf hinzuweisen, dass der Genuss und die Ausübung des in Art. 3 Abs. 1 der Richtlinie 2001/29 vorgesehenen Rechts nicht an die Erfüllung irgendwelcher Förmlichkeiten gebunden werden dürfen (vgl. in diesem Sinne Urteil vom 16. November 2016, Soulier und Doke,
+C‑301/15
+,
+EU:C:2016:878
+, Rn.
+50
+).
+37
+Im Übrigen hat der Gerichtshof zwar – u. a. in seinem Urteil vom 13. Februar 2014, Svensson u. a. (
+C‑466/12
+,
+EU:C:2014:76
+, Rn.
+25
+und
+26
+), und in seinem Beschluss vom 21. Oktober 2014, BestWater International (
+C‑348/13
+, nicht veröffentlicht,
+EU:C:2014:2315
+, Rn.
+16
+) – in Bezug auf die Zugänglichmachung geschützter Werke über einen anklickbaren Link, der auf eine andere Website verweist, auf der die ursprüngliche Wiedergabe erfolgt war, angenommen, dass das Zielpublikum der ursprünglichen Wiedergabe alle potenziellen Besucher der betreffenden Seite waren, da die Werke in Anbetracht dessen, dass der Zugang zu ihnen auf dieser Seite keiner beschränkenden Maßnahme unterlag, für sämtliche Internetnutzer frei zugänglich waren. Er hat daher entschieden, dass die Zugänglichmachung der betreffenden Werke über anklickbare Links, wie sie in den diesen Urteilen zugrunde liegenden Rechtssachen in Rede standen, nicht zu einer Wiedergabe der fraglichen Werke für ein neues Publikum führte.
+38
+Diese Rechtsprechung kann jedoch unter Umständen wie denen des Ausgangsverfahrens nicht angewendet werden.
+39
+Denn erstens ist diese Rechtsprechung im speziellen Zusammenhang mit Hyperlinks ergangen, die im Internet auf geschützte Werke verweisen, die zuvor mit der Zustimmung der Rechtsinhaber wiedergegeben wurden.
+40
+Im Gegensatz zu Hyperlinks, die nach der Rechtsprechung des Gerichtshofs zum guten Funktionieren des Internets beitragen, indem sie die Verbreitung von Informationen in diesem Netz ermöglichen, das sich durch die Verfügbarkeit immenser Informationsmengen auszeichnet (Urteil vom 8. September 2016, GS Media,
+C‑160/15
+,
+EU:C:2016:644
+, Rn.
+45
+), trägt die Einstellung eines Werks auf eine Website ohne die Zustimmung des Urheberrechtsinhabers, nachdem es zuvor auf einer anderen Website mit dessen Zustimmung wiedergegeben worden war, jedoch nicht im gleichen Maße zu diesem Ziel bei.
+41
+Ein solches Einstellen zuzulassen, ohne dass der Urheberrechtsinhaber die in Art. 3 Abs. 1 der Richtlinie 2001/29 vorgesehenen Rechte geltend machen kann, liefe daher dem in den Erwägungsgründen 3 und 31 dieser Richtlinie genannten angemessenen Ausgleich zuwider, den es zwischen den Interessen der Inhaber von Urheber- und verwandten Rechten am Schutz ihres Rechts am geistigen Eigentum, das von Art. 17 Abs. 2 der Charta der Grundrechte der Europäischen Union garantiert wird, einerseits und dem Schutz der Interessen und Grundrechte der Nutzer von Schutzgegenständen, insbesondere deren Meinungsäußerungs- und Informationsfreiheit, die von Art. 11 der Charta der Grundrechte garantiert wird, sowie dem Allgemeininteresse andererseits im Umfeld der Digitaltechnik zu sichern gilt.
+42
+In diesem Kontext trägt das Land Nordrhein-Westfalen vor, dass unter Umständen wie denen des Ausgangsverfahrens bei dem Ausgleich der vorliegenden Interessen auch das in Art. 14 der Charta der Grundrechte genannte Recht auf Bildung zu berücksichtigen sei. Insbesondere falle die Handlung der betreffenden Schülerin unter die Ausübung dieses Rechts, da die Fotografie zur Illustration dem Referat vorangestellt worden sei, das sie im Rahmen einer Spracharbeitsgemeinschaft angefertigt habe. Insoweit genügt jedoch die Feststellung, dass die in Rn. 35 des vorliegenden Urteils dargestellten Erwägungen zum Begriff „neues Publikum“ nicht darauf gestützt sind, ob die von der Schülerin vorgenommene Illustration ihres Schulreferats Bildungscharakter hat oder nicht, sondern darauf, dass dieses Werk dadurch, dass es auf die Website der Schule gestellt worden ist, für alle Besucher dieser Website zugänglich gemacht worden ist.
+43
+Im Übrigen ist daran zu erinnern, dass der Unionsgesetzgeber, was die Suche nach einem Ausgleich zwischen dem Recht auf Bildung und dem Schutz des Rechts am geistigen Eigentum angeht, in Art. 5 Abs. 3 Buchst. a der Richtlinie 2001/29 den Mitgliedstaaten erlaubt hat, Ausnahmen oder Beschränkungen in Bezug auf die in den Art. 2 und 3 dieser Richtlinie vorgesehenen Rechte vorzusehen, sofern es sich um eine Nutzung ausschließlich zur Veranschaulichung im Unterricht oder für Zwecke der wissenschaftlichen Forschung handelt, soweit dies zur Verfolgung nicht kommerzieller Zwecke gerechtfertigt ist.
+44
+Zweitens haben die den Urhebern von Art. 3 Abs. 1 der Richtlinie 2001/29 garantierten Rechte, wie in Rn. 29 des vorliegenden Urteils ausgeführt, vorbeugenden Charakter. Bei einer Handlung der Wiedergabe in der Gestalt der Einfügung eines Hyperlinks auf einer Website, der auf ein zuvor mit der Zustimmung des Urheberrechtsinhabers wiedergegebenes Werk verweist, ist der vorbeugende Charakter der Rechte des Rechteinhabers gewahrt, da der Urheber sein Werk, wenn er es auf der betreffenden Website nicht mehr wiedergeben möchte, von der Website entfernen kann, auf der er es ursprünglich wiedergegeben hat, wodurch jeder Hyperlink, der auf es verweist, hinfällig wird. Unter Umständen wie denen des Ausgangsverfahrens hingegen führt die Einstellung eines Werks auf eine andere Website zu einer neuen, von der ursprünglich genehmigten Wiedergabe unabhängigen Wiedergabe. Infolge dieses Einstellens könnte das betreffende Werk auf der letztgenannten Website weiterhin zugänglich sein, unabhängig von der vorherigen Zustimmung des Urhebers und unbeschadet jeder Handlung, mit der der Rechteinhaber beschlösse, sein Werk auf der Website, auf der es ursprünglich mit seiner Genehmigung wiedergegeben worden ist, nicht mehr wiederzugeben.
+45
+Drittens schließlich hat der Gerichtshof in seinem Urteil vom 13. Februar 2014, Svensson u. a. (
+C‑466/12
+,
+EU:C:2014:76
+, Rn.
+27
+und
+28
+), die Wertung, dass die Wiedergabe, die in der dem Urteil zugrunde liegenden Rechtssache in Frage stand, nicht gegenüber einem neuen Publikum erfolgt war, mit dem mangelnden Zutun des Betreibers der Website begründet, auf der der anklickbare Link eingefügt worden war, der den Zugang zu den betreffenden Werken auf der Website ermöglichte, auf der sie ursprünglich mit der Zustimmung des Urheberrechtsinhabers wiedergegeben worden waren.
+46
+Im vorliegenden Fall geht aus der Vorlageentscheidung hervor, dass die Nutzerin des im Ausgangsverfahren in Rede stehende Werkes dieses auf einem privaten Server vervielfältigt und anschließend auf eine andere Website als die, auf der die ursprüngliche Wiedergabe stattfand, eingestellt hat. Damit hat diese Nutzerin eine entscheidende Rolle bei der Wiedergabe des betreffenden Werkes für ein Publikum gespielt, an das der Urheber des Werkes nicht gedacht hatte, als er dessen ursprüngliche Wiedergabe erlaubte.
+47
+Nach alledem ist auf die Vorlagefrage zu antworten, dass der Begriff „öffentliche Wiedergabe“ im Sinne von Art. 3 Abs. 1 der Richtlinie 2001/29 dahin auszulegen ist, dass er die Einstellung einer Fotografie auf eine Website erfasst, wenn die Fotografie zuvor ohne beschränkende Maßnahme, die ihr Herunterladen verhindert, und mit Zustimmung des Urheberrechtsinhabers auf einer anderen Website veröffentlicht worden ist.
+Kosten
+48
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+Aus diesen Gründen hat der Gerichtshof (Zweite Kammer) für Recht erkannt:
+Der Begriff
+„öffentliche Wiedergabe
+“ im Sinne von Art. 3 Abs. 1 der Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. Mai 2001 zur Harmonisierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in der Informationsgesellschaft ist dahin auszulegen, dass er die Einstellung einer Fotografie auf eine Website erfasst, wenn die Fotografie zuvor ohne beschränkende Maßnahme, die ihr Herunterladen verhindert, und mit Zustimmung des Urheberrechtsinhabers auf einer anderen Website veröffentlicht worden ist.
+Ilešič
+Rosas
+Toader
+Prechal
+Jarašiūnas
+Verkündet in öffentlicher Sitzung in Luxemburg am 7. August 2018.
+Der Kanzler
+A. Calot Escobar
+Der Präsident der Zweiten Kammer
+M. Ilešič
+(
+*1
+)	Verfahrenssprache: Deutsch.
+Top

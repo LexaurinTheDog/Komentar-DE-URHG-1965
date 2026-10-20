@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+    "accessed_at": "2026-10-20T11:57:47.647299+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p1-p19a/current.zip",
+    "headers_path": "sources/review-p1-p19a/current.zip.headers",
+    "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+    "bytes": 72672,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/urhg/index.html",
+    "accessed_at": "2026-10-20T11:57:47.647662+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p1-p19a/index.html",
+    "headers_path": "sources/review-p1-p19a/index.html.headers",
+    "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+    "bytes": 58665,
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T11:57:47.647752+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p1-p19a/amendment.pdf",
+    "headers_path": "sources/review-p1-p19a/amendment.pdf.headers",
+    "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+    "bytes": 336883,
+    "expected_format_validated": true
+  }
+]

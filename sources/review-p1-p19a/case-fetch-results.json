@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62023CJ0580",
+    "accessed_at": "2026-10-20T12:01:38.031554+00:00",
+    "response_received_at": "2026-10-20T12:01:49.505165+00:00",
+    "http_status": 200,
+    "transport": "Firecrawl CLI; statusCode reported by provider",
+    "cache_state": "hit",
+    "cache_timestamp": "2026-10-20T11:57:26.387Z",
+    "response_path": "sources/review-p1-p19a/mio-firecrawl.json",
+    "sha256": "357b1e655781a120047016bb1d2fa3011811ab6fb8dbe3d5a87442f96c8dded9",
+    "raw_path": "sources/review-p1-p19a/mio-raw.html",
+    "raw_sha256": "0440d0e52e699d33ea0b695e17d03fa43796b048d5c3b58897b454eb81485cf5",
+    "expected_format_validated": true,
+    "format": "Full official judgment HTML with document1, parties, numbered reasons and operative part",
+    "celex": "62023CJ0580"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0161",
+    "accessed_at": "2026-10-20T12:01:50.013685+00:00",
+    "response_received_at": "2026-10-20T12:01:51.325962+00:00",
+    "http_status": 200,
+    "transport": "Firecrawl CLI; statusCode reported by provider",
+    "cache_state": "hit",
+    "cache_timestamp": "2026-10-20T11:58:24.307Z",
+    "response_path": "sources/review-p1-p19a/renckhoff-firecrawl.json",
+    "sha256": "c34e472b0b9107f48672fbb653e5abab85cc484a1a05f8ef9a7efd34d2dd54c1",
+    "raw_path": "sources/review-p1-p19a/renckhoff-raw.html",
+    "raw_sha256": "7f1accf968ffa1c4e4ee904922d47b12660576809075221b0dc9663071b36d5a",
+    "expected_format_validated": true,
+    "format": "Full official judgment HTML with document1, parties, numbered reasons and operative part",
+    "celex": "62017CJ0161"
+  }
+]

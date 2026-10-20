@@ -1,6 +1,6 @@
 {
-  "stage": "preflight_complete",
-  "updated_at": "2026-10-20T11:56:09.271660+00:00",
+  "stage": "bounded_review_complete",
+  "updated_at": "2026-10-20T12:05:20.824985+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -17,14 +17,15 @@
     "statutory_changes_since_intake_detected": false,
     "preflight_verified_at": "2026-10-20T11:54:07.436691+00:00",
     "coverage_report": "completeness-report.json",
-    "source_integrity_checked_responses": 15
+    "source_integrity_checked_responses": 15,
+    "bounded_review_verified_at": "2026-10-20T12:05:20.824985+00:00"
   },
   "total_units": 254,
   "completed_units": 254,
   "paragraph_units": 253,
   "annex_units": 1,
   "chapters": 12,
-  "commentary_chars": 213321,
+  "commentary_chars": 220253,
   "case_law_sources": [
     {
       "court": "EuGH",
@@ -68,12 +69,50 @@
       "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore301962013.md",
       "local_copy": "sources/bgh-geburtstagszug-intake.md",
       "format_validated": true
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62023CJ0580",
+      "accessed_at": "2026-10-20T12:01:38.031554+00:00",
+      "response_received_at": "2026-10-20T12:01:49.505165+00:00",
+      "http_status": 200,
+      "transport": "Firecrawl CLI; statusCode reported by provider",
+      "cache_state": "hit",
+      "cache_timestamp": "2026-10-20T11:57:26.387Z",
+      "response_path": "sources/review-p1-p19a/mio-firecrawl.json",
+      "sha256": "357b1e655781a120047016bb1d2fa3011811ab6fb8dbe3d5a87442f96c8dded9",
+      "raw_path": "sources/review-p1-p19a/mio-raw.html",
+      "raw_sha256": "0440d0e52e699d33ea0b695e17d03fa43796b048d5c3b58897b454eb81485cf5",
+      "expected_format_validated": true,
+      "format": "Full official judgment HTML with document1, parties, numbered reasons and operative part",
+      "celex": "62023CJ0580",
+      "court": "EuGH",
+      "read_scope": "Vollständiger amtlicher Entscheidungstext einschließlich Verfahrenskontext, aller Randnummern und Tenor im Prüflos §§ 1–19a gelesen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0161",
+      "accessed_at": "2026-10-20T12:01:50.013685+00:00",
+      "response_received_at": "2026-10-20T12:01:51.325962+00:00",
+      "http_status": 200,
+      "transport": "Firecrawl CLI; statusCode reported by provider",
+      "cache_state": "hit",
+      "cache_timestamp": "2026-10-20T11:58:24.307Z",
+      "response_path": "sources/review-p1-p19a/renckhoff-firecrawl.json",
+      "sha256": "c34e472b0b9107f48672fbb653e5abab85cc484a1a05f8ef9a7efd34d2dd54c1",
+      "raw_path": "sources/review-p1-p19a/renckhoff-raw.html",
+      "raw_sha256": "7f1accf968ffa1c4e4ee904922d47b12660576809075221b0dc9663071b36d5a",
+      "expected_format_validated": true,
+      "format": "Full official judgment HTML with document1, parties, numbered reasons and operative part",
+      "celex": "62017CJ0161",
+      "court": "EuGH",
+      "read_scope": "Vollständiger amtlicher Entscheidungstext einschließlich Verfahrenskontext, aller Randnummern und Tenor im Prüflos §§ 1–19a gelesen."
     }
   ],
   "case_cards": [
     "cases/geburtstagszug.md",
     "cases/cofemel.md",
-    "cases/usedsoft.md"
+    "cases/usedsoft.md",
+    "cases/mio-usm.md",
+    "cases/renckhoff.md"
   ],
   "validation_result": {
     "repo": "Komentar-DE-URHG-1965",
@@ -89,17 +128,17 @@
   "independent_second_pass_completed": false,
   "unresolved_blockers": [],
   "remaining_limitations": [
-    "Dieser Arbeitsgang ist ein Quellen- und Parser-Preflight; keine Gesamtfreigabe des vorhandenen Manuskripts.",
-    "Unabhängiger vollständiger zweiter inhaltlicher Durchgang steht aus.",
-    "Vorhandene selektive Rechtsprechungsrecherche wurde erhalten und in diesem Preflight nicht erneut inhaltlich geprüft.",
-    "Aktuelle amtliche Konsolidierung, kein Vollarchiv aller historischen Fassungen; Grenzen der Aktualitätskontrolle siehe sources/verification.json."
+    "Abgeschlossen ist ausschließlich dieses Prüflos mit 20 Kennungen. Die übrigen 234 Einheiten wurden inhaltlich nicht im zweiten Durchgang geprüft.",
+    "Selektive Rechtsprechung: Geburtstagszug und Cofemel erneut im vollständigen vorhandenen amtlichen Text gelesen; Mio/USM und Renckhoff neu beschafft und vollständig gelesen. UsedSoft und spätere nationale Folgeverfahren waren nicht Gegenstand dieses Prüfloses.",
+    "Aktuelle konsolidierte Fassung und belegtes Inkrafttreten; kein Vollarchiv sämtlicher historischer Gesetzesfassungen. Fremdgesetzliche historische Zitate in Entscheidungen sind Verfahrenskontext und keine aktuelle Parallelkommentierung.",
+    "Keine externe anwaltliche Freigabe. Technische Texttreue, Längen- und Ähnlichkeitsprüfungen ersetzen die dokumentierte juristische Einzelprüfung nicht."
   ],
   "publication": false,
   "push": false,
-  "task_kind": "preflight",
+  "task_kind": "review",
   "prior_stage": "drafted_technical_validation",
   "authored_units_in_this_task": 0,
-  "manuscript_units_content_reviewed_in_this_task": 0,
+  "manuscript_units_content_reviewed_in_this_task": 20,
   "preflight_result": "preflight-result.json",
   "commentary_preservation": "commentary-preservation.json",
   "checks": {
@@ -110,5 +149,49 @@
     "broken_local_links": [],
     "repeated_long_paragraphs": [],
     "commentary_preservation": "commentary-preservation.json"
-  }
+  },
+  "review_result": "review-result.json",
+  "reviewed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8",
+    "p9",
+    "p10",
+    "p11",
+    "p12",
+    "p13",
+    "p14",
+    "p15",
+    "p16",
+    "p17",
+    "p18",
+    "p19",
+    "p19a"
+  ],
+  "corrected_ids": [
+    "p2",
+    "p3",
+    "p5",
+    "p8",
+    "p10",
+    "p12",
+    "p15",
+    "p16",
+    "p17",
+    "p18",
+    "p19",
+    "p19a"
+  ],
+  "whole_book_review_complete": false,
+  "case_law_sources_reviewed_in_this_task": [
+    "cases/geburtstagszug.md",
+    "cases/cofemel.md",
+    "cases/mio-usm.md",
+    "cases/renckhoff.md"
+  ]
 }

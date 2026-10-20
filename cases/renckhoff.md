@@ -1,0 +1,13 @@
+# EuGH – Renckhoff
+
+Gericht: Gerichtshof der Europäischen Union, Zweite Kammer. Urteil vom 7. August 2018, C-161/17, Land Nordrhein-Westfalen gegen Dirk Renckhoff, ECLI:EU:C:2018:634. Volltext geprüft am 20. Oktober 2026.
+
+Amtlicher vollständiger Text: [EUR-Lex, CELEX 62017CJ0161](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0161). Belege: [Roh-HTML](../sources/review-p1-p19a/renckhoff-raw.html), [vollständige Antwort einschließlich Metadaten](../sources/review-p1-p19a/renckhoff-firecrawl.json), [vollständige Textlesefassung](../sources/review-p1-p19a/renckhoff-full.txt), [Abrufzeitpunkte, HTTP-Ergebnis und Hashes](../sources/review-p1-p19a/case-fetch-results.json).
+
+Kontext: Eine Schülerin verwendete ein von einer Reisewebsite heruntergeladenes Foto für ein Referat, das anschließend auf der Schulwebsite zugänglich war. Der Fotograf machte eine auf die Reisewebsite beschränkte Erlaubnis geltend. Rn. 6–12 beschreiben den Streit und die nationalen Vorentscheidungen; der EuGH entscheidet die Auslegung der öffentlichen Wiedergabe, nicht abschließend den Schadensersatzanspruch gegen das Land.
+
+Für § 15: Rn. 19–24 unterscheiden Wiedergabehandlung und Öffentlichkeit. Für die Handlung genügt die Zugriffsmöglichkeit unabhängig von ihrer tatsächlichen Nutzung. Öffentlichkeit setzt eine unbestimmte, ziemlich große Zahl potenzieller Adressaten voraus. Rn. 24 erläutert bei weiterer Wiedergabe die Bedeutung eines anderen technischen Verfahrens oder eines neuen Publikums. Das sind Kriterien für den harmonisierten Bereich, keine pauschale Neubestimmung jeder persönlichen Darbietung vor Anwesenden.
+
+Für § 19a: Rn. 29–36 begründen die eigenständige Erlaubnisbedürftigkeit des erneuten Hochladens und die fehlende Erschöpfung der öffentlichen Wiedergabe. Nach Rn. 35 und 47 sowie dem Tenor erfasst die öffentliche Wiedergabe auch das Einstellen eines Fotos auf eine zweite Website, obwohl es zuvor mit Zustimmung und ohne Downloadbeschränkung auf der ersten Website zugänglich war. Rn. 37–46 unterscheiden diese erneute Speicherung und Bereitstellung von den dort behandelten Hyperlinkkonstellationen.
+
+Grenzen: Keine allgemeine Entscheidung zu jeder Verlinkung, Einbettung, Plattformhaftung oder heutigen Unterrichtsschranke. Rn. 42–43 behandeln den Bildungsbezug und die Möglichkeit gesetzlicher Ausnahmen; sie entscheiden nicht die Anwendung des gegenwärtigen § 60a UrhG auf sämtliche Schulnutzungen. Die Aussagen werden hier auf die Zugriffseröffnung, Öffentlichkeit und erneute Onlinebereitstellung bezogen. Kein Anspruch auf erschöpfende Fortschreibung aller späteren Onlinefälle. Unterstützte Kommentare dieses Prüfloses: p15 und p19a.

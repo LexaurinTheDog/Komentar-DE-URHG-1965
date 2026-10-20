@@ -32,9 +32,13 @@
 >
 > (3) Die Wiedergabe ist öffentlich, wenn sie für eine Mehrzahl von Mitgliedern der Öffentlichkeit bestimmt ist. Zur Öffentlichkeit gehört jeder, der nicht mit demjenigen, der das Werk verwertet, oder mit den anderen Personen, denen das Werk in unkörperlicher Form wahrnehmbar oder zugänglich gemacht wird, durch persönliche Beziehungen verbunden ist.
 
-Absätze 1 und 2 unterscheiden körperliche Verwertung von unkörperlicher öffentlicher Wiedergabe. Die Aufzählungen sind nicht abschließend; die genaue Zuordnung bleibt für Lizenzumfang und Schranken entscheidend. Absatz 3 definiert Öffentlichkeit über die fehlende persönliche Verbundenheit. Ein bloß geschlossener Nutzerkreis ist deshalb nicht automatisch privat. Eine Handlung kann mehrere Rechte berühren, etwa wenn eine Datei zunächst vervielfältigt und anschließend online angeboten wird. Jede betroffene Befugnis benötigt eine passende Erlaubnis oder gesetzliche Grundlage.
+Absätze 1 und 2 unterscheiden körperliche Verwertung von unkörperlicher öffentlicher Wiedergabe. Die Aufzählungen sind nicht abschließend; die genaue Zuordnung bleibt für Lizenzumfang und Schranken entscheidend. Absatz 3 verlangt eine Mehrzahl von Mitgliedern der Öffentlichkeit und stellt dabei auf persönliche Beziehungen zum Verwerter oder unter den Empfängern ab. Ein bloß geschlossener Nutzerkreis ist deshalb nicht automatisch privat.
 
-Beispiel: Ein Verein scannt Noten und stellt sie allen registrierten Mitgliedern bereit. Das Scannen betrifft § 16, das individuelle Abrufen § 19a. Die Vereinsmitgliedschaft allein belegt keine persönliche Beziehung sämtlicher Nutzer und damit auch keinen Ausschluss der Öffentlichkeit.
+Im unionsrechtlich harmonisierten Bereich muss die öffentliche Wiedergabe zugleich nach den unionsrechtlichen Kriterien beurteilt werden. [Renckhoff](cases/renckhoff.md), Rn. 19–24, unterscheidet Wiedergabehandlung und Öffentlichkeit und verlangt für Letztere eine unbestimmte, ziemlich große Zahl potenzieller Adressaten. Die bloße Abwesenheit persönlicher Beziehungen ist daher für eine Onlinekonstellation keine vollständige Prüfung. Bei einer weiteren Wiedergabe sind außerdem die konkrete Übertragungsform und gegebenenfalls das neue Publikum zu untersuchen; daraus folgt keine allgemeine Weiterverwendungserlaubnis für bereits im Internet vorhandene Werke.
+
+Eine Handlung kann mehrere Rechte berühren, etwa wenn eine Datei zunächst vervielfältigt und anschließend online angeboten wird. Jede betroffene Befugnis benötigt eine passende Erlaubnis oder gesetzliche Grundlage.
+
+Beispiel: Ein Verein scannt Noten und stellt sie seinen zahlreichen, wechselnden registrierten Mitgliedern bereit. Das Scannen betrifft § 16, das individuelle Abrufen § 19a. Die bloße Vereinsmitgliedschaft begründet keine persönliche Beziehung aller Empfänger. Zugangsvoraussetzungen, Größe und Zusammensetzung des Adressatenkreises müssen konkret festgestellt werden.
 
 ### § 16 — Vervielfältigungsrecht
 
@@ -45,6 +49,8 @@ Beispiel: Ein Verein scannt Noten und stellt sie allen registrierten Mitgliedern
 > (2) Eine Vervielfältigung ist auch die Übertragung des Werkes auf Vorrichtungen zur wiederholbaren Wiedergabe von Bild- oder Tonfolgen (Bild- oder Tonträger), gleichviel, ob es sich um die Aufnahme einer Wiedergabe des Werkes auf einen Bild- oder Tonträger oder um die Übertragung des Werkes von einem Bild- oder Tonträger auf einen anderen handelt.
 
 Das Vervielfältigungsrecht erfasst jede Herstellung von Werkexemplaren, auch digitale, vorübergehende und einzelne Kopien. Absatz 2 stellt klar, dass Aufnahmen und Überspielungen auf Bild- oder Tonträger ebenfalls dazugehören. Die technische Form entscheidet nicht über die Schutzfreiheit. Von der Tatbestandsfrage ist zu trennen, ob eine gesetzliche Erlaubnis eingreift, etwa § 44a für eng begrenzte technische Zwischenkopien oder § 53 für bestimmte private Kopien. Der Besitz einer Vorlage begründet keine allgemeine Kopiererlaubnis.
+
+Auch die Übernahme eines Teils kann erfasst sein, sofern dieser Teil selbst geschützte schöpferische Elemente ausdrückt. Bei angewandter Kunst ist deren wiedererkennbare Übernahme zu untersuchen; ein bloß ähnlicher Gesamteindruck ersetzt diese Feststellung nicht. Siehe [Mio/USM](cases/mio-usm.md), Rn. 66 und 83–92. Die technische Vervielfältigung ungeschützter Informationen allein wird dadurch nicht zum Werkrechtseingriff.
 
 Beispiel: Eine Mitarbeiterin speichert ein fremdes Foto von einer Website auf dem Firmenserver. Bereits das Speichern kann eine Vervielfältigung sein. Ob das Foto später veröffentlicht wird, ist für diesen ersten Eingriff nicht entscheidend; die anschließende Websiteverwendung betrifft zusätzlich § 19a.
 
@@ -64,6 +70,8 @@ Beispiel: Eine Mitarbeiterin speichert ein fremdes Foto von einer Website auf de
 
 Absatz 1 erfasst das öffentliche Anbieten und Inverkehrbringen körperlicher Werkstücke. Absatz 2 erschöpft das Verbreitungsrecht an Exemplaren, die mit Zustimmung im EU-/EWR-Raum veräußert wurden; das Vermietrecht bleibt ausgenommen. Erschöpfung erlaubt den Weiterverkauf dieses Exemplars, nicht die Herstellung weiterer Kopien. Absatz 3 grenzt die erwerbsbezogene zeitweise Überlassung ab und nimmt insbesondere Bauwerke, angewandte Kunst sowie den bezeichneten innerbetrieblichen Gebrauch aus. Digitale Abrufangebote dürfen nicht ohne Prüfung der Sonderregeln für Software mit dem Verkauf körperlicher Bücher gleichgesetzt werden.
 
+Die Zustimmung muss vom zur Verbreitung Berechtigten stammen; der rechtmäßige Erwerb irgendeiner Vorlage genügt nicht. Bei bloßem Verleih oder Vermietung fehlt die in Absatz 2 vorausgesetzte Veräußerung. Umgekehrt macht nicht jede zeitlich begrenzte Überlassung den Tatbestand der Vermietung aus: Absatz 3 verlangt einen unmittelbaren oder mittelbaren Erwerbszweck und nimmt die beiden ausdrücklich genannten Fallgruppen aus. Der Erwerb des Exemplars lässt andere Verwertungsrechte unberührt.
+
 Beispiel: Ein rechtmäßig in Deutschland gekauftes Buch darf gebraucht weiterverkauft werden. Das Einscannen und der Verkauf beliebig vieler PDF-Dateien werden von der Erschöpfung am Buch nicht gedeckt.
 
 ### § 18 — Ausstellungsrecht
@@ -72,7 +80,9 @@ Beispiel: Ein rechtmäßig in Deutschland gekauftes Buch darf gebraucht weiterve
 
 > Das Ausstellungsrecht ist das Recht, das Original oder Vervielfältigungsstücke eines unveröffentlichten Werkes der bildenden Künste oder eines unveröffentlichten Lichtbildwerkes öffentlich zur Schau zu stellen.
 
-Das Ausstellungsrecht betrifft ausschließlich unveröffentlichte Werke der bildenden Kunst und unveröffentlichte Lichtbildwerke. Es schützt die öffentliche körperliche Präsentation von Originalen oder Exemplaren. Die technische Projektion und die Bereitstellung einer Bilddatei sind nach anderen Rechten zu prüfen. Entscheidend ist der Veröffentlichungsstatus nach § 6, nicht allein, ob gerade dieses Exemplar schon ausgestellt wurde. Beim Erwerb des Originals ist zusätzlich die besondere Befugnis des Eigentümers nach § 44 Abs. 2 zu berücksichtigen.
+Das Ausstellungsrecht betrifft unmittelbar unveröffentlichte Werke der bildenden Kunst und unveröffentlichte Lichtbildwerke; für einfache Lichtbilder ist die entsprechende Anwendung nach § 72 Abs. 1 zu beachten. Es schützt die öffentliche körperliche Präsentation von Originalen oder Exemplaren. Die technische Projektion und die Bereitstellung einer Bilddatei sind nach anderen Rechten zu prüfen. Entscheidend ist der Veröffentlichungsstatus nach § 6, nicht allein, ob gerade dieses Exemplar schon ausgestellt wurde. Beim Erwerb des Originals ist zusätzlich die besondere Befugnis des Eigentümers nach § 44 Abs. 2 zu berücksichtigen.
+
+§ 44 Abs. 2 erlaubt dem Eigentümer des Originals die öffentliche Ausstellung auch vor Veröffentlichung, sofern der Urheber dies bei der Veräußerung nicht ausdrücklich ausgeschlossen hat. Ein bereits zuvor erklärtes Veröffentlichungsverständnis ist daher nicht in jedem Fall erforderlich. Die Befugnis betrifft das Original; aus ihr folgt keine selbständige Erlaubnis, Reproduktionen für einen Katalog herzustellen oder Bilddateien ins Internet zu stellen.
 
 Beispiel: Eine Sammlerin leiht einem Museum ein bislang verborgenes Gemälde. Vor der öffentlichen Präsentation muss geklärt werden, ob die Urheberin eine Veröffentlichung gestattet hat und welche Befugnisse mit dem Eigentumserwerb verbunden waren. Der Leihvertrag ersetzt diese Prüfung nicht.
 
@@ -88,9 +98,11 @@ Beispiel: Eine Sammlerin leiht einem Museum ein bislang verborgenes Gemälde. Vo
 >
 > (4) Das Vorführungsrecht ist das Recht, ein Werk der bildenden Künste, ein Lichtbildwerk, ein Filmwerk oder Darstellungen wissenschaftlicher oder technischer Art durch technische Einrichtungen öffentlich wahrnehmbar zu machen. Das Vorführungsrecht umfaßt nicht das Recht, die Funksendung oder öffentliche Zugänglichmachung solcher Werke öffentlich wahrnehmbar zu machen (§ 22).
 
-Die Vorschrift differenziert nach Sprachvortrag, Musik- oder Bühnenaufführung und technischer Vorführung. Absätze 1 und 2 setzen persönliche Darbietungen voraus. Absatz 3 erstreckt die Rechte auf die öffentliche Übertragung außerhalb des Darbietungsraums. Absatz 4 erfasst technische Präsentationen der genannten Werkarten, grenzt aber die Wiedergabe von Sendungen und Abrufangeboten zugunsten des § 22 aus. Neben den Werkrechten können Rechte der auftretenden Künstler nach §§ 73 ff. bestehen.
+Absatz 1 erfasst das persönliche öffentliche Zu-Gehör-Bringen eines Sprachwerks, etwa die Lesung. Absatz 2 betrifft zum einen die persönliche musikalische Darbietung, zum anderen die öffentliche bühnenmäßige Darstellung eines Werkes. Bei dieser zweiten Alternative ist die Bühnenhandlung maßgeblich; eine rein technische Bildpräsentation fällt nicht allein deshalb unter das Aufführungsrecht, weil sie in einem Theater stattfindet.
 
-Beispiel: Ein Theater führt ein geschütztes Drama live auf und überträgt es per Bildschirm ins Foyer. Die Übertragung ist nach Absatz 3 mitzuprüfen. Wird später eine aufgezeichnete Aufführung gezeigt, sind die Aufzeichnungs- und Wiedergaberechte sowie die Rechte der Darsteller gesondert zu klären.
+Absatz 3 erstreckt Vortrags- und Aufführungsrecht auf die öffentliche technische Übertragung außerhalb des Darbietungsraums. Absatz 4 betrifft dagegen die technische öffentliche Wahrnehmbarmachung von Werken der bildenden Künste, Lichtbildwerken, Filmwerken und wissenschaftlichen oder technischen Darstellungen. Die öffentliche Wiedergabe einer Funksendung oder öffentlichen Zugänglichmachung dieser Werke weist Satz 2 dem § 22 zu. Das Abspielen einer Tonaufnahme eines Vortrags oder Musikwerks ist anhand des § 21 zu prüfen; es ist keine persönliche Darbietung nach Absatz 1 oder Absatz 2. Neben den Werkrechten können Rechte der auftretenden Künstler nach §§ 73 ff. bestehen.
+
+Beispiel: Ein Theater führt ein geschütztes Drama live auf und überträgt es per Bildschirm ins öffentlich zugängliche Foyer. Absatz 2 und die Erweiterung nach Absatz 3 sind zu prüfen. Eine spätere Filmvorführung der Aufzeichnung betrifft dagegen Absatz 4; die Herstellung der Aufzeichnung berührt zudem § 16 und die Rechte der Darsteller.
 
 ### § 19a — Recht der öffentlichen Zugänglichmachung
 
@@ -98,9 +110,11 @@ Beispiel: Ein Theater führt ein geschütztes Drama live auf und überträgt es 
 
 > Das Recht der öffentlichen Zugänglichmachung ist das Recht, das Werk drahtgebunden oder drahtlos der Öffentlichkeit in einer Weise zugänglich zu machen, dass es Mitgliedern der Öffentlichkeit von Orten und zu Zeiten ihrer Wahl zugänglich ist.
 
-Die individuelle Wahl von Ort und Zeit kennzeichnet die öffentliche Zugänglichmachung. Der Tatbestand richtet sich auf die eröffnete Zugriffsmöglichkeit; es muss nicht erst ein bestimmter Abruf nachgewiesen werden. Ein kostenpflichtiger Zugang oder ein Passwort schließt Öffentlichkeit nicht notwendig aus. Die Reichweite einer Lizenz muss diese Abrufnutzung umfassen; eine bloße Druck- oder Aufführungserlaubnis genügt nicht. Bei Plattformen sind zusätzlich die konkret übernommenen Handlungen und gegebenenfalls besondere gesetzliche Regelungen zu untersuchen.
+Die individuelle Wahl von Ort und Zeit kennzeichnet die öffentliche Zugänglichmachung. Erfasst sind drahtgebundene wie drahtlose Angebote. Entscheidend ist die eröffnete Zugriffsmöglichkeit; ein tatsächlich erfolgter Abruf muss dafür nicht erst nachgewiesen werden. Ein nur zu einem festgelegten Zeitpunkt gesendetes Programm ist deshalb vom jederzeit abrufbaren Angebot zu unterscheiden. Ein kostenpflichtiger Zugang oder ein Passwort schließt Öffentlichkeit nicht notwendig aus; die Empfängerstruktur ist nach § 15 Abs. 3 und den unionsrechtlichen Kriterien zu prüfen.
 
-Beispiel: Ein Bildungsträger lädt ein Lehrvideo in ein Portal, das wechselnde Kursteilnehmer zu beliebiger Zeit nutzen können. Auch bei einem begrenzten Teilnehmerkreis ist zu prüfen, ob Öffentlichkeit vorliegt. Eine vorhandene Lizenz für eine einmalige Präsenzvorführung beantwortet die Onlinefrage nicht.
+Das erneute Hochladen eines geschützten Fotos auf eine andere Website bleibt eine eigene Nutzung, auch wenn es auf der ersten Seite mit Zustimmung frei abrufbar war. [Renckhoff](cases/renckhoff.md), Rn. 20–24 und 29–47, bejaht für diese Konstellation eine neue öffentliche Wiedergabe und grenzt sie von der dort behandelten bloßen Verlinkung ab. Die öffentliche Wiedergabe erschöpft sich nicht durch den ersten erlaubten Onlinezugang. Das Urteil begründet zugleich keine pauschale Aussage über jede Verlinkungs-, Einbettungs- oder Plattformkonstellation.
+
+Die Lizenz muss die konkrete Abrufnutzung umfassen; eine bloße Druck- oder Aufführungserlaubnis genügt nicht. Gesetzliche Erlaubnisse sind gesondert zu prüfen. Beispiel: Ein Bildungsträger lädt ein fremdes Lehrvideo in ein Portal für zahlreiche wechselnde Kursteilnehmer, die es jederzeit abrufen können. Der Passwortschutz genügt nicht als Einwand gegen Öffentlichkeit. Eine Lizenz für eine einmalige Präsenzvorführung oder die freie Abrufbarkeit auf der Website des Produzenten berechtigt für sich genommen nicht zum erneuten Hochladen.
 
 ### § 20 — Senderecht
 

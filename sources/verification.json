@@ -156,6 +156,68 @@
       "expected_format_validated": true,
       "format": "XML: dokumente; jurabk UrhG; doknr BJNR012730965",
       "derived_from": "sources/preflight-2026-10-20/current.zip"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T11:57:47.647299+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p1-p19a/current.zip",
+      "headers_path": "sources/review-p1-p19a/current.zip.headers",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "accessed_at": "2026-10-20T11:57:47.647662+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p1-p19a/index.html",
+      "headers_path": "sources/review-p1-p19a/index.html.headers",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T11:57:47.647752+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p1-p19a/amendment.pdf",
+      "headers_path": "sources/review-p1-p19a/amendment.pdf.headers",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883,
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62023CJ0580",
+      "accessed_at": "2026-10-20T12:01:38.031554+00:00",
+      "response_received_at": "2026-10-20T12:01:49.505165+00:00",
+      "http_status": 200,
+      "transport": "Firecrawl CLI; statusCode reported by provider",
+      "cache_state": "hit",
+      "cache_timestamp": "2026-10-20T11:57:26.387Z",
+      "response_path": "sources/review-p1-p19a/mio-firecrawl.json",
+      "sha256": "357b1e655781a120047016bb1d2fa3011811ab6fb8dbe3d5a87442f96c8dded9",
+      "raw_path": "sources/review-p1-p19a/mio-raw.html",
+      "raw_sha256": "0440d0e52e699d33ea0b695e17d03fa43796b048d5c3b58897b454eb81485cf5",
+      "expected_format_validated": true,
+      "format": "Full official judgment HTML with document1, parties, numbered reasons and operative part",
+      "celex": "62023CJ0580"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0161",
+      "accessed_at": "2026-10-20T12:01:50.013685+00:00",
+      "response_received_at": "2026-10-20T12:01:51.325962+00:00",
+      "http_status": 200,
+      "transport": "Firecrawl CLI; statusCode reported by provider",
+      "cache_state": "hit",
+      "cache_timestamp": "2026-10-20T11:58:24.307Z",
+      "response_path": "sources/review-p1-p19a/renckhoff-firecrawl.json",
+      "sha256": "c34e472b0b9107f48672fbb653e5abab85cc484a1a05f8ef9a7efd34d2dd54c1",
+      "raw_path": "sources/review-p1-p19a/renckhoff-raw.html",
+      "raw_sha256": "7f1accf968ffa1c4e4ee904922d47b12660576809075221b0dc9663071b36d5a",
+      "expected_format_validated": true,
+      "format": "Full official judgment HTML with document1, parties, numbered reasons and operative part",
+      "celex": "62017CJ0161"
     }
   ],
   "version": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
@@ -305,5 +367,36 @@
         "full_xml_text_agrees": true
       }
     ]
+  },
+  "bounded_review_verified_at": "2026-10-20T12:05:20.824985+00:00",
+  "bounded_review": {
+    "reviewed_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p12",
+      "p13",
+      "p14",
+      "p15",
+      "p16",
+      "p17",
+      "p18",
+      "p19",
+      "p19a"
+    ],
+    "source_unchanged": true,
+    "xml_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+    "amendment_unchanged": true,
+    "commencement": "Art. 3; Verkündung 29.05.2026; wirksam 30.05.2026",
+    "fetch_log": "sources/review-p1-p19a/fetch-results.json",
+    "case_log": "sources/review-p1-p19a/case-fetch-results.json"
   }
 }

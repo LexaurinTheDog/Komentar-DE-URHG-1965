@@ -1,0 +1,11 @@
+{
+  "case": "I ZR 143/12",
+  "official_path": "sources/geburtstagszug.xml",
+  "official_sha256": "52a5282fad26a708f6a03c4ce1cfb7765db80adfbd4f23439e03ae8cd7ac5a16",
+  "local_corpus_copy": "sources/bgh-geburtstagszug-intake.md",
+  "local_copy_sha256": "7fb6fd068565dcfaadc06f092bd7563c38c1712c14c142b8e61bc9a716d24492",
+  "paragraphs_compared": 94,
+  "paragraphs_found": 94,
+  "normalization": "Whitespace and Markdown formatting only",
+  "ok": true
+}

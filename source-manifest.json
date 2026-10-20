@@ -1,6 +1,6 @@
 {
   "algorithm": "SHA-256",
-  "generated_at": "2026-10-20T11:55:13.591994+00:00",
+  "generated_at": "2026-10-20T12:05:44.013734+00:00",
   "sources": [
     {
       "path": "sources/aktualitaet.headers",
@@ -273,9 +273,129 @@
       "bytes": 41749
     },
     {
+      "path": "sources/review-p1-p19a/amendment.pdf",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883
+    },
+    {
+      "path": "sources/review-p1-p19a/amendment.pdf.headers",
+      "sha256": "d9445f15e4b6e811b352fd4bfd00adae1ee874e1a29c015873cf89b3868aadbe",
+      "bytes": 1111
+    },
+    {
+      "path": "sources/review-p1-p19a/before-part-01.md",
+      "sha256": "1b432c45c05fe363b0870f4493f0df081e1c42eea0236e124377c230ea0e8041",
+      "bytes": 13063
+    },
+    {
+      "path": "sources/review-p1-p19a/before-part-02.md",
+      "sha256": "bde58a96e993a9d4f01177ca2c79df534cfda1b683874bd80f071bc9dea1acd0",
+      "bytes": 15963
+    },
+    {
+      "path": "sources/review-p1-p19a/case-fetch-results.json",
+      "sha256": "0a43cb1b0acb9d1a3bb8f7ca6d88bcbd1a419789ce4618dc26386f0f656d21b3",
+      "bytes": 1697
+    },
+    {
+      "path": "sources/review-p1-p19a/cofemel-full.txt",
+      "sha256": "8413f9892811d8ce51d6249af701ff824b5beae32d279f996673a28d7bbd8738",
+      "bytes": 30713
+    },
+    {
+      "path": "sources/review-p1-p19a/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "bytes": 401221
+    },
+    {
+      "path": "sources/review-p1-p19a/current.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672
+    },
+    {
+      "path": "sources/review-p1-p19a/current.zip.headers",
+      "sha256": "90b2c61dbed020665679cc4e7f7e57d11e6b0d5289f4593f3d91189d9387cf6c",
+      "bytes": 308
+    },
+    {
+      "path": "sources/review-p1-p19a/fetch-cases.py",
+      "sha256": "4ac44c52309247674283ac99e546bc145e6c5f4e29b72d7a736848f4a1ba5a84",
+      "bytes": 1926
+    },
+    {
+      "path": "sources/review-p1-p19a/fetch-results.json",
+      "sha256": "a7bae904230f1537d3886523476d6d62b79017fabfdbabd213f97794e99cf328",
+      "bytes": 1293
+    },
+    {
+      "path": "sources/review-p1-p19a/geburtstagszug-full.txt",
+      "sha256": "b04f068ccf6591336310b2379ba27a2dd128d562162fcdd0f18aa1b5f531223d",
+      "bytes": 41551
+    },
+    {
+      "path": "sources/review-p1-p19a/index.html",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665
+    },
+    {
+      "path": "sources/review-p1-p19a/index.html.headers",
+      "sha256": "820e5e331d5889485f9a66ff6b594b1941d753b81dccc8d3a8653fe231a7ebde",
+      "bytes": 323
+    },
+    {
+      "path": "sources/review-p1-p19a/mio-discovery.json",
+      "sha256": "afc03c15450f0ab64b94c36e45b3710128faed7e4f3c4f181b0a599b0742cef8",
+      "bytes": 412435
+    },
+    {
+      "path": "sources/review-p1-p19a/mio-firecrawl.json",
+      "sha256": "357b1e655781a120047016bb1d2fa3011811ab6fb8dbe3d5a87442f96c8dded9",
+      "bytes": 412393
+    },
+    {
+      "path": "sources/review-p1-p19a/mio-full.txt",
+      "sha256": "af6046d90262680c08a01926519ae29f6a416ebe8baf70c39370ac87b2d60a5b",
+      "bytes": 64415
+    },
+    {
+      "path": "sources/review-p1-p19a/mio-raw.html",
+      "sha256": "0440d0e52e699d33ea0b695e17d03fa43796b048d5c3b58897b454eb81485cf5",
+      "bytes": 282776
+    },
+    {
+      "path": "sources/review-p1-p19a/mio.md",
+      "sha256": "674888f54c9370b50851163bc4adf2f3676dc8c338f999034889168d9a9655db",
+      "bytes": 108435
+    },
+    {
+      "path": "sources/review-p1-p19a/national-corpus-check.json",
+      "sha256": "82d296043fc77f5cb6af6dab2f713304349be33b1a4f374750e81e0547bb3675",
+      "bytes": 451
+    },
+    {
+      "path": "sources/review-p1-p19a/renckhoff-discovery.json",
+      "sha256": "9f28c219ea986b82dfb89330d7e315d2bc6db3047169dbf6fd627ccb8fae2c2f",
+      "bytes": 310600
+    },
+    {
+      "path": "sources/review-p1-p19a/renckhoff-firecrawl.json",
+      "sha256": "c34e472b0b9107f48672fbb653e5abab85cc484a1a05f8ef9a7efd34d2dd54c1",
+      "bytes": 310558
+    },
+    {
+      "path": "sources/review-p1-p19a/renckhoff-full.txt",
+      "sha256": "92b07a1f58dc3fe0d585103d85c77af085ab18382147406f9ba67c3a8a56fee1",
+      "bytes": 33034
+    },
+    {
+      "path": "sources/review-p1-p19a/renckhoff-raw.html",
+      "sha256": "7f1accf968ffa1c4e4ee904922d47b12660576809075221b0dc9663071b36d5a",
+      "bytes": 218728
+    },
+    {
       "path": "sources/search-log.json",
-      "sha256": "fe8df4a7eb9233ec5a0761855a4bef8d47c40efff93b3ef17ecb0b014e04e921",
-      "bytes": 1635
+      "sha256": "15a9ec4be775deb0d88691f1f22c7bc99998a55674d2e081530471ba387c7fac",
+      "bytes": 2856
     },
     {
       "path": "sources/searches/amendment-search.json",
@@ -349,8 +469,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "84386358e563b18d4ab9bd5a65283533036e5f69831a50502a08b49cdba16fc3",
-      "bytes": 12907
+      "sha256": "64fdf8fda9ecb1d6a54b2fb20ff07ecb2adae06a01e1e0a6675eb249cfb0ff7a",
+      "bytes": 16740
     },
     {
       "path": "sources/verify-sources.py",

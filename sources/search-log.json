@@ -22,5 +22,29 @@
     }
   ],
   "coverage": "Selektive Recherche; keine Vollständigkeit der Rechtsprechung beansprucht.",
-  "technical_units": "Für technische, leere und reine Übergangseinheiten wurde keine hinreichend spezifische zusätzliche verifizierte Entscheidung aufgenommen. Die drei Karten werden nicht künstlich auf alle Einheiten verteilt."
+  "technical_units": "Für technische, leere und reine Übergangseinheiten wurde keine hinreichend spezifische zusätzliche verifizierte Entscheidung aufgenommen. Die drei Karten werden nicht künstlich auf alle Einheiten verteilt.",
+  "bounded_review_2026_10_20": [
+    {
+      "query": "site.curia.europa.eu C-580/23 C-795/23 judgment 2025 copyright",
+      "tool": "web search",
+      "selected_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62023CJ0580",
+      "disposition": "Amtlichen vollständigen deutschen Urteiltext über Firecrawl gespeichert und gelesen; keine Pressemitteilung als Entscheidungsersatz."
+    },
+    {
+      "query": "site.curia.europa.eu C-161/17 Renckhoff 7 August 2018",
+      "tool": "web search",
+      "selected_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0161",
+      "disposition": "Vollständigen amtlichen deutschen Urteiltext gespeichert und gelesen; Schul-/Uploadfall vom bloßen Hyperlink abgegrenzt."
+    },
+    {
+      "query": "Vorhandene amtliche und lokale nationale Volltexte: Geburtstagszug; Cofemel",
+      "tool": "local full-text reading",
+      "evidence": [
+        "sources/geburtstagszug.xml",
+        "sources/bgh-geburtstagszug-intake.md",
+        "sources/cofemel-raw.html"
+      ],
+      "disposition": "Alte Vergütungsfassungen und BGH-Aussage zum Schutzumfang historisch eingeordnet. Keine künstliche Verteilung auf andere Einheiten."
+    }
+  ]
 }

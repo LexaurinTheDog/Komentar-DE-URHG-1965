@@ -3,7 +3,7 @@
   "complete": true,
   "decisive_date": "2026-10-19",
   "official_url": "https://www.gesetze-im-internet.de/urhg/",
-  "verified_at": "2026-10-20T11:54:07.436691+00:00",
+  "verified_at": "2026-10-20T12:05:20.824985+00:00",
   "version_evidence": {
     "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
     "amendment_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
@@ -187,5 +187,38 @@
     "preservation_report": "commentary-preservation.json",
     "local_links_checked": 72,
     "broken_local_links": 0
+  },
+  "bounded_review_confirmation": {
+    "checked_at": "2026-10-20T12:05:20.824985+00:00",
+    "fresh_official_fetches": "sources/review-p1-p19a/fetch-results.json",
+    "current_xml_identical": true,
+    "amendment_pdf_identical": true,
+    "official_index_identical": true,
+    "xml_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+    "extracted_assigned_units_agree": true,
+    "reviewed_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p12",
+      "p13",
+      "p14",
+      "p15",
+      "p16",
+      "p17",
+      "p18",
+      "p19",
+      "p19a"
+    ],
+    "coverage_recheck": "completeness-report.json",
+    "eingangsformel_and_annex_evidence": "Erneut identische amtliche XML-Fassung; gesamter Datensatz erneut unabhängig enumeriert. Voll-HTML/PDF-Belege des heutigen Preflights bleiben erhalten."
   }
 }

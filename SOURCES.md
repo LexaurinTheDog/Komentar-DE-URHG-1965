@@ -9,6 +9,7 @@ Ursprüngliches Prüfdatum: 19. Oktober 2026; erneuter Quellen- und Parser-Prefl
 - [Quellenmanifest mit SHA-256](source-manifest.json), [Vollständigkeitsvergleich](completeness-report.json), [technische Zusatzprüfungen](quality-report.json).
 - [Judikatur-Abrufnachweise](sources/authority-fetch.json), [Such- und Auswahllog](sources/search-log.json).
 - Entscheidungskarten: [BGH Geburtstagszug](cases/geburtstagszug.md), [EuGH Cofemel](cases/cofemel.md), [EuGH UsedSoft](cases/usedsoft.md).
+- Ergänzungen des Prüfloses §§ 1–19a vom 20. Oktober 2026: [EuGH Mio/USM](cases/mio-usm.md), [EuGH Renckhoff](cases/renckhoff.md), [erneute amtliche Gesetzesabrufe](sources/review-p1-p19a/fetch-results.json), [Volltextabrufe der ergänzten Entscheidungen](sources/review-p1-p19a/case-fetch-results.json), [einheitenbezogene Prüfung](review-result.json).
 
 Die amtlichen HTML- und XML-Antworten sowie der vollständige Wortlaut liegen lokal vor. Firecrawl wurde für die vollständigen EUR-Lex-Seiten verwendet, nachdem Direktabrufe keinen verwendbaren Text lieferten. Die zugehörigen Antwortdateien enthalten Roh-HTML, Extraktion und HTTP-Metadaten. Gecachte Antworten und ihr Datum sind ausgewiesen. Die nummerierten Absatzdateien sind Lesehilfen, keine Ersatzfassung für verschachtelte Listen der Volltexte.
 
