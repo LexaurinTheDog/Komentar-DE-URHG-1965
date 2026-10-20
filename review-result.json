@@ -379,5 +379,22 @@
     "external_statutes": "sources/review-p101a-p112/external-version-evidence.json",
     "previous_review": "sources/review-p101a-p112/previous-review-p87k-p101.json"
   },
-  "technical_validation": "validation-result.json"
+  "technical_validation": "validation-result.json",
+  "technical_checks": {
+    "strict_validation": {
+      "repo": "Komentar-DE-URHG-1965",
+      "units": 254,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 379581,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "completeness_ok": true,
+    "local_links_checked": 402,
+    "broken_local_links": [],
+    "source_responses_hash_checked": 163,
+    "source_hash_mismatches": [],
+    "limitations": "Diese Prüfungen belegen Text-/Strukturtreue und den dokumentierten Umfang; keine vollständige zweite Buchprüfung oder externe Freigabe."
+  }
 }

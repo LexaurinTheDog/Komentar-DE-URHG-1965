@@ -385,7 +385,7 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 356119,
+    "commentary_chars": 379581,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -425,7 +425,7 @@
     "official_identifiers": 254,
     "parsed_units": 254,
     "xml_text_agreement": 1.0,
-    "local_links_checked": 364,
+    "local_links_checked": 402,
     "broken_local_links": [],
     "repeated_long_paragraphs": [],
     "commentary_preservation": "review-result.json: per-unit hashes and baseline commit",
@@ -520,12 +520,13 @@
     "repo": "Komentar-DE-URHG-1965",
     "units": 254,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 356119,
+    "commentary_chars": 379581,
     "errors": [],
     "warnings": [],
     "ok": true
   },
   "local_links_checked": 364,
   "broken_local_links": [],
-  "recorded_technical_validation_at": "2026-10-20T13:52:16.459405+00:00"
+  "recorded_technical_validation_at": "2026-10-20T13:52:16.459405+00:00",
+  "validation_result_path": "validation-result.json"
 }
