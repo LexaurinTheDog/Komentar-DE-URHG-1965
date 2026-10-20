@@ -1,0 +1,29 @@
+{
+  "verified_at": "2026-10-20T14:38:29.565841+00:00",
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/bgbeg/",
+  "raw_evidence": "sources/review-p131-p137l/egbgb.xml",
+  "raw_sha256": "b494eb13d589b65cef649cf41f1123f0bd7e526a03e2a55c4d2776740367df18",
+  "reviewed_unit": "Art. 229 § 6 EGBGB",
+  "official_doknr": "BJNR006049896BJNE230301377",
+  "extracted_evidence": "sources/review-p131-p137l/egbgb-art229-p6.xml",
+  "extracted_sha256": "cdf72d6c656f33211ec934149d568c744edfabe9121d806648ac8175b0f71245",
+  "paragraphs_checked": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "latest_change": "Art. 2 G v. 16.7.2026 I Nr. 212",
+  "latest_change_promulgated": "2026-07-22",
+  "latest_change_effective": "2026-07-23",
+  "commencement": "Art. 4 Abs. 1; Sondertermin des Abs. 2 nur für Teile von Art. 3",
+  "amendment_evidence": "sources/review-p131-p137l/egbgb-amendment.pdf",
+  "amendment_sha256": "77c58cd218a90fa601aab851ffb73544a3bce203d5352499395313754692ac43",
+  "reviewed_unit_affected": false,
+  "amendment_scope": "Art. 229 § 72, Art. 245 und Anlage 19; keine Änderung von Art. 229 § 6.",
+  "interpretation_scope": "Nur die aktuelle Verweisungsnorm, ihre sechs Absätze und jüngste Versions-/Inkrafttretensbelege geprüft. Keine Rekonstruktion sämtlicher historischen BGB-/UrhG-Sachnormen, keine fallbezogene Enddatumsberechnung.",
+  "historical_reference_limit": "Die in §§ 131, 132, 134–137 und 137i vorausgesetzten früheren Sachnormen werden nicht aus Erinnerung nachgebildet. Deren konkrete Anwendung auf einen Altfall erfordert zusätzliche historische Quellen."
+}

@@ -42,9 +42,11 @@ Beispiel: Ein Verlag findet eine gedruckte Übersetzung von 1901, die damals nac
 
 > Vertonte Sprachwerke, die nach § 20 des Gesetzes betreffend das Urheberrecht an Werken der Literatur und der Tonkunst vom 19. Juni 1901 (Reichsgesetzbl. S. 227) in der Fassung des Gesetzes zur Ausführung der revidierten Berner Übereinkunft zum Schutze von Werken der Literatur und Kunst vom 22. Mai 1910 (Reichsgesetzbl. S. 793) ohne Zustimmung ihres Urhebers vervielfältigt, verbreitet und öffentlich wiedergegeben werden durften, dürfen auch weiterhin in gleichem Umfang vervielfältigt, verbreitet und öffentlich wiedergegeben werden, wenn die Vertonung des Werkes vor dem Inkrafttreten dieses Gesetzes erschienen ist.
 
-Die Fortgeltung setzt die nach dem ausdrücklich bezeichneten früheren Recht erlaubte Nutzung und ein vor Inkrafttreten des UrhG erschienenes vertontes Sprachwerk voraus. Erhalten bleibt nur der gleiche Nutzungsumfang. Der Verweis ist eine historische Tatbestandsvoraussetzung, deren Inhalt im Einzelfall anhand des damaligen Textes verifiziert werden muss; der heutige Kommentar ersetzt diesen Nachweis nicht.
+§ 131 erhält eine eng begrenzte altrechtliche Nutzungsfreiheit für vertonte Sprachwerke. Kumulativ erforderlich sind die Zulässigkeit gerade nach § 20 des im Gesetz genau bezeichneten früheren Literatur- und Tonkunstgesetzes und das Erscheinen der Vertonung vor dem allgemeinen Inkrafttreten des UrhG am 1. Januar 1966 (§ 143 Abs. 2). Dass der zugrunde liegende Text schon früher geschrieben oder veröffentlicht wurde, genügt nicht. Ebenso wenig ersetzt das Alter einer Partitur den Nachweis der damaligen gesetzlichen Befugnis.
 
-Beispiel: Ein Chor beruft sich bei einer historischen Vertonung auf die frühere Erlaubnis. Er muss Erscheinenszeitpunkt und damalige Befugnis belegen. Eine neue Vertonung oder eine Ausweitung der Nutzung lässt sich nicht allein aus § 131 ableiten.
+Fortgesetzt werden dürfen Vervielfältigung, Verbreitung und öffentliche Wiedergabe nur im gleichen Umfang. Die Übergangsregel macht deshalb weder den Text allgemein gemeinfrei noch erlaubt sie jede spätere Bearbeitung oder neue Vertonung. Die Rechte an der Musik und an einer heutigen Aufnahme sind zusätzlich zu klären. Ob eine konkrete Nutzungsform unter die erhaltene Freiheit fällt, ist durch Vergleich mit dem historisch erlaubten Umfang zu bestimmen; eine umfassende Onlineerlaubnis folgt aus der Aufzählung allein nicht. Der historische Verweis ist Tatbestandsvoraussetzung, kein hier nachgebildeter vollständiger Kommentar zu dem früheren Gesetz.
+
+Beispiel: Ein Chor will einen vor 1966 erschienenen Liedsatz nachdrucken und aufführen. Er kann sich auf § 131 berufen, wenn die konkrete Textverwendung nach dem bezeichneten früheren § 20 ohne Zustimmung zulässig war und die geplante Nutzung diesen Umfang wahrt. Eine heute neu komponierte Vertonung desselben Gedichts erfüllt die Erscheinensvoraussetzung nicht.
 
 ### § 132 — Verträge
 
@@ -60,9 +62,13 @@ Beispiel: Ein Chor beruft sich bei einer historischen Vertonung auf die frühere
 >
 > (4) Die Absätze 3 und 3a gelten für ausübende Künstler entsprechend.
 
-Absätze 1 und 2 schützen vor 1966 geschlossene Verträge und Verfügungen, nehmen bestimmte Vorschriften aus und ordnen besondere Friststarts für §§ 40 und 41 an. Absatz 3 behandelt Verträge und Sachverhalte vor Juli 2002 mit ausdrücklichen Ausnahmen für Beteiligung und bestimmte Übergangsverträge. Absatz 3a betrifft den anschließenden Zeitraum bis März 2017; § 133 Abs. 2 bis 4 bleibt jeweils vorbehalten. Absatz 4 erstreckt diese Regeln auf Künstler. Vertragsschluss, spätere Nutzung und Anspruchsentstehung sind deshalb auf einer gemeinsamen Zeitleiste getrennt festzuhalten.
+§ 132 ordnet mehrere zeitliche Schichten des Vertragsrechts. Absatz 1 belässt vor dem 1. Januar 1966 geschlossene Verträge grundsätzlich außerhalb des neuen Gesetzes, macht aber §§ 42 und 43 anwendbar. § 43 gilt dabei entsprechend für ausübende Künstler. Auch §§ 40 und 41 greifen ein, jedoch beginnen die ausdrücklich bezeichneten Fristen frühestens am 1. Januar 1966. Die Regel ist daher keine vollständige Abschirmung aller Altverträge. Absatz 2 erhält die Wirksamkeit zuvor getroffener Verfügungen; die Umstellung früherer Übertragungen in Nutzungsrechte behandelt daneben § 137.
 
-Beispiel: Ein 2001 geschlossener Vertrag wird ab 2003 weiter genutzt. Nicht allein das Vertragsdatum entscheidet über jeden heutigen Anspruch. Die besondere §-32-Regel und die späteren Ausnahmen nach § 133 sind mitzulesen.
+Absatz 3 erhält für vor dem 1. Juli 2002 geschlossene Verträge oder entstandene sonstige Sachverhalte grundsätzlich die Fassung vom 28. März 2002. Zwei Ausnahmen sind genau zu trennen: § 32a erfasst nach dem 28. März 2002 entstandene Sachverhalte; § 32 gilt zusätzlich für Verträge vom 1. Juni 2001 bis zum 30. Juni 2002, wenn das eingeräumte Recht oder die Erlaubnis nach dem 30. Juni 2002 genutzt wird. Das Vertragsdatum allein entscheidet folglich weder über eine spätere weitere Beteiligung noch über die Angemessenheitskontrolle in diesem besonderen Vertragsfenster. Ob ein maßgeblicher Sachverhalt erst später entstanden ist, bedarf einer auf den jeweiligen Anspruch bezogenen Prüfung.
+
+Absatz 3a konserviert für Verträge und sonstige Sachverhalte ab dem 1. Juli 2002 und vor dem 1. März 2017 die bis einschließlich 28. Februar 2017 geltende Fassung. Beide Schichten stehen ausdrücklich unter dem Vorbehalt des § 133 Abs. 2 bis 4: Dessen spätere Beteiligungs-, Rückrufs- und Transparenzregeln können deshalb auch diese Altverträge erreichen. Absatz 4 erstreckt Absätze 3 und 3a auf ausübende Künstler. Die jeweils verwiesene ältere Fassung ist im konkreten Altfall gesondert zu beschaffen; der aktuelle Wortlaut der Sachnorm darf sie nicht stillschweigend ersetzen.
+
+Beispiel: Ein am 15. Juni 2001 geschlossener Illustrationsvertrag wird 2003 weiter ausgewertet. Für § 32 ist das besondere Vertragsfenster samt späterem Gebrauch zu prüfen; für einen weiteren Beteiligungsanspruch sind die anspruchsbegründenden späteren Umstände zeitlich zuzuordnen. Eine Auskunft im Jahr 2026 verlangt zusätzlich die Prüfung des § 133, statt alle Fragen pauschal dem Vertragsjahr 2001 zu unterwerfen.
 
 ### § 133 — Übergangsregelung bei der Umsetzung vertragsrechtlicher Bestimmungen der Richtlinie (EU) 2019/790
 
@@ -76,9 +82,13 @@ Beispiel: Ein 2001 geschlossener Vertrag wird ab 2003 weiter genutzt. Nicht alle
 >
 > (4) Die Absätze 1 bis 3 gelten für ausübende Künstler entsprechend.
 
-Absatz 1 erhält für den Zeitraum März 2017 bis Juni 2021 grundsätzlich die bezeichnete Vertragsrechtsfassung. Absatz 2 erstreckt die Fassung vom 7. Juni 2021 zu §§ 32a und 41 ab diesem Tag auch auf Altverträge. Absatz 3 lässt die neuen Transparenzregeln ab 7. Juni 2022 ebenfalls erfassen, verlangt aber bei bestimmten Filmverträgen vor 2008 ein Auskunftsbegehren. Absatz 4 gilt entsprechend für Künstler. Die Norm ist daher eine zentrale Ausnahme zu den allgemeinen Altvertragsregeln.
+Die Norm setzt die Zeitstaffel des § 132 für das reformierte Urhebervertragsrecht fort. Absatz 1 betrifft Verträge und sonstige Sachverhalte ab dem 1. März 2017 und vor dem 7. Juni 2021. Fortgelten soll für sie grundsätzlich nur die am 1. März 2017 geltende Fassung des Teils 1 Abschnitt 5 Unterabschnitt 2. Dies ist keine allgemeine Festschreibung des gesamten UrhG auf diesen Stand. Schon innerhalb dieses Bereichs gehen die folgenden Ausnahmen vor.
 
-Beispiel: Eine Kamerafrau fragt nach Nutzungsdaten eines 2006 geschlossenen Filmvertrags. Neben der materiellen Auskunftspflicht ist das besondere Verlangen nach Absatz 3 zu prüfen. Das Alter des Vertrags schließt den Anspruch nicht pauschal aus.
+Absatz 2 wendet §§ 32a und 41 in der Fassung vom 7. Juni 2021 ab diesem Tag auch auf zuvor geschlossene Verträge an. Damit bleibt der Entstehungszeitraum des jeweils geltend gemachten Anspruchs oder Rückrufs bedeutsam; aus der Norm folgt keine unterschiedslose rückwirkende Neuberechnung sämtlicher abgeschlossener Vorgänge. Für Auskunft und Rechenschaft nach §§ 32d und 32e ordnet Absatz 3 dagegen einen späteren Übergang zum 7. Juni 2022 an. Ob die materiellen Voraussetzungen, Ausnahmen oder die Subsidiarität gegenüber dem Vertragspartner erfüllt sind, richtet sich weiter nach diesen Sachnormen.
+
+Für vor dem 1. Januar 2008 geschlossene Verträge wird Auskunft über Filmwerke, Laufbilder und die filmische Verwertung der zu ihrer Herstellung benutzten Werke nur auf Verlangen geschuldet. Der Sonderfall beseitigt nicht jeden Anspruch, sondern verhindert für diese Auskünfte einen vorbehaltlosen Automatismus. Absatz 4 überträgt die Zeitregeln entsprechend auf ausübende Künstler. Über die Rückverweise in § 132 können die Absätze 2 bis 4 auch wesentlich ältere Vertragsgruppen erfassen.
+
+Beispiel: Eine Kamerafrau verlangt 2026 Auskunft über die fortgesetzte Verwertung eines auf einem Vertrag von 2006 beruhenden Filmwerks. Das alte Vertragsdatum schließt Transparenz nicht pauschal aus; das Verlangen und die Voraussetzungen der §§ 32d und 32e müssen aber vorliegen. Die Übergangsnorm allein macht jeden beteiligten Lizenznehmer weder sofort auskunftspflichtig noch zahlungspflichtig.
 
 ### § 134 — Urheber
 
@@ -86,9 +96,11 @@ Beispiel: Eine Kamerafrau fragt nach Nutzungsdaten eines 2006 geschlossenen Film
 
 > Wer zur Zeit des Inkrafttretens dieses Gesetzes nach den bisherigen Vorschriften, nicht aber nach diesem Gesetz als Urheber eines Werkes anzusehen ist, gilt, abgesehen von den Fällen des § 135, weiterhin als Urheber. Ist nach den bisherigen Vorschriften eine juristische Person als Urheber eines Werkes anzusehen, so sind für die Berechnung der Dauer des Urheberrechts die bisherigen Vorschriften anzuwenden.
 
-Die Norm wahrt eine nach früherem Recht bestehende Urheberstellung, die das neue Gesetz nicht mehr originär anerkennen würde, vorbehaltlich § 135. Für historisch als Urheber behandelte juristische Personen bleibt die frühere Schutzdauerberechnung maßgeblich. Dies ist Bestandsschutz, keine Abweichung vom heutigen Schöpferprinzip für neue Werke. Person, altrechtlicher Erwerb und maßgeblicher Übergangszeitpunkt müssen belegt werden.
+§ 134 erhält die Urheberstellung, die einer Person beim Inkrafttreten nach den bisherigen Vorschriften zustand, nach den neuen Vorschriften jedoch nicht mehr originär zukäme. Der Bestandsschutz setzt eine konkrete altrechtliche Position voraus; die bloße Herausgabe eines Werks oder die Bezeichnung als Rechteinhaber genügt nicht. Vorbehalten sind die Fälle des § 135, in denen die bisherige Stellung in ein verwandtes Schutzrecht überführt wird.
 
-Beispiel: Eine historische Körperschaft beruft sich auf eine vor Inkrafttreten entstandene Urheberposition. Sie kann sich nicht allein auf ihre heutige Rechtsform stützen. Die konkret fortbestehende frühere Stellung ist nachzuweisen.
+Satz 2 erfasst den besonderen Fall einer nach früherem Recht als Urheber anzusehenden juristischen Person. Hier bleibt für die Schutzdauerberechnung das bisherige Recht maßgeblich. Es wäre falsch, ohne Weiteres die heutige, auf das Leben eines menschlichen Urhebers bezogene Regel des § 64 anzuwenden oder eine zeitlich unbegrenzte Unternehmensposition anzunehmen. Die fortbestehende Berechtigung, die einschlägige alte Frist und etwaige spätere Übergangsregeln sind getrennt zu prüfen. Das heutige Schöpferprinzip des § 7 für neue Werke wird durch diesen historischen Bestandsschutz nicht aufgehoben.
+
+Beispiel: Eine Körperschaft beansprucht die Rechte an einer lange vor 1966 herausgegebenen Schrift als damalige Urheberin. Sie muss die frühere gesetzliche Zuordnung und deren Fortbestand belegen. Aus ihrer heutigen Rechtsform oder dem Eigentum am Archiv lässt sich weder die historische Urheberschaft noch eine heute noch laufende Schutzfrist ableiten.
 
 ### § 135 — Inhaber verwandter Schutzrechte
 
@@ -98,9 +110,11 @@ Beispiel: Eine historische Körperschaft beruft sich auf eine vor Inkrafttreten 
 
 *Amtlicher bzw. dokumentierter Quellenhinweis:* § 135: Mit Art. 14 Abs. 1 Satz 1 GG nach Maßgabe des Entscheidungssatzes BVerfGE v. 8.7.1971 I 1943 unvereinbar - 1 BvR 766/66 -
 
-Frühere Urheberpositionen an einfachen Lichtbildern und mechanischen Tonübertragungen werden den entsprechenden verwandten Schutzrechten des neuen Gesetzes zugeordnet. Die Norm bewahrt also die personelle Berechtigung bei geändertem rechtlichem Schutztyp. Welche wirtschaftliche Befugnis und Frist anschließend gilt, folgt aus dem jeweiligen neuen Recht und den Übergangsvorschriften.
+Die Norm führt bestimmte altrechtliche Urheberpositionen in das Leistungsschutzsystem des UrhG über. Wer beim Inkrafttreten nach den bisherigen Vorschriften als Urheber eines Lichtbildes oder einer mechanischen Tonübertragung anzusehen war, erhält die entsprechenden verwandten Schutzrechte, die das neue Gesetz gewährt. Damit wird die personelle Zuordnung beim Wechsel des Schutztyps erhalten; ein ausschließlich nach heutigen Kriterien bestimmter neuer Hersteller darf nicht ohne Prüfung an die Stelle des damaligen Berechtigten gesetzt werden.
 
-Beispiel: Ein historischer Aufnahmehersteller wurde nach früherem Recht als Urheber behandelt. Für heutige Ansprüche muss seine Stellung in das passende Leistungsschutzrecht eingeordnet werden. Daraus entsteht keine neue Schöpferstellung am aufgenommenen Musikwerk.
+Welche Befugnisse und Schutzfristen anschließend bestehen, ergibt sich aus dem jeweils einschlägigen Leistungsschutzrecht, etwa §§ 72 oder 85, und dessen Übergangsregeln. Die Vorschrift begründet keine zusätzliche Urheberschaft an dem fotografierten oder aufgenommenen Werk. Bei Fotografien ist außerdem ein möglicher Werkrechtsschutz nach § 2 Abs. 1 Nr. 5 gesondert zu unterscheiden. Der Gesetzestext spricht von Lichtbildern und rechtfertigt es nicht, die historische Zuordnung allein wegen einer heutigen pauschalen Einordnung als „einfaches Foto“ oder „Kunstfoto“ zu überspringen.
+
+Beispiel: Ein Archiv besitzt eine alte Tonaufnahme und Unterlagen zu einem damals als Urheber der mechanischen Übertragung behandelten Unternehmen. § 135 kann dessen Rechtsstellung dem entsprechenden Leistungsschutz zuordnen. Eigentum am Band, Rechte der ausübenden Musiker und Rechte an der Komposition werden dadurch nicht zu einem einheitlichen Unternehmensurheberrecht verschmolzen.
 
 ### § 135a — Berechnung der Schutzfrist
 
@@ -108,9 +122,11 @@ Beispiel: Ein historischer Aufnahmehersteller wurde nach früherem Recht als Urh
 
 > Wird durch die Anwendung dieses Gesetzes auf ein vor seinem Inkrafttreten entstandenes Recht die Dauer des Schutzes verkürzt und liegt das für den Beginn der Schutzfrist nach diesem Gesetz maßgebende Ereignis vor dem Inkrafttreten dieses Gesetzes, so wird die Frist erst vom Inkrafttreten dieses Gesetzes an berechnet. Der Schutz erlischt jedoch spätestens mit Ablauf der Schutzdauer nach den bisherigen Vorschriften.
 
-Die Regel verhindert bestimmte sofortige Schutzverluste, wenn das neue Gesetz eine ältere Rechtsposition verkürzt und das neue Anfangsereignis bereits zurückliegt. Die Frist wird dann ab Inkrafttreten gerechnet, endet aber spätestens mit der alten Schutzdauer. Es ist daher eine Vergleichsrechnung nötig; die Verschiebung erzeugt keinen unbegrenzten Neubeginn. Spätere spezielle Schutzdaueränderungen sind zusätzlich zu prüfen.
+§ 135a mildert eine Schutzfristverkürzung durch die Anwendung des neuen Gesetzes auf ein schon zuvor entstandenes Recht. Zwei Voraussetzungen müssen zusammen vorliegen: Die neue Regel muss die Dauer tatsächlich verkürzen, und ihr maßgebliches Anfangsereignis muss vor dem Inkrafttreten liegen. Eine bloße Änderung der Berechnungsmethode oder jede ältere Rechtsposition löst die Übergangsregel daher noch nicht aus.
 
-Beispiel: Bei einer Altleistung läge der neue Fristbeginn viele Jahre vor 1966. Die Übergangsregel kann den Berechnungsbeginn verschieben, wird aber durch das frühere gesetzliche Enddatum begrenzt. Beide Berechnungswege müssen dokumentiert werden.
+Sind die Voraussetzungen erfüllt, wird die neue Frist erst ab dem Inkrafttreten berechnet. Satz 2 zieht jedoch eine feste Obergrenze: Spätestens am nach bisherigem Recht maßgeblichen Endtermin erlischt der Schutz. Entscheidend ist somit der frühere Endtermin aus verschobener neuer Frist und alter Schutzdauer. Eine ohnehin nach altem Recht abgelaufene Position wird nicht durch eine isolierte neue Fristrechnung unbegrenzt verlängert. Für den ursprünglichen Rechtswechsel sind die differenzierten Inkrafttretensregeln des § 143 zu beachten; spätere besondere Friständerungen werden nicht allein durch § 135a beurteilt.
+
+Beispiel: Für eine alte Leistung liegt das nach neuem Recht maßgebliche Ereignis schon lange zurück. Würde die neue Regel die noch laufende alte Schutzposition verkürzen, ist ihre Frist mit dem gesetzlichen Übergangsbeginn neu zu berechnen. Endet die alte Schutzdauer früher als diese verschobene Frist, bleibt es bei dem früheren Ende. Eine nachvollziehbare Prüfung hält deshalb beide Enddaten und die jeweils angewandte Fassung fest.
 
 ### § 136 — Vervielfältigung und Verbreitung
 
@@ -122,9 +138,11 @@ Beispiel: Bei einer Altleistung läge der neue Fristbeginn viele Jahre vor 1966.
 >
 > (3) Ist für eine Vervielfältigung, die nach den bisherigen Vorschriften frei zulässig war, nach diesem Gesetz eine angemessene Vergütung an den Berechtigten zu zahlen, so dürfen die in Absatz 2 bezeichneten Vervielfältigungsstücke ohne Zahlung einer Vergütung verbreitet werden.
 
-Absatz 1 erlaubt die Vollendung vor Inkrafttreten begonnener Kopierherstellung, die nach früherem Recht erlaubt war. Absatz 2 gestattet die Verbreitung solcher und schon zuvor hergestellter Exemplare. Absatz 3 nimmt diesen Altbestand von einer erst neu eingeführten Vergütung für zuvor freie Kopien aus. Die Regel schützt konkret abgegrenzte Produktion und Bestand; sie erteilt keine dauerhafte Erlaubnis für nachträglich neu begonnene Auflagen.
+Absatz 1 schützt eine beim Rechtswechsel bereits begonnene Produktion: Eine nach bisherigem Recht erlaubte, nach dem neuen Gesetz dagegen unzulässige Vervielfältigung darf fertiggestellt werden, wenn die Herstellung der Exemplare vor dem Inkrafttreten begonnen wurde. Geschützt ist damit ein konkret begonnener Herstellungsvorgang. Eine bloße spätere Nachfrage, die alte Beschaffung einer Druckvorlage oder die Absicht, irgendwann nachzudrucken, ersetzt diese Voraussetzung nicht.
 
-Beispiel: Eine zuvor rechtmäßig begonnene Druckauflage ist beim Rechtswechsel noch nicht fertig. Herstellung und vorhandene Stückzahlen müssen belegt werden. Eine Jahre später zusätzlich produzierte Auflage gehört nicht allein wegen desselben Buchtitels zum Übergangsbestand.
+Absatz 2 ermöglicht die Verbreitung der nach Absatz 1 fertiggestellten und der bereits zuvor hergestellten Exemplare. Daraus folgt keine unbefristete Erlaubnis für neue Auflagen oder andere Verwertungshandlungen wie die öffentliche Zugänglichmachung einer Datei. Absatz 3 betrifft einen anderen Übergangskonflikt: War die Vervielfältigung früher frei, setzt das neue Recht dafür aber eine angemessene Vergütung fest, darf der bezeichnete Altbestand ohne diese Vergütung verbreitet werden. Die Befreiung knüpft an die konkreten Exemplare an und ist keine allgemeine Entgeltfreiheit für die künftige Nutzung des Werks.
+
+Beispiel: Eine nach bisherigem Recht rechtmäßig begonnene Druckauflage ist am allgemeinen Übergang zum 1. Januar 1966 noch nicht fertig. Der Drucker kann ihre Fertigstellung und die Verbreitung der so hergestellten Stücke auf § 136 stützen. Er muss Produktionsbeginn und betroffene Auflage abgrenzen können. Eine Jahrzehnte später angesetzte zusätzliche Auflage wird nicht allein durch denselben Titel oder dieselben Druckplatten zum geschützten Altbestand.
 
 ### § 137 — Übertragung von Rechten
 
@@ -140,9 +158,13 @@ Beispiel: Eine zuvor rechtmäßig begonnene Druckauflage ist beim Rechtswechsel 
 >
 > (5) Absatz 1 gilt für verwandte Schutzrechte entsprechend.
 
-Absatz 1 übersetzt frühere Urheberrechtsübertragungen in entsprechende Nutzungsrechte und nimmt neu geschaffene Befugnisse im Zweifel aus. Absatz 2 bezieht die damalige Schutzdauerverlängerung im Zweifel ein. Absatz 3 ordnet bei den genannten wirtschaftlichen Voraussetzungen angemessene Zusatzvergütung an. Absatz 4 ermöglicht deren Vermeidung durch zeitnahe Rückgabe beziehungsweise Verzicht für die Verlängerungszeit und begrenzt besondere Weiterveräußerungsbelastungen. Absatz 5 überträgt Absatz 1 auf verwandte Rechte.
+Absatz 1 übersetzt eine vor dem Inkrafttreten erfolgte Urheberrechtsübertragung in die entsprechenden Nutzungsrechte nach § 31. Das neue Gesetz behandelt den Erwerber deshalb nicht als Schöpfer oder als uneingeschränkten Inhaber der gesamten Urheberstellung. Die Auslegungsregel des Satzes 2 nimmt Befugnisse, die erst das UrhG begründet, im Zweifel aus. Eindeutige abweichende Vertragsfeststellungen und die konkrete historische Rechtslage sind gesondert zu beurteilen; die Rede von einer „vollständigen Übertragung“ ersetzt diese Prüfung nicht.
 
-Beispiel: Ein Verlag hat vor 1966 Rechte umfassend erworben. Der fortbestehende Umfang, neue Befugnisse und Beteiligung an der Verlängerungszeit sind getrennt zu prüfen. Die historische Formulierung „vollständige Übertragung“ ersetzt diese gesetzliche Umstellung nicht.
+Eine andere Zweifelsregel enthält Absatz 2: Die damalige Verlängerung der Schutzdauer nach §§ 64 bis 66 wird grundsätzlich von einer zuvor vollständigen oder teilweisen Übertragung mit umfasst. Entsprechendes gilt für die Erlaubnis zur Ausübung einer vorbehaltenen Befugnis. Neue Befugnis und längere Laufzeit sind daher nicht gleichzusetzen. Absatz 3 knüpft daran eine angemessene Zusatzvergütung, wenn anzunehmen ist, dass der Veräußerer oder Erlaubnisgeber bei Kenntnis der verlängerten Dauer eine höhere Gegenleistung erzielt hätte. Nicht jede Altübertragung erzeugt ohne diese wirtschaftliche Voraussetzung einen pauschalen Zuschlag.
+
+Nach Absatz 4 entfällt der Anspruch, wenn der Erwerber alsbald nach Geltendmachung das Recht für die Verlängerungszeit zur Verfügung stellt oder der Erlaubnisnehmer für diese Zeit verzichtet. Maßgeblich ist die rechtzeitige Disposition über den zusätzlichen Zeitraum, nicht ein allgemeiner Verzicht auf das gesamte Verhältnis. Bei Weiterveräußerung vor dem Inkrafttreten beschränkt Satz 2 die Zahlung außerdem insoweit, wie sie den Erwerber nach den Weiterveräußerungsumständen unbillig belasten würde. Absatz 5 erstreckt nur Absatz 1 auf verwandte Schutzrechte, nicht ungeprüft alle Vergütungsregeln.
+
+Beispiel: Ein Verlag erwarb Rechte schon vor 1965. Für die längere Schutzdauer kann seine Lizenz nach Absatz 2 fortbestehen, obwohl neu eingeführte Befugnisse nach Absatz 1 im Zweifel nicht dazugehören. Fordert der frühere Berechtigte zusätzliche Vergütung, sind die hypothetische höhere Gegenleistung und gegebenenfalls die rechtzeitige Freigabe gerade der Verlängerungszeit getrennt zu prüfen.
 
 ### § 137a — Lichtbildwerke
 
@@ -152,9 +174,11 @@ Beispiel: Ein Verlag hat vor 1966 Rechte umfassend erworben. Der fortbestehende 
 >
 > (2) Ist vorher einem anderen ein Nutzungsrecht an einem Lichtbildwerk eingeräumt oder übertragen worden, so erstreckt sich die Einräumung oder Übertragung im Zweifel nicht auf den Zeitraum, um den die Dauer des Urheberrechts an Lichtbildwerken verlängert worden ist.
 
-Absatz 1 erstreckt die geänderte Schutzdauer auf Lichtbildwerke, die am 1. Juli 1985 noch geschützt waren. Absatz 2 nimmt den Verlängerungszeitraum im Zweifel aus früher vergebenen Nutzungsrechten aus. Werkrechtsschutz und Lizenzumfang können daher zeitlich auseinanderfallen. Ein damals bereits ungeschütztes Werk wird nicht allein durch diese Vorschrift wieder geschützt.
+Absatz 1 erstreckt das geänderte Schutzdauerrecht auf Lichtbildwerke, deren Schutzfrist nach dem bisherigen Recht am 1. Juli 1985 noch nicht abgelaufen war. Erforderlich sind deshalb Werkqualität und ein damaliger Restschutz. Die bloße Existenz einer Fotografie oder eines Abzugs zu diesem Zeitpunkt genügt nicht. Ein schon zuvor ungeschütztes Werk wird durch diese Vorschrift für sich genommen nicht wieder geschützt; spätere Sonderregeln wie § 137f bleiben gesondert zu prüfen.
 
-Beispiel: Ein Fotobandverlag besitzt eine vor dem Stichtag erteilte Lizenz. Auch wenn das Lichtbildwerk länger geschützt bleibt, folgt daraus nach dieser Zweifelsregel nicht automatisch die Lizenz für den gesamten zusätzlichen Zeitraum. Vertrag und damaliger Schutzstatus sind zu belegen.
+Absatz 2 beantwortet die andere Frage, wem die Nutzung im zusätzlichen Zeitraum zusteht. Bei zuvor eingeräumten oder übertragenen Nutzungsrechten ist die Verlängerungszeit im Zweifel gerade nicht mit eingeräumt. Das unterscheidet diese Regel von den einschließenden Zweifelsregeln der §§ 137 Abs. 2 und 137b Abs. 2. Schutzdauer des Rechts und zeitlicher Lizenzumfang können daher auseinanderfallen. Die Zweifelsregel ersetzt keine Auslegung eines eindeutigen Vertrags und begründet keinen automatischen neuen Vertrag mit dem bisherigen Nutzer.
+
+Beispiel: Ein Bildbandverlag besitzt eine alte Lizenz an einem am 1. Juli 1985 noch geschützten Lichtbildwerk. Dass der Werkrechtsschutz länger dauert, genügt nicht, um daraus die Lizenz für die zusätzliche Zeit abzuleiten. Kann der Verlag keine entsprechende Vertragsgrundlage nachweisen, muss er die Nutzung für diese Zeit gesondert klären; die Sachherrschaft über die Druckvorlage ändert daran nichts.
 
 ### § 137b — Bestimmte Ausgaben
 
@@ -166,9 +190,11 @@ Beispiel: Ein Fotobandverlag besitzt eine vor dem Stichtag erteilte Lizenz. Auch
 >
 > (3) Die Bestimmungen in § 137 Abs. 3 und 4 gelten entsprechend.
 
-Absatz 1 erfasst am 1. Juli 1990 noch geschützte wissenschaftliche Ausgaben und Ausgaben nachgelassener Werke. Anders als § 137a bezieht Absatz 2 die Verlängerungszeit im Zweifel in zuvor eingeräumte Nutzungsrechte ein. Absatz 3 übernimmt dazu die Vergütungs- und Rückgaberegeln des § 137 Abs. 3 und 4. Die unterschiedlichen Übergangsmodelle dürfen nicht verwechselt werden.
+Absatz 1 betrifft ausschließlich die Schutzdauer wissenschaftlicher Ausgaben nach § 70 und Ausgaben nachgelassener Werke nach § 71. Die jeweilige Ausgabe muss am 1. Juli 1990 nach bisherigem Recht noch geschützt gewesen sein. Übergangsrecht ersetzt weder die wissenschaftlich sichtende Leistung des § 70 noch die Voraussetzungen des § 71. Insbesondere sind ein altes Manuskript und eine geschützte Ausgabe dieses Manuskripts keine austauschbaren Schutzgegenstände.
 
-Beispiel: Eine alte kritische Ausgabe wurde vor dem Stichtag lizenziert und war damals noch geschützt. Der Verlag kann sich auf die besondere Zweifelsregel berufen; zugleich ist eine angemessene zusätzliche Beteiligung nach den verwiesenen Regeln zu prüfen.
+Für vor dem 1. Juli 1990 eingeräumte oder übertragene Nutzungsrechte bezieht Absatz 2 die zusätzliche Schutzzeit im Zweifel ein. Im Gegensatz zu § 137a Abs. 2 fällt sie daher nicht schon aufgrund einer gesetzlichen Zweifelsregel an den ursprünglichen Berechtigten zurück. Absatz 3 übernimmt aber § 137 Abs. 3 und 4 entsprechend: Ein wirtschaftlich begründeter Anspruch auf angemessene Zusatzvergütung, dessen Voraussetzungen und die Möglichkeit seiner Abwendung durch zeitnahe Rückgabe oder Verzicht gehören zusammen. Die Weiterveräußerungsgrenze ist mit der sachgerechten zeitlichen Anpassung mitzulesen.
+
+Beispiel: Eine wissenschaftliche Notenausgabe war am Stichtag noch geschützt und bereits exklusiv an einen Verlag lizenziert. Die Lizenz kann im Zweifel auch den Verlängerungszeitraum umfassen. Ob der Herausgeber zusätzliche Vergütung beanspruchen kann, hängt jedoch von den entsprechend anwendbaren wirtschaftlichen Voraussetzungen ab; weder die bloße Verlängerung noch die Höhe des heutigen Verkaufspreises ergibt schon einen festen Zuschlag.
 
 ### § 137c — Ausübende Künstler
 
@@ -180,9 +206,13 @@ Beispiel: Eine alte kritische Ausgabe wurde vor dem Stichtag lizenziert und war 
 >
 > (3) Die Bestimmungen in § 137 Abs. 3 und 4 gelten entsprechend.
 
-Absatz 1 regelt die historische Verlängerung für vor Juli 1990 aufgenommene Darbietungen anhand der am 1. Januar 1991 noch nicht abgelaufenen Fünfzigjahresspanne und besonderer Höchstgrenzen. Absatz 2 erstreckt ältere Lizenzen im Zweifel auf die Verlängerung; Absatz 3 übernimmt Vergütung und Rückgabe entsprechend § 137. Für eine heutige Fristberechnung sind spätere Regeln, insbesondere §§ 137f und 137m, mitzulesen. Die hier genannte historische Grenze darf nicht isoliert alle neueren Schutzverlängerungen verdrängen.
+§ 137c enthält eine historische Übergangsschicht des Künstlerschutzes. Absatz 1 erfasst vor dem 1. Juli 1990 auf Bild- oder Tonträger aufgenommene Darbietungen, wenn am 1. Januar 1991 seit dem Erscheinen noch keine fünfzig Jahre verstrichen waren. Für innerhalb der bezeichneten Frist nicht erschienene Träger wird auf die Darbietung zurückgegriffen. Aufnahmezeitpunkt, Erscheinenszeitpunkt und Zeitpunkt der Darbietung erfüllen also unterschiedliche Funktionen; sie dürfen in der Fristrechnung nicht durch ein einziges Archivdatum ersetzt werden.
 
-Beispiel: Ein Archiv prüft eine alte Tonaufnahme. Es benötigt Darbietungs-, Aufnahme- und Erscheinensdaten und muss die aufeinanderfolgenden Übergangsschichten dokumentieren.
+Satz 3 begrenzt den aus dieser Übergangsregel folgenden Schutz auf fünfzig Jahre nach dem Erscheinen, andernfalls nach der Darbietung. Für eine heutige Schutzprüfung ist damit nicht Schluss: Das weitere Schutzdauerrecht, insbesondere §§ 137f und 137m sowie § 82, kann eine andere spätere Beurteilung verlangen. Umgekehrt darf die heutige Siebzigjahresfrist für Tonträgerdarbietungen nicht ohne Prüfung ihrer Übergangsvoraussetzungen rückwirkend auf jede alte Aufnahme gelegt werden.
+
+Absatz 2 bezieht den Verlängerungszeitraum im Zweifel in vor dem 1. Juli 1990 eingeräumte oder übertragene Nutzungsrechte ein. Absatz 3 übernimmt dazu § 137 Abs. 3 und 4 mit bedingter Zusatzvergütung und der Möglichkeit, den Anspruch durch Freigabe der zusätzlichen Zeit abzuwenden. Diese Rechtekette betrifft die Darbietung; sie ersetzt nicht den gesonderten Tonträgerherstellerschutz.
+
+Beispiel: Ein Archiv will eine alte Konzertaufnahme veröffentlichen. Es ermittelt nicht nur das Aufnahmedatum, sondern auch Darbietung, damaliges Erscheinen und den Rechtsbestand an den späteren Übergangsstichtagen. Erst anschließend lässt sich beurteilen, ob Künstlerrechte noch bestehen und ob eine frühere Lizenz die jeweils zusätzliche Schutzzeit erfasst.
 
 ### § 137d — Computerprogramme
 
@@ -194,9 +224,13 @@ Beispiel: Ein Archiv prüft eine alte Tonaufnahme. Es benötigt Darbietungs-, Au
 >
 > (3) § 69a Absatz 5 ist in der am 7. Juni 2021 geltenden Fassung nur auf Verträge und Sachverhalte anzuwenden, die von diesem Tag an geschlossen werden oder entstehen.
 
-Absatz 1 erstreckt das Software-Sonderrecht auch auf vor dem 24. Juni 1993 geschaffene Programme, wahrt aber die bezeichnete Vermietungsausnahme für zuvor erworbene Exemplare. Absatz 2 wendet die zwingenden Vertragsgrenzen des § 69g Abs. 2 auch auf ältere Verträge an. Absatz 3 begrenzt dagegen die Fassung des § 69a Abs. 5 vom Juni 2021 auf ab diesem Tag geschlossene Verträge und entstandene Sachverhalte. Ein einheitliches „Altsoftwareprivileg“ lässt sich daraus nicht ableiten.
+Absatz 1 unterstellt auch vor dem 24. Juni 1993 geschaffene Computerprogramme dem Software-Sonderrecht des Teils 1 Abschnitt 8. Das ist kein allgemeines Altsoftwareprivileg und kein Ersatz für die Schutzvoraussetzungen des § 69a. Die Ausnahme im zweiten Satz betrifft allein das ausschließliche Vermietrecht nach § 69c Nr. 3: Ausgenommen sind konkrete Vervielfältigungsstücke, die ein Dritter vor dem 1. Januar 1993 zum Vermietzweck erworben hat. Erwerbszweck, Exemplar und Erwerbsdatum sind deshalb gesondert festzustellen. Eine spätere zusätzliche Kopie oder ein bloßer früherer Privatkauf fällt nicht allein wegen des Alters der Software darunter.
 
-Beispiel: Ein Unternehmen prüft einen Lizenzvertrag aus den frühen 1990er Jahren. Programmschaffung, Erwerb zur Vermietung und konkrete Klausel müssen jeweils der passenden Übergangsregel zugeordnet werden.
+Absatz 2 erstreckt § 69g Abs. 2 auch auf vor dem 24. Juni 1993 geschlossene Verträge. Die dort bezeichneten zwingenden Grenzen, etwa zu Sicherungskopien, Untersuchung und Dekompilierung, können folglich nicht pauschal mit dem Hinweis auf einen alten Lizenzvertrag verdrängt werden. Welche Klausel mit welcher gesetzlichen Befugnis kollidiert, bleibt einzeln zu prüfen.
+
+Absatz 3 zieht für § 69a Abs. 5 in der Fassung vom 7. Juni 2021 eine andere Grenze: Diese Fassung gilt nur für von diesem Tag an geschlossene Verträge und entstehende Sachverhalte. Der heutige Ausschluss bestimmter Urhebervertragsvorschriften darf daher nicht allein aufgrund von Absatz 1 jedem älteren Softwarevertrag unterlegt werden. Die nach Absatz 3 maßgebliche frühere Lage ist für einen konkreten Altfall gesondert zu ermitteln.
+
+Beispiel: Ein Unternehmen prüft eine Lizenz von 1992. Ob ein damals eigens zur Vermietung erworbenes Exemplar privilegiert ist, entscheidet Absatz 1; ob eine Klausel die gesetzlich zugelassene Untersuchung wirksam verbietet, verlangt die Prüfung von Absatz 2. Ein Vergütungsstreit über spätere Sachverhalte erfordert zusätzlich die zeitliche Zuordnung nach Absatz 3.
 
 ### § 137e — Übergangsregelung bei Umsetzung der Richtlinie 92/100/EWG
 
@@ -210,9 +244,13 @@ Beispiel: Ein Unternehmen prüft einen Lizenzvertrag aus den frühen 1990er Jahr
 >
 > (4) Hat ein Urheber vor dem 30. Juni 1995 ein ausschließliches Verbreitungsrecht eingeräumt, so gilt die Einräumung auch für das Vermietrecht. Hat ein ausübender Künstler vor diesem Zeitpunkt bei der Herstellung eines Filmwerkes mitgewirkt oder in die Benutzung seiner Darbietung zur Herstellung eines Filmwerkes eingewilligt, so gelten seine ausschließlichen Rechte als auf den Filmhersteller übertragen. Hat er vor diesem Zeitpunkt in die Aufnahme seiner Darbietung auf Tonträger und in die Vervielfältigung eingewilligt, so gilt die Einwilligung auch als Übertragung des Verbreitungsrechts, einschließlich der Vermietung.
 
-Absatz 1 übernimmt die neuen Regeln zum 30. Juni 1995 grundsätzlich für noch geschützte ältere Gegenstände. Absatz 2 fingiert für qualifiziert zuvor erworbene oder überlassene Exemplare die Vermietzustimmung gegen angemessene Vergütung und wahrt § 137d. Absatz 3 regelt einen besonderen davorliegenden Vermietungszeitraum. Absatz 4 erweitert bestimmte frühere Rechtevergaben und Künstlereinwilligungen auf die neuen Vertriebs- und Vermietbefugnisse. Es geht um historische Exemplar- und Vertragsbestände, nicht jede heutige Vermietung.
+Absatz 1 erstreckt die am 30. Juni 1995 in Kraft tretenden Vorschriften grundsätzlich auf früher geschaffene Werke, Darbietungen, Tonträger, Funksendungen und Filme, die an diesem Tag noch geschützt sind. Die Norm begründet für bereits ungeschützte Gegenstände nicht selbst ein Wiederaufleben. Ihre verschiedenen Absätze beantworten getrennt den Bestand der Rechte, die Vermietung bestimmter Exemplare und den Umfang früherer Rechtevergaben.
 
-Beispiel: Eine Videothek beruft sich auf alte Bestände. Erwerbsdatum, damalige Überlassung und spätere Vermietung sind nachzuweisen. Eine Zustimmungsgeltung bedeutet nicht automatisch Vergütungsfreiheit.
+Nach Absatz 2 gilt für vor dem Stichtag erworbene oder zum Vermietzweck einem Dritten überlassene Originale, Exemplare sowie Bild- oder Tonträger die Zustimmung der bezeichneten Vermietrechtsinhaber als erteilt. Der Vermieter schuldet ihnen trotzdem jeweils angemessene Vergütung. Für Urheber und ausübende Künstler werden § 27 Abs. 1 Satz 2 und 3, außerdem § 27 Abs. 3 entsprechend herangezogen. Die Zustimmungsfiktion darf daher nicht mit kostenloser Vermietung verwechselt werden. Die speziellere Software-Übergangsregel des § 137d bleibt unberührt. Absatz 3 ordnet eine entsprechende Vergütung auch für die bezeichneten Vermietungen zwischen dem 1. Juli 1994 und dem 30. Juni 1995 an.
+
+Absatz 4 unterscheidet drei frühere Dispositionen: Eine urheberseitige ausschließliche Verbreitungsrechtseinräumung umfasst auch das Vermietrecht; die bezeichnete Mitwirkung oder Einwilligung eines Künstlers bei einem Film führt zur fingierten Übertragung seiner ausschließlichen Rechte auf den Filmhersteller; seine Zustimmung zur Tonträgeraufnahme und Vervielfältigung gilt auch als Übertragung des Verbreitungsrechts einschließlich Vermietung. Die jeweiligen Tatsachen dürfen nicht durch die unspezifische Aussage ersetzt werden, ein Produzent habe „alle alten Rechte“ erhalten.
+
+Beispiel: Eine historische Videothek weist nach, bestimmte Videokassetten vor dem 30. Juni 1995 zum Vermieten erworben zu haben. Die gesetzlich als erteilt geltende Vermietzustimmung kann diese Exemplare erfassen. Vergütung, Zeitpunkt der Vermietungen und die Rechte der verschiedenen Berechtigten bleiben gleichwohl zu prüfen; später hinzugekaufte Kassetten sind nicht automatisch Altbestand.
 
 ### § 137f — Übergangsregelung bei Umsetzung der Richtlinie 93/98/EWG
 
@@ -226,9 +264,15 @@ Beispiel: Eine Videothek beruft sich auf alte Bestände. Erwerbsdatum, damalige 
 >
 > (4) Ist vor dem 1. Juli 1995 einem anderen ein Nutzungsrecht an einer nach diesem Gesetz noch geschützten Leistung eingeräumt oder übertragen worden, so erstreckt sich die Einräumung oder Übertragung im Zweifel auch auf den Zeitraum, um den die Schutzdauer verlängert worden ist. Im Fall des Satzes 1 ist eine angemessene Vergütung zu zahlen.
 
-Absatz 1 wahrt längere alte Fristen und erstreckt die Regeln ab Juli 1995 auf damals noch geschützte Gegenstände. Absatz 2 kann Schutz wiederaufleben lassen, wenn er in einem anderen EU-/EWR-Staat am Stichtag noch bestand. Absatz 3 weist wiederauflebende Rechte dem Urheber zu, schützt eine vorher begonnene Nutzung im vorgesehenen Rahmen und verlangt ab Juli 1995 angemessene Vergütung. Absatz 4 erstreckt frühere Lizenzen an noch geschützten Leistungen im Zweifel auf die Verlängerung gegen Vergütung.
+Absatz 1 verbindet Bestandsschutz und Schutzdauerangleichung: Würde die Fassung ab dem 1. Juli 1995 eine vorher entstandene Rechtsposition verkürzen, bleibt deren bisheriger Endtermin maßgeblich. Im Übrigen erfasst das neue Schutzdauerrecht auch damals noch bestehende Rechte. Absatz 2 eröffnet darüber hinaus Schutz über den Nachweis, dass der betreffende Gegenstand am 1. Juli 1995 in einem anderen EU-/EWR-Staat noch geschützt war; für die ausdrücklich aufgezählten verwandten Schutzrechte gilt dies entsprechend. Eine ungeprüfte Übertragung auf jede nationale Sonderleistung ist nicht zulässig.
 
-Beispiel: Ein Verlag hielt ein Werk in Deutschland für gemeinfrei. Für eine heutige Verwertung muss er gegebenenfalls den damaligen Schutz in einem anderen Mitgliedstaat prüfen. Ein historischer deutscher Fristablauf allein kann die Schutzfrage nicht abschließend beantworten.
+Dabei darf der Wortlaut „abgelaufen“ nicht so verstanden werden, dass vorheriger Schutz gerade in Deutschland stets Voraussetzung wäre. Der BGH erläutert in [Tarzan](cases/tarzan.md), Urteil vom 26. Februar 2014 – I ZR 49/13, Rn. 55–58, die unionsrechtliche Erstreckung auch ohne früheren Schutz im beanspruchten Staat und ohne Ausschluss allein wegen Drittstaatsangehörigkeit. Entscheidend bleibt der konkret nachgewiesene Schutzgegenstand am Stichtag. Zugleich zeigen Rn. 60–64 die Grenzen: Ein nur national beibehaltener längerer Altbestand wird nicht automatisch in alle anderen Mitgliedstaaten exportiert; ein anwendbarer Schutzfristenvergleich ist gesondert zu beachten. Das konkrete Tarzan-Werk blieb deshalb nicht allein aufgrund eines behaupteten längeren Auslandsschutzes bis 2020 geschützt.
+
+Absatz 3 weist wiederauflebende Rechte grundsätzlich dem Urheber beziehungsweise entsprechend dem Leistungsschutzberechtigten zu. Eine vor dem 1. Juli 1995 begonnene Nutzung darf nur im vorgesehenen Rahmen fortgesetzt werden; ab dem Stichtag ist angemessene Vergütung geschuldet. Weder ein beliebig ausgeweiteter späterer Vertrieb noch ein neuer Nutzer erhält damit eine allgemeine Freilizenz. Davon zu unterscheiden ist Absatz 4: Zuvor eingeräumte Rechte an einer damals noch geschützten Leistung umfassen im Zweifel die Verlängerungszeit, ebenfalls gegen angemessene Vergütung. Hier geht es um Lizenzfortbestand, nicht um die Zuordnung wiederauflebender Rechte.
+
+Beispiel: Ein Verlag druckte ein in Deutschland für frei gehaltenes Werk schon vor Juli 1995. Wird ein maßgeblicher damaliger Schutz im anderen Mitgliedstaat belegt, muss er den ursprünglichen Nutzungsrahmen und die Vergütung ab dem Stichtag prüfen. Er darf weder aus dem früheren deutschen Fristablauf sichere heutige Gemeinfreiheit noch aus einer längeren nationalen Auslandsfrist automatisch die gleiche deutsche Endfrist ableiten.
+
+Prüfliste für historische Schutzfristen: Schutzgegenstand und Berechtigten bestimmen; frühere Endfrist und maßgeblichen Stichtag belegen; Schutzgrund und Rechtsbestand im anderen Staat nachweisen; Schutzdauervergleich und besondere Altbestände gesondert prüfen; Wiederaufleben von bloßer Verlängerung unterscheiden; Lizenzumfang, Fortsetzungsrahmen und Vergütung getrennt dokumentieren.
 
 ### § 137g — Übergangsregelung bei Umsetzung der Richtlinie 96/9/EG
 
@@ -240,9 +284,13 @@ Beispiel: Ein Verlag hielt ein Werk in Deutschland für gemeinfrei. Für eine he
 >
 > (3) Die §§ 55a und 87e sind nicht auf Verträge anzuwenden, die vor dem 1. Januar 1998 abgeschlossen worden sind.
 
-Absatz 1 erstreckt die genannten Datenbankwerkregeln auf ältere Schöpfungen. Absatz 2 erfasst für das Herstellerrecht Datenbanken aus dem Zeitraum 1983 bis 1997 und setzt hierfür einen besonderen Fristbeginn am 1. Januar 1998. Absatz 3 nimmt vor 1998 geschlossene Verträge von §§ 55a und 87e aus. Die zeitliche Zuordnung betrifft damit Werk-, Investitions- und Vertragsrecht unterschiedlich.
+Die drei Absätze trennen Datenbankwerk, Datenbankherstellerrecht und Vertragsbestand. Absatz 1 erstreckt die ausdrücklich genannten Regeln über Bearbeitung, Vervielfältigung, Benutzung und Quellenangabe auf Datenbankwerke, die vor dem 1. Januar 1998 geschaffen wurden. Er macht eine unoriginelle Datensammlung nicht zum Werk; dafür bleibt § 4 Abs. 2 maßgeblich. Ebenso wenig werden durch die Verweisung auf einzelne Vorschriften sämtliche Datenbanknutzungen frei.
 
-Beispiel: Eine 1995 hergestellte Datensammlung wird auf altem Vertrag genutzt. Der besondere Fristbeginn und mögliche spätere neue Investitionen sind getrennt zu prüfen. Der alte Vertrag darf nicht ohne Weiteres nach den heutigen zwingenden Datenbankbenutzungsregeln beurteilt werden.
+Absatz 2 bezieht zwischen dem 1. Januar 1983 und dem 31. Dezember 1997 hergestellte Datenbanken in das Herstellerrecht nach Teil 2 Abschnitt 6 ein und setzt den Beginn dieser Schutzfrist auf den 1. Januar 1998. Die sachlichen Voraussetzungen des § 87a, insbesondere die wesentliche Investition, müssen trotzdem erfüllt sein. Der feste Übergangsbeginn verleiht dem alten Bestand keinen ewigen Schutz. Ob später eine in wesentlichen Punkten veränderte Datenbank aufgrund einer erneuten wesentlichen Investition eine eigene Schutzfrist erhält, richtet sich gesondert nach §§ 87a und 87d.
+
+Absatz 3 nimmt vor dem 1. Januar 1998 geschlossene Verträge von §§ 55a und 87e aus. Er behandelt damit die zeitliche Wirkung gerade dieser Benutzungs- und Vertragsgrenzen, nicht die generelle Wirksamkeit jeder alten Lizenzklausel und nicht den Ausschluss des neuen gesetzlichen Datenbankschutzes.
+
+Beispiel: Eine 1995 aufgebaute Fachbibliografie wird auf Grundlage eines Vertrags von 1997 genutzt. Der Hersteller muss die qualifizierte Investition und die zeitlich einschlägige Datenbankfassung nachweisen. Der Nutzer kann die heutigen Grenzen des § 87e nicht ohne Übergangsprüfung auf diesen Vertrag anwenden; umgekehrt genügt eine bloße laufende Aktualisierung nicht ohne Weiteres als Nachweis einer neuen Schutzfrist.
 
 ### § 137h — Übergangsregelung bei Umsetzung der Richtlinie 93/83/EWG
 
@@ -254,9 +302,13 @@ Beispiel: Eine 1995 hergestellte Datensammlung wird auf altem Vertrag genutzt. D
 >
 > (3) Die Vorschrift des § 20b Abs. 2 ist nur anzuwenden, sofern der Vertrag über die Einräumung des Kabelweitersenderechts nach dem 1. Juni 1998 geschlossen wurde.
 
-Absatz 1 verschiebt die Anwendung der Satellitenregel auf bestimmte vor Juni 1998 geschlossene und später auslaufende Verträge bis Januar 2000. Absatz 2 schützt qualifizierte ältere Koproduktionsverträge mit territorial oder sprachlich geteilten Senderechten vor beeinträchtigender Satellitenauswertung ohne Zustimmung. Absatz 3 bindet die bezeichnete zusätzliche Kabelvergütung an nach Juni 1998 geschlossene Rechteverträge. Die drei Absätze betreffen unterschiedliche Konfliktlagen.
+Absatz 1 verschiebt die Anwendung des § 20a auf vor dem 1. Juni 1998 geschlossene Verträge bis zum 1. Januar 2000, sofern die Verträge nach diesem Zeitpunkt ablaufen. Vertragsabschluss und Laufzeitende sind deshalb zwei getrennte Voraussetzungen. Es handelt sich um eine Anpassungsfrist für fortbestehende Vertragsbindungen, nicht um eine dauerhaft von § 20a ausgenommene Klasse alter Programme oder Satellitensignale.
 
-Beispiel: Zwei Produzenten haben vor dem Stichtag Senderegionen aufgeteilt. Eine Satellitensendung kann die Ausschließlichkeit des anderen beeinträchtigen. Das Herkunftslandprinzip allein beseitigt dann nicht die besondere Zustimmungsvoraussetzung des Absatzes 2.
+Absatz 2 schützt eine besondere Koproduktionslage. Erforderlich sind ein vor dem 1. Juni 1998 geschlossener Vertrag über die gemeinsame Herstellung eines Bild- oder Tonträgers, mindestens ein Hersteller aus EU oder EWR und eine räumliche Senderechtsaufteilung ohne Differenzierung zwischen Satelliten- und anderen Sendungen. Beeinträchtigt die Satellitensendung eines Herstellers die Auswertung räumlich oder sprachlich beschränkter ausschließlicher Rechte eines anderen, bedarf sie dessen Zustimmung. Die Zustimmungspflicht folgt nicht schon aus jeder internationalen Zusammenarbeit; umgekehrt beseitigt der einheitliche Sendeort nach § 20a nicht die speziell geschützte alte Rechteaufteilung.
+
+Absatz 3 begrenzt die Anwendung des § 20b Abs. 2 auf Verträge über die Einräumung des Kabelweitersenderechts, die nach dem 1. Juni 1998 geschlossen wurden. Der genaue Stichtag ist enger als die unpräzise Formulierung „nach Juni 1998“. Maßgeblich ist der bezeichnete Rechtevertrag, nicht allein der Beginn einer späteren Weitersendung.
+
+Beispiel: Zwei Produzenten haben 1997 Gebiete für eine gemeinsame Produktion exklusiv aufgeteilt, ohne Satellitenauswertung eigens zu regeln. Will einer durch Satellit auch das geschützte Auswertungsgebiet des anderen erreichen, sind alle Voraussetzungen des Absatzes 2 einschließlich der konkreten Beeinträchtigung zu prüfen. Eine bloße Berufung auf den Sendestaat genügt zur Rechteklärung nicht.
 
 ### § 137i — Übergangsregelung zum Gesetz zur Modernisierung des Schuldrechts
 
@@ -264,9 +316,11 @@ Beispiel: Zwei Produzenten haben vor dem Stichtag Senderegionen aufgeteilt. Eine
 
 > Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche findet mit der Maßgabe entsprechende Anwendung, dass § 26 Abs. 7, § 36 Abs. 2 und § 102 in der bis zum 1. Januar 2002 geltenden Fassung den Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung in der bis zum 1. Januar 2002 geltenden Fassung gleichgestellt sind.
 
-Die Norm bindet die bezeichneten früheren urheberrechtlichen Verjährungsregeln in die Übergangsregel des Art. 229 § 6 EGBGB ein. Sie enthält keine eigene pauschale neue Verjährungsfrist. Für Altansprüche sind deshalb alte Anspruchsgrundlage, Entstehungszeit und das verwiesene Übergangsrecht zu ermitteln. Eine konkrete Berechnung verlangt die verifizierte historische Fassung; aus dem heutigen Kurzverweis allein lässt sie sich nicht zuverlässig ableiten.
+§ 137i enthält keine eigenständige neue Verjährungsfrist. Die Vorschrift stellt vielmehr die früheren Verjährungsregeln der ausdrücklich genannten §§ 26 Abs. 7, 36 Abs. 2 und 102 den alten BGB-Verjährungsvorschriften gleich, damit Art. 229 § 6 EGBGB entsprechend angewendet werden kann. Die historischen Paragraphenzitate dürfen nicht durch die heutigen Inhalte derselben Nummern ersetzt werden.
 
-Beispiel: Ein Berechtigter untersucht einen schon vor 2002 entstandenen Anspruch. Er darf nicht lediglich die heutige Fassung des § 102 anwenden, sondern muss den zeitlichen Rechtswechsel und die von § 137i erfasste frühere Regel zuordnen.
+Der amtlich geprüfte Art. 229 § 6 EGBGB unterscheidet unter anderem die am 1. Januar 2002 bestehenden, noch unverjährten Ansprüche von bereits verjährten Ansprüchen. Für Vorgänge vor diesem Stichtag gelten die dort bezeichneten alten Regeln zu Beginn, Hemmung und Unterbrechung fort; Absatz 2 ordnet einen besonderen Übergang von Unterbrechung zu Hemmung an. Bei abweichender Fristdauer sind nach Absätzen 3 und 4 alte und neue Endtermine zu vergleichen. Eine kürzere neue Frist wird grundsätzlich vom 1. Januar 2002 gerechnet, doch kann die alte Frist früher enden. Daraus folgt weder ein einheitlicher Neubeginn aller Altansprüche noch das Wiederaufleben einer bereits verjährten Forderung. [Amtlicher Einzeltext und Fassungsnachweis](sources/review-p131-p137l/external-version-evidence.json) sind dokumentiert.
+
+Beispiel: Ein Berechtigter untersucht einen schon vor 2002 entstandenen Verletzungsanspruch. Er muss zuerst feststellen, ob dieser am Übergangstag noch unverjährt war, und dann die nach dem Verweis einschlägigen Fristläufe einschließlich etwaiger Hemmungs- oder Unterbrechungsvorgänge vergleichen. Die heutige Fassung des § 102 und das heutige Datum allein tragen keine konkrete Enddatumsberechnung; hierfür werden zusätzlich die fallbezogen maßgeblichen historischen Fassungen und Tatsachen benötigt.
 
 ### § 137j — Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2001/29/EG
 
@@ -280,9 +334,13 @@ Beispiel: Ein Berechtigter untersucht einen schon vor 2002 entstandenen Anspruch
 >
 > (4) Ist vor dem 13. September 2003 einem anderen ein Nutzungsrecht an einem nach diesem Gesetz noch geschützten Tonträger eingeräumt oder übertragen worden, so erstreckt sich, im Fall einer Verlängerung der Schutzdauer nach § 85 Abs. 3, die Einräumung oder Übertragung im Zweifel auch auf diesen Zeitraum. Im Fall des Satzes 1 ist eine angemessene Vergütung zu zahlen.
 
-Absatz 1 bestimmt den Beginn der Kennzeichnungspflicht für ab Dezember 2003 neu in Verkehr gebrachte Gegenstände. Absätze 2 und 3 behandeln die damalige Schutzdaueränderung für Tonträger anhand des Schutzbestands am 22. Dezember 2002 und weisen wiederauflebende Rechte dem Hersteller zu. Absatz 4 erstreckt ältere Lizenzen an noch geschützten Tonträgern im Zweifel auf die Verlängerung gegen angemessene Vergütung. Die Stichtage erfüllen unterschiedliche Funktionen.
+Absatz 1 bestimmt die zeitliche Anwendung der Kennzeichnung nach § 95d Abs. 1 für ab dem 1. Dezember 2003 neu in den Verkehr gebrachte Werke und andere Schutzgegenstände. Er betrifft damit die gesetzliche Information über technische Schutzmaßnahmen. Er ist weder eine rückwirkende Kennzeichnungspflicht für jeden zuvor ausgelieferten Bestand noch eine Ausnahme von sämtlichen Vorschriften über technische Schutzmaßnahmen; § 95d Abs. 2 hat zudem einen anderen Regelungsgegenstand.
 
-Beispiel: Ein Label prüft die Rechte an einer älteren Aufnahme. Der Schutzbestand am maßgeblichen Stichtag, ein mögliches Wiederaufleben und der Umfang der früheren Lizenz sind getrennt festzustellen; spätere Übergangsnormen bleiben mitzulesen.
+Absätze 2 und 3 betreffen dagegen das Tonträgerherstellerrecht. Das Schutzdauerrecht in der Fassung ab dem 13. September 2003 erfasst Rechte, deren Schutz am 22. Dezember 2002 noch nicht erloschen war. Kommt es dadurch zum Wiederaufleben, weist Absatz 3 die Rechte dem Hersteller zu. Der frühere Stichtag und der spätere Fassungsbeginn haben unterschiedliche Funktionen und dürfen nicht durch das Aufnahmedatum ersetzt werden. Die Rechte der Künstler sind nicht ohne Weiteres dieselbe Position wie das Herstellerrecht nach § 85.
+
+Absatz 4 behandelt vor dem 13. September 2003 eingeräumte oder übertragene Nutzungsrechte an damals noch geschützten Tonträgern. Bei Schutzdauerverlängerung nach § 85 Abs. 3 umfassen sie im Zweifel auch den zusätzlichen Zeitraum; dafür ist angemessene Vergütung geschuldet. Die Sonderzuordnung bei Wiederaufleben und die Fortgeltung einer alten Lizenz sind somit getrennte Prüfungsschritte. Für heutige Schutzfristen bleibt insbesondere § 137m zusätzlich zu beachten.
+
+Beispiel: Ein Label will eine alte Aufnahme neu vermarkten. Es ermittelt den Schutzbestand am 22. Dezember 2002 und die vor September 2003 vergebenen Rechte. Selbst wenn die Lizenz im Zweifel in eine zusätzliche Schutzzeit hineinreicht, folgt daraus keine Vergütungsfreiheit und noch keine Freigabe der gesonderten Künstlerrechte. Bei den neuen Exemplaren ist unabhängig davon die Kennzeichnungsfrage nach Absatz 1 zu prüfen.
 
 ### § 137k — (weggefallen)
 
@@ -292,9 +350,9 @@ Beispiel: Ein Label prüft die Rechte an einer älteren Aufnahme. Der Schutzbest
 
 *Amtlicher bzw. dokumentierter Quellenhinweis:* Das amtliche XML enthält hier keinen Vorschriftentext; der Wegfallvermerk stammt aus dem amtlichen Titel.
 
-Die Stelle ist weggefallen und besitzt keinen aktuellen materiellen Inhalt. Ihr Erhalt dokumentiert die amtliche Nummerierung. Eine heutige Nutzung darf nicht auf die bloße frühere Existenz dieser Übergangsregel gestützt werden.
+Die amtliche Stelle ist weggefallen und besitzt keinen aktuellen materiellen Inhalt. Ihr Erhalt dokumentiert die gesetzliche Nummerierung; aus dem leeren Platz lässt sich weder eine Erlaubnis noch eine Zahlungspflicht herleiten. Auch die frühere Funktion einer Übergangsbestimmung macht sie nicht zu einer fortgeltenden Grundlage für neue Vorgänge.
 
-Beispiel: Eine ältere Akte nennt § 137k bei einer Bildungsnutzung. Für den damaligen Vorgang ist die historische Fassung zu beschaffen; für eine neue Nutzung sind insbesondere die geltenden Bildungsregeln und ihr eigenes Übergangsrecht maßgeblich.
+Beispiel: Eine alte Akte nennt § 137k für eine damalige Bildungsnutzung. Zur Beurteilung dieses abgeschlossenen Vorgangs müssen historische Fassung und Anwendungszeitraum beschafft werden. Für eine neue Nutzung sind die geltenden Bildungsregeln und das einschlägige Übergangsrecht, insbesondere § 137o, zu prüfen. Die bloße Fundstelle der weggefallenen Vorschrift entscheidet keine der beiden Fragen.
 
 ### § 137l — Übergangsregelung für neue Nutzungsarten
 
@@ -310,9 +368,19 @@ Beispiel: Eine ältere Akte nennt § 137k bei einer Bildungsnutzung. Für den da
 >
 > (5) Der Urheber hat Anspruch auf eine gesonderte angemessene Vergütung, wenn der andere eine neue Art der Werknutzung nach Absatz 1 aufnimmt, die im Zeitpunkt des Vertragsschlusses noch unbekannt war. § 32 Abs. 2 und 4 gilt entsprechend. Der Anspruch kann nur durch eine Verwertungsgesellschaft geltend gemacht werden. Hat der Vertragspartner das Nutzungsrecht einem Dritten übertragen, haftet der Dritte mit der Aufnahme der neuen Art der Werknutzung für die Vergütung. Die Haftung des anderen entfällt.
 
-Absatz 1 fingiert für qualifizierte umfassende Exklusivverträge aus dem Zeitraum 1966 bis Anfang 2008 auch unbekannte Nutzungsrechte, sofern kein wirksamer Widerspruch vorliegt. Er unterscheidet die historische Jahresfrist von späteren Dreimonatsfristen und schützt zwischenzeitliche Drittvergaben. Absatz 2 behandelt vollständige Weiterübertragung und Auskunft über den Dritten. Absatz 3 nimmt ausdrückliche Zwischenvereinbarungen aus, Absatz 4 verbietet treuwidrige Blockade untrennbarer Gesamtheiten. Absatz 5 ordnet bei Aufnahme eine gesonderte, kollektiv geltend zu machende Vergütung und gegebenenfalls Dritthaftung an.
+§ 137l ermöglicht die Nutzung von Archivbeständen über eine gesetzliche Einräumungsfiktion. Absatz 1 setzt einen Vertrag zwischen dem 1. Januar 1966 und dem 1. Januar 2008 voraus, der alle wesentlichen Nutzungsrechte ausschließlich sowie räumlich und zeitlich unbegrenzt einräumt. Eine einzelne Drucklizenz, eine beschränkte Sendelizenz oder bloße Sachherrschaft über das Archiv genügt nicht. Ob die wesentlichen Rechte eingeräumt wurden, ist werk- und vertragsbezogen zu ermitteln. Ferner muss die jetzt beanspruchte Nutzungsart beim Vertragsschluss unbekannt gewesen sein; eine andere technische Ausführung einer schon bekannten Nutzung ist nicht ohne weitere Prüfung eine neue Nutzungsart.
 
-Beispiel: Ein Verlag will einen umfassenden Altvertrag digital auswerten. Vertragsbreite, Bekanntheit der Nutzungsart, Drittvergaben, Mitteilungen und Widerspruch sind zu belegen. Eine bloße alte Drucklizenz erfüllt die umfassende Ausgangsvoraussetzung nicht automatisch.
+Die Fiktion steht unter dem Widerspruchsvorbehalt. Für am 1. Januar 2008 bereits bekannte Nutzungsarten bestimmte Satz 2 eine historische Jahresfrist. Im Übrigen knüpft die Dreimonatsfrist an das Absenden der Mitteilung über die beabsichtigte neue Nutzung an die zuletzt bekannte Anschrift an, nicht erst an einen bewiesenen Zugang oder die tatsächliche Nutzungsaufnahme. Inhalt, Versanddatum und verwendete Anschrift sind deshalb festzuhalten. Bereits an Dritte eingeräumte, zwischenzeitlich bekannt gewordene Nutzungsrechte nimmt Satz 4 aus der Fiktion und dem Fristregime der Sätze 1 bis 3 aus.
+
+Absatz 2 behandelt den Dritten nur dann entsprechend wie den ursprünglichen Vertragspartner, wenn diesem sämtliche ursprünglich eingeräumten Nutzungsrechte übertragen wurden. Bei Widerspruch gegenüber dem ursprünglichen Vertragspartner schuldet dieser unverzüglich die erforderlichen Auskünfte über den Dritten. Nach Absatz 3 entfällt das Widerspruchsrecht bei ausdrücklicher Vereinbarung über die zwischenzeitlich bekannt gewordene Nutzungsart. Absatz 4 begrenzt die Ausübung bei Werkgesamtheiten durch Treu und Glauben, wenn eine angemessene Verwertung in der neuen Art nur unter Verwendung sämtlicher Beiträge möglich ist. Daraus folgt kein pauschaler Ausschluss jedes Filmurheberwiderspruchs.
+
+Absatz 5 gewährt erst mit Aufnahme der bezeichneten neuen Nutzung gesonderte angemessene Vergütung. § 32 Abs. 2 und 4 gilt entsprechend; geltend machen kann den Anspruch nur eine Verwertungsgesellschaft. Nach Übertragung des Nutzungsrechts haftet mit Aufnahme der neuen Nutzungsart der Dritte, während die Haftung des ursprünglichen Vertragspartners entfällt. Die Vergütungspflicht und die Frage, ob überhaupt ein Rechtserwerb fingiert wird, bleiben voneinander zu unterscheiden.
+
+Der [BVerfG-Beschluss vom 24. November 2009 – 1 BvR 213/08](cases/neue-nutzungsarten-verfassungsbeschwerde.md), Rn. 50–55 und 66–71, ist keine abschließende materielle Billigung jeder Anwendung. Die Verfassungsbeschwerde wurde als unzulässig nicht angenommen; gerade die Tatbestandsauslegung und die Auswirkungen des Gesamtgefüges sollten zunächst fachgerichtlich geklärt werden. Die dort wiedergegebenen Angriffe der Beschwerdeführer sind keine Feststellungen des Gerichts zur Verfassungswidrigkeit. Der Beschluss trägt auch nicht die Behauptung, seine 2009 bezeichneten Auslegungsfragen seien bis heute sämtlich ungeklärt.
+
+Beispiel: Ein Verlag möchte ein 1980 umfassend lizenziertes Werk in einer damals noch unbekannten Nutzungsart auswerten. Er prüft die Breite des Altvertrags, spätere Einzelvereinbarungen und Drittvergaben sowie den zum konkreten Bekanntwerdenszeitpunkt passenden Widerspruchsweg. Bei wirksamer Fiktion ist eine zusätzliche Vergütung kollektiv geltend zu machen; eine schmale ursprüngliche Buchlizenz wird nicht allein wegen ausgebliebenen Widerspruchs zum umfassenden Rechtepaket.
+
+Prüfliste für neue Nutzungsarten: Altvertragszeitraum und wesentliche Exklusivrechte nachweisen; damalige Unbekanntheit bestimmen; ausdrückliche Nachvereinbarungen und Drittvergaben abgleichen; richtige Widerspruchsfrist und Versandbeleg prüfen; vollständige Rechteweiterübertragung von Einzelvergaben unterscheiden; Interessenlage der Werkgesamtheit konkret begründen; Vergütungsbeginn und zuständige Verwertungsgesellschaft klären.
 
 ### § 137m — Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2011/77/EU
 

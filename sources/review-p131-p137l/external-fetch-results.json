@@ -1,0 +1,13 @@
+[
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/212/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T14:29:47.946243+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p131-p137l/egbgb-amendment.pdf",
+    "headers_path": "sources/review-p131-p137l/egbgb-amendment.headers",
+    "sha256": "77c58cd218a90fa601aab851ffb73544a3bce203d5352499395313754692ac43",
+    "bytes": 297442,
+    "expected_format": "pdf",
+    "expected_format_validated": true
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2009-10&Gericht=bgh&Seite=9&anz=322&nr=51188&pos=280",
+    "final_url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html",
+    "accessed_at": "2026-10-20T14:28:25.583419+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p131-p137l/tontraeger-ii.pdf",
+    "headers_path": "sources/review-p131-p137l/tontraeger-ii.pdf.headers",
+    "sha256": "4bd86f35a6141cc13ac66a3c2e9bc973368186caacdea0ffe792dcb5e766f717",
+    "bytes": 51650,
+    "expected_format": "pdf",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/11/rk20091124_1bvr021308.html",
+    "final_url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/11/rk20091124_1bvr021308.html",
+    "accessed_at": "2026-10-20T14:28:25.583784+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p131-p137l/neue-nutzungsarten.html",
+    "headers_path": "sources/review-p131-p137l/neue-nutzungsarten.html.headers",
+    "sha256": "28b7f152cf1e32350ee52a0a4c950b7df6c1e29f409215f10953414854a65724",
+    "bytes": 175933,
+    "expected_format": "html",
+    "expected_format_validated": false,
+    "validation_note": "Prüfung des Entscheidungscontainers statt empfindlichem Literalvergleich über HTML-Zeilenumbrüche; vollständige Entscheidung mit 76 Randnummern."
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgbeg/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/bgbeg/xml.zip",
+    "accessed_at": "2026-10-20T14:28:25.583878+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p131-p137l/egbgb.xml.zip",
+    "headers_path": "sources/review-p131-p137l/egbgb.xml.zip.headers",
+    "sha256": "ce71acfa170c0393285a12eaf96cf6ae518ee5b2ac74ccc67d4c50aae2b93b9b",
+    "bytes": 176700,
+    "expected_format": "zip",
+    "expected_format_validated": true
+  }
+]

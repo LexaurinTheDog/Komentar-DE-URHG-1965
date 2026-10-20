@@ -1,6 +1,6 @@
 {
   "stage": "bounded_review_complete",
-  "updated_at": "2026-10-20T14:24:45.501873+00:00",
+  "updated_at": "2026-10-20T14:38:29.565841+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -18,7 +18,7 @@
     "preflight_verified_at": "2026-10-20T14:24:45.501873+00:00",
     "coverage_report": "completeness-report.json",
     "source_integrity_checked_responses": 178,
-    "bounded_review_verified_at": "2026-10-20T14:24:45.501873+00:00",
+    "bounded_review_verified_at": "2026-10-20T14:38:29.565841+00:00",
     "source_integrity_mismatches": []
   },
   "total_units": 254,
@@ -26,7 +26,7 @@
   "paragraph_units": 253,
   "annex_units": 1,
   "chapters": 12,
-  "commentary_chars": 403385,
+  "commentary_chars": 426726,
   "case_law_sources": [
     {
       "court": "EuGH",
@@ -381,6 +381,20 @@
       "expected_format_validated": true,
       "full_judgment_paragraphs": 92,
       "read_scope": "Vollständige Lektüre; genauer Umfang in sources/review-p113-p130/case-local-agreement.json"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/11/rk20091124_1bvr021308.html",
+      "final_url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/11/rk20091124_1bvr021308.html",
+      "accessed_at": "2026-10-20T14:28:25.583784+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/neue-nutzungsarten.html",
+      "headers_path": "sources/review-p131-p137l/neue-nutzungsarten.html.headers",
+      "sha256": "28b7f152cf1e32350ee52a0a4c950b7df6c1e29f409215f10953414854a65724",
+      "bytes": 175933,
+      "expected_format": "html",
+      "expected_format_validated": false,
+      "validation_note": "Prüfung des Entscheidungscontainers statt empfindlichem Literalvergleich über HTML-Zeilenumbrüche; vollständige Entscheidung mit 76 Randnummern.",
+      "read_scope": "Vollständiger Entscheidungscontainer mit Rn. 1–76, Rubrum und Tenor. Keine materielle Vollbestätigung aus Nichtannahme abgeleitet."
     }
   ],
   "case_cards": [
@@ -407,7 +421,8 @@
     "cases/everytime-we-touch.md",
     "cases/elektronischer-pressespiegel-ii.md",
     "cases/tarzan.md",
-    "cases/kwantum.md"
+    "cases/kwantum.md",
+    "cases/neue-nutzungsarten-verfassungsbeschwerde.md"
   ],
   "validation_result": {
     "repo": "Komentar-DE-URHG-1965",
@@ -436,10 +451,10 @@
   "independent_second_pass_completed": false,
   "unresolved_blockers": [],
   "remaining_limitations": [
-    "Genau die 20 zugewiesenen Einheiten inhaltlich geprüft; 234 andere Kommentare unverändert. Zehn frühere Lose bewahrt, nicht erneut geprüft. Zusammen 220 verschiedene Einheiten dokumentiert; 34 bleiben für den zweiten Durchgang offen.",
-    "Selektive Rechtsprechung: BGH Tarzan mit Rn. 1–70 einschließlich Berichtigungshinweis und EuGH Kwantum mit Rn. 1–92 vollständig gelesen. Keine erschöpfende Folgeentscheidungsrecherche. Andere Kandidaten und im Urteil zitierte Entscheidungen nicht als selbständig vollständig gelesen ausgegeben.",
-    "Aktuelle amtliche Konsolidierung und letzte Verkündung erneut geprüft; kein historisches Vollarchiv und keine Garantie gegen noch nicht eingearbeitete Änderungen. Keine vollständige Länder-/Staatsvertragsmatrix oder Kommentierung anderer Rechtsordnungen; bei konkreten historischen Fällen zusätzliches Quellenstudium erforderlich.",
-    "Keine vollständige zweite Buchprüfung oder externe anwaltliche Freigabe. Technische Texttreue, Länge und Wiederholungsprüfung belegen keine abschließende juristische Richtigkeit."
+    "Genau die 20 zugewiesenen Einheiten vollständig geprüft, 234 andere Kommentare in diesem Arbeitsgang unverändert. Elf frühere Lose bewahrt; zusammen 240 verschiedene Einheiten dokumentiert und 14 für den zweiten Durchgang offen.",
+    "Selektive Rechtsprechung: BVerfG 1 BvR 213/08 Rn. 1–76 und BGH Tarzan Rn. 1–70 vollständig gelesen. Keine erschöpfende Folgeentscheidungsrecherche. Weitere Kandidaten und in Entscheidungen zitierte Urteile nicht als selbständig volltextgeprüft ausgegeben.",
+    "Aktueller amtlicher Konsolidierungsstand und letzte Änderung/Wirksamkeit geprüft; kein vollständiges historisches Fassungsarchiv oder Garantie gegen noch nicht eingearbeitete Änderungen. Die historischen Sachnormen für konkrete Altfälle sind zusätzlich zu ermitteln; keine Berechnung eines konkreten Altanspruchs.",
+    "Keine ganze zweite Buchprüfung, keine externe anwaltliche Freigabe. Technische Texttreue, Länge und Ähnlichkeitsprüfung ersetzen keine abschließende juristische Prüfung."
   ],
   "publication": false,
   "push": false,
@@ -461,60 +476,60 @@
     "bounded_corrected_units": 20,
     "unassigned_commentary_units_preserved": 234,
     "all_commented_units": 254,
-    "total_unique_units_with_recorded_bounded_reviews": 220,
-    "units_remaining_for_second_pass": 34
+    "total_unique_units_with_recorded_bounded_reviews": 240,
+    "units_remaining_for_second_pass": 14
   },
   "review_result": "review-result.json",
   "reviewed_ids": [
-    "p113",
-    "p114",
-    "p115",
-    "p116",
-    "p117",
-    "p118",
-    "p119",
-    "p120",
-    "p121",
-    "p122",
-    "p123",
-    "p124",
-    "p125",
-    "p126",
-    "p127",
-    "p127a",
-    "p127b",
-    "p128",
-    "p129",
-    "p130"
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p135a",
+    "p136",
+    "p137",
+    "p137a",
+    "p137b",
+    "p137c",
+    "p137d",
+    "p137e",
+    "p137f",
+    "p137g",
+    "p137h",
+    "p137i",
+    "p137j",
+    "p137k",
+    "p137l"
   ],
   "corrected_ids": [
-    "p113",
-    "p114",
-    "p115",
-    "p116",
-    "p117",
-    "p118",
-    "p119",
-    "p120",
-    "p121",
-    "p122",
-    "p123",
-    "p124",
-    "p125",
-    "p126",
-    "p127",
-    "p127a",
-    "p127b",
-    "p128",
-    "p129",
-    "p130"
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p135a",
+    "p136",
+    "p137",
+    "p137a",
+    "p137b",
+    "p137c",
+    "p137d",
+    "p137e",
+    "p137f",
+    "p137g",
+    "p137h",
+    "p137i",
+    "p137j",
+    "p137k",
+    "p137l"
   ],
   "whole_book_review_complete": false,
   "case_law_sources_reviewed_in_this_task": [
     "cases/tarzan.md",
-    "cases/kwantum.md"
+    "cases/neue-nutzungsarten-verfassungsbeschwerde.md"
   ],
-  "bounded_review_preservation": "sources/review-p113-p130/preservation.json",
+  "bounded_review_preservation": "sources/review-p131-p137l/preservation.json",
   "prior_validation": {
     "result": {
       "repo": "Komentar-DE-URHG-1965",

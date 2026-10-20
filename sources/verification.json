@@ -2045,6 +2045,121 @@
       "expected_format_validated": true,
       "format": "Official XML with law/case and identifier checks",
       "derived_from": "sources/review-p113-p130/kwantum-item-3"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgbeg/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/bgbeg/xml.zip",
+      "accessed_at": "2026-10-20T14:28:25.583878+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/egbgb.xml.zip",
+      "headers_path": "sources/review-p131-p137l/egbgb.xml.zip.headers",
+      "sha256": "ce71acfa170c0393285a12eaf96cf6ae518ee5b2ac74ccc67d4c50aae2b93b9b",
+      "bytes": 176700,
+      "expected_format": "zip",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/212/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T14:29:47.946243+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/egbgb-amendment.pdf",
+      "headers_path": "sources/review-p131-p137l/egbgb-amendment.headers",
+      "sha256": "77c58cd218a90fa601aab851ffb73544a3bce203d5352499395313754692ac43",
+      "bytes": 297442,
+      "expected_format": "pdf",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T14:27:36.678353+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/current.zip",
+      "headers_path": "sources/review-p131-p137l/current.zip.headers",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672,
+      "expected_format": "zip",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/index.html",
+      "accessed_at": "2026-10-20T14:27:36.678758+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/index.html",
+      "headers_path": "sources/review-p131-p137l/index.html.headers",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665,
+      "expected_format": "html",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "accessed_at": "2026-10-20T14:27:36.678844+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/full.html",
+      "headers_path": "sources/review-p131-p137l/full.html.headers",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217,
+      "expected_format": "html",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/UrhG.pdf",
+      "accessed_at": "2026-10-20T14:27:36.678902+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/current.pdf",
+      "headers_path": "sources/review-p131-p137l/current.pdf.headers",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416,
+      "expected_format": "pdf",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/157/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T14:27:36.678956+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/amendment.pdf",
+      "headers_path": "sources/review-p131-p137l/amendment.pdf.headers",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883,
+      "expected_format": "pdf",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T14:27:36.679008+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/aktuell.html",
+      "headers_path": "sources/review-p131-p137l/aktuell.html.headers",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210,
+      "expected_format": "html",
+      "expected_format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "accessed_at": "2026-10-20T14:27:36.678353+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "expected_format_validated": true,
+      "format": "Official XML with statute identifier check",
+      "derived_from": "sources/review-p131-p137l/current.zip"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgbeg/xml.zip",
+      "accessed_at": "2026-10-20T14:28:25.583878+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/egbgb.xml",
+      "sha256": "b494eb13d589b65cef649cf41f1123f0bd7e526a03e2a55c4d2776740367df18",
+      "expected_format_validated": true,
+      "format": "Official XML with statute identifier check",
+      "derived_from": "sources/review-p131-p137l/egbgb.xml.zip"
     }
   ],
   "version": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
@@ -3376,6 +3491,35 @@
       "expected_format_validated": false,
       "used_as_substantive_authority": false,
       "response_body_preserved": true
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2009-10&Gericht=bgh&Seite=9&anz=322&nr=51188&pos=280",
+      "final_url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html",
+      "accessed_at": "2026-10-20T14:28:25.583419+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/tontraeger-ii.pdf",
+      "headers_path": "sources/review-p131-p137l/tontraeger-ii.pdf.headers",
+      "sha256": "4bd86f35a6141cc13ac66a3c2e9bc973368186caacdea0ffe792dcb5e766f717",
+      "bytes": 51650,
+      "expected_format": "pdf",
+      "expected_format_validated": false,
+      "used_as_substantive_authority": false,
+      "response_body_preserved": true
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/11/rk20091124_1bvr021308.html",
+      "final_url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/11/rk20091124_1bvr021308.html",
+      "accessed_at": "2026-10-20T14:28:25.583784+00:00",
+      "http_status": 200,
+      "response_path": "sources/review-p131-p137l/neue-nutzungsarten.html",
+      "headers_path": "sources/review-p131-p137l/neue-nutzungsarten.html.headers",
+      "sha256": "28b7f152cf1e32350ee52a0a4c950b7df6c1e29f409215f10953414854a65724",
+      "bytes": 175933,
+      "expected_format": "html",
+      "expected_format_validated": false,
+      "validation_note": "Prüfung des Entscheidungscontainers statt empfindlichem Literalvergleich über HTML-Zeilenumbrüche; vollständige Entscheidung mit 76 Randnummern.",
+      "used_as_substantive_authority": false,
+      "response_body_preserved": true
     }
   ],
   "bounded_review_p53_p60b": {
@@ -3691,5 +3835,48 @@
     },
     "fetch_log": "sources/review-p113-p130/fetch-results.json",
     "case_checks": "sources/review-p113-p130/case-local-agreement.json"
+  },
+  "bounded_review_p131_p137l": {
+    "verified_at": "2026-10-20T14:38:29.565841+00:00",
+    "reviewed_ids": [
+      "p131",
+      "p132",
+      "p133",
+      "p134",
+      "p135",
+      "p135a",
+      "p136",
+      "p137",
+      "p137a",
+      "p137b",
+      "p137c",
+      "p137d",
+      "p137e",
+      "p137f",
+      "p137g",
+      "p137h",
+      "p137i",
+      "p137j",
+      "p137k",
+      "p137l"
+    ],
+    "current_xml_unchanged": true,
+    "version_evidence": {
+      "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
+      "promulgated": "2026-05-29",
+      "effective_from": "2026-05-30",
+      "commencement_article": "Art. 3: Tag nach der Verkündung",
+      "affected_units": [
+        "p54d",
+        "p87b"
+      ],
+      "assigned_units_affected_by_latest_amendment": [],
+      "evidence": "sources/review-p131-p137l/amendment.pdf",
+      "evidence_sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "check_scope": "Ursprünglicher Bearbeitungsbeginn 19.10.2026; frische amtliche Abrufe am 20.10.2026. XML, Voll-HTML, PDF, Inhaltsverzeichnis und Verkündung identisch zu gesicherten Quellen. Keine Wortlautänderung seit Aufnahme festgestellt. Aktualitätendienst ohne weiteren UrhG-Eintrag. Inkrafttreten aus Verkündung und Art. 3, nicht aus Abrufdatum abgeleitet; kein vollständiges Verkündungsarchiv oder Garantie gegen noch nicht eingearbeitete Änderungen."
+    },
+    "fetch_log": "sources/review-p131-p137l/fetch-results.json",
+    "case_checks": "sources/review-p131-p137l/case-local-agreement.json",
+    "external_version": "sources/review-p131-p137l/external-version-evidence.json"
   }
 }

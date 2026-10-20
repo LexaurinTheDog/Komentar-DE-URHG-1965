@@ -1,0 +1,45 @@
+{
+  "verified_at": "2026-10-20T14:38:29.565841+00:00",
+  "queries": [
+    "site.bundesgerichtshof.de \"137l\"",
+    "site.rechtsprechung-im-internet.de \"137l\"",
+    "site.rechtsprechung-im-internet.de \"137f\" \"Tonträger\"",
+    "site.curia.europa.eu \"C-240/07\" Urteil",
+    "\"I ZR 80/04\" \"2009\" \"pdf\" bundesgerichtshof"
+  ],
+  "method": "Selektive Websuche zur Entdeckung; direkte amtliche Antwortkörper und vorhandener nationaler Volltextkorpus zur materiellen Prüfung.",
+  "local_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+  "local_queries": [
+    "213/08",
+    "I ZR 80/04",
+    "I ZR 43/14",
+    "137l|137 l"
+  ],
+  "local_search_results": {
+    "relevant_bverfg_entry": false,
+    "tontraeger_ii_entry": false,
+    "identified_candidate": "I ZR 43/14, KORE304322016",
+    "rejected_text_matches": [
+      "JURE249031441",
+      "JURE259032091",
+      "MPRE134660964"
+    ],
+    "rejected_text_match_reason": "Sachfremde BPatG-Entscheidungen; keine materiellen Belege."
+  },
+  "accepted": [
+    "BVerfG 24.11.2009 1 BvR 213/08, Rn. 1–76",
+    "BGH 26.2.2014 I ZR 49/13, Rn. 1–70, erneut vollständig aus vorhandener amtlicher Quelle gelesen"
+  ],
+  "not_used": [
+    {
+      "candidate": "BGH 7.10.2009 I ZR 80/04",
+      "reason": "PDF-URL lieferte HTML einer Suchseite statt Entscheidung. Formatprüfung verworfen; kein eigener Volltextbeleg."
+    },
+    {
+      "candidate": "BGH I ZR 43/14 und EuGH C-240/07",
+      "reason": "Als Kandidaten und über amtliche Folgezitate ermittelt, nicht separat vollständig im Prüflos gelesen; keine selbständigen Fallkarten oder aus Snippets entnommenen Aussagen."
+    }
+  ],
+  "firecrawl": "Status geprüft; tatsächlicher Suchversuch mit Fehlermeldung Insufficient credits. Protokoll firecrawl-attempt.txt; keine erfolgreiche Extraktion und keine Einstellungsänderung.",
+  "limits": "Selektive Recherche, keine erschöpfende Rechtsprechungs- oder Folgeentscheidungsabdeckung. Für 18 andere Einheiten keine neue spezifische Volltextentscheidung ausgewählt; keine Aussage, dass keine Rechtsprechung existiert."
+}
