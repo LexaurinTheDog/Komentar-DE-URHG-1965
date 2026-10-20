@@ -1,0 +1,185 @@
+{
+  "verified_at": "2026-10-20T13:50:05.909269+00:00",
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/urhg/",
+  "fetch_log": "sources/review-p87k-p101/fetch-results.json",
+  "source_unchanged": true,
+  "xml_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+  "extracted_assigned_units_agree": true,
+  "reviewed_ids": [
+    "p87k",
+    "p88",
+    "p89",
+    "p90",
+    "p91",
+    "p92",
+    "p93",
+    "p94",
+    "p95",
+    "p95a",
+    "p95b",
+    "p95c",
+    "p95d",
+    "p96",
+    "p97",
+    "p97a",
+    "p98",
+    "p99",
+    "p100",
+    "p101"
+  ],
+  "version_evidence": {
+    "latest_change": "Zuletzt geändert durch Art. 2 G v. 26.5.2026 I Nr. 157",
+    "promulgated": "2026-05-29",
+    "effective_from": "2026-05-30",
+    "commencement_article": "Art. 3: Tag nach der Verkündung",
+    "affected_units": [
+      "p54d",
+      "p87b"
+    ],
+    "assigned_units_affected_by_latest_amendment": [],
+    "evidence": "sources/review-p87k-p101/amendment.pdf",
+    "evidence_sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+    "check_scope": "Gesetzesstichtag ist der ursprüngliche Bearbeitungsbeginn 19.10.2026. Erneuter Abruf amtlicher XML-, HTML- und PDF-Fassung, Inhaltsverzeichnis, Aktualitätendienst und letzter Verkündung am 20.10.2026. Inkrafttreten aus Art. 3 und Ausgabedatum, nicht aus Abrufzeit oder Konsolidierungslabel abgeleitet. Kein historisches Vollarchiv und keine Garantie gegen noch nicht eingearbeitete Änderungen."
+  },
+  "historical_versions_checked": {
+    "all_builddates": [
+      "20260529215505"
+    ],
+    "duplicate_versions_found": false,
+    "scope": "Aktuelle konsolidierte amtliche XML-Datei vollständig auf Mehrfachkennungen und unklassifizierte Normkörper geprüft; historische Datumsangaben in Übergangsrecht und Fußnoten sind keine daneben geltenden Fassungsdatensätze. Kein Vollarchiv aller seit 1965 geltenden Fassungen."
+  },
+  "annexes_checked": [
+    {
+      "id": "anlage",
+      "label": "Anlage (zu § 61a)",
+      "doknr": "BJNR012730965BJNE018706123",
+      "included": true,
+      "evidence_path": "sources/urhg.xml",
+      "evidence_sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "groups": [
+        {
+          "number": "1.",
+          "child_ids": [
+            "anlage/1/a",
+            "anlage/1/b",
+            "anlage/1/c",
+            "anlage/1/d",
+            "anlage/1/e"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)"
+          ]
+        },
+        {
+          "number": "2.",
+          "child_ids": [
+            "anlage/2/a",
+            "anlage/2/b",
+            "anlage/2/c",
+            "anlage/2/d",
+            "anlage/2/e"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)"
+          ]
+        },
+        {
+          "number": "3.",
+          "child_ids": [
+            "anlage/3/a",
+            "anlage/3/b",
+            "anlage/3/c"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)"
+          ]
+        },
+        {
+          "number": "4.",
+          "child_ids": [
+            "anlage/4/a",
+            "anlage/4/b",
+            "anlage/4/c",
+            "anlage/4/d",
+            "anlage/4/e",
+            "anlage/4/f",
+            "anlage/4/g",
+            "anlage/4/h"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)"
+          ]
+        },
+        {
+          "number": "5.",
+          "child_ids": [
+            "anlage/5/a",
+            "anlage/5/b",
+            "anlage/5/c",
+            "anlage/5/d",
+            "anlage/5/e"
+          ],
+          "letter_labels": [
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)"
+          ]
+        }
+      ],
+      "description": "Eine operative Anlage: fünf Quellengruppen; Buchstaben a–e, a–e, a–c, a–h und a–e. Fundstellenkommentar ist redaktioneller Hinweis, kein Tatbestand.",
+      "full_xml_text_agrees": true
+    }
+  ],
+  "eingangsformel_checked": {
+    "xml_record_present": false,
+    "html_heading_present": false,
+    "pdf_label_present": false,
+    "unclassified_operative_xml_records": [],
+    "disposition": "Keine Eingangsformel im amtlichen konsolidierten XML, im vollständigen HTML oder im GII-PDF ausgewiesen. Der einzige unbenannte XML-Datensatz enthält ausschließlich Metadaten und Fußnoten, keinen Normkörper. Keine historische Formel aus Erinnerung ergänzt.",
+    "evidence_paths": [
+      "sources/urhg.xml",
+      "sources/review-p87k-p101/full.html",
+      "sources/review-p87k-p101/current.txt"
+    ]
+  },
+  "coverage": {
+    "expected_count": 254,
+    "parsed_count": 254,
+    "missing": [],
+    "duplicates": [],
+    "unexpected": [],
+    "independent_xml_text_agreement": true,
+    "report": "completeness-report.json"
+  },
+  "fresh_xml_classification": {
+    "law_metadata_and_editorial_notes": 1,
+    "table_of_contents": 1,
+    "structure": 51,
+    "statutory_unit": 253,
+    "annex": 1
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Nur Quellen-/Parser-Preflight aller amtlichen Datensätze; inhaltlicher zweiter Durchgang ausschließlich für die 20 zugewiesenen Einheiten."
+  ]
+}

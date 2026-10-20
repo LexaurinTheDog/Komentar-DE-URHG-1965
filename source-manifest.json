@@ -1,6 +1,6 @@
 {
   "algorithm": "SHA-256",
-  "generated_at": "2026-10-20T13:37:03.379871+00:00",
+  "generated_at": "2026-10-20T13:51:56.012869+00:00",
   "sources": [
     {
       "path": "sources/aktualitaet.headers",
@@ -2128,6 +2128,281 @@
       "bytes": 53942
     },
     {
+      "path": "sources/review-p87k-p101/aktuell.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/review-p87k-p101/aktuell.html.headers",
+      "sha256": "1cf330f0ef0d11462579f64cc8112370847879aa5e09207f441ec4bea0637cf7",
+      "bytes": 324
+    },
+    {
+      "path": "sources/review-p87k-p101/alles-full.txt",
+      "sha256": "a4f08046fef36c8a838bd8ff0ca979d6fb8208d155bdc2fa459e299741ea6891",
+      "bytes": 56433
+    },
+    {
+      "path": "sources/review-p87k-p101/alles-intake.md",
+      "sha256": "e0214a9517087887a7a32e684c51d4ffddb98b8be5e492d5d30c6cb5b4e60aad",
+      "bytes": 44896
+    },
+    {
+      "path": "sources/review-p87k-p101/alles-paragraphs.txt",
+      "sha256": "1a163d7734e22625824ae426adf5b8b4625ce9bdac50acd717f101af3e6a1b92",
+      "bytes": 42305
+    },
+    {
+      "path": "sources/review-p87k-p101/alles-read.txt",
+      "sha256": "ffc80f99a5ee2aa01b8a2e7f9c934c8d1435a950af31a695d6fc8f5284695f37",
+      "bytes": 42152
+    },
+    {
+      "path": "sources/review-p87k-p101/alles.xml",
+      "sha256": "2573e01600e82c69a08c423ee5e01e7a5c4a07cc47db4baef5e815794b7dcc75",
+      "bytes": 62820
+    },
+    {
+      "path": "sources/review-p87k-p101/alles.zip",
+      "sha256": "b477493076c829127b137573e77fecb97b8cb272d54d8a4a31210e43eb060ca0",
+      "bytes": 13631
+    },
+    {
+      "path": "sources/review-p87k-p101/alles.zip.headers",
+      "sha256": "cc6887b2f5919b0a8847295b0d35bef7d0768a9d222aadc5f3d7929107bc2dcd",
+      "bytes": 3026
+    },
+    {
+      "path": "sources/review-p87k-p101/amendment.pdf",
+      "sha256": "a0faceae54ed404d4b20ea2f75060aef4678718e59b7b94bb3dda1b83a76882a",
+      "bytes": 336883
+    },
+    {
+      "path": "sources/review-p87k-p101/amendment.pdf.headers",
+      "sha256": "e4580e49523d22d8a479ccad1e9cd6d417cd6eb2980be6105a9b193bf4974090",
+      "bytes": 1018
+    },
+    {
+      "path": "sources/review-p87k-p101/amendment.txt",
+      "sha256": "330ec58cb454a226cdb04ba26c8da212f4d84f34af5c7c9b5adcb87dcd7dcef7",
+      "bytes": 31271
+    },
+    {
+      "path": "sources/review-p87k-p101/baseline-commit.txt",
+      "sha256": "58847ea22d7d5e631d2b3b911574a9b2e2eb4519c0ffb48a4e5b325aa3f15965",
+      "bytes": 41
+    },
+    {
+      "path": "sources/review-p87k-p101/case-fetch-results.json",
+      "sha256": "86034d5a274b5812db722b0c4cec7a45c8c944fb7cba7950ee8930f4aea4f5f5",
+      "bytes": 2886
+    },
+    {
+      "path": "sources/review-p87k-p101/case-local-agreement.json",
+      "sha256": "daa90f0fcd938b742f56b54a56a8367c0ba5723ed228e83f31505e69eadec58e",
+      "bytes": 5125
+    },
+    {
+      "path": "sources/review-p87k-p101/constantin.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p87k-p101/constantin.html.headers",
+      "sha256": "5d972c2230ffa4c1bacbdc71f88ca2c3566f3cf78815d02e3bc6e8baf9e938ea",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p87k-p101/current.pdf",
+      "sha256": "a9ae29d4ac8c728cd5c57acdf73280d32850f0792103c89d3b0a9c42e70e6bd7",
+      "bytes": 413416
+    },
+    {
+      "path": "sources/review-p87k-p101/current.pdf.headers",
+      "sha256": "bcc7df26f5ccd1cbfaa0325745f25fbc6e78da1b5b296b5d7b73367b641a906d",
+      "bytes": 309
+    },
+    {
+      "path": "sources/review-p87k-p101/current.txt",
+      "sha256": "540571a1ae026695c3f587befbe120940e9c7dc0f3b95a807f7c8ad6fdbb51d6",
+      "bytes": 280366
+    },
+    {
+      "path": "sources/review-p87k-p101/current.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "bytes": 401221
+    },
+    {
+      "path": "sources/review-p87k-p101/current.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672
+    },
+    {
+      "path": "sources/review-p87k-p101/current.zip.headers",
+      "sha256": "d6db039c944cebcc998cfc4592bfd535db7c1fe9209a5d1a8431de19758c7421",
+      "bytes": 308
+    },
+    {
+      "path": "sources/review-p87k-p101/extra-case-fetch-results.json",
+      "sha256": "a10e41c76379454d64275a75390f09f86e27de8374ffb19b33fdb5194041e247",
+      "bytes": 1923
+    },
+    {
+      "path": "sources/review-p87k-p101/fetch-results.json",
+      "sha256": "3b38e02b4339c25c25d0917cb5e9f06032a5ac5e65592d236595cee589b5b91b",
+      "bytes": 3225
+    },
+    {
+      "path": "sources/review-p87k-p101/full.html",
+      "sha256": "eca2f4b193ec6605827f807d0555bea124c05892aee33fdb661611425d8c474f",
+      "bytes": 464217
+    },
+    {
+      "path": "sources/review-p87k-p101/full.html.headers",
+      "sha256": "bb8f149b57ad28cd2b3358fb653aa7459388b21c22e48f3666ee86d71811cf01",
+      "bytes": 325
+    },
+    {
+      "path": "sources/review-p87k-p101/index.html",
+      "sha256": "07f70c97e536ebba5b6e73b9617c007be01c3d1432d1c4e1587f665e8332593b",
+      "bytes": 58665
+    },
+    {
+      "path": "sources/review-p87k-p101/index.html.headers",
+      "sha256": "362ce29e2cf9743d2a14d55ec7e26ac0e2e80ff5b1030f61ddaf95bb16e6f967",
+      "bytes": 323
+    },
+    {
+      "path": "sources/review-p87k-p101/luksan-cellar.html",
+      "sha256": "6e311c22201d483e51832303e138b79a400213d8746bd3f9566486a45e16c744",
+      "bytes": 2038389
+    },
+    {
+      "path": "sources/review-p87k-p101/luksan-cellar.html.headers",
+      "sha256": "7ce2a8e59ca55d86feebfd9360220d9f29f76d0142af6d5ed484f92030d66716",
+      "bytes": 301
+    },
+    {
+      "path": "sources/review-p87k-p101/luksan-cellar.txt",
+      "sha256": "1ec46715d6f7d4ae35107f4e7440cea23cc849980302fcf3309d2d44e1ece3a6",
+      "bytes": 424404
+    },
+    {
+      "path": "sources/review-p87k-p101/luksan-de.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p87k-p101/luksan-de.html.headers",
+      "sha256": "77ff82ddaf5d07f4a2c7ae9e0dff96d2efa7b3f6eb0d5ad4d3d63c9171ea9180",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p87k-p101/luksan.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p87k-p101/luksan.html.headers",
+      "sha256": "5396397bb06a0bec16813bd21d009adca54f8240fa3fa5ac5617ccf260d98eb1",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p87k-p101/nintendo-bgh-full.txt",
+      "sha256": "246b6f205ff8353642356135999b811347bde25631f8c3ff2a911922c913d749",
+      "bytes": 104746
+    },
+    {
+      "path": "sources/review-p87k-p101/nintendo-bgh-intake.md",
+      "sha256": "4233693d413d74a889ee2f9a2529e5e4322421f16e5e55103de4c4fcec86ec08",
+      "bytes": 81276
+    },
+    {
+      "path": "sources/review-p87k-p101/nintendo-bgh-paragraphs.txt",
+      "sha256": "85b43ff66dde67d27990bce17d76b374253de7aeecd0df5b9114974aa5875bed",
+      "bytes": 76939
+    },
+    {
+      "path": "sources/review-p87k-p101/nintendo-bgh-read.txt",
+      "sha256": "e0903a789d4895eb9a8c008f4741f06979c53670c6e20ea63c88d810ba047dad",
+      "bytes": 76604
+    },
+    {
+      "path": "sources/review-p87k-p101/nintendo-bgh.xml",
+      "sha256": "48a43fa456e4e99a2bfbba4a869ce301bcf5d00f43e58b2ddc7a38d85fb18125",
+      "bytes": 117731
+    },
+    {
+      "path": "sources/review-p87k-p101/nintendo-bgh.zip",
+      "sha256": "860c8d0827a0bad0933af58969f27c213baeec94ebf4279119788ec7b09a4407",
+      "bytes": 24532
+    },
+    {
+      "path": "sources/review-p87k-p101/nintendo-bgh.zip.headers",
+      "sha256": "5da8585c852837986d635f0d086c8737afb8b10fbc097c9b71de6cca089be3b1",
+      "bytes": 3026
+    },
+    {
+      "path": "sources/review-p87k-p101/nintendo-eu.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/review-p87k-p101/nintendo-eu.html.headers",
+      "sha256": "2298e234cac0edc361df75fde9912f05414a594baf6cef9640e9a6cdaa2b8500",
+      "bytes": 546
+    },
+    {
+      "path": "sources/review-p87k-p101/preflight-evidence.json",
+      "sha256": "313aef08be8ddbe9196f970e4e25221069bc7c7fc39d38c71b43f81eab437abd",
+      "bytes": 5489
+    },
+    {
+      "path": "sources/review-p87k-p101/preservation.json",
+      "sha256": "3bb1d99d4304d24c830494d9be109c062aaa2fdc3d0c7f8cdbe0de6a9ea8332f",
+      "bytes": 22269
+    },
+    {
+      "path": "sources/review-p87k-p101/previous-review-p79a-p87j.json",
+      "sha256": "efabc3fc065a83c40fd053548303e9f33b2be3b5ad30ef38e8e0d90d5fedf151",
+      "bytes": 27071
+    },
+    {
+      "path": "sources/review-p87k-p101/search-log.json",
+      "sha256": "a53fbd39437994957b02e72c724e133002b465cd6d6586fb142dac6cd2a06eba",
+      "bytes": 2294
+    },
+    {
+      "path": "sources/review-p87k-p101/youtube-bgh-intake.md",
+      "sha256": "2d063025e677d74ebade1692470c5ae31177590a767aac52e401e3fd94e02775",
+      "bytes": 31559
+    },
+    {
+      "path": "sources/review-p87k-p101/youtube-bgh-paragraphs.txt",
+      "sha256": "55bc3e57c1f4fbfd120ea99cdafd0b38ebaed41ab96619746f7e644868a861b5",
+      "bytes": 29590
+    },
+    {
+      "path": "sources/review-p87k-p101/youtube-bgh-read.txt",
+      "sha256": "29bcb58ee202e299ef71502a5d28515e3d0a5615744b6072b222dc8a991fc25b",
+      "bytes": 29480
+    },
+    {
+      "path": "sources/review-p87k-p101/youtube-bgh.xml",
+      "sha256": "37e135331417836988513a61f55843d1aad2c05fa7e59025b3acae221383edaa",
+      "bytes": 49418
+    },
+    {
+      "path": "sources/review-p87k-p101/youtube-bgh.zip",
+      "sha256": "52a1cb55d6ea78b9ae6f625573e3c9e10ae9b220b83142eb62640c978e7cfd43",
+      "bytes": 11116
+    },
+    {
+      "path": "sources/review-p87k-p101/youtube-bgh.zip.headers",
+      "sha256": "e637563854fbc6b2a6e4dfe25590dc3649e868301fe921febbc3297fe61f15a6",
+      "bytes": 3026
+    },
+    {
       "path": "sources/search-log.json",
       "sha256": "76a3f59a7e5a842126814465eb1c360391c863189d48c3166c5f697a8021ef99",
       "bytes": 15555
@@ -2204,8 +2479,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "98baa58e317e34d69eaa88dc6346cb9cf61ef5d52f138faaf45c03eaf71562c2",
-      "bytes": 109193
+      "sha256": "1710077968d00631b29151b5f21dff464a14c73214d6abc984462bac824b841a",
+      "bytes": 121659
     },
     {
       "path": "sources/verify-sources.py",

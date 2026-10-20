@@ -1,0 +1,176 @@
+---
+source: rechtsprechung-im-internet
+country: de
+document_type: decision
+court: BGH
+chamber: 1. Zivilsenat
+ecli: ECLI:DE:BGH:2020:101220UIZR153.17.0
+doknr: KORE300042021
+case_number: I ZR 153/17
+date: '2020-12-10'
+decision_type: Urteil
+norms: Art 8 Abs 2 Buchst a EGRL 48/2004, § 19a UrhG, § 101 Abs 2 Nr 3 UrhG, § 101
+  Abs 3 Nr 1 UrhG, § 242 BGB
+prior_instance: 'vorgehend EuGH, 9. Juli 2020, Az: C-264/19, Urteil
+
+
+  vorgehend BGH, 21. Februar 2019, Az: I ZR 153/17, EuGH-Vorlage
+
+
+  vorgehend OLG Frankfurt, 22. August 2017, Az: 11 U 71/16, Urteil
+
+
+  vorgehend LG Frankfurt, 3. Mai 2016, Az: 2-3 O 476/13, Urteil'
+source_url: https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE300042021
+download_url: https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300042021.zip
+chars: 29911
+license: amtliches Werk (§ 5 UrhG)
+retrieved_at: '2026-10-03T13:55:32Z'
+---
+
+# BGH I ZR 153/17 (2020-12-10)
+
+- **Gericht:** BGH 1. Zivilsenat
+- **Datum:** 2020-12-10
+- **Aktenzeichen:** I ZR 153/17
+- **ECLI:** ECLI:DE:BGH:2020:101220UIZR153.17.0
+- **Dokumenttyp:** Urteil
+- **Normen:** Art 8 Abs 2 Buchst a EGRL 48/2004, § 19a UrhG, § 101 Abs 2 Nr 3 UrhG, § 101 Abs 3 Nr 1 UrhG, § 242 BGB
+
+## Titelzeile
+
+Urheberrechtsverletzung im Internet: Umfang des Anspruchs auf Drittauskunft gegen den Betreiber einer Internet-Videoplattform im Zusammenhang mit Filesharing an Filmwerken - YouTube-Drittauskunft II
+
+## Leitsatz
+
+YouTube-Drittauskunft II
+
+Der Auskunftsanspruch über "Namen und Anschrift" im Sinne des § 101 Abs. 3 Nr. 1 UrhG schließt die Auskunft über die E-Mail-Adressen und Telefonnummern der Nutzer der Dienstleistungen nicht ein. Er umfasst auch nicht die Auskunft über die für das Hochladen rechtsverletzender Dateien verwendeten IP-Adressen oder die von den Nutzern der Dienstleistungen zuletzt für einen Zugriff auf ihr Benutzerkonto verwendeten IP-Adressen.
+
+## Tenor
+
+Auf die Revision der Beklagten wird unter Zurückweisung der Revision der Klägerin das Urteil des 11. Zivilsenats des Oberlandesgerichts Frankfurt am Main vom 22. August 2017 im Kostenpunkt und insoweit aufgehoben, als zum Nachteil der Beklagten erkannt worden ist.
+
+Die Berufung der Klägerin gegen das Urteil des Landgerichts Frankfurt am Main - 3. Zivilkammer - vom 3. Mai 2016 wird auch im Umfang der Aufhebung zurückgewiesen.
+
+Die Klägerin hat die Kosten der Rechtsmittel zu tragen.
+
+Von Rechts wegen
+
+## Tatbestand
+
+1 Die Klägerin ist eine in der Bundesrepublik Deutschland tätige Filmverwerterin und macht exklusive Nutzungsrechte an den Filmwerken "P. " und "S. " geltend. Die Beklagte zu 1 betreibt die Internetplattform "YouTube", auf die Videodateien hochgeladen und anderen Internetnutzern zugänglich gemacht werden können. Die Beklagte zu 2 ist die Muttergesellschaft der Beklagten zu 1 und Inhaberin der von der Beklagten zu 1 für die Internetplattform genutzten Domains. Werden Videos auf die Internetplattform "YouTube" hochgeladen, müssen sich die Nutzer zuvor mit einem "Google-Nutzerkonto" bei der Beklagten zu 2 registrieren und dabei einen Namen, eine E-Mail-Adresse und ein Geburtsdatum angeben. Um Videos von mehr als 15 Minuten Länge auf der Plattform zu veröffentlichen, muss außerdem eine Mobiltelefonnummer angegeben werden, an die ein Freischaltcode übermittelt wird, der für die Veröffentlichung benötigt wird. Nach den gemeinsamen Nutzungs- und Datenschutzbedingungen der Beklagten willigen die Nutzer der Plattform in die Speicherung von Serverprotokollen einschließlich der IP-Adresse, des Datums und der Uhrzeit der Nutzung sowie der einzelnen Anfragen und in die konzernweite Nutzung dieser Daten ein.
+
+2 Am 29. Juni 2013 wurde unter dem Nutzernamen "sc. " das Filmwerk "P. " in vollständiger Länge und deutscher Sprache auf die Internetplattform der Beklagten zu 1 hochgeladen und bis zur Sperrung am 14. August 2013 über 45.000 Mal abgerufen. Unter dem Nutzernamen "w. " wurde im September 2013 das Filmwerk "S. " in vollständiger Länge hochgeladen und bis zur Sperrung am 29. Oktober 2013 über 6.000 Mal abgerufen. Außerdem wurde eine Kopie dieses Filmwerks am 10. September 2014 unter dem Nutzernamen "U. " erneut hochgeladen und bis zur Sperrung am 21. September 2014 über 4.700 Mal abgerufen.
+
+3 Die Klägerin verlangt von den Beklagten Auskunft. Nachdem die Parteien den Rechtsstreit in erster Instanz hinsichtlich der Auskünfte über die Namen und postalischen Anschriften der Nutzer übereinstimmend für erledigt erklärt haben, beantragt die Klägerin, die Beklagten zu verurteilen, ihr über die nach den Uploads und den zugehörigen Internetadressen näher bezeichneten Nutzer "sc. ", "w. " und "U. " Auskunft zu erteilen, und zwar durch Angabe jeweils der folgenden, bei den Beklagten gespeicherten Daten:
+
+c) E-Mail-Adresse des Nutzers,
+
+d) Telefonnummer des Nutzers,
+
+e) IP-Adresse, die von dem Nutzer für das Hochladen der Datei verwendet wurde, nebst genauem Zeitpunkt des Hochladens unter Angabe des Datums und der Uhrzeit, inklusive Minuten, Sekunden und Zeitzone (Uploadzeitpunkt),
+
+f) IP-Adresse, die von dem Nutzer zuletzt für einen Zugriff auf sein Google-/YouTube-Benutzerkonto verwendet wurde, nebst genauem Zeitpunkt des Zugriffs unter Angabe des Datums und der Uhrzeit, inklusive Minuten, Sekunden und Zeitzone (Zugriffszeitpunkt).
+
+4 Das Landgericht (LG Frankfurt am Main, GRUR-RR 2017, 3) hat die Klage abgewiesen. Auf die Berufung der Klägerin hat das Berufungsgericht (OLG Frankfurt am Main, GRUR 2017, 1116) unter Zurückweisung der weitergehenden Berufung die Beklagten zur beantragten Auskunft über die jeweilige E-Mail-Adresse der Nutzer verurteilt und die Revision zugelassen. Die Klägerin verfolgt mit der Revision ihre Klageanträge auf Verurteilung zur Auskunft über Telefonnummern und IP-Adressen der Nutzer weiter. Die Beklagten erstreben mit ihrer Revision die vollständige Abweisung der Klage. Die Parteien beantragen jeweils, das Rechtsmittel der Gegenseite zurückzuweisen.
+
+5 Der Senat hat dem Gerichtshof der Europäischen Union zur Auslegung von Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG des Europäischen Parlaments und des Rates vom 29. April 2004 zur Durchsetzung der Rechte des geistigen Eigentums (ABl. L 157 vom 30. April 2004, S. 45) folgende Fragen zur Vorabentscheidung vorgelegt (BGH, Beschluss vom 21. Februar 2019 - I ZR 153/17, GRUR 2019, 504 = WRP 2019, 627 - YouTube-Drittauskunft I):
+
+1. Umfassen die in Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG genannten Adressen der Hersteller, Erzeuger, Vertreiber, Lieferer und anderer Vorbesitzer der Waren oder Dienstleistungen sowie der gewerblichen Abnehmer und Verkaufsstellen, auf die sich die Auskünfte nach Art. 8 Abs. 1 der Richtlinie 2004/48/EG soweit angebracht erstrecken, auch
+
+a) die E-Mail-Adressen der Nutzer der Dienstleistungen und/oder
+
+b) die Telefonnummern der Nutzer der Dienstleistungen und/oder
+
+c) die von den Nutzern der Dienstleistungen für das Hochladen der rechtsverletzenden Dateien genutzten IP-Adressen nebst genauem Zeitpunkt des Hochladens?
+
+2. Falls die Frage 1 c) bejaht wird:
+
+Erstreckt sich die nach Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG zu erteilende Auskunft auch auf die IP-Adresse, die von dem Nutzer, der zuvor rechtsverletzend Dateien hochgeladen hat, zuletzt für einen Zugriff auf sein Google-/YouTube-Benutzerkonto verwendet wurde, nebst genauem Zeitpunkt des Zugriffs, unabhängig davon, ob bei diesem letzten Zugriff Rechtsverletzungen begangen wurden?
+
+6 Der Gerichtshof der Europäischen Union hat diese Fragen wie folgt beantwortet (EuGH, Urteil vom 9. Juli 2020 - C-264/19, GRUR 2020, 840 = WRP 2020, 1174 - Constantin Film Verleih):
+
+Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG des Europäischen Parlaments und des Rates vom 29. April 2004 zur Durchsetzung der Rechte des geistigen Eigentums ist dahin auszulegen, dass der darin genannte Begriff "Adressen" sich, was einen Nutzer anbelangt, der ein Recht des geistigen Eigentums verletzende Dateien hochgeladen hat, nicht auf die E-Mail-Adresse und Telefonnummer dieses Nutzers sowie die für das Hochladen dieser Dateien genutzte IP-Adresse oder die bei seinem letzten Zugriff auf das Benutzerkonto verwendete IP-Adresse bezieht.
+
+## Entscheidungsgründe
+
+7 A. Das Berufungsgericht hat die Beklagten verurteilt, der Klägerin Auskunft zu erteilen durch Angabe der E-Mail-Adressen der drei Nutzer, die eine Kopie der streitgegenständlichen Filme auf die Internetplattform "YouTube" hochgeladen haben. Im Übrigen hat es die Klage für unbegründet erachtet. Hierzu hat es ausgeführt:
+
+8 Die Klägerin sei zur Geltendmachung der Auskunftsansprüche berechtigt. Sie habe auch einen Anspruch auf Drittauskunft, der die Mitteilung der E-Mail-Adressen der Nutzer umfasse, weil diese unter den Begriff der "Anschrift" im Sinne von § 101 Abs. 3 Nr. 1 UrhG fielen. Dagegen seien Telefonnummern und IP-Adressen vom Wortlaut dieser Bestimmung nicht umfasst. Eine erweiternde Auslegung sei weder nach den gesetzgeberischen Motiven noch systematisch oder nach dem Gebot richtlinienkonformer Auslegung im Lichte des Art. 8 der Richtlinie 2004/48/EG geboten.
+
+9 B. Die gegen diese Beurteilung gerichtete Revision der Klägerin hat keinen Erfolg. Die Revision der Beklagten führt hingegen zur Aufhebung des angegriffenen Urteils, soweit das Berufungsgericht zum Nachteil der Beklagten erkannt hat, und zur Wiederherstellung des landgerichtlichen Urteils. Die Klage ist zulässig (dazu B I). Die Revision der Beklagten wendet sich mit Erfolg gegen die Beurteilung des Berufungsgerichts, die nach § 101 Abs. 3 Nr. 1 UrhG geschuldete Auskunft schließe die E-Mail-Adressen der Nutzer der Dienstleistungen ein; die Revision der Klägerin wendet sich dagegen ohne Erfolg gegen die Abweisung ihres Antrags auf Auskunft über die Telefonnummern und die IP-Adressen der Nutzer der Dienstleistungen (dazu B II).
+
+10 I. Die Klage ist zulässig. Der Klägerin fehlt für die Auskunftsansprüche nicht das erforderliche Rechtsschutzbedürfnis. Das gilt auch, soweit sie Auskunft über die IP-Adressen verlangt, die von den Nutzern der Dienstleistungen beim Hochladen der rechtsverletzenden Dateien und beim letzten Zugriff auf ihre Benutzerkonten genutzt wurden.
+
+11 1. Das Rechtsschutzbedürfnis fehlt allgemein, wenn eine Klage oder ein Antrag objektiv schlechthin sinnlos ist, wenn also die klägerische Partei unter keinen Umständen mit ihrem prozessualen Begehren irgendeinen schutzwürdigen Vorteil erlangen kann. Jedoch haben Rechtsuchende grundsätzlich einen Anspruch darauf, dass die staatlichen Gerichte ihr Anliegen sachlich prüfen und darüber entscheiden (Art. 2 Abs. 1, Art. 20 Abs. 3 GG). Nur unter ganz besonderen - hier nicht vorliegenden - Umständen kann ihnen der Zugang zu einer sachlichen Prüfung durch die Gerichte verwehrt werden (vgl. BGH, Urteil vom 23. April 2020 - I ZR 85/19, GRUR 2020, 886 Rn. 20 = WRP 2020, 1017 - Preisänderungsregelung, mwN).
+
+12 2. Ob die von den Beklagten mit dem Auskunftsverlangen begehrten IP-Adressen für das von der Klägerin verfolgte Ziel, die offensichtlich rechtsverletzend handelnden Nutzer zu identifizieren, nutzlos ist, weil es sich um dynamische IP-Adressen handelt und die damit verknüpften Daten mittlerweile aufgrund Zeitablaufs gelöscht worden sind, lässt sich nicht sicher vorhersagen. Es erscheint zumindest nicht ausgeschlossen, dass eine von den Beklagten gespeicherte IP-Adresse doch eine statische IP-Adresse war. Diese immerhin bestehende Chance der Aufklärung der Identität der Verletzer darf der Klägerin nicht genommen werden, indem ihr der Zugang zu einer sachlichen Prüfung ihres Anspruchs von vornherein verwehrt wird.
+
+13 II. Die Revision der Beklagten wendet sich mit Erfolg gegen die Beurteilung des Berufungsgerichts, die nach § 101 Abs. 3 Nr. 1 UrhG geschuldete Auskunft schließe die E-Mail-Adressen der Nutzer der Dienstleistungen ein. Die Revision der Klägerin wendet sich dagegen ohne Erfolg gegen die Abweisung ihres Antrags auf Auskunft über Telefonnummern und IP-Adressen der Nutzer der Dienstleistungen.
+
+14 1. Nach § 101 Abs. 1 Satz 1 UrhG kann, wer in gewerblichem Ausmaß das Urheberrecht oder ein anderes nach dem Urheberrechtsgesetz geschütztes Recht widerrechtlich verletzt, vom Verletzten auf unverzügliche Auskunft über die Herkunft und den Vertriebsweg der rechtsverletzenden Vervielfältigungsstücke oder sonstigen Erzeugnisse in Anspruch genommen werden. In Fällen offensichtlicher Rechtsverletzung besteht der Anspruch gemäß § 101 Abs. 2 Satz 1 Nr. 3 UrhG unbeschadet des § 101 Abs. 1 UrhG auch gegen eine Person, die in gewerblichem Ausmaß für rechtsverletzende Tätigkeiten genutzte Dienstleistungen erbracht hat. Der zur Auskunft Verpflichtete hat gemäß § 101 Abs. 3 Nr. 1 UrhG Angaben zu machen über Namen und Anschrift der Hersteller, Lieferanten und anderer Vorbesitzer der Vervielfältigungsstücke oder sonstigen Erzeugnisse, der Nutzer der Dienstleistungen sowie der gewerblichen Abnehmer und Verkaufsstellen, für die sie bestimmt waren.
+
+15 2. Das Berufungsgericht hat ohne Rechtsfehler und von der Revision der Beklagten unbeanstandet angenommen, dass die drei Nutzer durch das Hochladen der Filme eine offensichtliche Rechtsverletzung im Sinne von § 101 Abs. 2 Satz 1 UrhG begangen haben. In der Revisionsinstanz ist weiter davon auszugehen, dass die hier in Rede stehenden Filme "P. " und "S. " als Filmwerke im Sinne von § 2 Abs. 1 Nr. 6 UrhG urheberrechtlich geschützt sind und die Nutzer "sc. ", "w. " und "U. " die Filme durch das Hochladen auf der Internetplattform der Beklagten zu 1 unberechtigt im Sinne von § 19a UrhG öffentlich zugänglich gemacht haben. Die Beurteilung des Berufungsgerichts, die Anspruchsvoraussetzungen des § 101 Abs. 2 Satz 1 Nr. 3 UrhG im Übrigen seien hinsichtlich beider Beklagter als gewerblich handelnde Erbringer von Dienstleistungen, die für die rechtsverletzende Tätigkeit genutzt werden, erfüllt, wird von der Revision der Beklagten nicht angegriffen und lässt auch keinen Rechtsfehler erkennen.
+
+16 3. Der Auskunftsanspruch über "Namen und Anschrift" im Sinne des § 101 Abs. 3 Nr. 1 UrhG schließt die Auskunft über die E-Mail-Adressen der Nutzer der Dienstleistungen nicht ein. Er umfasst auch nicht die Auskunft über die Telefonnummern der Nutzer der Dienstleistungen der Beklagten oder die für das Hochladen der rechtsverletzenden Dateien verwendeten IP-Adressen oder die von den Nutzern der Dienstleistungen zuletzt für einen Zugriff auf ihr Benutzerkonto verwendeten IP-Adressen.
+
+17 a) § 101 Abs. 3 Nr. 1 UrhG dient der Umsetzung von Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG und ist deshalb richtlinienkonform auszulegen. Nach Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG erstrecken sich die Auskünfte nach Abs. 1 dieses Artikels, soweit angebracht, auf die Namen und Adressen der Hersteller, Erzeuger, Vertreiber, Lieferer und anderer Vorbesitzer der Waren oder Dienstleistungen sowie der gewerblichen Abnehmer und Verkaufsstellen, für die sie bestimmt waren. Diese Vorschrift ist nach dem auf die Vorlageentscheidung des Senats ergangenen Urteil des Gerichtshofs der Europäischen Union dahin auszulegen, dass der darin genannte Begriff "Adressen" sich, was einen Nutzer anbelangt, der ein Recht des geistigen Eigentums verletzende Dateien hochgeladen hat, nicht auf die E-Mail-Adresse und Telefonnummer dieses Nutzers sowie die für das Hochladen dieser Dateien genutzten IP-Adresse oder die bei seinem letzten Zugriff auf das Benutzerkonto verwendete IP-Adresse bezieht (EuGH, GRUR 2020, 840 Rn. 40 - Constantin Film Verleih GmbH).
+
+18 b) Der Begriff "Anschrift" im Sinne von § 101 Abs. 3 Nr. 1 UrhG deckt sich mit dem Begriff "Adressen" in Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG und der Auslegung, den dieser Begriff durch den Gerichtshof der Europäischen Union in der Entscheidung "Constantin Film Verleih" erfahren hat. Es gibt keinen Anhaltspunkt dafür, dass der Gesetzgeber bei der Ausgestaltung des Umfangs der Auskunft in § 101 Abs. 3 Nr. 1 UrhG über die Regelung in Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG hinausgehen wollte.
+
+19 aa) Mit dem Entwurf eines Gesetzes zur Verbesserung der Durchsetzung von Rechten des geistigen Eigentums der Bundesregierung vom 20. April 2007 (BT-Drucks. 16/5048) ist die Richtlinie 2004/48/EG in deutsches Recht umgesetzt worden. Die Umsetzung zielte auf dessen Gleichlauf mit der Richtlinie (vgl. Beschlussempfehlung und Bericht des Rechtsausschusses, BT-Drucks. 16/8783, S. 50). Zum Umsetzungsbedarf von Art. 8 der Richtlinie 2004/48/EG heißt es in der Begründung, eine Änderung sei nicht erforderlich, soweit die Regelung in § 101a UrhG aF weiter als die Richtlinie sei und auch Fälle erfasse, in denen noch kein Verfahren wegen einer Rechtsverletzung anhängig sei; Art. 8 Abs. 3 der Richtlinie 2004/48/EG lasse weitergehende Auskunftsansprüche ausdrücklich zu (BT-Drucks. 16/5048, S. 29; zur Mindestharmonisierung vgl. auch BT-Drucks. 16/5048, S. 25). Im Übrigen seien die Auskunftsansprüche des deutschen Rechts hinsichtlich des Umfangs der Auskunftserteilung lediglich um die Angaben über die Preise und sei die Passivlegitimation entsprechend der Regelung in Art. 8 Abs. 1 Buchst. a bis d der Richtlinie 2004/48/EG zu ergänzen (BT-Drucks. 16/5048, S. 30).
+
+20 bb) Der Gesetzgeber hat sich danach bei der Umsetzung von Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG auf die mit der Richtlinie verfolgte Mindestharmonisierung beschränkt. Die Revision der Klägerin weist zwar zutreffend darauf hin, dass die Regelung in § 101 UrhG an anderer Stelle über die Richtlinie hinausgeht, wenn in § 101 Abs. 2 UrhG ein Auskunftsanspruch auch bei offensichtlichen Rechtsverletzungen gewährt wird. Diese Abweichung von der Richtlinie, die in der Gesetzesbegründung ausdrücklich thematisiert wird (vgl. BT-Drucks. 16/5048, S. 29), spricht aber gerade dafür, dass bei der Neuregelung nur insoweit von der Möglichkeit in Art. 8 Abs. 3 Buchst. a der Richtlinie 2004/48/EG Gebrauch gemacht worden ist, den Rechtsinhabern weitergehende Auskunftsrechte einzuräumen, als das deutsche Recht de lege lata bereits über die Richtlinie hinausging. Dagegen hat der Gesetzentwurf bei der Frage des Umfangs der Auskunft über die Ergänzung um die Angaben über die Preise hinaus gerade keinen Änderungsbedarf gesehen. Diese Auffassung hat auch im Gesetz Niederschlag gefunden; es ist bei der alten Fassung von "Name und Anschrift" geblieben. Der Gesetzgeber hat damit deutlich gemacht, dass die "Anschrift" im Sinne des § 101 Abs. 3 Nr. 1 UrhG nunmehr im Sinne von Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG zu verstehen ist (BGH, GRUR 2019, 504 Rn. 14 - YouTube-Drittauskunft I). Damit ist der Umfang der Auskunft der Auslegung durch den Gerichtshof der Europäischen Union überlassen.
+
+21 c) Vor diesem Hintergrund verbietet sich entgegen der Auffassung der Revision der Klägerin auch eine weitere (dynamische) Gesetzesauslegung durch den Senat. Die Auslegung hat bereits der Gerichtshof der Europäischen Union in der Entscheidung "Constantin Film" vorgenommen.
+
+22 aa) Die Anwendung und Auslegung der Gesetze durch die Gerichte stehen mit dem Rechtsstaatsprinzip (Art. 20 Abs. 3 GG) in Einklang, wenn sie sich in den Grenzen vertretbarer Auslegung und zulässiger richterlicher Rechtsfortbildung bewegen. Richterliche Rechtsfortbildung darf aber nicht dazu führen, dass die Gerichte ihre eigene materielle Gerechtigkeitsvorstellung an die Stelle derjenigen des Gesetzgebers setzen. Die Gerichte müssen die gesetzgeberische Grundentscheidung respektieren. Eine Interpretation, die sich über den klar erkennbaren Willen des Gesetzgebers hinwegsetzt, greift unzulässig in die Kompetenzen des demokratisch legitimierten Gesetzgebers ein (vgl. BVerfGE 149, 126 Rn. 72 f. mwN; vgl. auch BVerfGK 17, 533 [juris Rn. 61] mwN).
+
+23 Für die Beantwortung der Frage, welche Regelungskonzeption dem Gesetz zugrunde liegt, kommt neben Wortlaut und Systematik den Gesetzesmaterialien eine nicht unerhebliche Indizwirkung zu. In Betracht zu ziehen sind hier die Begründung eines Gesetzentwurfs, der unverändert verabschiedet worden ist, die darauf bezogenen Stellungnahmen von Bundesrat (Art. 76 Abs. 2 Satz 2 GG) und Bundesregierung (Art. 76 Abs. 3 Satz 2 GG) und die Stellungnahmen, Beschlussempfehlungen und Berichte der Ausschüsse. In solchen Materialien finden sich regelmäßig die im Verfahren als wesentlich erachteten Vorstellungen der am Gesetzgebungsverfahren beteiligten Organe und Personen (vgl. BVerfGE 149, 126 Rn. 74 mwN).
+
+24 bb) Eine Auslegung durch den Senat, die hinsichtlich des Umfangs der Auskunft über die Auslegung der Richtlinie 2004/48/EG durch den Gerichtshof der Europäischen Union hinausginge, widerspräche der im Gesetzgebungsverfahren und im Gesetz selbst zum Ausdruck gekommenen Intention des Gesetzgebers, von der Möglichkeit, weitergehende Auskunftsansprüche vorzusehen (vgl. Art. 8 Abs. 3 Buchst. a der Richtlinie 2004/48/EG), beim Umfang der Auskunft keinen Gebrauch zu machen, sondern insoweit allein die Vorgaben der Richtlinie umzusetzen.
+
+25 Die Entscheidung "Alles kann besser werden" (BGH, Beschluss vom 19. April 2012 - I ZB 80/11, BGHZ 195, 257) spricht entgegen der Auffassung der Revision der Klägerin nicht für eine über die Richtlinie hinausgehende Auslegung. Der Senat hat dort zwar festgestellt, dass § 101 Abs. 2 UrhG auch insofern über die Mindestharmonisierung des Unionsrechts hinausgeht, als ein Drittauskunftsanspruch keine Rechtsverletzung im gewerblichen Ausmaß voraussetzt (BGHZ 195, 257 Rn. 10 bis 30 - Alles kann besser werden). Dieser Auslegung standen jedoch - anders als im Streitfall - der Wortlaut und die Gesetzesbegründung nicht entgegen. Die gegenteilige Ansicht der Verfasser des Regierungsentwurfs hatte im Gesetz keinen hinreichenden Niederschlag gefunden (vgl. BGHZ 195, 257 Rn. 27 bis 30 - Alles kann besser werden).
+
+26 cc) Aus der speziellen Materie des Urheberrechts ergibt sich nichts anderes. Das Bundesverfassungsgericht fordert zwar eine fachrechtliche Auslegung und Anwendung des Urheberrechts, die angesichts der auf diesem Gebiet zahlreichen technischen Neuerungen die Eigentumsrechte der Urheber aus Art. 14 Abs. 1 GG gewährleistet. Eine tatsächliche oder rechtliche Entwicklung kann eine bis dahin eindeutige und vollständige Regelung lückenhaft, ergänzungsbedürftig und zugleich ergänzungsfähig werden lassen. Die verfassungsrechtliche Zulässigkeit der Lückensuche und -schließung findet ihre Rechtfertigung darin, dass Gesetze einem Alterungsprozess unterworfen sind. Die Gerichte sind daher befugt und verpflichtet zu prüfen, wie das Gesetzesrecht auf neue Zeitumstände anzuwenden ist (vgl. BVerfGK 17, 533 [juris Rn. 64]). Diese Voraussetzungen liegen nicht vor. Die Schwierigkeiten, die sich bei der Feststellung von Verletzungen des Urheberrechts gerade im Onlinebereich ergeben, hatte bereits Art. 8 der Richtlinie 2004/48/EG im Blick (vgl. Bohne in Wandtke/Bullinger, UrhG, 5. Aufl., § 101 Rn. 3). Im Zeitpunkt der Neufassung von § 101 UrhG im Jahr 2007/2008 gab es sowohl E-Mail-Adressen und IP-Adressen als auch (Mobilfunk-) Telefonnummern, ohne dass der Gesetzgeber diese zum Gegenstand der Auskunft gemacht hätte. Von neuen Zeitumständen, die eine Regelung lückenhaft, ergänzungsbedürftig und zugleich ergänzungsfähig hätten werden lassen können, kann deshalb nicht die Rede sein.
+
+27 dd) Das Erfordernis, ein angemessenes Gleichgewicht zwischen den verschiedenen betroffenen Grundrechten im Sinne der Rechtsprechung des Gerichtshofs der Europäischen Union zu gewährleisten (vgl. EuGH, Urteil vom 29. Januar 2008 - C-275/06, Slg. 2008, I-309 = GRUR 2008, 241 Rn. 43 und 65 bis 69 - Promusicae; Beschluss vom 19. Februar 2009 - C-557/07, Slg. 2009, I-1227 = GRUR 2009, 579 Rn. 28 f. - LSG-Gesellschaft zur Wahrnehmung von Leistungsschutzrechten; Urteil vom 16. Juli 2015 - C-580/13, GRUR 2015, 894 Rn. 34 - Coty Germany [Davidoff Hot Water]; Urteil vom 18. Oktober 2018 - C-149/17, GRUR 2018, 1234 Rn. 45 - Bastei Lübbe), steht der Auslegung von § 101 Abs. 3 Nr. 1 UrhG in Übereinstimmung mit Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG schon deswegen nicht entgegen, weil die Richtlinie dieses Gleichgewicht herstellt (vgl. Schlussanträge des Generalanwalts vom 2. April 2020 - C-264/19 Rn. 51 - Constantin Film Verleih). Die Mitgliedstaaten sind deswegen auch nicht verpflichtet, für die zuständigen Gerichte die Möglichkeit vorzusehen, die Erteilung von Auskunft über die E-Mail-Adresse, die Telefonnummer oder die IP-Adresse der in Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG aufgeführten Personen im Zusammenhang mit einem Verfahren wegen Verletzung eines Rechts des geistigen Eigentums anzuordnen (EuGH, GRUR 2020, 840 Rn. 39 - Constantin Film Verleih). Die Fallkonstellation ist insoweit nicht mit dem Verfahren "Bastei Lübbe" (EuGH, GRUR 2018, 1234) vergleichbar, auf das sich die Revision der Klägerin bezieht.
+
+28 ee) Soweit die Revision der Klägerin darauf hinweist, der Senat habe im Vorlagebeschluss eine weitergehende Auslegung von Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG und § 101 Abs. 3 Nr. 1 UrhG befürwortet, um den Zielen der Richtlinie Rechnung zu tragen (BGH, GRUR 2019, 504 Rn. 15 - YouTube-Drittauskunft I), und auf eine mögliche qualifizierte Beeinträchtigung von Art. 17 Abs. 2 EU-Grundrechtecharta durch eine anonyme Nutzung von Plattformen wie jener der Beklagten zu 1 hingewiesen (BGH, GRUR 2019, 504 Rn. 26 - YouTube-Drittauskunft I), übersieht sie, dass der Gerichtshof der Europäischen Union dieser Argumentation nicht gefolgt ist. Aus demselben Grund greift auch der Hinweis auf die Entscheidung "Benutzerkennung" nicht durch (BGH, Urteil vom 13. Juli 2017 - I ZR 193/16, GRUR 2018, 189, Rn. 25 = WRP 2018, 210), in der "Name und Adresse" gemäß Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG vom Senat dahin ausgelegt worden sind, dass darunter auch die Benutzerkennung eines Telekommunikationsanschlusses fällt.
+
+29 d) Eine analoge Anwendung von § 101 Abs. 3 Nr. 1 UrhG scheidet mangels planwidriger Regelungslücke ebenfalls aus. Der Gesetzgeber wollte beim Umfang der Auskunft nicht über die Regelung in Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG hinausgehen. Diese Vorschrift ist mit dem Gerichtshof der Europäischen Union dahin auszulegen, dass der Auskunftsanspruch die Auskunft über die E-Mail-Adresse nicht umfasst. Anhaltspunkte dafür, dass der Gesetzgeber - wie der Senat im Vorlagebeschluss (BGH, GRUR 2019, 504 Rn. 14 f. - YouTube-Drittauskunft I) - die Vorstellung hatte, die Richtlinie sei weiter auszulegen, wodurch eine planwidrige Regelungslücke begründet werden könnte, sind nicht ersichtlich.
+
+30 4. Soweit das Berufungsgericht zum Nachteil der Beklagten erkannt hat, stellt sich die Entscheidung auch nicht aus anderen Gründen als richtig dar (§ 561 ZPO).
+
+31 a) Ein über die Auskunft von "Namen und Anschrift" im Sinne von § 101 Abs. 3 Nr. 1 UrhG hinausgehender Auskunftsanspruch ergibt sich nicht aus § 242 BGB in Verbindung mit § 102a UrhG.
+
+32 aa) Nach dem allgemeinen Auskunftsanspruch nach § 242 BGB kann ein Anspruch auf Auskunftserteilung nach Treu und Glauben grundsätzlich in jedem Rechtsverhältnis bestehen, in dem die Berechtigten in entschuldbarer Weise über Bestehen und Umfang ihres Rechts im Ungewissen und die Verpflichteten unschwer zur Auskunftserteilung in der Lage sind (vgl. BGH, Urteil vom 17. Mai 2001 - I ZR 291/98, BGHZ 148, 26 Rn. 29 - Entfernung der Herstellungsnummer II; Urteil vom 27. Februar 2018 - VI ZR 489/16, BGHZ 217, 350 Rn. 55). Unter diesen Voraussetzungen ist ein Anspruch auf Auskunftserteilung auch dann gegeben, wenn nicht die Inanspruchgenommenen, sondern Dritte Schuldner des Hauptanspruchs sind, dessen Durchsetzung der Hilfsanspruch auf Auskunftserteilung ermöglichen soll. Allerdings begründet allein die Tatsache noch keine Auskunftspflicht, dass jemand über Sachverhalte informiert ist oder sein könnte, die für andere von Bedeutung sind. Voraussetzung ist vielmehr, dass zwischen den Berechtigten und den Verpflichteten eine besondere rechtliche Beziehung besteht, wobei ein gesetzliches Schuldverhältnis, beispielsweise aus unerlaubter Handlung, genügt (BGH, Urteil vom 25. Juli 2017 - VI ZR 222/16, NJW 2017, 2755 Rn. 13 mwN).
+
+33 bb) Ein Anspruch der Klägerin aus § 242 BGB scheitert danach bereits daran, dass es an der erforderlichen besonderen rechtlichen Beziehung zwischen den Parteien fehlt.
+
+34 (1) Entgegen der Auffassung der Revision der Klägerin besteht das hierzu erforderliche (gesetzliche) Schuldverhältnis zwischen den Parteien nicht aufgrund einer Störerhaftung der Beklagten. Das Berufungsgericht hat eine Störerhaftung der Beklagten verneint. Mit ihren Angriffen gegen diese Beurteilung setzt die Revision der Klägerin in revisionsrechtlich unzulässiger Weise lediglich ihre eigene Auffassung an die Stelle derjenigen des Tatgerichts, ohne einen Rechtsfehler aufzuzeigen.
+
+35 (2) Entgegen der Auffassung der Revision der Klägerin begründet der dem Grunde nach bestehende gesetzliche Drittauskunftsanspruch aus § 101 Abs. 2 Nr. 3 UrhG gegenüber den Beklagten ebenfalls kein besonderes Rechtsverhältnis zwischen den Parteien im Sinne von § 242 BGB. Der - inhaltlich begrenzte - Anspruch aus § 101 Abs. 2 und 3 UrhG kann nicht zur Grundlage eines weitergehenden Anspruchs aus § 242 BGB gemacht werden.
+
+36 b) Entgegen der Auffassung der Revision der Klägerin kann ein Auskunftsanspruch auch nicht auf § 242 BGB in Verbindung mit §§ 12, 14 Abs. 2, § 15 Abs. 5 Satz 4 TMG gestützt werden. Diese datenschutzrechtlichen Vorschriften des Telemediengesetzes regeln allein die Berechtigung des Dienstanbieters zur Auskunftserteilung und damit die Durchsetzung zivilrechtlicher Ansprüche, begründen solche aber nicht (vgl. BGH, Beschluss vom 24. September 2019 - VI ZB 39/18, BGHZ 223, 168, 190 f. Rn. 58 mwN).
+
+37 c) Aus § 101 Abs. 1 Satz 1 UrhG folgt ebenfalls kein Auskunftsanspruch der Klägerin über die E-Mail-Adressen der Nutzer der Dienstleistungen. Der Umfang der Auskunft ist für die Auskunftsverpflichteten im Sinne von § 101 Abs. 1 und 2 UrhG abschließend in § 101 Abs. 3 UrhG normiert.
+
+38 5. Ob die Begründung des Berufungsgerichts, mit der dieses die Aktivlegitimation der Klägerin bejaht hat, rechtlicher Nachprüfung standhält, kann danach offenbleiben.
+
+39 III. Eine erneute Vorlage an den Gerichtshof der Europäischen Union nach Art. 267 Abs. 3 AEUV ist nicht veranlasst (vgl. EuGH, Urteil vom 6. Oktober 1982 - C-283/81, Slg. 1982, 3415 Rn. 21 = NJW 1983, 1257 – Cilfit u.a.; Urteil vom 1. Oktober 2015 - C-452/14, GRUR Int. 2015, 1152 Rn. 43 - Doc Generici, mwN). Die sich im Streitfall stellenden entscheidungserheblichen Fragen zur Auslegung des Unionsrechts hat der Gerichtshof der Europäischen Union mit seiner im vorliegenden Verfahren ergangenen Entscheidung vom 9. Juli 2020 (GRUR 2020, 840 - Constantin Film Verleih) geklärt.
+
+40 C. Danach ist die Revision der Klägerin zurückzuweisen. Auf die Revision der Beklagten ist das Berufungsurteil aufzuheben, soweit zum Nachteil der Beklagten erkannt worden ist, und die Berufung der Klägerin gegen das Urteil des Landgerichts auch im Umfang der Aufhebung zurückzuweisen.
+
+41 Die Kostenentscheidung beruht auf § 91 Abs. 1, § 97 Abs. 1 ZPO.
+
+Koch
+
+Löffler
+
+Schwonke
+
+Schmaltz
+
+Odörfer

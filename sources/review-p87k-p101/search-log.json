@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-10-20T13:50:05.909269+00:00",
+  "method": "Selektive amtliche Websuche und lokale RII-Manifestsuche; direkte ZIP/XML-Abrufe, vollständige Lektüre und unabhängiger Korpusvergleich.",
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"I ZB 80/11\"",
+    "site.rechtsprechung-im-internet.de \"Nintendo\" \"I ZR 124/11\"",
+    "site.eur-lex.europa.eu \"62012CJ0355\" \"DE\"",
+    "site.eur-lex.europa.eu \"62019CJ0264\" \"DE\"",
+    "site.curia.europa.eu \"C-277/10\"",
+    "site.rechtsprechung-im-internet.de \"YouTube-Drittauskunft II\""
+  ],
+  "local_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+  "accepted": [
+    {
+      "card": "cases/alles-kann-besser-werden.md",
+      "docket": "I ZB 80/11",
+      "read_paragraphs": 54
+    },
+    {
+      "card": "cases/videospiel-konsolen-ii.md",
+      "docket": "I ZR 124/11",
+      "read_paragraphs": 112
+    },
+    {
+      "card": "cases/youtube-drittauskunft-ii.md",
+      "docket": "I ZR 153/17",
+      "read_paragraphs": 41
+    }
+  ],
+  "rejected_or_not_used": [
+    {
+      "candidate": "EuGH Luksan C-277/10",
+      "reason": "Direkte EUR-Lex-HTML-Abrufe lieferten leere HTTP-202-Antworten; Cellar lieferte umfangreiche RDF-Metadaten, keinen Urteilstext. Kein eigenständiger Volltextbeleg und keine Aufnahme als Autorität."
+    },
+    {
+      "candidate": "EuGH Nintendo C-355/12 und Constantin Film C-264/19",
+      "reason": "Leere HTTP-202-Antworten direkt gespeichert. Keine eigenen Fallkarten und keine Behauptung vollständiger eigenständiger EuGH-Lektüre. Die gelesenen BGH-Urteile verwenden diese Entscheidungen; nur die dort nachvollzogene BGH-Begründung wird belegt."
+    },
+    {
+      "candidate": "Andere Suchtreffer und Riptide",
+      "reason": "Nicht im Volltext als Quelle dieses Loses verifiziert; keine Aufnahme als selbständige Autorität."
+    }
+  ],
+  "firecrawl": "CLI vorhanden, Status am 20.10.2026: 0 verfügbare Credits. Keine Installation oder Einstellungsänderung; amtliche Direktabrufe verwendet.",
+  "limits": "Keine erschöpfende Rechtsprechungsrecherche. Für die übrigen Einheiten in diesem Los keine zusätzliche hinreichend verifizierte spezifische Entscheidung ausgewählt; keine Aussage über Nichtvorhandensein einschlägiger Rechtsprechung."
+}

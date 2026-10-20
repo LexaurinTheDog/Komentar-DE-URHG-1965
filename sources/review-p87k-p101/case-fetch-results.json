@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304202012.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304202012.zip",
+    "accessed_at": "2026-10-20T13:40:52.692196+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p87k-p101/alles.zip",
+    "headers_path": "sources/review-p87k-p101/alles.zip.headers",
+    "sha256": "b477493076c829127b137573e77fecb97b8cb272d54d8a4a31210e43eb060ca0",
+    "bytes": 13631,
+    "expected_format": "zip",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303372015.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303372015.zip",
+    "accessed_at": "2026-10-20T13:40:52.692676+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p87k-p101/nintendo-bgh.zip",
+    "headers_path": "sources/review-p87k-p101/nintendo-bgh.zip.headers",
+    "sha256": "860c8d0827a0bad0933af58969f27c213baeec94ebf4279119788ec7b09a4407",
+    "bytes": 24532,
+    "expected_format": "zip",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62010CJ0277",
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62010CJ0277",
+    "accessed_at": "2026-10-20T13:40:52.692793+00:00",
+    "http_status": 202,
+    "response_path": "sources/review-p87k-p101/luksan.html",
+    "headers_path": "sources/review-p87k-p101/luksan.html.headers",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "expected_format": "html",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62012CJ0355",
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62012CJ0355",
+    "accessed_at": "2026-10-20T13:40:52.692933+00:00",
+    "http_status": 202,
+    "response_path": "sources/review-p87k-p101/nintendo-eu.html",
+    "headers_path": "sources/review-p87k-p101/nintendo-eu.html.headers",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "expected_format": "html",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62019CJ0264",
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62019CJ0264",
+    "accessed_at": "2026-10-20T13:40:52.693123+00:00",
+    "http_status": 202,
+    "response_path": "sources/review-p87k-p101/constantin.html",
+    "headers_path": "sources/review-p87k-p101/constantin.html.headers",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "expected_format": "html",
+    "expected_format_validated": false
+  }
+]

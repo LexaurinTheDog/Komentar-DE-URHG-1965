@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300042021.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300042021.zip",
+    "accessed_at": "2026-10-20T13:41:27.590196+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p87k-p101/youtube-bgh.zip",
+    "headers_path": "sources/review-p87k-p101/youtube-bgh.zip.headers",
+    "sha256": "52a1cb55d6ea78b9ae6f625573e3c9e10ae9b220b83142eb62640c978e7cfd43",
+    "bytes": 11116,
+    "expected_format": "zip",
+    "expected_format_validated": true
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62010CJ0277",
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62010CJ0277",
+    "accessed_at": "2026-10-20T13:41:27.590848+00:00",
+    "http_status": 202,
+    "response_path": "sources/review-p87k-p101/luksan-de.html",
+    "headers_path": "sources/review-p87k-p101/luksan-de.html.headers",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "expected_format": "html",
+    "expected_format_validated": false
+  },
+  {
+    "url": "https://publications.europa.eu/resource/celex/62010CJ0277?language=de",
+    "final_url": "http://publications.europa.eu/resource/cellar/aff531b0-68fb-433a-9790-984e54727ae9/rdf/object/full",
+    "accessed_at": "2026-10-20T13:41:27.590968+00:00",
+    "http_status": 200,
+    "response_path": "sources/review-p87k-p101/luksan-cellar.html",
+    "headers_path": "sources/review-p87k-p101/luksan-cellar.html.headers",
+    "sha256": "6e311c22201d483e51832303e138b79a400213d8746bd3f9566486a45e16c744",
+    "bytes": 2038389,
+    "expected_format": "html",
+    "expected_format_validated": false,
+    "actual_format": "RDF metadata, not HTML decision text",
+    "metadata_format_validated": true,
+    "used_as_substantive_authority": false
+  }
+]

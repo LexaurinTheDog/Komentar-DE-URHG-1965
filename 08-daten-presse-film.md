@@ -204,9 +204,15 @@ Beispiel: Eine Ausgabe wird erstmals im Oktober 2026 veröffentlicht. Ihr Verleg
 >
 > (2) Der Anspruch nach Absatz 1 kann nur durch eine Verwertungsgesellschaft geltend gemacht werden.
 
-Absatz 1 beteiligt Urheber und sonstige Schutzberechtigte angemessen, mindestens zu einem Drittel, an Einnahmen aus dem Verlegerrecht nach § 87g Abs. 1. Es geht nicht um einen pauschalen Drittelanteil an sämtlichen Umsätzen des Presseunternehmens. Nachteilige Abweichungen sind nur auf der bezeichneten kollektiven Grundlage möglich. Absatz 2 ordnet ausschließlich kollektive Geltendmachung an. Einnahmezuordnung und Verteilung zwischen mehreren Berechtigten müssen deshalb nachvollziehbar bleiben.
+Absatz 1 beteiligt die Urheber und die Inhaber anderer geschützter Rechte an den Einnahmen aus der Ausübung des Presseverlegerrechts nach § 87g Abs. 1. Die Anknüpfung ist enger als der Gesamtumsatz eines Presseunternehmens: Abonnements, Anzeigen und eine gesonderte Lizenz an einem Foto sind nicht allein wegen ihres Pressebezugs Einnahmen aus diesem Verlegerrecht. Umgekehrt darf dessen Lizenzvergütung nicht durch eine undurchsichtige Bündelung mit anderen Leistungen aus der Beteiligungsbasis verschwinden. Die Zuordnung der tatsächlich vergüteten Rechte ist daher ein wesentlicher Abrechnungsschritt.
 
-Beispiel: Ein Verlag erzielt Lizenzzahlungen aus der Onlineübernahme seiner Presseveröffentlichungen. Der Anteil der beteiligten Text- und Bildberechtigten ist im gesetzlichen System zu berücksichtigen. Ein individueller Formularverzicht kann die Mindestbeteiligung nicht ohne die erforderliche kollektive Grundlage verdrängen.
+Die Beteiligung muss angemessen sein und beträgt grundsätzlich mindestens ein Drittel. Ein Drittel ist eine Untergrenze, keine in jedem Fall abschließende Angemessenheitsentscheidung. Bei mehreren Text-, Bild- oder sonstigen Berechtigten steht nicht jedem einzeln ein Drittel des gesamten Erlöses zu; die Beteiligung ist unter den Anspruchsberechtigten zu verteilen. Eine nachteilige Abweichung verlangt eine Vereinbarung auf Grundlage einer gemeinsamen Vergütungsregel nach § 36 oder eines Tarifvertrags. Eine bloße individuelle Honorarvereinbarung schafft diese Grundlage nicht.
+
+Absatz 2 reserviert die Geltendmachung einer Verwertungsgesellschaft. Der materielle Beteiligungsanspruch und die Befugnis, ihn einzuziehen, sind deshalb zu unterscheiden. Die Vorschrift überträgt dem Verlag weder die zugrunde liegenden Werkrechte noch verdrängt sie den Schutz der Inhaltsberechtigten nach § 87h.
+
+Beispiel: Ein Verlag erzielt 90.000 Euro ausschließlich für Nutzungen nach § 87g Abs. 1. Ohne wirksame nachteilige Abweichung müssen die beteiligten Inhaltsberechtigten zusammen mindestens 30.000 Euro erhalten; ob mehr angemessen ist, bleibt zu prüfen. Eine daneben gezahlte gesonderte Fotolizenz wird nicht allein deshalb Teil dieses Rechenbeispiels.
+
+**Praxisprüfung Presseverlegerrecht:** Veröffentlichung nach § 87f bestimmen; Anbieterhandlung und Ausnahmen nach § 87g prüfen; fremde Inhaltsrechte nach § 87h getrennt klären; Schutzfrist nach § 87j und Erlösbasis, kollektive Abweichungsgrundlage sowie Geltendmachung nach § 87k dokumentieren.
 
 #### Teil 3 — Besondere Bestimmungen für Filme
 
@@ -222,9 +228,13 @@ Beispiel: Ein Verlag erzielt Lizenzzahlungen aus der Onlineübernahme seiner Pre
 >
 > (3) (weggefallen)
 
-Die Verfilmungsgestattung enthält nach Absatz 1 im Zweifel eine breite ausschließliche Rechtseinräumung für Herstellung und Verwertung des Films einschließlich filmischer Bearbeitungen. Bestimmte Widerrufsregeln unbekannter Nutzungsarten sind ausgenommen. Absatz 2 reserviert im Zweifel die Wiederverfilmung und ermöglicht nach zehn Jahren anderweitige filmische Verwertung; nachteilige Abweichungen verlangen die bezeichnete kollektive Grundlage. Absatz 3 ist weggefallen. Die besondere Zehnjahresregel ist nicht mit § 40a gleichzusetzen.
+Absatz 1 ist eine Auslegungsregel für eine tatsächlich erteilte Verfilmungsgestattung. Er macht den Produzenten nicht zum Urheber der Vorlage. Ist nichts anderes vereinbart, umfasst die Gestattung ein ausschließliches Nutzungsrecht, die Vorlage unverändert oder bearbeitet zur Filmherstellung zu verwenden und den entstandenen Film einschließlich Übersetzungen und filmischer Bearbeitungen auf alle Nutzungsarten auszuwerten. Eine ausdrückliche sachliche, räumliche oder zeitliche Beschränkung ist nicht schon wegen dieser Zweifelsregel bedeutungslos. Auch die Vergütung wird durch sie nicht festgelegt.
 
-Beispiel: Eine Romanautorin erlaubt eine Verfilmung. Der Produzent darf daraus nicht ohne Weiteres eine zweite neue Verfilmung desselben Romans ableiten. Zugleich sind ihre eigenen späteren Verfilmungspläne anhand der Frist, des Vertrags und § 90 zu prüfen.
+Die Ausnahme zu § 31a ist präzise: Ausgenommen sind dessen Abs. 1 Sätze 4 und 5 sowie Abs. 2 bis 4, also das dortige Widerrufssystem. Die Formregeln des § 31a Abs. 1 Sätze 1 bis 3 werden nicht ausgenommen. Eine Verpflichtung zur Einräumung von Rechten für bei Vertragsschluss unbekannte Nutzungsarten bleibt deshalb anhand dieser Regeln zu prüfen. Die Sondervorschrift beseitigt auch nicht durch ihren Wortlaut einen Vergütungsanspruch aus § 32c bei Aufnahme einer vertraglich erfassten neuen Nutzungsart. Bei Altverträgen ist § 137l gesondert zu beachten.
+
+Absatz 2 unterscheidet die Auswertung und Bearbeitung des vorhandenen Films von einer Wiederverfilmung der Vorlage. Letztere ist im Zweifel nicht eingeräumt. Unabhängig davon darf der Urheber seine Vorlage zehn Jahre nach Vertragsabschluss anderweit filmisch verwerten. Fristanknüpfung ist der Vertrag, nicht die Premiere oder der Drehbeginn. Eine nachteilige Abweichung ist nur auf Grundlage einer gemeinsamen Vergütungsregel oder eines Tarifvertrags möglich. § 90 Abs. 2 nimmt zwar § 40a aus, beseitigt aber diese eigene Zehnjahresregel nicht. Absatz 3 ist weggefallen und enthält keinen zusätzlichen Tatbestand.
+
+Beispiel: Eine Autorin räumt 2026 die Verfilmung ihres Romans ein. Die Lizenz kann die Synchronisation und Streamingauswertung des hergestellten Films erfassen. Eine 2030 geplante neue Verfilmung ist dagegen nicht schon deshalb mitlizenziert. Für ihre eigene anderweitige filmische Verwertung ist der zehnjährige Zeitraum ab Vertragsschluss maßgeblich; eine wirksame kollektive Abweichung und der konkrete Vertragsumfang sind gesondert zu prüfen.
 
 ### § 89 — Rechte am Filmwerk
 
@@ -238,9 +248,13 @@ Beispiel: Eine Romanautorin erlaubt eine Verfilmung. Der Produzent darf daraus n
 >
 > (4) Für die Rechte zur filmischen Verwertung der bei der Herstellung eines Filmwerkes entstehenden Lichtbilder und Lichtbildwerke gelten die Absätze 1 und 2 entsprechend.
 
-Absatz 1 bündelt im Zweifel die bei Filmmitwirkenden entstehenden Filmurheberrechte beim Hersteller als ausschließliche Nutzungsrechte. Die Urheberschaft selbst wird nicht übertragen. Absatz 2 wahrt eine Einräumungsbefugnis trotz vorheriger Drittvergabe. Absatz 3 lässt Rechte an vorbestehenden oder verwendeten Werken wie Roman, Drehbuch und Musik unberührt; sie müssen separat geklärt werden. Absatz 4 erstreckt bestimmte Regeln auf filmbezogene Fotorechte. Die besondere Ausnahme zu § 31a ist genau im gesetzlichen Umfang zu beachten.
+Die urheberrechtlichen Beiträge eines Filmteams und die Finanzierung durch den Hersteller begründen unterschiedliche Rechtspositionen. Absatz 1 setzt eine Verpflichtung zur Mitwirkung an der Filmherstellung voraus. Nur für den Fall, dass der Mitwirkende ein Urheberrecht am Filmwerk erwirbt, wird im Zweifel ein ausschließliches Nutzungsrecht des Herstellers am Film einschließlich Übersetzungen und filmischer Bearbeitungen oder Umgestaltungen auf alle Nutzungsarten angenommen. Nicht jede technische oder organisatorische Mitarbeit ist eine schöpferische Leistung. Die Urheberschaft bleibt beim schöpferisch Mitwirkenden; die Norm bündelt die Nutzungsrechte für die Auswertung.
 
-Beispiel: Ein Regisseur wirkt an einer Produktion mit. Die gesetzliche Zweifelsregel kann seine Filmrechte erfassen, nicht aber eine fehlende Verfilmungslizenz am zugrunde liegenden Roman ersetzen. Eine Rechteübersicht muss diese beiden Ebenen getrennt abbilden.
+Ein abweichender Vertrag bleibt relevant. Bei unbekannten Nutzungsarten gilt dieselbe punktuelle Ausnahme zu § 31a wie in § 88: Das Widerrufssystem wird ausgenommen, nicht dessen gesamte Formregelung. Vergütungsfragen sind damit nicht abschließend geregelt. Absatz 2 schützt die Rechtebündelung auch bei einer vorausgegangenen Einräumung des betreffenden Nutzungsrechts an einen Dritten. Der Filmurheber behält stets die Befugnis, dem Hersteller das Recht beschränkt oder unbeschränkt einzuräumen. Das bedeutet weder eine allgemeine Nichtigkeit des früheren Vertrags noch eine Freistellung von allen daraus folgenden schuldrechtlichen Pflichten.
+
+Absatz 3 zieht die Grenze zur Vorlage und zu selbständig benutzten Werken. Rechte am Roman, Drehbuch und an der Filmmusik bleiben unberührt; die Zweifelsregel für das Filmwerk ersetzt ihre Lizenzierung nicht. Für bei der Herstellung entstehende Lichtbilder und Lichtbildwerke übernimmt Absatz 4 nur die Absätze 1 und 2 und nur hinsichtlich der filmischen Verwertung. Eine davon losgelöste Fotobuch- oder Produktwerbung ist daher eigens zu prüfen.
+
+Beispiel: Eine Regisseurin verpflichtet sich zur schöpferischen Mitwirkung. Ihr Recht am entstandenen Film kann nach Absatz 1 beim Hersteller zur ausschließlichen Nutzung gebündelt sein. Eine fehlende Filmmusiklizenz wird dadurch nicht geheilt. Soll ein bei den Dreharbeiten entstandenes Foto anschließend unabhängig vom Film auf einer Produktverpackung erscheinen, reicht der bloße Hinweis auf Absatz 4 nicht.
 
 ### § 90 — Einschränkung der Rechte
 
@@ -258,9 +272,13 @@ Beispiel: Ein Regisseur wirkt an einer Produktion mit. Die gesetzliche Zweifelsr
 >
 > (2) Für die in § 88 und § 89 Absatz 1 bezeichneten Rechte gilt nicht die Bestimmung über das Recht zur anderweitigen Verwertung nach zehn Jahren bei pauschaler Vergütung (§ 40a).
 
-Absatz 1 nimmt die bezeichneten Filmrechte von §§ 34, 35, 41 und 42 aus, um die Produktion und Auswertung nicht durch wechselnde Zustimmungshürden zu blockieren. Bis Drehbeginn gilt diese Einschränkung für das Verfilmungsrecht noch nicht; ein vorab vereinbarter Ausschluss des Nichtausübungsrückrufs ist dort höchstens für fünf Jahre möglich. Absatz 2 schließt § 40a für die genannten Filmrechte aus. Die eigene Regel des § 88 Abs. 2 darf damit nicht verwechselt werden.
+Absatz 1 erleichtert den Verkehr mit den in § 88 Abs. 1 und § 89 Abs. 1 bezeichneten Filmrechten. Die Beschränkungen aus § 34 für die Übertragung und § 35 für weitere Nutzungsrechte sowie die Rückrufsrechte nach §§ 41 und 42 sind grundsätzlich ausgenommen. Damit kann der Hersteller die Auswertungskette organisieren, ohne dass jede Übertragung oder Lizenzstufe an den sonstigen gesetzlichen Anforderungen scheitert. Der Katalog ist gezielt: Er ist kein Ausschluss sämtlicher urhebervertragsrechtlicher Vorschriften und verschafft keine Rechte, die nie eingeräumt wurden.
 
-Beispiel: Ein Produzent erwirbt einen Roman und beginnt jahrelang nicht zu drehen. Die Autorin kann nicht allein mit dem Hinweis auf die allgemeinen Filmprivilegien abgewiesen werden. Drehbeginn, vertraglicher Ausschluss und dessen zulässige Dauer müssen konkret bestimmt werden.
+Satz 2 enthält eine zeitliche Gegenausnahme: Für das Recht zur Verfilmung gilt diese Privilegierung bis zum Beginn der Dreharbeiten noch nicht. Die Regel für die Vorlage darf deshalb nicht unbesehen auf schon entstandene Filmurheberrechte nach § 89 übertragen werden. Drehbeginn ist ein tatsächlicher Produktionsschritt; der bloße Vertragsabschluss oder eine Finanzierungsvorbereitung ersetzt ihn nicht. Nach Satz 3 kann allerdings die Ausübung des Rückrufs wegen Nichtausübung bis zum Drehbeginn im Voraus für höchstens fünf Jahre ausgeschlossen werden. Das ist eine begrenzte vertragliche Möglichkeit, kein automatischer fünfjähriger Ausschluss jedes Rückrufsrechts.
+
+Absatz 2 schließt für die bezeichneten Rechte § 40a aus. Die besondere Berechtigung zur anderweitigen filmischen Verwertung zehn Jahre nach Vertragsschluss aus § 88 Abs. 2 bleibt daneben zu beachten. Die beiden Zehnjahresregeln haben unterschiedliche Voraussetzungen und dürfen nicht zusammengezogen werden.
+
+Beispiel: Ein Produzent hält eine Romanverfilmung mehrere Jahre in der Entwicklung. Gegen einen Rückruf vor Drehbeginn kann er sich nicht allein auf die allgemeinen Filmprivilegien berufen. Er muss einen wirksamen Ausschluss, dessen Dauer und den tatsächlichen Produktionsstand darlegen; die Rechte an einem später fertiggestellten Film sind gesondert zu behandeln.
 
 ### § 91 — (weggefallen)
 
@@ -282,9 +300,13 @@ Beispiel: Eine alte Produktionsvereinbarung verweist auf § 91. Aus dem heutigen
 >
 > (3) § 90 gilt entsprechend.
 
-Absatz 1 enthält eine Zweifelsregel für die filmbezogene Nutzung von Darbietungen aufgrund eines Mitwirkungsvertrags mit dem Filmhersteller. Sie nennt die erfassten Künstlerbefugnisse ausdrücklich und gilt hinsichtlich der Filmverwertung. Absatz 2 erhält die Einräumungs- oder Übertragungsmöglichkeit trotz früherer Drittvergabe. Absatz 3 übernimmt die besonderen Einschränkungen des § 90 entsprechend. Ein Mitwirkungsvertrag darf deshalb nicht ohne Prüfung als Lizenz für jede außerhalb des Films selbständig verwertete Leistung verstanden werden.
+Die Darbietung eines Schauspielers oder einer Musikerin bleibt ein eigener Schutzgegenstand neben dem Filmwerk. Absatz 1 setzt einen Vertrag mit dem Filmhersteller über die Mitwirkung an der Herstellung eines Filmwerks voraus. Darin liegt im Zweifel hinsichtlich der Filmverwertung die Einräumung der ausdrücklich genannten Befugnisse: Aufnahme der Darbietung, Vervielfältigung und Verbreitung der Aufzeichnung nach § 77 sowie öffentliche Zugänglichmachung und Sendung nach § 78 Abs. 1 Nr. 1 und 2. Die Norm spricht anders als § 89 Abs. 1 nicht ausdrücklich von einem ausschließlichen Recht. Eine Exklusivität ist deshalb anhand der Vereinbarung und der allgemeinen Regeln festzustellen.
 
-Beispiel: Eine Schauspielerin spielt eine Filmszene ein. Die Filmverwertung kann von der Zweifelsregel erfasst sein. Wird ihre Tonspur anschließend unabhängig als eigenständiges Produkt verkauft, sind Vertragsumfang und Bezug zur Filmverwertung neu zu prüfen.
+Der Verweisungskatalog erfasst nicht sämtliche Künstlerrechte. Insbesondere werden die Vergütungsansprüche nach § 78 Abs. 2 und die Persönlichkeitsrechte nach §§ 74 und 75 nicht schon durch Absatz 1 beseitigt. Für Eingriffe bei der Filmherstellung und -verwertung ist § 93 gesondert zu beachten. Auch eine außerhalb der Filmverwertung selbständig vermarktete Darbietung fällt nicht allein wegen des ursprünglichen Mitwirkungsvertrags in jede denkbare Lizenz.
+
+Absatz 2 erhält trotz vorheriger Übertragung eines Rechts oder vorheriger Lizenz an einen Dritten die Befugnis, dem Hersteller das Recht für die Filmverwertung zu übertragen oder einzuräumen. Absatz 3 erklärt § 90 für entsprechend anwendbar; dessen Voraussetzungen und zeitliche Differenzierungen sind sinngemäß zu prüfen, statt den gesamten Künstlervertrag für frei übertragbar oder rückruffest zu erklären.
+
+Beispiel: Eine Schauspielerin spielt eine Szene für einen Spielfilm ein. Dessen vertragsgemäße Ausstrahlung und Abrufauswertung können von der Zweifelsregel erfasst sein. Wird die isolierte Tonspur für ein eigenständiges Hörprodukt angeboten, muss der Hersteller den hierfür ausreichenden Rechteumfang gesondert belegen.
 
 ### § 93 — Schutz gegen Entstellung; Namensnennung
 
@@ -294,9 +316,13 @@ Beispiel: Eine Schauspielerin spielt eine Filmszene ein. Die Filmverwertung kann
 >
 > (2) Die Nennung jedes einzelnen an einem Film mitwirkenden ausübenden Künstlers ist nicht erforderlich, wenn sie einen unverhältnismäßigen Aufwand bedeutet.
 
-Absatz 1 hebt die Eingriffsschwelle für die bezeichneten Werk- und Leistungsberechtigten bei Filmherstellung und -verwertung auf gröbliche Entstellung oder Beeinträchtigung an. Gegenseitige Rücksicht und die Interessen des Herstellers sind einzubeziehen. Das ist keine vollständige Abschaffung persönlicher Rechte. Absatz 2 erleichtert die Nennung von Filmkünstlern bei unverhältnismäßigem Aufwand; er lässt nicht pauschal jede Nennung entfallen. Filmtypische Montagebedürfnisse und gravierende Verfälschung müssen auseinandergehalten werden.
+Absatz 1 passt den Integritätsschutz an das Zusammenwirken vieler Berechtigter bei einer Filmproduktion an. Erfasst sind die Urheber des Films und der benutzten Werke sowie die bezeichneten Inhaber verwandter Schutzrechte. Für die Herstellung und Verwertung des Films können sie nach §§ 14 und 75 nur gröbliche Entstellungen oder andere gröbliche Beeinträchtigungen untersagen. Die Verweisung auf diese Vorschriften bleibt Bestandteil der Prüfung: Die erhöhte Schwelle ersetzt nicht sämtliche sonstigen Tatbestandsmerkmale durch bloßes Missfallen an der Schnittfassung.
 
-Beispiel: Ein Filmschnitt verdichtet eine Szene zeitlich. Dies ist anders zu beurteilen als eine Montage, die eine Darbietung in besonders schwerwiegender Weise ins Gegenteil verkehrt. Der Produzent kann nicht jede Änderung allein mit dem Umfang seines Verwertungsrechts rechtfertigen.
+Zugleich ist auf die anderen Beteiligten und den Hersteller angemessen Rücksicht zu nehmen. Der Film benötigt Montage, Kürzung und Zusammenführung; daraus folgt aber kein schrankenloser Vorrang des Herstellers. Ausmaß, Kontext und Wirkung einer Änderung auf das Werk oder die Leistung sind konkret zu bewerten. Die Sonderregel gilt im bezeichneten Filmzusammenhang und ist keine allgemeine Erlaubnis, eine Vorlage unabhängig vom Film entstellend zu verwerten. Auch vertragliche Absprachen über Schnitt, Freigabe oder Credits sind nicht schon durch den Wortlaut bedeutungslos.
+
+Absatz 2 betrifft nur die Nennung jedes einzelnen mitwirkenden ausübenden Künstlers bei unverhältnismäßigem Aufwand. Er befreit weder pauschal von der Nennung der Filmurheber nach § 13 noch automatisch von jeder Künstlernennung. Wer sich auf die Ausnahme stützt, muss den behaupteten Aufwand im Verhältnis zur konkreten Produktion und Nennungsform nachvollziehbar machen.
+
+Beispiel: Eine kurze Szene wird für den Erzählfluss gekürzt. Das ist anders zu prüfen als eine Montage, die den erkennbaren Aussagegehalt einer Darbietung schwerwiegend ins Gegenteil verkehrt. Die Vielzahl der Komparsen kann eine Frage nach Absatz 2 auslösen, rechtfertigt aber für sich nicht das Weglassen des Regisseurs aus dem Abspann.
 
 ### § 94 — Schutz des Filmherstellers
 
@@ -310,9 +336,15 @@ Beispiel: Ein Filmschnitt verdichtet eine Szene zeitlich. Dies ist anders zu beu
 >
 > (4) § 10 Abs. 1 und die §§ 20b und 27 Abs. 2 und 3 sowie die Vorschriften des Abschnitts 6 des Teils 1 sind entsprechend anzuwenden.
 
-Absatz 1 schützt die wirtschaftliche Herstellungsleistung am Filmträger mit eigenen Kopier-, Vertriebs- und Wiedergaberechten sowie einem Schutz gegen interessengefährdende Entstellung oder Kürzung. Absatz 2 erlaubt Übertragung und Lizenzierung. Absatz 3 bestimmt die fünfzigjährige Frist anhand Erscheinen, früherer erlaubter Wiedergabe und Herstellungsauffanggrenze. Absatz 4 übernimmt die bezeichneten Vermutungs-, Weitersendungs-, Verleih- und Schrankenregeln. Dieses Recht besteht neben Filmurheber- und Künstlerrechten.
+Das Herstellerrecht schützt die wirtschaftliche und organisatorische Filmherstellung am Bildträger oder Bild- und Tonträger. Es tritt neben Urheberrechte am Film und an der Vorlage sowie Künstlerrechte; der Besitz einer Filmkopie ist mit dieser Rechtsposition nicht gleichzusetzen. Absatz 1 reserviert die Vervielfältigung, Verbreitung und Benutzung zur öffentlichen Vorführung, Funksendung oder öffentlichen Zugänglichmachung. Zusätzlich darf der Hersteller Entstellungen oder Kürzungen untersagen, die seine berechtigten Interessen am Träger gefährden können. Das ist ein eigener Maßstab neben dem auf gröbliche Eingriffe begrenzten Schutz anderer Berechtigter nach § 93.
 
-Beispiel: Ein Archiv möchte eine alte Filmkopie online stellen. Dass der Regisseur verstorben ist oder die Literaturvorlage frei wurde, beantwortet den Schutz der Herstellerleistung nicht. Der Herstellungs- und Veröffentlichungsverlauf sowie weitere Rechte müssen getrennt dokumentiert werden.
+Absatz 2 gestattet die Übertragung des Rechts selbst und daneben die Einräumung einzelner oder sämtlicher Nutzungsarten. Die entsprechende Anwendung von § 31 sowie §§ 33 und 38 betrifft insbesondere Umfang und Fortbestand eingeräumter Rechte und die Besonderheiten der dort geregelten Beiträge. Eine Lizenz an der Herstellerleistung ersetzt keine fehlende Lizenz an Roman oder Musik.
+
+Absatz 3 stellt bei rechtzeitigem Erscheinen auf dieses Ereignis ab; liegt eine erste erlaubte öffentliche Wiedergabe davor, ist diese maßgeblich. Ohne Erscheinen oder erlaubte öffentliche Wiedergabe innerhalb der fünfzig Jahre ab Herstellung endet der Schutz bereits nach dieser Herstellungsfrist. Eine unerlaubte Veröffentlichung durch einen Dritten ist nicht schon eine erlaubte öffentliche Wiedergabe. Für eine Fristberechnung müssen Herstellung und sämtliche möglichen Auslösungsereignisse belegt werden; die Schutzdauer des Filmurheberrechts nach § 65 Abs. 2 ist eine andere Frage.
+
+Absatz 4 übernimmt die Vermutung des § 10 Abs. 1, die bezeichneten Weitersendungs- und Verleihregeln sowie die gesetzlichen Nutzungserlaubnisse des Abschnitts 6 im entsprechenden Umfang. Eine Schranke ist nach ihrem eigenen Zweck und ihren Grenzen zu prüfen. § 95 erstreckt den Herstellerschutz auf Laufbilder.
+
+Beispiel: Ein Archiv besitzt eine Kopie eines 2010 hergestellten Films, dessen erste erlaubte öffentliche Wiedergabe 2012 und dessen Erscheinen 2014 erfolgten. Für die Herstellerfrist ist die frühere erlaubte Wiedergabe maßgeblich. Der Kauf der Kopie verschafft dem Archiv trotzdem keine allgemeine Onlinebefugnis; weitere Rechte und eine konkrete Nutzungserlaubnis bleiben zu klären.
 
 #### Abschnitt 2 — Laufbilder
 
@@ -322,8 +354,10 @@ Beispiel: Ein Archiv möchte eine alte Filmkopie online stellen. Dass der Regiss
 
 > Die §§ 88, 89 Abs. 4, 90, 93 und 94 sind auf Bildfolgen und Bild- und Tonfolgen, die nicht als Filmwerke geschützt sind, entsprechend anzuwenden.
 
-Auch Bild- und Bildtonfolgen ohne Filmwerkqualität erhalten über die genannten Verweisungen einen besonderen Schutz. Die Norm übernimmt nicht unterschiedslos den gesamten Filmrechtsabschnitt, sondern einen konkreten Katalog einschließlich Herstellerrecht und bestimmter Vertragsregeln. Die fehlende schöpferische Werkqualität bedeutet deshalb keine allgemeine Kopierfreiheit. Zunächst ist festzustellen, welche Bildfolge und welche Herstellungsleistung Gegenstand der Nutzung sind.
+Die Unterscheidung zwischen Filmwerk und Laufbild entscheidet über den einschlägigen Schutz, nicht über eine allgemeine Freiheit zur Übernahme. Fehlt einer Bildfolge oder Bild- und Tonfolge die persönliche geistige Schöpfung eines Filmwerks, erklärt § 95 die §§ 88, 89 Abs. 4, 90, 93 und 94 für entsprechend anwendbar. Dadurch werden insbesondere der Herstellerschutz und bestimmte Regeln über die filmische Verwendung von Vorlagen und bei der Herstellung entstandenen Fotografien nutzbar.
 
-Beispiel: Eine technisch schlichte Dokumentationsaufnahme erreicht möglicherweise nicht die Werkhöhe eines Films. Ihre vollständige Übernahme kann dennoch das entsprechend anwendbare Herstellerrecht berühren. Der Nutzer darf die Rechteprüfung nicht nach der Feststellung fehlender Filmwerkqualität abbrechen.
+Der Katalog enthält weder die allgemeine Filmurheberregel des § 89 Abs. 1 bis 3 noch die Künstlerregel des § 92. Aus § 95 darf daher kein kraft Mitwirkung neu entstehendes Filmurheberrecht an einer gerade nicht schöpferischen Aufnahme abgeleitet werden. Unabhängig bestehende Werk- oder Künstlerrechte an aufgenommenen Inhalten sind trotzdem gesondert zu klären. Auch die entsprechende Anwendung der vertraglichen Filmregeln bleibt auf ihren jeweiligen Gegenstand begrenzt.
 
-**Praxisprüfung Film:** Vorlagen-, Filmurheber-, Künstler-, Foto- und Herstellerrechte getrennt erfassen; Zweifelsregeln mit dem Vertrag abgleichen; Drehbeginn dokumentieren; Wiederverfilmung, Fremdauswertung und gröbliche Eingriffe gesondert prüfen.
+Beispiel: Eine technisch schlichte, fortlaufende Aufnahme eines Ablaufs erreicht keine Filmwerkqualität. Die vollständige Übernahme kann gleichwohl das entsprechend geltende Herstellerrecht aus § 94 verletzen. Wird darin ein geschütztes Bühnenstück aufgezeichnet, wird dessen Werkrecht durch die Einstufung der Aufnahme als Laufbild nicht beseitigt.
+
+**Praxisprüfung Film und Laufbild:** Werkqualität der Aufnahme, Vorlagen und Darbietungen bestimmen; Hersteller-, Filmurheber-, Künstler- und Fotorechte getrennt erfassen; Vertrag und Zweifelsregeln abgleichen; Drehbeginn und Wiederverfilmung dokumentieren; Integrität, Nennung und Schutzfristen eigenständig prüfen.
