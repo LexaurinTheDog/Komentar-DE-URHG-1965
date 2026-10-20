@@ -5118,5 +5118,23 @@
     "preflight": "preflight-result.json",
     "completeness": "completeness-report.json",
     "previous_review": "sources/finalization-2026-10-20/before-review-result.json"
+  },
+  "technical_validation": {
+    "repo": "Komentar-DE-URHG-1965",
+    "units": 254,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 443871,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "technical_checks": {
+    "completeness_ok": true,
+    "quality_ok": true,
+    "local_links_checked": 364,
+    "broken_local_links": [],
+    "source_manifest_files_verified": 825,
+    "source_manifest_hash_mismatches": [],
+    "validated_output_content_commit": "09c460cf49cd8424516146639b2af5d88a90f07d"
   }
 }

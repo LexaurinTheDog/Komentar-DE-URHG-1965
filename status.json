@@ -1,7 +1,7 @@
 {
-  "stage": "finalization_technical_validation_pending",
+  "stage": "drafted_technical_validation",
   "task_kind": "finalize",
-  "updated_at": "2026-10-20T14:59:28.500883+00:00",
+  "updated_at": "2026-10-20T15:00:57.758874+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -469,7 +469,15 @@
   },
   "finalization_audit": "finalization-audit.json",
   "commentary_preservation": "finalization-preservation.json",
-  "validation_result": null,
+  "validation_result": {
+    "repo": "Komentar-DE-URHG-1965",
+    "units": 254,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 443871,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
   "unresolved_blockers": [],
   "remaining_limitations": [
     "Schlusszusammenführung aus 13 abgeschlossenen Prüflosen; in diesem Arbeitsgang keine erneute inhaltliche Einzelprüfung. Keine neue unabhängige Gesamtbegutachtung oder externe anwaltliche Freigabe.",
@@ -481,5 +489,17 @@
   ],
   "publication": false,
   "push": false,
-  "case_card_count": 26
+  "case_card_count": 26,
+  "validation_recorded_at": "2026-10-20T15:00:57.759131+00:00",
+  "validation_output_content_commit": "09c460cf49cd8424516146639b2af5d88a90f07d",
+  "validation_scope": "Technical finalization only; 254 existing ledger-reviewed units, no new independent whole-book review.",
+  "quality_result": {
+    "ok": true,
+    "local_links_checked": 364,
+    "broken_local_links": [],
+    "repeated_long_paragraphs": [],
+    "similar_unit_pairs": []
+  },
+  "source_manifest_files": 825,
+  "source_manifest_hash_mismatches": []
 }
