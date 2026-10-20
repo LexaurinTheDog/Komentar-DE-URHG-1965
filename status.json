@@ -1,6 +1,6 @@
 {
   "stage": "preflight_complete",
-  "updated_at": "2026-10-20T11:55:13.591414+00:00",
+  "updated_at": "2026-10-20T11:56:09.271660+00:00",
   "country": "de",
   "identifier": "UrhG",
   "decisive_date": "2026-10-19",
@@ -16,7 +16,8 @@
     "change_map": "sources/change-map.json",
     "statutory_changes_since_intake_detected": false,
     "preflight_verified_at": "2026-10-20T11:54:07.436691+00:00",
-    "coverage_report": "completeness-report.json"
+    "coverage_report": "completeness-report.json",
+    "source_integrity_checked_responses": 15
   },
   "total_units": 254,
   "completed_units": 254,
@@ -74,7 +75,15 @@
     "cases/cofemel.md",
     "cases/usedsoft.md"
   ],
-  "validation_result": null,
+  "validation_result": {
+    "repo": "Komentar-DE-URHG-1965",
+    "units": 254,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 213321,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
   "completeness_result": true,
   "quality_result": true,
   "independent_second_pass_completed": false,
@@ -92,5 +101,14 @@
   "authored_units_in_this_task": 0,
   "manuscript_units_content_reviewed_in_this_task": 0,
   "preflight_result": "preflight-result.json",
-  "commentary_preservation": "commentary-preservation.json"
+  "commentary_preservation": "commentary-preservation.json",
+  "checks": {
+    "official_identifiers": 254,
+    "parsed_units": 254,
+    "xml_text_agreement": 1.0,
+    "local_links_checked": 72,
+    "broken_local_links": [],
+    "repeated_long_paragraphs": [],
+    "commentary_preservation": "commentary-preservation.json"
+  }
 }

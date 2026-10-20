@@ -171,5 +171,21 @@
     "Datierter Nachweis des amtlich veröffentlichten Konsolidierungsstandes; keine Garantie gegen eine noch nicht eingearbeitete oder noch nicht indizierte Änderung.",
     "Kein Vollarchiv sämtlicher seit 1965 geltenden Fassungen; historische Stichtagsprüfung konkreter Altfälle bleibt gesondert erforderlich.",
     "Nur Quellen- und Parser-Preflight; vorhandene Kommentare erhalten, keine vollständige zweite inhaltliche Manuskriptprüfung und keine Gesamtfreigabe."
-  ]
+  ],
+  "technical_validation": {
+    "repo": "Komentar-DE-URHG-1965",
+    "units": 254,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 213321,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "additional_checks": {
+    "completeness_report": "completeness-report.json",
+    "quality_report": "quality-report.json",
+    "preservation_report": "commentary-preservation.json",
+    "local_links_checked": 72,
+    "broken_local_links": 0
+  }
 }
