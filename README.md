@@ -14,4 +14,4 @@ Die **26 Entscheidungskarten** beruhen auf der in den Prüflosen dokumentierten 
 
 Originalkommentar **© 2026 Vojtěch Říha**, [Apache-2.0](LICENSE). Die kanonische Apache-Lizenz gilt für die eigenen Erläuterungen. Amtlicher Gesetzes- und deutscher Entscheidungstext wird entsprechend § 5 Abs. 1 UrhG gesondert behandelt und nicht als eigene Schöpfung beansprucht. Bei unionsrechtlichen Entscheidungen bleiben die amtlichen Weiterverwendungsbedingungen maßgeblich. Apache-2.0 wird nicht pauschal auf fremde Inhalte oder Seitengestaltung erstreckt. Private Anmerkungen und kommerzielle Leitsätze werden nicht übernommen.
 
-Bereitstellung als Arbeitsentwurf, ohne auf einen Einzelfall zugeschnittene Beratung. Dieser Arbeitsgang umfasst ausschließlich lokale Dateien und Git-Commits; keine Veröffentlichung oder externe Übermittlung.
+Bereitstellung als Arbeitsentwurf, ohne auf einen Einzelfall zugeschnittene Beratung.
